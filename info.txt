@@ -1,0 +1,32 @@
+-	blood seeking post 
+	-	blood group 
+	-	amount(in bags) [how many bags still needed, not how many has been managed]
+	-	info of mediator(the one who posted)
+	-	patient info
+		-	age group 
+		-	male/female
+		-	institution
+	-	condition details
+	-	condition tags/keywords
+	-	location
+		-	detail 
+		-	city
+		-	hospital
+	-	probable day(convert today/tomorrow etc to actual date)
+	-	probable time 
+	-	contact number 
+		-	may be multiple 
+		-	affiliation for each contact number 
+			-	name
+			-	relation with patient
+	-	monetary compensation(if any)
+		-	transportation
+		-	allowance
+-	donation seeking post 
+	-	context details(generally long)
+	-	amount already managed 
+	-	amount still needed 
+	-	donation accoutn details 
+		-	bkash, Nagad etc.
+		-	bank account no.
+	

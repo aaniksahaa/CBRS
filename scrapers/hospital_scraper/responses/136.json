@@ -1,0 +1,1007 @@
+{
+    "draw": 136,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "SAWCHCHA SEBA PLUS DIGITAL DIAGNOSTIC CENTRE",
+            "HSM89697",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Royganj",
+            "Chandaikona, Raiganj, Sirajganj"
+        ],
+        [
+            2,
+            "SAYED DIAGNOSTIC SENTR.",
+            "HSM93082",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "uthura,bhaluka,mymensingh"
+        ],
+        [
+            3,
+            "Sayed Yousuf Memorial Hospital",
+            "HSM29410",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishorgonj",
+            "Bhairab",
+            "Kamalpur, Bhairab, Kisoreganj"
+        ],
+        [
+            4,
+            "SAYEM DIAGNO COMPLEX  & HOSPITAL",
+            "HSM62318",
+            "Diagnostic Center",
+            "Category-A",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "UNIT -2 (Diagnostic ) 213,214 Charpara, Dhaka Road, Sadar, Mymensingh"
+        ],
+        [
+            5,
+            "SAYEM DIAGNO COMPLEX & HOSPITAL",
+            "HSM31349",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "30/A/1, Shehra D.B Road,Mymensingh"
+        ],
+        [
+            6,
+            "SAYEM DIAGNO COMPLEX & HOSPITAL",
+            "HSM07966",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "30/A/1, Shehra D.B Road,Mymensingh"
+        ],
+        [
+            7,
+            "Sayera Surgical Clinic & Diagnostic Center.",
+            "HSM59618",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jhikargachha",
+            "Mukundopur,Jhikorgacha ,Jessore"
+        ],
+        [
+            8,
+            "Sayera Surgical Clinic & Diagnostic Center.",
+            "HSM61711",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jhikargacha",
+            "Mukundopur,Jhikorgacha ,Jessore"
+        ],
+        [
+            9,
+            "Sayestaganj Popular Diagnostic center",
+            "HSM08430",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Sayestaganj Hospital Road, Sayestaganj, Habiganj"
+        ],
+        [
+            10,
+            "Sayma Diagnostic Center",
+            "HSM01551",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "Moholla: Ghonapara, Ward-08, Singair Municipaity, Singair, Manikganj "
+        ],
+        [
+            11,
+            "Saz Pathological Lab",
+            "HSM51799",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "jamalgonj road,joypurhat."
+        ],
+        [
+            12,
+            "Sazeda (Pvt) Clinic & Amrin Diagnostic Center",
+            "HSM85099",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Nilphamari",
+            "Saidpur",
+            "Bangabandhu Road, Saidpur, Nilphamari"
+        ],
+        [
+            13,
+            "Sazeda (Pvt) Clinic & Amrin Diagnostic Center",
+            "HSM63455",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "Bangabandhu Road, Saidpur, Nilphamari"
+        ],
+        [
+            14,
+            "Sazib Diagnostic Centre",
+            "HSM85634",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kashiani",
+            "Kashiani Bazar, Gopalgonj."
+        ],
+        [
+            15,
+            "SB Diagnostic Center",
+            "HSM37474",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Tejgaon",
+            "189/A, Tejgaon Industrial Area, Dhaka-1208, Bangladesh"
+        ],
+        [
+            16,
+            "SB MEMORIAL HOSPITAL & DIAGNOSTIC CENETER",
+            "HSM95231",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kashiani",
+            "VITIAPARA,KASHIANI,GOPALGANJ"
+        ],
+        [
+            17,
+            "SB(Setara Begum) Specialized Hospital",
+            "HSM40681",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Tejgaon Ind. Area",
+            "189/A, Tejgaon Industrial Area, Dhaka-1208, Bangladesh"
+        ],
+        [
+            18,
+            "SBB (Sinovac Biotech Bangladesh) BLOOD BANK MIRPUR",
+            "HSM72583",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "1/C Harunabad, Harun Molla Road, Mirpur -12, Pallabi, Dhaka North City corporation, Dhaka -1216"
+        ],
+        [
+            19,
+            "SBCL DIAGNOSTIC CENTER",
+            "HSM90537",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "HAJIMOHOSHIN ROAD, CHANDPUR SADAR CHANDPUR"
+        ],
+        [
+            20,
+            "SBF Comprehensive Kidney Care Center",
+            "HSM42692",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Adabor",
+            "plot 23/6, Rupayon Shelford (level-5), Mirpur Road, Shyamoli, Dhaka-1207."
+        ],
+        [
+            21,
+            "SBF Houston Kidney Dialysis Center",
+            "HSM07730",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Wahid sarker Shopping Complex 255/1,Bashail.Dhaka-Sylhet Highway Road,Narsingdi-1600"
+        ],
+        [
+            22,
+            "SBF OHIO KIDNEY DIALYSIS CENTER",
+            "HSM67931",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Maijdee(Near TV Center),Noakhali"
+        ],
+        [
+            23,
+            "Scan Hospital",
+            "HSM88460",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jessore Sadar",
+            "Jashore,Khulna,Bangladesh"
+        ],
+        [
+            24,
+            "Scan Hospital & Diagnostic Centre",
+            "HSM91190",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jessore Sadar",
+            "267,RA Tower,Nowapara Road,Ghop,Jessore."
+        ],
+        [
+            25,
+            "Scholar Clinic",
+            "HSM82516",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "Sher-E-bangala Road, Khulna, Bangladesh"
+        ],
+        [
+            26,
+            "Scholar Diagnostic Center ",
+            "HSM15999",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "Sher-E-bangala Road, Khulna, Bangladesh "
+        ],
+        [
+            27,
+            "Scholar Medical Lab",
+            "HSM48312",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Madhupur",
+            "Jamalpur Road,Modhupur,Tangail"
+        ],
+        [
+            28,
+            "Science Lab Diagnostic Center",
+            "HSM75966",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "Kazihata, Laxmipur, Rajshahi"
+        ],
+        [
+            29,
+            "SCIENCE LAB DIGITAL DIAGNOSTIC CENTRE",
+            "HSM40828",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Sapahar",
+            "Vill: Joypur, Post: Sapahar, Upazilla: Sapahar, Dist: Naogaon. "
+        ],
+        [
+            30,
+            "SCIENCE LAB MEDICAL SERVICES ",
+            "HSM04285",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Sadar Hospital Para . Sadar Magura, Bangladesh."
+        ],
+        [
+            31,
+            "Science Laboratory",
+            "HSM56224",
+            "Diagnostic Center",
+            "Category-B",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Islambag, R.K. Road, Rangpur"
+        ],
+        [
+            32,
+            "Science view diagnostic and research center",
+            "HSM44402",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "42,Khan Bahadur Ahsanullah Road, Dakter para,Chotoboyra Sonadanga,Khulna"
+        ],
+        [
+            33,
+            "SD Hospital",
+            "HSM94097",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole, Satkhira"
+        ],
+        [
+            34,
+            "SEA SIDE HOSPITAL PVT. LTD",
+            "HSM22446",
+            "Diagnostic Center",
+            "Category-B",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Central Jame Masjid Road Coxs Bazar"
+        ],
+        [
+            35,
+            "SEA SIDE HOSPITAL PVT. LTD",
+            "HSM48285",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Central Jame Masjid Road Coxs Bazar"
+        ],
+        [
+            36,
+            "Sea View Diagnostic Center Limited",
+            "HSM98853",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Halishahar",
+            "58, Airport, CEPZ gate, South Halishahar, Chittagong"
+        ],
+        [
+            37,
+            "SEBA  CLINIC AND  DIAGNOSTIC  CENTER",
+            "HSM37719",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "40 Sher-E-Bangla Road,Amtala,Khulna."
+        ],
+        [
+            38,
+            "SEBA  CLINIC AND  DIAGNOSTIC  CENTER",
+            "HSM91820",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "40 Sher-E-Bangla Road,Amtala,Khulna."
+        ],
+        [
+            39,
+            "SEBA ADHUNIK DIGITAL LAB",
+            "HSM97102",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Boalmari",
+            "Rupapat Bazar, Boalmari, Faridpur."
+        ],
+        [
+            40,
+            "Seba Adhunik Investigation Center",
+            "HSM57611",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Bhujpur, Fatikchhari, Chittagong."
+        ],
+        [
+            41,
+            "Seba Clinic",
+            "HSM45028",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "West Paikpara,Brahmanbaria"
+        ],
+        [
+            42,
+            "Seba clinic ",
+            "HSM57205",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Shibganj",
+            "Hospital Road,Nagor Bandar,Shibganj,Bogura"
+        ],
+        [
+            43,
+            "Seba Clinic",
+            "HSM88256",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Santimore, Sadar, Chapainawabganj"
+        ],
+        [
+            44,
+            "SEBA CLINIC",
+            "HSM25038",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gaibandha",
+            "Gobindaganj",
+            "Mohimaganj Road, Gobindaganj, Gaibandha"
+        ],
+        [
+            45,
+            "Seba Clinic",
+            "HSM30599",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Kaliganj",
+            "Court Chandpur Road, Kaligonj, Jhenaidah"
+        ],
+        [
+            46,
+            "Seba Clinic",
+            "HSM64771",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Manda",
+            "Vill: Choubaria, PO: Malsira, PS: Manda, Dist: Naogaon"
+        ],
+        [
+            47,
+            "Seba Clinic ",
+            "HSM50856",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Bagha",
+            "Uttor Milik Bagha, Rajshahi"
+        ],
+        [
+            48,
+            "Seba clinic",
+            "HSM69809",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Arappur, Jhenaidah."
+        ],
+        [
+            49,
+            "SEBA CLINIC",
+            "HSM93259",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Sarkerpara, Thakurgaon Sadar, Thakurgaon."
+        ],
+        [
+            50,
+            "SEBA CLINIC",
+            "HSM40453",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Rampal",
+            "SUNDARBAN MOHILA COLLAGE ROAD,RAMPAL,BAGERHAT"
+        ],
+        [
+            51,
+            "Seba Clinic & Diagnostic Center",
+            "HSM50088",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Pakundia",
+            "Hospital Road, Pakundia, Kishoregonj"
+        ],
+        [
+            52,
+            "Seba Clinic & Diagnostic Center",
+            "HSM29861",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mollahat",
+            "Hospital Road,Bagerhat"
+        ],
+        [
+            53,
+            "SEBA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM43914",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Daulatpur",
+            "Daulatpur, Daulatpur, Manikganj."
+        ],
+        [
+            54,
+            "Seba Clinic & Diagnostic Centre",
+            "HSM90578",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Chowbaria Bazar, manda, naogaon"
+        ],
+        [
+            55,
+            "SEBA CLINIC & DIAGONOSTIC CENTER",
+            "HSM31580",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Atrai",
+            "Sahebganj, Atrai, Naogaon"
+        ],
+        [
+            56,
+            "SEBA CLINIC & DIAGONOSTIC CENTER",
+            "HSM05527",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Atrai",
+            "Sahebganj, Atrai, Naogaon"
+        ],
+        [
+            57,
+            "SEBA CLINIC & NURSING HOME",
+            "HSM17095",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Niamatpur",
+            "NIAMATPUR, NAOGAON"
+        ],
+        [
+            58,
+            "Seba Clinic & Nursing Home",
+            "HSM43796",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Fatikchari",
+            "Hospital Gate, Nazirhat Pourashava, Fatikchhari, Chittagong."
+        ],
+        [
+            59,
+            "SEBA CLINIC (PATHOLOGY)",
+            "HSM13580",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Kurigram Sadar",
+            "HATIR PAR, GOSPARA, KURIGRAM"
+        ],
+        [
+            60,
+            "SEBA CLINIC AND DIAGNOSTIC CENTRE",
+            "HSM39330",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "Shershah Road, Hannaner More, Ishwardi, Pabna"
+        ],
+        [
+            61,
+            "SEBA CLINIC AND DIAGNOSTIC CENTRE",
+            "HSM79248",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Shershah Road, Hannaner More, Ishwardi, Pabna"
+        ],
+        [
+            62,
+            "SEBA CLINIC AND DIAGNOSTIC COMPLEX",
+            "HSM60353",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhalokati",
+            "Nalchity",
+            "T.N.T ROAD, NALCHITY, JHALOKAHTI"
+        ],
+        [
+            63,
+            "Seba Clinic(Pathology)",
+            "HSM95398",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Santimore, Sadar, Chapainawabganj"
+        ],
+        [
+            64,
+            "SEBA CLINIC.",
+            "HSM31763",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Bangabaria ,Naogaon sodor,Naogaon"
+        ],
+        [
+            65,
+            "SEBA DIAGNOSIS",
+            "HSM98422",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "DINAJPUR ROAD, SYEDPUR, NILPHAMARI."
+        ],
+        [
+            66,
+            "Seba diagnostic ",
+            "HSM20520",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Gurudaspur",
+            "Chanchkoir bazar, Gurudaspur, Natore. Post cod :6440. "
+        ],
+        [
+            67,
+            "Seba Diagnostic",
+            "HSM16041",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Payra Chattar, C & B Road, Narsingdi Sadar, Narsingdi."
+        ],
+        [
+            68,
+            "SEBA DIAGNOSTIC ",
+            "HSM43933",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Niamatpur",
+            "Adda Bazar,Niamatpur,Naogaon"
+        ],
+        [
+            69,
+            "Seba Diagnostic & Consultation center",
+            "HSM23101",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Phultala",
+            "Jamria road, phultala, Khulna"
+        ],
+        [
+            70,
+            "Seba Diagnostic & Doctor Consultent",
+            "HSM87398",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Charubabur Moor, Sadar, Dinajpur"
+        ],
+        [
+            71,
+            "SEBA DIAGNOSTIC & DOCTORS CHAMBER ",
+            "HSM03902",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Khilkhet",
+            "B-29, Bhai Bhai Plaza (2nd Floor), Khilkhet Bazar, Dhaka"
+        ],
+        [
+            72,
+            "Seba Diagnostic & Physiotherapy Center",
+            "HSM65656",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Damudya",
+            "Near Damudya Upajila Health Complex, Damudya, Shariatpur"
+        ],
+        [
+            73,
+            "Seba Diagnostic & Physiotherapy Center",
+            "HSM06406",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Derai",
+            "Hospital Road, Derai, Sunamganj"
+        ],
+        [
+            74,
+            "Seba Diagnostic And Consultation Centre",
+            "HSM88974",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "Haspatal Road, Sahebganj, Bakerganj, Barishal, Bangladesh"
+        ],
+        [
+            75,
+            "Seba Diagnostic Center ",
+            "HSM39785",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Char Fasson",
+            "Village: Hospital Road, Charfassion Puroshova 05 No Ward, Post: Charfassion-8340, Thana/Upazilla: Charfassion, District: Bhola."
+        ],
+        [
+            76,
+            "Seba Diagnostic Center",
+            "HSM92453",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Cantonment",
+            "625, Manikdi, Dhaka Cantonment, Dhaka-1206"
+        ],
+        [
+            77,
+            "Seba Diagnostic Center",
+            "HSM64220",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "N.R. Market, Notun Court Point, Sunamganj Pourashava, Sunamganj"
+        ],
+        [
+            78,
+            "Seba Diagnostic Center",
+            "HSM62427",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Nangalkot",
+            "Nangalkot, Comilla"
+        ],
+        [
+            79,
+            "Seba diagnostic center",
+            "HSM33807",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Hospital Road Lakshmipur"
+        ],
+        [
+            80,
+            "Seba Diagnostic Center",
+            "HSM18037",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1 \u09a8\u09be\u0997\u09b0 \u09ac\u09a8\u09cd\u09a6\u09b0,\u09b6\u09bf\u09ac\u0997\u099e\u09cd\u099c, \u09ac\u0997\u09c1\u09dc\u09be\u0964  "
+        ],
+        [
+            81,
+            "Seba diagnostic center",
+            "HSM10237",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Birampur",
+            "Hospital more, Kolabagan, Birampur, Dinajpur"
+        ],
+        [
+            82,
+            "Seba Diagnostic Center",
+            "HSM16530",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dumuria",
+            "Village and Post-Chuknagar, Dumuria, Khulna."
+        ],
+        [
+            83,
+            "SEBA DIAGNOSTIC CENTER",
+            "HSM07741",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "HOSPITAL ROAD, MATHBARIA, PIROJPUR."
+        ],
+        [
+            84,
+            "Seba Diagnostic Center ",
+            "HSM51747",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 419, Sonapur, Sadar, Noakhali "
+        ],
+        [
+            85,
+            "SEBA DIAGNOSTIC CENTER",
+            "HSM44431",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Roypura",
+            "Radhagonj Bazar, Raipura, Narsingdi."
+        ],
+        [
+            86,
+            "Seba Diagnostic Center",
+            "HSM48155",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Kalkini",
+            "Khasherhat Bazar, Kalkini, Madaripur"
+        ],
+        [
+            87,
+            "Seba Diagnostic Center ",
+            "HSM59435",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ukhia",
+            "Maricha Bazar Station, Ukhia, Coxs Bazar."
+        ],
+        [
+            88,
+            "SEBA DIAGNOSTIC CENTER",
+            "HSM55043",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Zakiganj",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u0997\u09c7\u0987\u099f,\u099c\u0995\u09bf\u0997\u099e\u09cd\u099c \u09aa\u09cc\u09b0\u09b8\u09ad\u09be, \u099c\u0995\u09bf\u0997\u099e\u09cd\u099c, \u09b8\u09bf\u09b2\u09c7\u099f\u0964"
+        ],
+        [
+            89,
+            "SEBA DIAGNOSTIC CENTER",
+            "HSM50201",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Mirzaganj",
+            "Hospital Road, Subidkhali, Mirzagonj, Patuakhali. "
+        ],
+        [
+            90,
+            "SEBA DIAGNOSTIC CENTER ",
+            "HSM29416",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Keshabpur",
+            "SOHID MUKTIJODDHA DOWLAT BISWAS ROAD, KESHABPUR, KESHABPUR, JASHORE"
+        ],
+        [
+            91,
+            "SEBA DIAGNOSTIC CENTER.",
+            "HSM30650",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Trishal",
+            "DARIRAMPUR, TRSHAL, MYMENSIGH\r\n"
+        ],
+        [
+            92,
+            "SEBA DIAGNOSTIC CENTER.",
+            "HSM27495",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Purbadhala",
+            "Purbadhala Hospital Gate, Purbadhala, Netrakona, Mymensingh."
+        ],
+        [
+            93,
+            "SEBA DIAGNOSTIC CENTRE",
+            "HSM12708",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Hakimpur",
+            "Hospital More, Bangla-Hili, Hakimpur, Dinajpur"
+        ],
+        [
+            94,
+            "Seba Diagnostic Centre ",
+            "HSM06751",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "JotirMoy Super Market, 2nd Floor, Jhiltuli, Faridpur Sadar, Faridpur."
+        ],
+        [
+            95,
+            "SEBA DIAGNOSTIC CENTRE",
+            "HSM46824",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "CHILIMPUR,BOGURA."
+        ],
+        [
+            96,
+            "Seba Diagnostic Centre",
+            "HSM96683",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Sadar Road, Amtoli, Joypurhat."
+        ],
+        [
+            97,
+            "SEBA DIAGNOSTIC CENTRE ",
+            "HSM94520",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "22.M.M.HOSSAIN ROAD COURT PARA KUSHTIA "
+        ],
+        [
+            98,
+            "Seba Diagnostic Centre",
+            "HSM42495",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Betagi",
+            "Sadar Road, Betagi, Barguna."
+        ],
+        [
+            99,
+            "SEBA DIAGNOSTIC CENTRE",
+            "HSM28738",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "BANGABANDHU ROAD, THAKURGAON SADAR, THAKURGAON"
+        ],
+        [
+            100,
+            "Seba Diagnostic Centre",
+            "HSM44923",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "Kaligonj, Jhenaidah"
+        ]
+    ]
+}

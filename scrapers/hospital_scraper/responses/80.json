@@ -1,0 +1,1007 @@
+{
+    "draw": 80,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "LAKSAM DIAGNOSTIC CENTRE",
+            "HSM51488",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "BYPASS ROAD, LAKSAM, COMILLA"
+        ],
+        [
+            2,
+            "LAKSAM DIAGNOSTIC CENTRE & HOSPITAL",
+            "HSM26946",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Laksam",
+            "BYPASS ROAD, LAKSAM, COMILLA"
+        ],
+        [
+            3,
+            "LAKSAM FAIR HEALTH HOSPITAL LTD",
+            "HSM98119",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Laksam",
+            "SOUTH BYPASS ROAD, LAKSAM, COMILLA"
+        ],
+        [
+            4,
+            "LAKSAM FAIR HEALTH HOSPITAL LTD",
+            "HSM65654",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "SOUTH BYPASS ROAD, LAKSAM, COMILLA"
+        ],
+        [
+            5,
+            "Laksam General Hospital (Pvt.) Ltd.",
+            "HSM62209",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Laksam",
+            "Bypass Road, Laksam, Comilla"
+        ],
+        [
+            6,
+            "Laksham Medical Center (Pvt) Ltd",
+            "HSM87764",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Khandoker Super Market (2nd & 3rd Floor) Bypass Road, Laksham, Comilla."
+        ],
+        [
+            7,
+            "Laksham Medical Center (Pvt) Ltd",
+            "HSM60644",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Laksam",
+            "Khandoker Super Market (2nd & 3rd Floor) Bypass Road, Laksham, Comlla."
+        ],
+        [
+            8,
+            "LAKSHAM ORTHOPAEDIC DIAGNOSTIC CENTER",
+            "HSM00487",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "North Laksham Thana, Laksam, Cumilla"
+        ],
+        [
+            9,
+            "Lakshmipur Adhunik Hospital (Pvt.) Ltd.",
+            "HSM48605",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgoti Road, Mojupur, Sadar, Lakshmipur"
+        ],
+        [
+            10,
+            "Lakshmipur Adhunik Pathology",
+            "HSM10562",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgoti Road, Mozupur, Sadar, Lakshmipur"
+        ],
+        [
+            11,
+            "Lakshmipur Al-Shifa Diagonostic (Pvt.)",
+            "HSM94945",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "South Tehmuhuny, Ramgoti Raod, Chowdhury Tower, 7 No Ward Sadar-Lakshmipur"
+        ],
+        [
+            12,
+            "Lakshmipur Al-Shifa General Hospital (Pvt.)",
+            "HSM77631",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "South Tehmuhuny, Ramgoti Road, Sadar-Laxmipur."
+        ],
+        [
+            13,
+            "Lakshmipur Central Hospital Pvt. Ltd.",
+            "HSM69094",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "C/O: Lakshmipur Central Hospital Pvt. Ltd.\r\nSadar, Lakshmipur."
+        ],
+        [
+            14,
+            "Lakshmipur Diagnostic Center & Doctors Point",
+            "HSM22546",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Hossain Tower, S.R. Road, Sadar, Lakshmipur."
+        ],
+        [
+            15,
+            "LAKSHMIPUR FAMOUS MEDICAL SERVICESE",
+            "HSM27554",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "LAKSHMIPUR SADAR, LAKSHMIPUR"
+        ],
+        [
+            16,
+            "LAKSHMIPUR PRIME DIAGNOSTIC CENTER",
+            "HSM04677",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "RAMGOTI DIVERSION ROAD, SADAR, LAKSHMIPUR."
+        ],
+        [
+            17,
+            "Lalbag Diagnostic Center",
+            "HSM26453",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Lalbagh",
+            "195/1/1, Jagannath Saha Road, Lalbag, Dhaka"
+        ],
+        [
+            18,
+            "lalbag pathology&medical centre",
+            "HSM13651",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Lalbagh",
+            "26, Haranath Ghose Road, Lalbag, Dhaka-1211."
+        ],
+        [
+            19,
+            "Lalmohan Clinic",
+            "HSM05784",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bhola",
+            "Lalmohan",
+            "Thana Road, Lalmohan, Bhola."
+        ],
+        [
+            20,
+            "Lalmohan Diagnostic Center",
+            "HSM29171",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Lalmohan",
+            "Thana Road, Lalmohan, Bhola."
+        ],
+        [
+            21,
+            "LALMONI PATHOLOGY",
+            "HSM45804",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Sahabpara, Lalmonirhat"
+        ],
+        [
+            22,
+            "LALON SAH CLINIC",
+            "HSM10629",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "R.C.R.C Road, Courtpara, Kushtia-7000, Bangladesh. "
+        ],
+        [
+            23,
+            "LALON SAH DIAGONSTIC CENTER",
+            "HSM93871",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "R.C.R.C ROAD, COURTPARA, KUSHTIA-7000, Bangladesh."
+        ],
+        [
+            24,
+            "LALON SHAH CLINIC",
+            "HSM72759",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Shailkupa",
+            "Hatfazilpur Bazar,Shailkupa,Jhenaidah."
+        ],
+        [
+            25,
+            "Lalon Shah Diagnostic Center",
+            "HSM89286",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Shailkupa",
+            "Abaipur Road,Hatfazilpur Bazar, Shailkupa, Jhenaidah."
+        ],
+        [
+            26,
+            "LAMB  Hospital",
+            "HSM06749",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Parbatipur",
+            "Rajabashor, Parbatipur, Dinajpur."
+        ],
+        [
+            27,
+            "LAMB Hospital",
+            "HSM98011",
+            "Diagnostic Center",
+            "Category-B",
+            "Dinajpur",
+            "Parbatipur",
+            "Rajabasor,Parbatipur,Dinajpur."
+        ],
+        [
+            28,
+            "LAMB Hospital",
+            "HSM25705",
+            "Blood Bank",
+            "",
+            "Dinajpur",
+            "Parbatipur",
+            "World Mission Prayer League ( LAMB Hospital )"
+        ],
+        [
+            29,
+            "Lamia Diagnostic Center",
+            "HSM38979",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Shaptana Bazar, Lalmonirhat"
+        ],
+        [
+            30,
+            "LAMIA DIAGNOSTIC CENTER ",
+            "HSM14588",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "AINUDDIN BEPARI SUPER MARKET(1st Floor), BOKTABOLI BAZAR, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            31,
+            "LAMYEA MEDICAL CENTRE",
+            "HSM12911",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Banani",
+            "House# 80/1, (1st & 2nd Floor), Block# C, Sainik Club Bus Stopes, New Airport Road, Banani, Dhaka, Bangladesh. "
+        ],
+        [
+            32,
+            "LANCET DIAGNOSTIC CENTRE",
+            "HSM91456",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Panchlaish",
+            "106/B.K.B FAZLUL KADER ROAD,PANCHLAISH,CHITTAGONG."
+        ],
+        [
+            33,
+            "Lancet Hospital  Ltd. ",
+            "HSM68711",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "106/E, K.B. Fazlul Kader Road, Panchlaish, Chattagram. "
+        ],
+        [
+            34,
+            "Landsteiner Blood Bank & Transfusion Medicine Centre",
+            "HSM30304",
+            "Blood Bank",
+            "",
+            "Chittagong",
+            "Panchlaish",
+            "1193/A, R.B. Tower, Golpahar More, O.R. Nizam Road, Mehedibagh, Chittagong"
+        ],
+        [
+            35,
+            "Langadu Diagnostic Center",
+            "HSM17006",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Langadu",
+            "Tintila, Langadu, Rangamati"
+        ],
+        [
+            36,
+            "LARA CONSULATION & DIAGNOSTIC CENTRE",
+            "HSM52209",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "MUSLIM PARA, JASHODOL, KISHOREGANJ SADAR\r\nKISHOREGANJ"
+        ],
+        [
+            37,
+            "Laser Aesthetics (PVT) Ltd.",
+            "HSM27654",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "3/1, 3rd floor, Block # A, Lalmatia, Dhaka-1207"
+        ],
+        [
+            38,
+            "Laser Aesthetics (PVT) Ltd.",
+            "HSM09683",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "3/1, 3rd floor, Block # A, Lalmatia, Dhaka-1207"
+        ],
+        [
+            39,
+            "LASER MEDICAL CENTER LIMITED (GULSHAN BRANCH)",
+            "HSM86244",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Gulshan",
+            "121/c, (3th Floor) Gulshan Avenue, Gulshan-2, Dhaka-1212."
+        ],
+        [
+            40,
+            "LASER MEDICAL CENTER LIMITED_DHANMONDI",
+            "HSM31074",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "New Market",
+            "15, Bir Uttam M.A. Rob Road, Shimanto Square (Ground floor), Road # 2, Dhanmondi, Dhaka-1205, Bangladesh."
+        ],
+        [
+            41,
+            "LASER MEDICAL CENTER LIMITED_UTTARA Branch",
+            "HSM75833",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Uttara  Purba",
+            "House#15, 4th Floor, Sector#13, Sonargaon Janapath Road, Uttara, Dhaka-1230"
+        ],
+        [
+            42,
+            "LASER MEDICAL CENTER LTD. - DHANMONDI",
+            "HSM37168",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "New Market",
+            "15, Bir Uttam M.A Roab Road, Shimanto square(Ground floor) Road-2, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            43,
+            "LATIF GENERAL (PANGO) HOSPITAL",
+            "HSM34534",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "RAMCHANDPUR BAZAR, MURADNAGAR, COMILLA"
+        ],
+        [
+            44,
+            "LATIF GENERAL (PANGO) HOSPITAL",
+            "HSM63019",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Muradnagar",
+            "RAMCHANDPUR BAZAR, MURADNAGAR, COMILLA"
+        ],
+        [
+            45,
+            "Latifa General Hospital & Diagnostic Center",
+            "HSM83760",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mirpur",
+            "House #30, Block # D, Kalwalapara, Section # 01, Mirpur, Dhaka-1216"
+        ],
+        [
+            46,
+            "Latifa General Hospital & Diagnostic Center",
+            "HSM84662",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "House #30, Block # D, Kalwalapara, Section # 01, Mirpur, Dhaka-1216"
+        ],
+        [
+            47,
+            "LAVA DIAGNOSTICE LAB",
+            "HSM34280",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "108  Anami Lane, Sador Road, Barishal."
+        ],
+        [
+            48,
+            "Lavida Hospital & Diagnostic Center",
+            "HSM45354",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Ashuganj",
+            "Nahar Garden City,Ashuganj,Brahmanbaria"
+        ],
+        [
+            49,
+            "Lavida Hospital & Diagnostic Center",
+            "HSM56985",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Ashuganj",
+            "Nahar Garden City,Ashuganj,Brahmanbaria"
+        ],
+        [
+            50,
+            "Laxmi Memorial Diagnostic Centre.",
+            "HSM51507",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Manikchari",
+            "Mohamuni,Manikchari,Khagrachari"
+        ],
+        [
+            51,
+            "Laxmi Memorial Hospital",
+            "HSM63238",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khagrachari",
+            "Manikchari",
+            "Modhu Vabon,Mohamuni Bus-Station,Manikchari,Khagrachari"
+        ],
+        [
+            52,
+            "Laxmipasha Surgical Clinic",
+            "HSM20963",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Lohagara",
+            "Laxmipasha, Lohagara, Narail"
+        ],
+        [
+            53,
+            "Laxmipur Diagnostic Center",
+            "HSM91431",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, Rajpara, Rajshahi"
+        ],
+        [
+            54,
+            "LAXMIPUR DIGITAL DIAGNOSTIC CENTRE",
+            "HSM11695",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "HELAL CHAIRMAN PLAZA, RAMGOTI ROAD, LAKSHMIPUR."
+        ],
+        [
+            55,
+            "Laxmipur Maa O Shisu Hospital (PVT.)",
+            "HSM20641",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "S.R Road, Lakshmipur"
+        ],
+        [
+            56,
+            "LAXMIPUR MEDICAL CENTER",
+            "HSM00420",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Laxmipur, Kailain, Chandina, Comilla"
+        ],
+        [
+            57,
+            "LAZ CLINIC & HEALTH CARE CENTER",
+            "HSM87867",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khan Jahan Ali",
+            "A.N.Das Lane, Tutpara, Khulna."
+        ],
+        [
+            58,
+            "Leading Health Check-up",
+            "HSM19999",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Rampura",
+            "58, East Hazipara, Rampura, Dhaka-1219"
+        ],
+        [
+            59,
+            "Lectin Clinical Diagnostic Laboratory",
+            "HSM95501",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "313 Kalmershar,Board Bazar,National University,Gazipur."
+        ],
+        [
+            60,
+            "Lemua General Hospital & Diagnostic",
+            "HSM19229",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barguna",
+            "Patharghata",
+            "Lemua, Pathorghata, Barguna."
+        ],
+        [
+            61,
+            "Lemua General Hospital & Diagnostic",
+            "HSM03631",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Patharghata",
+            "Lemua, Pathorghata, Barguna."
+        ],
+        [
+            62,
+            "Leon Diagnostic Center",
+            "HSM62447",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            ""
+        ],
+        [
+            63,
+            "Leser Diagnostic Center",
+            "HSM43377",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "\u09b8\u09bf\u09aa\u09be\u0987\u09aa\u09be\u09dc\u09be, \u09b0\u09be\u099c\u09aa\u09be\u09dc\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0-\u09ec\u09e6\u09e6\u09e6 "
+        ],
+        [
+            64,
+            "Liberty Hospital & Diagnostic  Center",
+            "HSM87538",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Khayasher,Brahmanbaria"
+        ],
+        [
+            65,
+            "Liberty Hospital & Diagnostic  Center",
+            "HSM95443",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Khayeshar,Brahmanbaria"
+        ],
+        [
+            66,
+            "LIBERTY HOSPITAL LTD.      ",
+            "HSM49268",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Shahbagh",
+            "8/2.motalib tower, paribagh, shahbagh,dhaka-1000.    "
+        ],
+        [
+            67,
+            "LIBERTY HOSPITAL LTD.",
+            "HSM91000",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Shahbagh",
+            "8/2.motalib tower, paribagh, shahbagh,dhaka-1000.    "
+        ],
+        [
+            68,
+            "Liberty Hospital Pvt.",
+            "HSM82537",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Nagra, Netrokona"
+        ],
+        [
+            69,
+            "LIBYA BANGLA  FRIENDSHIP DIAGNOSTIC & MEDICAL CENTRE",
+            "HSM32071",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "1, Engineering Cort,   41 ,Nayapaltan, Dhaka-1000"
+        ],
+        [
+            70,
+            "LID and consultation",
+            "HSM47705",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mugda Para",
+            "10/1 Mugda Para, Dhaka 1212"
+        ],
+        [
+            71,
+            "LIFE  CARE DIAGNOSTIC  CENTRE",
+            "HSM19207",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "DARSANA BUS STAND, DAMURHUDA, Chuadanga."
+        ],
+        [
+            72,
+            "Life  Care Medical Complex",
+            "HSM01894",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "Hospital Road, Fulbaria, Mymensingh"
+        ],
+        [
+            73,
+            "LIFE  LINE DIAGNOSTIC SERVICES",
+            "HSM44249",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "1,1/1 RUPAYAN TAJ VABAN (2ND FLOOR) BOX CULBART ROAD, NAYA PALTAN DHAKA-1000"
+        ],
+        [
+            74,
+            "LIFE & CARE HOSPITAL LIMITED",
+            "HSM89024",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kamrangir Char",
+            "495/1, Jhauchar, West Hazaribagh, Dhaka-1211"
+        ],
+        [
+            75,
+            "LIFE & CARE HOSPITAL LTD.",
+            "HSM31784",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kamrangir Char",
+            "495/1, Jhauchar, West Hazaribagh, Dhaka-1211"
+        ],
+        [
+            76,
+            "Life & Care Medical Services ",
+            "HSM42377",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "05, Sarulia Bazar, Ward-68, Dhaka South City Corporation, Demra, Dhaka"
+        ],
+        [
+            77,
+            "Life Aid Clinical Lab",
+            "HSM55212",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Mirza Tower(1st Floor), Heyako Bazar, Bhujpur, Fatickchari, Chittagong."
+        ],
+        [
+            78,
+            "Life Aid Computerized Diagnostic Complex,",
+            "HSM40070",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Bishwanath",
+            "College Road , Biswanath, Sylhet"
+        ],
+        [
+            79,
+            "Life Aid Diagnastic Center..",
+            "HSM29773",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Dowarabazar",
+            "Dowarabazar, Sunamganj"
+        ],
+        [
+            80,
+            "LIFE AID DIAGNOSTIC CENTER",
+            "HSM85721",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Sarkar para Thakurgaon Sadar 5100"
+        ],
+        [
+            81,
+            "LIFE AID DIAGNOSTIC CENTRE",
+            "HSM95607",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Band Road, Barisal Sader, Barishal"
+        ],
+        [
+            82,
+            "Life Aid Digital Diagnostic Center",
+            "HSM01385",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Kamalganj",
+            "College Road, Vanugach Bazar, Kamalganj, Moulvibazar"
+        ],
+        [
+            83,
+            "LIFE AID HOSPITAL",
+            "HSM92319",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Sarkar para Thakurgaon Sadar 5100"
+        ],
+        [
+            84,
+            "LIFE AID HOSPITAL",
+            "HSM82906",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Beltola Road, Dilalpur, Pabna"
+        ],
+        [
+            85,
+            "LIFE AID HOSPITAL",
+            "HSM14567",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Rupganj",
+            "Borpa, Tarabo Pourashava, Rupganj, Narayanganj."
+        ],
+        [
+            86,
+            "LIFE AID HOSPITAL",
+            "HSM67154",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Rupganj",
+            "Borpa, Tarabo Pourashava, Rupganj, Narayanganj."
+        ],
+        [
+            87,
+            "Life Aid medical center",
+            "HSM89603",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Daganbhuiyan",
+            "Fazilar ghat road. Dagunbhuiyan.feni."
+        ],
+        [
+            88,
+            "Life Aid Specialized Hospital Ltd",
+            "HSM68359",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "613/2, Kazipara, Begum Rokeya Sarani, Mirpur, Dhaka-1216"
+        ],
+        [
+            89,
+            "Life Aid Specialized Hospital Ltd",
+            "HSM09193",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "613/2, Kazipara, Begum Rokeya Sarani, Mirpur, Dhaka-1216"
+        ],
+        [
+            90,
+            "LIFE AND LIGHT  HOSPITAL",
+            "HSM30431",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Tejgaon",
+            "Orchid Plaza-2, 109, Green Road, Firmgate, Dhaka."
+        ],
+        [
+            91,
+            "Life Care",
+            "HSM77096",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Main Road, Sajjankanda, Rajbari."
+        ],
+        [
+            92,
+            "Life Care",
+            "HSM80367",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Main Road, Sajjankanda, Rajbari."
+        ],
+        [
+            93,
+            "Life Care  Digital diagnostatic Center",
+            "HSM50612",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "JAMIRTA BAZAR,SHAHJADPUR,SIRAJGONJ"
+        ],
+        [
+            94,
+            "Life Care Center ",
+            "HSM73749",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla."
+        ],
+        [
+            95,
+            "LIFE CARE CENTRE",
+            "HSM09768",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Panchlaish",
+            "129, K B FAZLUL KADER ROAD,PANCHLAISH,CHITTAGONG,BANGLADESH-4203"
+        ],
+        [
+            96,
+            "Life Care Clinic",
+            "HSM91705",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barguna",
+            "Barguna Sadar",
+            "88 Bazar Road ,Barguna"
+        ],
+        [
+            97,
+            "LIFE CARE CLINIC",
+            "HSM09009",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "SAKHIPUR, TANGAIL"
+        ],
+        [
+            98,
+            "LIFE CARE CLINIC ",
+            "HSM17606",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "Hazi shahab Rode,Vina more, Magura sadar, Magura.Bangladesh."
+        ],
+        [
+            99,
+            "LIFE CARE CLINIC & DIAGNOSTIC CENTRE",
+            "HSM37558",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "hospitalrod,chapainawabgonj"
+        ],
+        [
+            100,
+            "Life Care Clinic and Diagnostic Center",
+            "HSM40742",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhalokathi",
+            "Nalchity",
+            "Gosra Bazer, Chaddburia, Nalchity, Jhalokathi."
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 96,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "MITU GENERAL HOSPITAL & DIAGNOSTIC COMPLEX",
+            "HSM32534",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "MUJAHID CLUB MOR, DHAKA ROAD, SHALGARIA, PABNA SADAR, PABNA"
+        ],
+        [
+            2,
+            "MITU GENERAL HOSPITAL & DIAGNOSTIC COMPLEX",
+            "HSM82251",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "MUJAHID CLUB MOR, DHAKA ROAD, SHALGARIA, PABNA SADAR, PABNA"
+        ],
+        [
+            3,
+            "Miup Bangladesh Company Limited",
+            "HSM39237",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "GA-99/3/A&B, MANAMA MS TOREN(4TH FLOOR), MIDDLE BADDA, DHAKA-1212"
+        ],
+        [
+            4,
+            "MIYA MEDICAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM50472",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "BAISARA, BAISARA-3633, KACHUA, CHANDPUR"
+        ],
+        [
+            5,
+            "MIZAN DIAGNOSTIC CENTER",
+            "HSM69805",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "phulpur hospital road, mymensingh\r\n"
+        ],
+        [
+            6,
+            "Mizan Diagnostic Center",
+            "HSM70818",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Daulatpur",
+            "Daulatpur, Manikganj"
+        ],
+        [
+            7,
+            "Mizan Diagnostic Centre",
+            "HSM23661",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Madhupur",
+            "Jamalpur Road,Madhupur"
+        ],
+        [
+            8,
+            "Mizanur Nursing Home",
+            "HSM21258",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Lohagara",
+            "Gupinathpur, Laxmipasha, Lohagara, Narail"
+        ],
+        [
+            9,
+            "MMG Hospital & Diagnostic Center ",
+            "HSM38811",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "Nilsagar Sharak, Hajiganj, Nilphamari 5300, Bangladesh"
+        ],
+        [
+            10,
+            "MMG Hospital & Diagnostic Center",
+            "HSM14819",
+            "Diagnostic Center",
+            "Category-B",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "Nilsagar Sharak, Hajiganj, Nilphamari 5300, Bangladesh\r\n"
+        ],
+        [
+            11,
+            "MOBARAK ALI EYE HOSPITAL",
+            "HSM05528",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Thakurgaon",
+            "Pirganj",
+            "\u099a\u09be\u09aa\u09cb\u09b0, \u09aa\u09c0\u09b0\u0997\u099e\u09cd\u099c, \u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993"
+        ],
+        [
+            12,
+            "MOBASHERA DIGITAL DIAGNOSTIC CENTRE",
+            "HSM48143",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "\u099c\u09c1\u09ae\u09be\u09b0\u09ac\u09be\u09dc\u09c0 \u09ac\u09be\u099c\u09be\u09b0, \u09b8\u09be\u0998\u09be\u099f\u09be, \u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be"
+        ],
+        [
+            13,
+            "Mobile Eye  Hospital Ltd.",
+            "HSM01954",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Tejgaon",
+            "142/B, Green Road, Dhaka-1215"
+        ],
+        [
+            14,
+            "MOCCA DIAGNOSTIC CENTER",
+            "HSM19914",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Hospital Road, Chapainawabganj"
+        ],
+        [
+            15,
+            "Mochoni Simanta Lab",
+            "HSM00783",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Teknaf",
+            "Mochochani Simanta Lab, Ali Sah Mareket, Nhila, Teknaf, Coxs Bazar"
+        ],
+        [
+            16,
+            "Modarn Clinic",
+            "HSM46040",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Panchagarh",
+            "Boda",
+            "Nagarcumari, Boda, Panchagarh"
+        ],
+        [
+            17,
+            "Modarn X-ray & Pathology Center",
+            "HSM22041",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nazirpur",
+            "Hospital Road, Nazirpur, Pirojpur"
+        ],
+        [
+            18,
+            "MODEERN DIAGNO CENTER",
+            "HSM56644",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Kendua",
+            "Kendua Bazar, Kendua, Netrokona."
+        ],
+        [
+            19,
+            "Model   Computerized Diagnostic Center ",
+            "HSM52243",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Osmani Nagar",
+            "Hazi  Nosib Ullah Market gowalabazar,osmaninagar ,sylhet"
+        ],
+        [
+            20,
+            "Model Addiction And Psychiatric Care",
+            "HSM10036",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Tejgaon",
+            "113/A, Monipuripara(Gate no:01), Farmgate, Tejgaon, Dhaka-1215"
+        ],
+        [
+            21,
+            "Model Clinic & Diagnostic Centre",
+            "HSM38471",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Shibganj",
+            "Shibganj, Chapainawabganj."
+        ],
+        [
+            22,
+            "Model Clinic & Diagnostic Centre",
+            "HSM36384",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapainawabganj",
+            "Shibganj",
+            "Shibganj, Chapainawabganj"
+        ],
+        [
+            23,
+            "Model Diagnostic Center",
+            "HSM64282",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Moulovipara,Brahmanbaria"
+        ],
+        [
+            24,
+            "Model Diagnostic Center.",
+            "HSM44074",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Ukilpara, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            25,
+            "Model Diagnostic Centre",
+            "HSM67216",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "Collage Road, Lohagara, Narail."
+        ],
+        [
+            26,
+            "Model Diagnostic Centre",
+            "HSM23368",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Khilgaon",
+            "372/A, Khilgaon, Dhaka-1219"
+        ],
+        [
+            27,
+            "Model Diagnostic centre",
+            "HSM96731",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Old Court Road , Mukterpara, Netrokona"
+        ],
+        [
+            28,
+            "Model Diagnostic Centre",
+            "HSM61301",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Road, Mohongonj, Netrakona."
+        ],
+        [
+            29,
+            "MODEL DIAGNOSTIC CENTRE",
+            "HSM03697",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Chandanbari, Monohardi, Narshingdi."
+        ],
+        [
+            30,
+            "Model Diagnostice Center",
+            "HSM46532",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Rangunia",
+            "Ranirhat, Rangunia, Chittagong"
+        ],
+        [
+            31,
+            "Model General (PVT) Hospital",
+            "HSM04585",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "217/1, Basail, Narsingdi"
+        ],
+        [
+            32,
+            "Model General (PVT) Hospital",
+            "HSM90412",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "217/1, Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            33,
+            "Model General Hospital",
+            "HSM43989",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Holding no: 1036, College Road, Mourail, Brahmanbaria - 3400"
+        ],
+        [
+            34,
+            "Model General Hospital & Diagnostic Center",
+            "HSM73021",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Holding no: 1036, College Road, Mourail, Brahmanbaria - 3400"
+        ],
+        [
+            35,
+            "MODEL HEALTH CENTER katiadi ",
+            "HSM09710",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Katiadi",
+            "katiadi dorgah jame mosjid market, 2nd flour, katiadi, kishoreganj"
+        ],
+        [
+            36,
+            "Model Health Diagnostic Center",
+            "HSM21186",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Maheshkhali",
+            "Madhupur Darbar market, Kalarmarchara"
+        ],
+        [
+            37,
+            "Model Hospital & Diagnostic ",
+            "HSM57133",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Shapal Plactic Mor, Hospital Road, Shalgaria, "
+        ],
+        [
+            38,
+            "Model Hospital & Diagnostic",
+            "HSM41348",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Shapal Plactic Mor, Hospital Road, Shalgaria, "
+        ],
+        [
+            39,
+            "Model Hospital & Diagnostic Centre",
+            "HSM18507",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Hajiganj",
+            "Holding: 0188, Business Park Trade Center, Hajigonj, Chandpur"
+        ],
+        [
+            40,
+            "Model Hospital & Diagnostic Centre",
+            "HSM73488",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "Holding: 0188, Business Park Trade Center, Hajigonj, Chandpur"
+        ],
+        [
+            41,
+            "MODEL HOSPITAL (PVT.)",
+            "HSM17853",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "SOUTH TEMUNI, RAMGATI ROAD, LAKSHMIPUR."
+        ],
+        [
+            42,
+            "Model Hospital pvt (Pathology)",
+            "HSM24759",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgati Road Lakshmipur"
+        ],
+        [
+            43,
+            "Model Lab",
+            "HSM69423",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Panchlaish",
+            "1284 O.R Nizam Road, Panchlaise, Chittagong"
+        ],
+        [
+            44,
+            "Model lab.",
+            "HSM24652",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Chhatak",
+            "Thana road, Chhatak, Sunamgonj."
+        ],
+        [
+            45,
+            "Model lab..",
+            "HSM06275",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Chhatak",
+            "Thana road, Chhatak, Sunamgonj."
+        ],
+        [
+            46,
+            "Model Manushik Hospital",
+            "HSM92561",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Al Rawda House : 03, Block : N, Section: 01, Housing Estate, Cumilla"
+        ],
+        [
+            47,
+            "Model_Lab",
+            "HSM86480",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            "Hospital Road, 04 no word, Chakaria, Coxs Bazar"
+        ],
+        [
+            48,
+            "Modern  Clinic",
+            "HSM88271",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Shariatpur",
+            "Bhedarganj",
+            "Vill:  Gadday ,PO: Bhedarganj,  PS: Bhedarganj,  Zilla : Shariatpur  "
+        ],
+        [
+            49,
+            "MODERN  DENTAL  CARE",
+            "HSM64623",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No- 779, Suruchi Bhaban (2nd Floor), Maijdee Court, Sadar, Noakhali "
+        ],
+        [
+            50,
+            "MODERN  DIAGNOSTIC CENTER",
+            "HSM79208",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Bakshiganj",
+            "MODHO BAZAR, BAKSHIGANJ, JAMALPUR."
+        ],
+        [
+            51,
+            "Modern  Diagnostic Center",
+            "HSM79491",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Gaurnadi",
+            "Hospital Road, Asokathi, Gournadi, Barishal."
+        ],
+        [
+            52,
+            "Modern  Islami Hospital & Diagnostic Centre Nachole",
+            "HSM10445",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Nachole",
+            "Thana Gate Nachole, Chapainawabganj"
+        ],
+        [
+            53,
+            "Modern Blood Bank & Transfusion Centre",
+            "HSM59366",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Panchlaish",
+            "34, Nosher Ali Road by lane, Hathazary Road, Khatal Gong, Panchlaish, Chittagong"
+        ],
+        [
+            54,
+            "MODERN CARE DIAGNOSTIC CENTRE",
+            "HSM35495",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kapasia",
+            "Kapasia, Gazipur, Bangladesh"
+        ],
+        [
+            55,
+            "Modern Central Clinic",
+            "HSM34935",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barguna",
+            "Barguna Sadar",
+            "College road, Barguna Sadar, Barguna."
+        ],
+        [
+            56,
+            "Modern Central Diagnostic Center ",
+            "HSM28121",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Sher-E Bangla Road, Baguna sadar, Barguna."
+        ],
+        [
+            57,
+            "MODERN CLINIC",
+            "HSM18958",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "616 Firoz Bhaban, Thanarpool. Sadar Road, Munshigonj"
+        ],
+        [
+            58,
+            "Modern Clinic",
+            "HSM67748",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Birganj",
+            "Upazila Road Birganj, Dinajpur"
+        ],
+        [
+            59,
+            "Modern Clinic",
+            "HSM18457",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Kalaroa",
+            "Kalaroa, Satkhira"
+        ],
+        [
+            60,
+            "Modern Clinic & Consultation Center",
+            "HSM56825",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Gobindaganj",
+            "Hospital Road, Gobindagonj, Gaibandha"
+        ],
+        [
+            61,
+            "Modern Clinic & Diagnostic Centre",
+            "HSM86455",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "Kanosgari, Sherpur Road, Bogura."
+        ],
+        [
+            62,
+            "Modern Clinic & Diagnostic Centre",
+            "HSM06720",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "Riaz Kazi Lane, Sutrapur, Bogura."
+        ],
+        [
+            63,
+            "Modern Clinic & Nursing Home",
+            "HSM47978",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "1 No. Newtown, Sadar, Dinajpur"
+        ],
+        [
+            64,
+            "MODERN CLINIC & NURSING HOME  ",
+            "HSM73138",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "Hospital Para,Magura Sadar Magura .Bangladesh "
+        ],
+        [
+            65,
+            "Modern Clinic.",
+            "HSM13553",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Hospital Road, Daulatpur, Kushtia."
+        ],
+        [
+            66,
+            "Modern Computerized Diagnostic Center",
+            "HSM31323",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "150, Rupnagor, Ward #07, Galachipa, Patuakhali"
+        ],
+        [
+            67,
+            "Modern Cure Hospital Ltd.",
+            "HSM35786",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Jatrabari",
+            "House# 1/11,Road #01,  Mowlana Bhobon, Soniakhra, Jatrabari Dhaka-1236"
+        ],
+        [
+            68,
+            "Modern Cure Hospital Ltd.",
+            "HSM22941",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "House #1/11, Road # 01, Bashpotti sonirakhra Jatrabari, Dhaka-1362"
+        ],
+        [
+            69,
+            "Modern Dental Care",
+            "HSM78713",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Noakhali",
+            "Sonaimuri",
+            "High school road, Soanimuri Bazar, Noakhali"
+        ],
+        [
+            70,
+            "MODERN DENTAL CURE",
+            "HSM09756",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Coxs Bazar",
+            "Chakaria",
+            "Hospital Road, Chiringa, Chakaria, Coxs Bazar."
+        ],
+        [
+            71,
+            "MODERN DIAGNOSTIC  CENTER",
+            "HSM20571",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Rampal",
+            "Rampal Main Road,Rampal,Bagerhat"
+        ],
+        [
+            72,
+            "Modern Diagnostic & Medical Services",
+            "HSM83213",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Kazir More, Naogaon Sadar, Naogaon."
+        ],
+        [
+            73,
+            "Modern Diagnostic & Medical Services",
+            "HSM23314",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Moyful Garden, Bangla School More, \u200dSadar Road, Bhola"
+        ],
+        [
+            74,
+            "MODERN DIAGNOSTIC & RESEARCH CENTRE",
+            "HSM95212",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Chittagong Port",
+            "Saikat Shoping Market, Free-Port Moor, (CEPZ Gate), Bandor, Chhattagram."
+        ],
+        [
+            75,
+            "MODERN DIAGNOSTIC & ULTRASONOGRAPHY",
+            "HSM84289",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Narikel Para, Chatmohar, Pabna"
+        ],
+        [
+            76,
+            "Modern Diagnostic and Diabetic center",
+            "HSM73678",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Bhairab",
+            "Chondiber (Hospital road), Bhairab-2350, kishoregonj "
+        ],
+        [
+            77,
+            "Modern Diagnostic Center",
+            "HSM02393",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Station Road, Nandina, Jamalpur Sadar, Jamalpur"
+        ],
+        [
+            78,
+            "Modern Diagnostic Center",
+            "HSM69326",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "Sadar Road, Phulbari, Dinajpur "
+        ],
+        [
+            79,
+            "MODERN DIAGNOSTIC CENTER",
+            "HSM53788",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "02 NO WORD, DHAKHIN BANDOR, HASPATAL ROAD, MATHBARIA, PIROJPUR."
+        ],
+        [
+            80,
+            "MODERN DIAGNOSTIC CENTER",
+            "HSM69587",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Gopalpur",
+            "Konabari bazar.gopalpur.tangail."
+        ],
+        [
+            81,
+            "Modern Diagnostic Center",
+            "HSM95803",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "69,(Rouf plaza) Trank Road, Feni, "
+        ],
+        [
+            82,
+            "MODERN DIAGNOSTIC CENTER",
+            "HSM74931",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Pirganj",
+            "Medical Gate, Pirganj, Rangpur"
+        ],
+        [
+            83,
+            "Modern Diagnostic Center",
+            "HSM40714",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "College Gate, Durgapur, Netrakona"
+        ],
+        [
+            84,
+            "MODERN DIAGNOSTIC CENTER",
+            "HSM37715",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Panchlaish",
+            "667/A, Hoque Mansion, Bohoddar Hat, Panchlaish, Chittagong. "
+        ],
+        [
+            85,
+            "Modern Diagnostic Center ",
+            "HSM31880",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Pangsha",
+            "Koshbamajail, Pangsha Rajbari"
+        ],
+        [
+            86,
+            "MODERN DIAGNOSTIC CENTER",
+            "HSM22033",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "Latif Market  (2nd Floor) Main Road, Jaldi,Banshkhali Municipality,Chattogram."
+        ],
+        [
+            87,
+            "MODERN DIAGNOSTIC CENTER",
+            "HSM62253",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Hospital Road, 09 No. Ward, Banaripara, Barishal"
+        ],
+        [
+            88,
+            "Modern Diagnostic Center",
+            "HSM15360",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Dhorkora Bazar, Choddogram, Comilla "
+        ],
+        [
+            89,
+            "Modern Diagnostic Center & Clinic",
+            "HSM47414",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Bhedarganj",
+            "Hospital Road, Bhedorgonj, Shariatpur."
+        ],
+        [
+            90,
+            "MODERN DIAGNOSTIC CENTER LTD",
+            "HSM26986",
+            "Diagnostic Center",
+            "Category-A",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "137, B B ROAD, NARAYANGANJ,BANGLADESH"
+        ],
+        [
+            91,
+            "MODERN DIAGNOSTIC CENTER.",
+            "HSM32505",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Bhanga Raster More, Goalchamot, Faridpur."
+        ],
+        [
+            92,
+            "Modern Diagnostic Centre",
+            "HSM30706",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Sha-ra Bangla Sarak, Jhenaidah Sadar, Jhenaidah."
+        ],
+        [
+            93,
+            "MODERN DIAGNOSTIC CENTRE",
+            "HSM87862",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "S.B FOJLULHOQUE ROAD(BOROPUL)SIRAJGANJ"
+        ],
+        [
+            94,
+            "MODERN DIAGNOSTIC CENTRE",
+            "HSM39234",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jiban Nagar",
+            "Hospital Road, Jibonnagaor,Chuadanga"
+        ],
+        [
+            95,
+            "MODERN DIAGNOSTIC CENTRE",
+            "HSM15576",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "Sadar Road, Bakergonj, Barishal."
+        ],
+        [
+            96,
+            "MODERN DIAGNOSTIC CENTRE",
+            "HSM90163",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "45,Khanjahan Ali Road,Khulna"
+        ],
+        [
+            97,
+            "Modern Diagnostic Centre",
+            "HSM60398",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Modern diagnostic centre, D.B. Road, Gaibandha"
+        ],
+        [
+            98,
+            "MODERN DIAGNOSTIC CENTRE",
+            "HSM71008",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Mujibnagar",
+            "MUJIBNAGAR, MEHERPUR"
+        ],
+        [
+            99,
+            "MODERN DIAGNOSTIC CENTRE",
+            "HSM15158",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Sujanagar",
+            "Sujanagar Hospital Get, Sujanagar, Pabna"
+        ],
+        [
+            100,
+            "Modern diagnostic centre",
+            "HSM43673",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Madan",
+            "Hospital Road, Madon, Netrakona."
+        ]
+    ]
+}

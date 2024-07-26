@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": 395022050,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12057002486,
+    "lat": "23.8048569",
+    "lon": "90.4155845",
+    "class": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.101167315170547e-05,
+    "addresstype": "amenity",
+    "name": "United Hospital Limited",
+    "display_name": "United Hospital Limited, Road 72, \u0995\u09be\u09b2\u09be\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0, \u0997\u09c1\u09b2\u09b6\u09be\u09a8, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0, \u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1212, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "address": {
+      "amenity": "United Hospital Limited",
+      "road": "Road 72",
+      "quarter": "\u0995\u09be\u09b2\u09be\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0",
+      "suburb": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8",
+      "city": "\u09a2\u09be\u0995\u09be",
+      "municipality": "\u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0",
+      "state_district": "\u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be",
+      "ISO3166-2-lvl5": "BD-13",
+      "state": "\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997",
+      "ISO3166-2-lvl4": "BD-C",
+      "postcode": "1212",
+      "country": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+      "country_code": "bd"
+    },
+    "boundingbox": [
+      "23.8048069",
+      "23.8049069",
+      "90.4155345",
+      "90.4156345"
+    ]
+  },
+  {
+    "place_id": 394961226,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 974549277,
+    "lat": "23.804821250000003",
+    "lon": "90.41559890326104",
+    "class": "building",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.101167315170547e-05,
+    "addresstype": "building",
+    "name": "United Hospital Limited",
+    "display_name": "United Hospital Limited, Road 72, \u0995\u09be\u09b2\u09be\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0, \u0997\u09c1\u09b2\u09b6\u09be\u09a8, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0, \u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1212, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "address": {
+      "building": "United Hospital Limited",
+      "road": "Road 72",
+      "quarter": "\u0995\u09be\u09b2\u09be\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0",
+      "suburb": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8",
+      "city": "\u09a2\u09be\u0995\u09be",
+      "municipality": "\u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0",
+      "state_district": "\u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be",
+      "ISO3166-2-lvl5": "BD-13",
+      "state": "\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997",
+      "ISO3166-2-lvl4": "BD-C",
+      "postcode": "1212",
+      "country": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+      "country_code": "bd"
+    },
+    "boundingbox": [
+      "23.8042952",
+      "23.8053553",
+      "90.4152577",
+      "90.4159620"
+    ]
+  }
+]

@@ -1,0 +1,1007 @@
+{
+    "draw": 135,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Sarker Pathology",
+            "HSM47272",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "Bazar Road, Fulbari, Dinajpur"
+        ],
+        [
+            2,
+            "Sarna Clinic & Digital Diagnostic Lab",
+            "HSM91915",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Mehendiganj",
+            "Advocate Delwar Hossen Complax, Ulania Bandar, Mehendiganj, Barishal."
+        ],
+        [
+            3,
+            "SAROLA MONGAL DIAGNOSTIC CENTER",
+            "HSM18009",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "karfa bazar, wazirpur, barishal"
+        ],
+        [
+            4,
+            "Saruila Samsul Haque General Hospital And Digital Lab",
+            "HSM21780",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "7, Sarulia Bazar, Sarulia, Demra, Dhaka-1361."
+        ],
+        [
+            5,
+            "Saruila Samsul Haque General Hospital And Digital Lab",
+            "HSM54867",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Demra",
+            "7, Sarulia Bazar, Sarulia, Demra, Dhaka-1361."
+        ],
+        [
+            6,
+            "Sarwar Diagnostic Centre",
+            "HSM32138",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Kalmakanda",
+            "Hospital Gait,Kalmakanda, Netrakona."
+        ],
+        [
+            7,
+            "SAS Diagnostic Centre",
+            "HSM63062",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Pangsha",
+            "Maguradangi, Pangsha, Rajbari"
+        ],
+        [
+            8,
+            "Sasctho Seba Clinic & Diagnostic Center",
+            "HSM03691",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Shapleza, Mathbaria, Pirojpur"
+        ],
+        [
+            9,
+            "Sasctho Seba Clinic & Diagnostic Center",
+            "HSM84475",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Mathbaria",
+            "Shapleza, Mathbaria, Pirojpur"
+        ],
+        [
+            10,
+            "SASTHO SEBA HOSPITAL  RAJOIR LTD. ",
+            "HSM53996",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "kuthi bari, rajoir, madaripur"
+        ],
+        [
+            11,
+            "SASTHO SEBA HOSPITAL  RAJOIR LTD. ",
+            "HSM51294",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "KUTHI BARI, RAJOIR, MADARIPUR"
+        ],
+        [
+            12,
+            "Satabdi Diagnostic Centre",
+            "HSM16458",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Harinakunda",
+            "Hospital Mor, Harinakundu, Jhenaidah. "
+        ],
+        [
+            13,
+            "Satata Clinic",
+            "HSM02644",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Sp banglow More, Polashpole, Satkhira"
+        ],
+        [
+            14,
+            "Satata Clinic",
+            "HSM46574",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Adamdighi",
+            "Adamdighi North Side of Hospital Gate, Adamdighi, Bogura"
+        ],
+        [
+            15,
+            "Satata Clinic & Diagnostic Center",
+            "HSM90838",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "656/2, Khan Bhavan, Sadar Road, Munshiganj "
+        ],
+        [
+            16,
+            "Satata Clinic & Diagnostic Center",
+            "HSM81355",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "656/2, Khan Bhavan, Sadar Road, Munshiganj "
+        ],
+        [
+            17,
+            "Satata Clinic & Diagnostic center",
+            "HSM79163",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Dhaka Road, Kanaikhali, Natore."
+        ],
+        [
+            18,
+            "SATATA CLINIC & DIAGNOSTIC CENTER",
+            "HSM61330",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Natore Sadar",
+            "Dhaka Road, kanaikhali, Natore."
+        ],
+        [
+            19,
+            "SATATA CLINIC AND DIAGNOSTIC CEATER",
+            "HSM34123",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagacha",
+            "muktagasa, mymensingh\r\n"
+        ],
+        [
+            20,
+            "SATATA CLINIC AND DIAGNOSTIC CEATER",
+            "HSM51572",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Muktagacha",
+            "muktagasa, mymensingh\r\n"
+        ],
+        [
+            21,
+            "SATATA DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM81935",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Satpakhi khejurbagh, shuvadda-1310,South "
+        ],
+        [
+            22,
+            "SATATA DIAGNOSTIC AND CONSULTANTION CENTER",
+            "HSM87405",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Natore Sadar",
+            "Chawdhuri Complex, Hospital Road, Nichabazar, Natore, Bangladesh"
+        ],
+        [
+            23,
+            "Satata Diagnostic Center",
+            "HSM51707",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Adamdighi",
+            "Adamdighi North Side of Hospital Gate, Adamdighi, Bogura"
+        ],
+        [
+            24,
+            "SATATA DIAGNOSTIC CENTRE",
+            "HSM67431",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            "HOSPITAL ROAD, SARISHABARI, JAMALPUR."
+        ],
+        [
+            25,
+            "SATATA DIAGNOSTIC CENTRE",
+            "HSM70922",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Telephone Esange Office Front,Fakirhat,Bagerhat"
+        ],
+        [
+            26,
+            "SATATA DIGITAL DIAGNOSTIC & TREATMENT CENTER",
+            "HSM26718",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Gouripur Bazar, Daudkandi, Comilla"
+        ],
+        [
+            27,
+            "Satata Digital Diagnostic Center",
+            "HSM20626",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "73, Masimpur Dhopabari Road, Pirojpur"
+        ],
+        [
+            28,
+            "Satata Digital Diagnostic Center & Doctors Chamber",
+            "HSM71011",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Lalmohan",
+            "1/85 Noyab Ali Munshi Sarak, Lalmohan Powroshoba"
+        ],
+        [
+            29,
+            "SATATA MEDICAL CHECKUP CENTER",
+            "HSM78195",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Rajshahi",
+            "Rajpara",
+            "House NO: 609, B-266, Greater Road, Kazihata, (Near Rupali Bank, Laxmipur Branch), Rajshahi"
+        ],
+        [
+            30,
+            "Satata Medical Services & Diagnostic Centre",
+            "HSM48323",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Selimamabad, Shibganj, Chapainawabganj"
+        ],
+        [
+            31,
+            "SATATA NURSING HOME",
+            "HSM13698",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Damurhuda",
+            "Karpashdanga Bazar, Damurhuda, Chuadanga"
+        ],
+        [
+            32,
+            "SATATA PRIVATE HOSPITAL & DIAGNOSTIC CENTRE(Clinic)",
+            "HSM74534",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "02, Hashra, Faridpur sadar, Faridpur."
+        ],
+        [
+            33,
+            "SATATA PRIVATE HOSPITAL & DIAGNOSTIC CENTRE(PATHOLOGY)",
+            "HSM49086",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "02, Hashra, Faridpur sadar, Faridpur."
+        ],
+        [
+            34,
+            "SATATA PRIVET HOSPITAL & DIAGNOSTIC CENTRE ",
+            "HSM61700",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Sreepur",
+            "M.Wahab Markat ,Tupi para ,sreepur Magura.Bangladesh."
+        ],
+        [
+            35,
+            "SATATA PRIVET HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM99229",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Sreepur",
+            "M.Wahab Markat ,Tupi para ,sreepur Magura.Bangladesh."
+        ],
+        [
+            36,
+            "Satata Specialised Hospital.",
+            "HSM53274",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Sadar Hospital Road, Monoharpur, Cumilla"
+        ],
+        [
+            37,
+            "Satata Specialised Hospital.",
+            "HSM65308",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Sadar Hospital Road, Monoharpur, Cumilla"
+        ],
+        [
+            38,
+            "Sathi Diagnostic & consultation Center",
+            "HSM82313",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "puthia rajshahi "
+        ],
+        [
+            39,
+            "Sathi Pathological Lab",
+            "HSM96404",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "Hospital Road, Durgapur, Netrokona, Mymensingh."
+        ],
+        [
+            40,
+            "SATHI SEBA CLINIC",
+            "HSM38775",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Sapahar",
+            "MAINROAD SAPAHAR, GODAUNPARA, SAPAHAR, NAOGAON"
+        ],
+        [
+            41,
+            "Satkania Diabetic General Hospital ",
+            "HSM90027",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Satkania",
+            "Thana Road, Satkania Pouroshava, Satkania, Chattagram, Bangladesh."
+        ],
+        [
+            42,
+            "Satkania X-Ray & Path Clinic",
+            "HSM02159",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Thana Road, Satkania Powrasava, Chittagong."
+        ],
+        [
+            43,
+            "Satkanin Diabetic General Hospital & Diagnostic Centre",
+            "HSM95711",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Thana Road,Satkania,Minucipality,Chattogram"
+        ],
+        [
+            44,
+            "Satkhira Diagnostic Complex",
+            "HSM85281",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Uttar Polashpole, Satkhira"
+        ],
+        [
+            45,
+            "Satkhira gyane hospital",
+            "HSM58710",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Khulnaroad more, Polashpole, Satkhira"
+        ],
+        [
+            46,
+            "Satkhira National Diagnostic Center",
+            "HSM58720",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Itagacha, Wapda More, Satkhira"
+        ],
+        [
+            47,
+            "Satkhira National Hospital",
+            "HSM02369",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Itagacha, Wapda More, Satkhira"
+        ],
+        [
+            48,
+            "Satkhira Trauma & Orthopaedics Care Centre & Diagnostic",
+            "HSM47856",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "North Katia, Sadar, Satkhira"
+        ],
+        [
+            49,
+            "Satkhira Trauma & Orthopaedics Care Centre.",
+            "HSM69592",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "North Katia, Sadar, Satkhira"
+        ],
+        [
+            50,
+            "Satota Blood Bank and Transfuison Center",
+            "HSM59664",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Banani",
+            "Cha 180/2,Tb Gate ,Mohakhali, Dhaka-1212."
+        ],
+        [
+            51,
+            "SATOTA CLINIC",
+            "HSM05018",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Puraton Bazar Moor,Bagerhat Sadar,Bagerhat"
+        ],
+        [
+            52,
+            "SATOTA CLINIC AND DIAGNOSTIC CENTER",
+            "HSM89233",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Santhia",
+            "Madrasha Market, Santhia, Pabna"
+        ],
+        [
+            53,
+            "SATOTA CLINIC AND DIAGNOSTIC CENTER",
+            "HSM67634",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Santhia",
+            "Madrasha Market, Santhia, Pabna"
+        ],
+        [
+            54,
+            "SATOTA DIAGNOSTIC &  HOSPITAL (PVT.) LTD",
+            "HSM09884",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Kalir Bazar, Sherpur Town, Sherpur. "
+        ],
+        [
+            55,
+            "Satota Diagnostic & Consultation Center",
+            "HSM31325",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "chalkenayat Sebaaram Road, Naogaon Sadar, Naogaon"
+        ],
+        [
+            56,
+            "SATOTA DIAGNOSTIC (PVT.) LTD",
+            "HSM66891",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Kalir Bazar, Sherpur Town, Sherpur. "
+        ],
+        [
+            57,
+            "Satota Diagnostic Center",
+            "HSM74016",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Sp banglow More, Polashpole, Satkhira"
+        ],
+        [
+            58,
+            "Satota Diagnostic Center",
+            "HSM41737",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Arambag Mor, Sadar, Netrokona"
+        ],
+        [
+            59,
+            "SATOTA DIAGNOSTIC CENTRE",
+            "HSM67189",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Ulania Bazar, Galachipa, Patuakhali"
+        ],
+        [
+            60,
+            "SATOTA DIAGNOSTIC CENTRE",
+            "HSM83119",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur"
+        ],
+        [
+            61,
+            "SATOTA HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM14160",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sherpur",
+            "Hospatal Road, Sherpur, Bogura."
+        ],
+        [
+            62,
+            "SATOTA HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM45801",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sherpur",
+            "Hospatal Road, Sherpur, Bogura."
+        ],
+        [
+            63,
+            "Satota Medical Center",
+            "HSM41363",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Shibganj",
+            "Moharajpur Hat, Chapainawabganj."
+        ],
+        [
+            64,
+            "Saturia Diabetic Samiti & Diagnostic Center",
+            "HSM77037",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Saturia",
+            "Parchim Kawmmara,Saturia, Manikganj"
+        ],
+        [
+            65,
+            "Sauda Diagnostic & Consultency Centere",
+            "HSM16694",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole, Satkhira."
+        ],
+        [
+            66,
+            "Saudi Bangladesh Services Company Medical Check-Up Clinic Ltd.",
+            "HSM47480",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "Sel Trident Tower(Level-1), 57 Purana Paltan Line, Paltan, Dhaka-1000, Bangladesh."
+        ],
+        [
+            67,
+            "Saudi Probasi Hospital and Diagnostic Centre",
+            "HSM55194",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barguna",
+            "Bamna",
+            "College Road, Dowatala, Bamna, Barguna."
+        ],
+        [
+            68,
+            "Saudi Probasi Hospital and Diagnostic Centre",
+            "HSM84186",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Bamna",
+            "College Road, Dowatala, Bamna, Barguna."
+        ],
+        [
+            69,
+            "SAUDI-BANGLA PRIVATE HOSPITAL",
+            "HSM86921",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Shaheed Sufi Sharak, Jheeltuly, Faridpur Sadar, Faridpur."
+        ],
+        [
+            70,
+            "SAUDI-BANGLA PRIVATE HOSPITAL (Pathology)",
+            "HSM86664",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Shaheed Sufi Sharak, Jheeltuly, Faridpur."
+        ],
+        [
+            71,
+            "Saudia Diagnostic Center",
+            "HSM22469",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Atwari",
+            "Thana Mosjid Samne, Atwari, Panchagarh, Bangladesh"
+        ],
+        [
+            72,
+            "Savar Adhunek Hospital",
+            "HSM30777",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "B-7, Aricha Road, Shimultola, Savar, Dhaka"
+        ],
+        [
+            73,
+            "Savar Adhunik Hospital",
+            "HSM01417",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "B-7, Aricha Road, Shimultola, Savar, Dhaka-1340"
+        ],
+        [
+            74,
+            "Savar Care Hospital",
+            "HSM34633",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "E-24/1, Talbag, Thana Bus Stand, Savar, Dhaka"
+        ],
+        [
+            75,
+            "Savar Care Hospital",
+            "HSM66978",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "E-24/1, Talbag, Thana Bus Stand, Savar, Dhaka"
+        ],
+        [
+            76,
+            "Savar Central Eye Hospital",
+            "HSM97674",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "C-28,Shimultala,  Aricha Hwy, Savar,Dhaka "
+        ],
+        [
+            77,
+            "Savar Central Hospital",
+            "HSM62842",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "D-24/1, Talbag, Savar, Dhaka"
+        ],
+        [
+            78,
+            "Savar Central Hospital",
+            "HSM60129",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "D-24/1, Talbag, Savar, Dhaka"
+        ],
+        [
+            79,
+            "Savar Crown Hospital and Diagnostic Center",
+            "HSM28608",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "C-37/1, HK Tower (Anandopur), Savar, Dhaka"
+        ],
+        [
+            80,
+            "Savar Crown Hospital and Diagnostic Center",
+            "HSM06597",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "C-37/1, HK Tower (Anandopur), Savar, Dhaka"
+        ],
+        [
+            81,
+            "SAVAR DIABETES CENTRE",
+            "HSM34731",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "D-4/1, Aricha Road,   Talbag,  Savar, Dhaka-1340"
+        ],
+        [
+            82,
+            "SAVAR HEALTH CARE HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM63126",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "61/3, Korna Para, Olail, Savar, Dhaka"
+        ],
+        [
+            83,
+            "SAVAR HEALTH CARE HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM90778",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "61/3, korna Para, Oliail, Savar, Dhaka "
+        ],
+        [
+            84,
+            "Savar New Mukti Hospital & Diagnostics",
+            "HSM21162",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "8/8, Tarapur, Thana Road, Savar, Dhaka"
+        ],
+        [
+            85,
+            "SAVAR NEW MUKTI HOSPITAL & DIAGNOSTICS",
+            "HSM64235",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "8/8, TARAPUR, THANA ROAD, SAVAR, DHAKA"
+        ],
+        [
+            86,
+            "SAVAR PRIME HOSPITAL",
+            "HSM91322",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Savar",
+            "A-89,Talbag,Thana road,Sava,Dhaka"
+        ],
+        [
+            87,
+            "SAVAR PRIME HOSPITAL",
+            "HSM28872",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "A-89,Talbag,Thana road,Savar,Dhaka"
+        ],
+        [
+            88,
+            "Savar Specialized Hospital",
+            "HSM10129",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Modern Plaza (2nd Floor), D-136 Talbag, Thana Bus Stand, Savar, Dhaka-1340"
+        ],
+        [
+            89,
+            "Savar Specialized Hospital",
+            "HSM50557",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Modern Plaza (2nd Floor),D-136 Talbag, Thana Bus Stand, Savar, Dhaka-1340"
+        ],
+        [
+            90,
+            "SAVAR UNITED HOSPITAL",
+            "HSM18256",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Savar,Dhaka,Bangladesh"
+        ],
+        [
+            91,
+            "SAVAR UNITED HOSPITAL",
+            "HSM57141",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Savar,Dhaka,Bangladesh"
+        ],
+        [
+            92,
+            "Save Diagnostic & Medical Service",
+            "HSM53609",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "1 No Arjundas Agarwala Road, Courtpara Kushtia."
+        ],
+        [
+            93,
+            "Save Health Hospital Institute ",
+            "HSM87365",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Barishal Sadar",
+            "134, sadar road, barisal."
+        ],
+        [
+            94,
+            "Save Health Hospital Institute Pathologi Lab",
+            "HSM03068",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barisal Sadar",
+            "134 sador Road, Barisal."
+        ],
+        [
+            95,
+            "SAVE LIFE DIAGNOSTIC CENTER",
+            "HSM63805",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali "
+        ],
+        [
+            96,
+            "SAVE LIFE DIGITAL DIAGNOSTIC CENTER",
+            "HSM17067",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Niltyli, Faridpur."
+        ],
+        [
+            97,
+            "Save Medical & Digital Diagnostic Center",
+            "HSM77628",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Kalukhali",
+            "Ratondia, Kalukhali, Rajbari."
+        ],
+        [
+            98,
+            "SAVE ON HEALTH CARE",
+            "HSM94986",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "Plot No- 11, Main Road-1, Mirpur-10, Dhaka"
+        ],
+        [
+            99,
+            "SAVEN STAR CLINIK",
+            "HSM74990",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Nilphamari",
+            "Domar",
+            "Village: Panga Bhaban Banwari More,  Dakbangla Road, Post. Domar,  PS. Domar, Dist. Nilphamari"
+        ],
+        [
+            100,
+            "SAVEN STAR CLINIK AND DIAGNOSTIC CENTRE",
+            "HSM16353",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Domar",
+            "VILLAGE: PANGA BHABAN, BANWARI MORE, DAKBANGLO ROAD, PS. DOMAR, DIST. NILPHAMARI"
+        ]
+    ]
+}

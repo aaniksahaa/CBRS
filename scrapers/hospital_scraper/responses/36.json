@@ -1,0 +1,1007 @@
+{
+    "draw": 36,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Consultant  Diagnostic Centre",
+            "HSM36631",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Kureshnogor R/A,Habigan Sadar, Habiganj"
+        ],
+        [
+            2,
+            "CONSULTANT SURGICAL CLINIC",
+            "HSM88373",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Ploshpole, Sadar, Satkhira"
+        ],
+        [
+            3,
+            "Consultation Center and Lab of Filaria and General Hospital ",
+            "HSM25898",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Charabag, Asulia, Savar, Dhaka-1341 "
+        ],
+        [
+            4,
+            "Continental Diagnostic ",
+            "HSM88439",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Belabo",
+            "Baroycha bazar, Raipura road,Belabo, Narsingdi."
+        ],
+        [
+            5,
+            "Cosmetic Surgery Centre Ltd.",
+            "HSM28725",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dhanmondi",
+            "Sanker Plaza (5th Floor), 72 Satmasjid Road, Dhanmondi, Dhaka"
+        ],
+        [
+            6,
+            "Cosmic Diagnostic center & hospital",
+            "HSM45461",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Raozan",
+            "Khaij Ahmed Shopping Center (2nd Floor), Noapara, Raozan, Ctg."
+        ],
+        [
+            7,
+            "Cosmo Diagnostic & Doctors Chamber",
+            "HSM37037",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road (Feni Road),  Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            8,
+            "COSMOS GENERAL HOSPITAL",
+            "HSM77472",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Lalpur",
+            "Gopalpur, Lalpur, Natore"
+        ],
+        [
+            9,
+            "COSMOS GENERAL HOSPITAL",
+            "HSM73208",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Lalpur",
+            "Gopalpur, Lalpur, Natore"
+        ],
+        [
+            10,
+            "Cox-National Hispital",
+            "HSM36138",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Hospital Road, Coxs Bazar Pourasova, Coxs Bazar"
+        ],
+        [
+            11,
+            "Cox-National Hispital Pathology",
+            "HSM33233",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            " Hospital road, Coxs Bazar Pourasava, Coxs Bazar."
+        ],
+        [
+            12,
+            "COXS BAZAR BAITUSH SHARAF HOSPITAL & Pathology",
+            "HSM41394",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Baitush Sharaf Road, Coxs Bazar, Bangladesh"
+        ],
+        [
+            13,
+            "COXS BAZAR BAITUSH SHARAF HOSPITAL (EYE  HOSPITAL)",
+            "HSM08113",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Baitush Sharaf Road, Coxs Bazar, Bangladesh"
+        ],
+        [
+            14,
+            "Coxs Marine city Diagonostice center",
+            "HSM87563",
+            "Diagnostic Center",
+            "Category-B",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Link linkroad,jilonza,coxsbazar sadar,coxsbazar.Bangladesh."
+        ],
+        [
+            15,
+            "COXS MARINE CITY HOSPITAL  DENTAL  UNIT",
+            "HSM32893",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "LINK ROAD, JILONZA,SADAR,   COXS BAZAR,BANGLADESH.  \r\n"
+        ],
+        [
+            16,
+            "Coxs Marine city hospital and Diagnostic center",
+            "HSM74181",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            " Link road,Jilongza . coxs Bazar. Bangladesh."
+        ],
+        [
+            17,
+            "COXSBAZAR INVESTIGATION COMPLEX",
+            "HSM49331",
+            "Diagnostic Center",
+            "Category-B",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Hospital Road, CoxsBazar"
+        ],
+        [
+            18,
+            "CPHD BHANGA HEALTH CARE LTD",
+            "HSM41603",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Bhanga",
+            "BHANGA BAZAR (PADMA SHOPING CENTER), BHANGA, FARIDPUR."
+        ],
+        [
+            19,
+            "CPHD BHANGA HEALTH CARE LTD.",
+            "HSM06843",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Bhanga",
+            "BHANGA BAZAR (PADMA SHOPING CENTER), BHANGA, FARIDPUR."
+        ],
+        [
+            20,
+            "CPHD FENI HEALTH CARE LTD",
+            "HSM57882",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "366,idrsi mansion, (1st floor)Shahid Shahidulla Kaiser Sarak,feni."
+        ],
+        [
+            21,
+            "CPHD SALANGA HEALTHCARE LTD.",
+            "HSM79838",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Royganj",
+            "AMSHARA, SALANGA, RAYGONJ, SIRAJGANJ"
+        ],
+        [
+            22,
+            "CPHD SALANGA HEALTHCARE LTD.",
+            "HSM62849",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Royganj",
+            "Amshara, Salanga, Royganj, Sirajgonj"
+        ],
+        [
+            23,
+            "CPHD- KALIGONJ HEALTHCARE LIMITED",
+            "HSM26948",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "M U College Road, Kolahatar Mor, Kaliganj, Jhenaidah"
+        ],
+        [
+            24,
+            "CREATIVE BLOOD BANK AND TRANSFUSION CENTER",
+            "HSM58913",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Chak Bazar",
+            "83, NAZIMUDDIN ROAD, POSTA, CHAKBAZAR, DHAKA-1211"
+        ],
+        [
+            25,
+            "CREATIVE DIGITAL DAIGNOSTIC LAB",
+            "HSM38085",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "Hospital Road,Nilphamari Sadar, Nilphamri."
+        ],
+        [
+            26,
+            "Creative Digital Daignostic Lab",
+            "HSM98634",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "Adhunik Sador  Hospital Road, Nilphamari Sador, Nilphamari"
+        ],
+        [
+            27,
+            "CRECENT  DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM65579",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Santhia",
+            "KHAN PLAZA,SANTHIA,PABNA"
+        ],
+        [
+            28,
+            "Crecent Chakkhu Hospital",
+            "HSM48758",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Santhia",
+            "Kashinathpur, Santhia, Pabna"
+        ],
+        [
+            29,
+            "CRECENT DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM07089",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Santhia",
+            "KHAN PLAZA, SANTHIA, PABNA"
+        ],
+        [
+            30,
+            "CRECENT DIAGNOSTIC CENTER & HOSPITAL LTD(BRANCH-2)",
+            "HSM65619",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Santhia",
+            "KASHINATHPUR, SANTHIA, PABNA"
+        ],
+        [
+            31,
+            "CRESCENT  CLINIC",
+            "HSM13865",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Jiban Nagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            32,
+            "Crescent Blood Bank",
+            "HSM22111",
+            "Blood Bank",
+            "",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Old Medical Road, South Dorgha Moholla, Sylhet-3100"
+        ],
+        [
+            33,
+            "CRESCENT DIAGNOSTIC & IMAGING CENTER",
+            "HSM01166",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Shimanto Shopping Complex, Lalmonirhat Sadar, Lalmonirhat, Airport Rd, Lalmanir Hat"
+        ],
+        [
+            34,
+            "Crescent Diagnostic Centre",
+            "HSM79233",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "House-22, Road No- 1, Ward-4, Aladatpur, Narail."
+        ],
+        [
+            35,
+            "CRESCENT DIAGNOSTIC CENTRE",
+            "HSM96522",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jiban Nagar",
+            "Hospital Road, Jibannagar,  Chuadanga"
+        ],
+        [
+            36,
+            "Crescent Diagnostic Centre",
+            "HSM57269",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Agnibina Road,Jhenaidah."
+        ],
+        [
+            37,
+            "CRESCENT DIAGNOSTIC COMPLEX",
+            "HSM13626",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Rangpur"
+        ],
+        [
+            38,
+            "Crescent Diagnstic Centre",
+            "HSM83312",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "P-02, Ahsan Ullah Sarani, Dotor Para Road, Chhoto Boyra, Sonadanga, Khulna, Bangladesh"
+        ],
+        [
+            39,
+            "CRESCENT DIGITAL DIAGNOSTIC CENTRE",
+            "HSM33184",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Kachari Bazar, Gaibandha"
+        ],
+        [
+            40,
+            "Crescent Gastroliver & General Hospital Ltd.",
+            "HSM66356",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "25/I Green road, Dhanmondi, Dhaka"
+        ],
+        [
+            41,
+            "Crescent Gastroliver & General Hospital Ltd.",
+            "HSM28032",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kalabagan",
+            "25/I Green road, Dhanmondi, Dhaka"
+        ],
+        [
+            42,
+            "CRESCENT HOSPITAL & DIAGNOSTIC COMPLEX LTD.",
+            "HSM01757",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "22/2, Bir Uttam Shahid A-N-M Nuruzzaman Sharak, Block-B, Shamoli, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            43,
+            "CRESCENT HOSPITAL (PVT) & DIAGNOSTIC CENTRE",
+            "HSM84104",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "CHITTALEKHA MORE, CHANDPUR"
+        ],
+        [
+            44,
+            "CRITICAL DIAGNOSTIC CENTRE",
+            "HSM19636",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House no-2/2, Block-A, Mirpur Road, Lalmatia,  Dhaka-1207."
+        ],
+        [
+            45,
+            "CRL Diagnostics",
+            "HSM67600",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            " unit-a-6(7th floor)house 2,road 7,green road,dhanmondi,dhaka-1205"
+        ],
+        [
+            46,
+            "CRL Diagnostics. (unit-2)",
+            "HSM19965",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dhanmondi",
+            "House.151/7,3rd floor,green Road Dhanmondi Dhaka-1205"
+        ],
+        [
+            47,
+            "CRP Consultation & Diagnostic Ltd.",
+            "HSM16695",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Bhatara",
+            "Ka-50/C, Hazi Super Market (1st & 2nd Floor), Progoti Sharoni Road, Nadda, Vatara, Dhaka-1229"
+        ],
+        [
+            48,
+            "CRYSLAT DIAGNOSTIC & HOSPITAL",
+            "HSM77372",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Keshabpur",
+            "H.No:- 0017/2  Keshobpur Bazar, Jashore"
+        ],
+        [
+            49,
+            "Crystal  Diagnostic Keshabpur",
+            "HSM19980",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Keshabpur",
+            "HOSPITAL ROAD, KESHABPUR, JESSORE, KHULNA."
+        ],
+        [
+            50,
+            "Crystal  Diagnostic Rajshahi",
+            "HSM08925",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Boalia",
+            "SAGORPARA, BOTTOLA MORE, BOALIA, RAJSHAHI."
+        ],
+        [
+            51,
+            "Crystal  Diagnostic Satkhira",
+            "HSM43902",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Satkhira Sadar",
+            "KHULNA ROAD, POLASPOL, SATKHIRA, KHULNA."
+        ],
+        [
+            52,
+            "Crystal Diagnostic",
+            "HSM88836",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "Crystal Palace, Level-5, House No-22, Road-140, Gulshan-1, Dhaka"
+        ],
+        [
+            53,
+            "CRYSTAL HEALTHCARE",
+            "HSM01171",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gulshan",
+            "H# 22, R# 140, Gulshan-1, Dhaka-1212"
+        ],
+        [
+            54,
+            "CSCR HOSPITAL (PVT) LTD",
+            "HSM63013",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chittagong",
+            "Panchlaish",
+            "1675/A, O R Nizam, Chittagong."
+        ],
+        [
+            55,
+            "CSTC Hospital.",
+            "HSM64594",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "100 O.R Nizam Raod, Panchlaish, Chittagong"
+        ],
+        [
+            56,
+            "CT IMAGING CENTRE KHULNA LTD. ",
+            "HSM01660",
+            "Diagnostic Center",
+            "Category-A",
+            "Khulna",
+            "Sonadanga",
+            "35, KDA Avenue (Khalil Chamber), Khulna, Bangladesh. "
+        ],
+        [
+            57,
+            "CT Scan Center.",
+            "HSM48731",
+            "Diagnostic Center",
+            "Category-A",
+            "Sirajganj",
+            "Ullahpara",
+            "Vill : Shamolipara,Ullahpara,Sirajgonj."
+        ],
+        [
+            58,
+            "CT SCAN POINT COMILLA.",
+            "HSM56547",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "385/351, Newaz Manshion, Badurtala, Comilla"
+        ],
+        [
+            59,
+            "Cumilla Adarsho Hospital ",
+            "HSM90819",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Sadar Hospital Road, Monoharpur, Cumilla"
+        ],
+        [
+            60,
+            "Cumilla Adarsho Hospital ",
+            "HSM53307",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Sadar Hospital Road, Monoharpur, Cumilla"
+        ],
+        [
+            61,
+            "CUMILLA AL NOOR HOSPITAL",
+            "HSM17906",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "970, Fire Service Road, Bagichagow, Cumilla Sadar, Cumilla"
+        ],
+        [
+            62,
+            "CUMILLA AL NOOR HOSPITAL",
+            "HSM85357",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "970, Fire Service Road, Bagichagow, Cumilla Sadar, Cumilla"
+        ],
+        [
+            63,
+            "Cumilla Alif Diagnostic and Consultation Center",
+            "HSM19831",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Laksam Road, South Thakurpara, Comilla"
+        ],
+        [
+            64,
+            "Cumilla Alif Hospital ",
+            "HSM28748",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Laksam Road, South Thakurpara, Comilla"
+        ],
+        [
+            65,
+            "CUMILLA AN-NUR AL BORG HEALTH CHECKUP CENTRE",
+            "HSM92669",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "SEL FATEMA JAHANARA TOWER, 1ST FLOOR, JHAWTALA, CUMILLA"
+        ],
+        [
+            66,
+            "CUMILLA ANOWARA HOSPITAL",
+            "HSM13090",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "Saktala, Laksham Roard, Sadar South, Cumilla"
+        ],
+        [
+            67,
+            "CUMILLA ANOWARA HOSPITAL",
+            "HSM94669",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "Saktala, Laksham Roard, Sadar South, Cumilla"
+        ],
+        [
+            68,
+            "CUMILLA APSOM MEDICAL SERVICES",
+            "HSM52697",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "624, Jhawtala, Cumilla"
+        ],
+        [
+            69,
+            "Cumilla Bashundhara Diagnostic and Consultation Center",
+            "HSM03214",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Fire Service Road, Police Line, Cumilla"
+        ],
+        [
+            70,
+            "Cumilla City Eye Hospital & Phaco Center",
+            "HSM33964",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Sadar Hospital Road, Monoharpur, Adarsha Sadar, Cumilla"
+        ],
+        [
+            71,
+            "CUMILLA DIABETIC HOSPITAL.",
+            "HSM25895",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Shahid Solaiman Mostafa Sarak, Bagichagaon, Cumilla, Bangladesh."
+        ],
+        [
+            72,
+            "CUMILLA DIABETIC HOSPITAL.",
+            "HSM97351",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "SHAHID SOLAIMAN MOSTAFA SARAK, COMILLA."
+        ],
+        [
+            73,
+            "Cumilla Digital Eye Hospital",
+            "HSM13606",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Nichintapur, Cumilla Cant, Adarsha Sadar, Cumilla"
+        ],
+        [
+            74,
+            "CUMILLA EVERCARE SPECIALIZED HOSPITAL",
+            "HSM26505",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "DHORMAPUR, WAPDA ROAD, SHASHONGACHA , CUMILLA"
+        ],
+        [
+            75,
+            "CUMILLA EVERCARE SPECIALIZED HOSPITAL",
+            "HSM84872",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "DHORMAPUR, WAPDA ROAD, SHASHONGACHA , CUMILLA"
+        ],
+        [
+            76,
+            "CUMILLA EVERGREEN HOSPITAL",
+            "HSM96608",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Rais Course, Adarsha Sadar, Cumilla"
+        ],
+        [
+            77,
+            "CUMILLA EVERGREEN HOSPITAL",
+            "HSM48676",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Rais Course, Adarsha Sadar, Cumilla"
+        ],
+        [
+            78,
+            "Cumilla Holy Family Hospital",
+            "HSM46170",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "161/KA, Govindapur, Sadar, Cumilla"
+        ],
+        [
+            79,
+            "Cumilla Holy Family Hospital",
+            "HSM55591",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "161/KA, Govindapur, Sadar, Cumilla"
+        ],
+        [
+            80,
+            "CUMILLA HORMONE CENTER",
+            "HSM88009",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Racecourse Menroad, Cumilla"
+        ],
+        [
+            81,
+            "CUMILLA IMAGING CENTER",
+            "HSM16431",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "332, Zamans Walidah Palace, Jhawtola, Cumilla"
+        ],
+        [
+            82,
+            "CUMILLA IMPERIAL SPECIALIZED HOSPITAL",
+            "HSM83876",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "\u0995\u09cb\u099f\u09ac\u09be\u09dc\u09c0 \u09b0\u09cb\u09a1, \u099f\u09ae\u099b\u09ac\u09cd\u09b0\u09c0\u099c, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be"
+        ],
+        [
+            83,
+            "CUMILLA IMPERIAL SPECIALIZED HOSPITAL",
+            "HSM11638",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "\u0995\u09cb\u099f\u09ac\u09be\u09dc\u09c0 \u09b0\u09cb\u09a1, \u099f\u09ae\u099b\u09ac\u09cd\u09b0\u09c0\u099c, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be"
+        ],
+        [
+            84,
+            "CUMILLA ISLAMIA HOSPITAL",
+            "HSM97035",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "EPZ ROAD, TOMSOMBRIZE, COMILLA"
+        ],
+        [
+            85,
+            "CUMILLA ISLAMIA HOSPITAL",
+            "HSM66306",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "EPZ ROAD, TOMSOMBRIZE, COMILLA"
+        ],
+        [
+            86,
+            "CUMILLA MANAB SHEBA DIAGNOSTIC & HOSPITAL",
+            "HSM35870",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Jhawtala, Comilla"
+        ],
+        [
+            87,
+            "CUMILLA MANAB SHEBA DIAGNOSTIC & HOSPITAL",
+            "HSM24567",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Jhawtala, Comilla"
+        ],
+        [
+            88,
+            "CUMILLA NAVANA HOSPITAL PVT LTD",
+            "HSM16263",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "942, JHAWTALA, CUMILLA."
+        ],
+        [
+            89,
+            "CUMILLA NAVANA HOSPITAL PVT LTD",
+            "HSM89686",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "942, JHAWTALA, CUMILLA."
+        ],
+        [
+            90,
+            "CUMILLA PEOPLES HOSPITAL LTD.",
+            "HSM88342",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Sadar Dakshin",
+            "Tomsombridge, Cumilla"
+        ],
+        [
+            91,
+            "CUMILLA PEOPLES HOSPITAL LTD.",
+            "HSM45936",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Sadar Dakshin",
+            "Tomsombridge, Cumilla "
+        ],
+        [
+            92,
+            "CUMILLA PRIME HOSPITAL",
+            "HSM25219",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Nazrul Avenue Road, Ranir Bazar, Cumilla"
+        ],
+        [
+            93,
+            "CUMILLA PRIME HOSPITAL",
+            "HSM11319",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Nazrul Avenue Road, Ranir Bazar, Cumilla"
+        ],
+        [
+            94,
+            "CUMILLA TAQWA HOSPITAL",
+            "HSM27339",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "LAKSAM ROAD,  2ND KANDIRPAR, KOTWALI, COMILLA"
+        ],
+        [
+            95,
+            "CUMILLA TAQWA HOSPITAL",
+            "HSM37131",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "LAKSAM ROAD,  2ND KANDIRPAR, KOTWALI, COMILLA"
+        ],
+        [
+            96,
+            "Cure and Smile  Bangladesh Foundation ",
+            "HSM28705",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Tejgaon",
+            "109. Old Airport Road, Bijoy Shoroni, Tejgaon, Dhaka - 1215 "
+        ],
+        [
+            97,
+            "Cure and Smile Bangladesh Foundation1",
+            "HSM79406",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Tejgaon",
+            "109. Old Airport Road, Bijoy Shoroni, Tejgaon, Dhaka - 1215 "
+        ],
+        [
+            98,
+            "Cure Consultation & Diagnostic ",
+            "HSM12477",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Demra",
+            "5201,South Matuail, Signbord, Dhaka-Chittagong High way, Demra, Dhaka"
+        ],
+        [
+            99,
+            "Cure Diagnostic & Consultation Center",
+            "HSM76883",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Racecourse, Cumilla"
+        ],
+        [
+            100,
+            "CURE DIAGNOSTIC & PHYSIO CENTER",
+            "HSM44343",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Sadar Hospital Road, Manikpur Munshiganj Sadar "
+        ]
+    ]
+}

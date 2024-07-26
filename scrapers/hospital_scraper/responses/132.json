@@ -1,0 +1,1007 @@
+{
+    "draw": 132,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Sabalamby  Hospital",
+            "HSM99017",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Shibgonj road"
+        ],
+        [
+            2,
+            "Sabalamby Pathological Lab",
+            "HSM24325",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Shibgonj Road, Netrakona, Bangladesh"
+        ],
+        [
+            3,
+            "Sabali Digital Diagnostic Centre",
+            "HSM44333",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Sabalia,Tangail"
+        ],
+        [
+            4,
+            "SABER MIA VILLAGE HEALTH & EYE CARE CENTER",
+            "HSM30951",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Belkuchi",
+            "Adachaki, Belkuchi"
+        ],
+        [
+            5,
+            "SABERA MEMORIAL DIABETIC CENTRE",
+            "HSM93621",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Boalia",
+            "SHEROIL KOLONI, RAJSHAHI"
+        ],
+        [
+            6,
+            "SABERI DIAGNOSTIC CENTER",
+            "HSM85866",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Faridpur",
+            "Uttartiarpara, Faridpur, Pabna"
+        ],
+        [
+            7,
+            "Sabina Memorial Blood Bank",
+            "HSM28162",
+            "Blood Bank",
+            "",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Tetulia Road, Panchagarh"
+        ],
+        [
+            8,
+            "Sabuj Bag General Hospital & Diagnostic Center",
+            "HSM27961",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "sabujbag, Medda, Brahmanbaria"
+        ],
+        [
+            9,
+            "Sabuj Bag General Hospital & Diagnostic Center",
+            "HSM93479",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "sabuj bag, Medda, Brahmanbaria."
+        ],
+        [
+            10,
+            "SABUZ CHATA CONSULTATION CENTER & DIAGNOSTIC",
+            "HSM55990",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Laksam, Cumilla."
+        ],
+        [
+            11,
+            "SABUZ CLINIC",
+            "HSM55833",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Dhupchanchia",
+            "MAIL BUS STAND, DUPCHANCHIA, BOGURA."
+        ],
+        [
+            12,
+            "Sabuz Diagnostic Center",
+            "HSM35941",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Modarn More , Shahid Shoruardi Road, Jhenaidah"
+        ],
+        [
+            13,
+            "Sachar Central Hospital & Diagnostic Center",
+            "HSM82203",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Kachua",
+            "Sachar Bazar, Kachua, Chandpur"
+        ],
+        [
+            14,
+            "Sachar Central Hospital & Diagnostic Center",
+            "HSM45333",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Sachar Bazar, Kachua, Chandpur"
+        ],
+        [
+            15,
+            "Sachar Holy Care Digital Medi Centre ",
+            "HSM44817",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Mollic Tower, Sachar Bazar, Main Road, Kachua, Chandpur."
+        ],
+        [
+            16,
+            "sad madokasokti o manosik hospital(pvt)",
+            "HSM36214",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "maskanda,mymensingh"
+        ],
+        [
+            17,
+            "SADAR DAKSHIN DIABETIC SOMITY",
+            "HSM50187",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "Pipulia Bazar, Sadar Dakshin, Cumilla"
+        ],
+        [
+            18,
+            "Sadarpur Medifair Dignostic center",
+            "HSM46412",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Sadarpur",
+            "Sadarpur Hospital Road, Sadarpur, Faridpur."
+        ],
+        [
+            19,
+            "SADAS diagnostic Center",
+            "HSM75285",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Mahdhoppur, Sherpur Town, Sherpur-2100."
+        ],
+        [
+            20,
+            "SADESH DIGITAL PATHOLOGICAL LAB",
+            "HSM23540",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Zilla Hospital Road, Narayanpur, Sherpur-2100"
+        ],
+        [
+            21,
+            "SADIA CLINIC",
+            "HSM04092",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "SELIMABAD, SHIBGANJ, CHAPAINAWABGANJ"
+        ],
+        [
+            22,
+            "Sadia Clinic",
+            "HSM99272",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Bheramara",
+            "Jasim Uddin Sarak, Kuthi Bazar, Bheramara, Kushtia."
+        ],
+        [
+            23,
+            "Sadia Diagnoistic Centre",
+            "HSM17474",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "Jasim Udding Sarak, Kuthi Bazar, Bheramara, Kushtia"
+        ],
+        [
+            24,
+            "SADIA DIAGNOSTIC CENTER",
+            "HSM72864",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Kendua",
+            "Adompur, Kendua, Netrakona , Mymensingh"
+        ],
+        [
+            25,
+            "SADIA DIAGNOSTIC CENTRE",
+            "HSM06368",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Selimabad, Shibganj, Chapainawabganj"
+        ],
+        [
+            26,
+            "Sadia Health Centre",
+            "HSM16908",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "\u0995\u09be\u099c\u09c0\u0996\u09be\u09a8\u09be \u09b0\u09cb\u09a1, \u09aa\u09b6\u09cd\u099a\u09bf\u09ae \u0997\u09cc\u09b0\u09c0\u09aa\u09be\u09dc\u09be, \u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09c0, \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0\u0964 "
+        ],
+        [
+            27,
+            "SADIA HOSPITAL",
+            "HSM04107",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Adarsha Sadar, Comilla"
+        ],
+        [
+            28,
+            "SADIA MEMORIAL HOSPITAL",
+            "HSM30528",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Matihar",
+            "KHTAKHALI BAZAR, RAJSHAHI."
+        ],
+        [
+            29,
+            "SADIA MEMORIAL HOSPITAL \u200dAND DIAGNOSTIC CENTER",
+            "HSM92160",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Paba",
+            "KHTAKHALI BAZAR,KHTAKHALI , RAJSHAHI."
+        ],
+        [
+            30,
+            "Sadik Diagonistic Center",
+            "HSM24761",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari."
+        ],
+        [
+            31,
+            "SADIK DIGITAL DIAGNOSTIC CENTER",
+            "HSM64810",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Dowarabazar",
+            "HOSPITAL ROAD, DOWARABAZAR, SUNAMGANJ."
+        ],
+        [
+            32,
+            "Sadik Health Care ",
+            "HSM06698",
+            "Diagnostic Center",
+            "Category-B",
+            "Gaibandha",
+            "Gobindaganj",
+            "East Side of Womens College "
+        ],
+        [
+            33,
+            "SAF HOSPITAL",
+            "HSM55070",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Muzaborni 11 Mile, Debipur, Thakurgaon."
+        ],
+        [
+            34,
+            "Safa Diagnostic Center ",
+            "HSM64234",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Mirpur",
+            "Katdah, Puradah, Mirpur, Kushtia. "
+        ],
+        [
+            35,
+            "SAFA DIAGNOSTIC CENTER",
+            "HSM87821",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Bhatara",
+            "BHSK SHUN SHINE TOWER, 2ND FLOOR, PLOT#KA-49, 50, 50/4, 50/4/A, SHAHEED ABDUL AZIZ SHOROK, JOGONNATHPUR, VATARA, DHAKA."
+        ],
+        [
+            36,
+            "Safa General (Pvt.) Hospital",
+            "HSM88040",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            37,
+            "Safa General Diagnostic Center ",
+            "HSM96500",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            38,
+            "Safa General Hospital",
+            "HSM79107",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Mirpur",
+            "Katdah, Poradah, Mirpur, Kushtia"
+        ],
+        [
+            39,
+            "Safa Hospital And Diagnostic",
+            "HSM17364",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Islam Market (1st and 2nd floor), Town road, Central Bus Terminal, Jhenidah"
+        ],
+        [
+            40,
+            "safa madical and diagonostic centre",
+            "HSM70024",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "fulbaria mymensingh"
+        ],
+        [
+            41,
+            "Safa Marwa General Hospital & Diagnostic Center (Hospital)",
+            "HSM40765",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Kapasia",
+            "Upazila Road kapasia,Kapasia"
+        ],
+        [
+            42,
+            "Safa Marwa General Hospital & Diagnostic Centre(Diagnostic Centre)",
+            "HSM70303",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kapasia",
+            "Kapasia Bazar,Kapasia,Gazipur"
+        ],
+        [
+            43,
+            "Safa-Marwa Diagnostic & Consultation Center  ",
+            "HSM54973",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Jatrabari",
+            "82/6, North Jatrabari, Dhaka-1204"
+        ],
+        [
+            44,
+            "Safa-Marwa Hospital & Diagnostic Center  ",
+            "HSM72164",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "82/6, North Jatrabari, Dhaka-1204"
+        ],
+        [
+            45,
+            "SafaMakkah Poly Clinic.",
+            "HSM95078",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Harokandi, Faridpur."
+        ],
+        [
+            46,
+            "SafaMakkah PolyClinic (Pathology)",
+            "HSM52097",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Harokandi, Faridpur."
+        ],
+        [
+            47,
+            "Safarat Digital Diagnostic Center",
+            "HSM43297",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Bhurungamari",
+            "Mohila College Road, Bhurungamari, Kurigram"
+        ],
+        [
+            48,
+            "SAFAT CLINIC",
+            "HSM67919",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "Gohailbari Road, Tengori, B.K.S.P, Ashulia, Savar, Dhaka"
+        ],
+        [
+            49,
+            "SAFAT CLINIC & DIAGNOSTIC CENTER",
+            "HSM59019",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Gohailbari Road, Tengori, B.K.S.P, Ashulia, Savar, Dhaka"
+        ],
+        [
+            50,
+            "SAFE  MATERNITY CLINIC",
+            "HSM72528",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Kulaura",
+            "Rahman Villa(Behind Thana), Kulaura, Moulvibazar."
+        ],
+        [
+            51,
+            "Safe Aid General Hospital & Diagnostic Centre Ltd. ",
+            "HSM67200",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Jatrabari",
+            "Sonir Akra Bazar, Jatrabari,Dhaka. "
+        ],
+        [
+            52,
+            "Safe Aid General Hospital & Diagnostic Centre Ltd. ",
+            "HSM62973",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "Sonir Akra Bazar, Jatrabari,Dhaka. "
+        ],
+        [
+            53,
+            "Safe Care Diagnostic centre",
+            "HSM41597",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "West PaikPara,Brahmanbaria"
+        ],
+        [
+            54,
+            "Safe Care General Hospital & Diagnostic Centre",
+            "HSM99244",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Shyampur",
+            "106, West Dholairpar, Dhaka"
+        ],
+        [
+            55,
+            "Safe Care General Hospital & Diagnostic Centre",
+            "HSM26334",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Shyampur",
+            "106, West Dholairpar, Dhaka"
+        ],
+        [
+            56,
+            "Safe Care Medical Services & Diagnostic Center",
+            "HSM26600",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Natun Bazar, Barisal"
+        ],
+        [
+            57,
+            "Safe Coast Diagnostic & Consultation Center ",
+            "HSM63799",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Uttar Khan",
+            "155/A, Kanchkura Bazar, Uttarkhan, Dhaka 1230"
+        ],
+        [
+            58,
+            "SAFE DELIVERY HOSPITAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM06741",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat Bus Stand, Rajoir, Madaripur"
+        ],
+        [
+            59,
+            "SAFE DELIVERY HOSPITAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM84556",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat Bus Stand, Rajoir, Madaripur"
+        ],
+        [
+            60,
+            "SAFE DIAGNOSTIC & HEARING CENTRE",
+            "HSM55267",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "S.R. ROAD, SADAR, LKASHMIPUR."
+        ],
+        [
+            61,
+            "Safe Diagnostic center",
+            "HSM24210",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "10/a Lucky plaza, Dhaka  real state, mohammadpur, Dhaka-1207."
+        ],
+        [
+            62,
+            "SAFE DIAGNOSTIC CENTER",
+            "HSM93091",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Kulaura",
+            "Rahman Villa (Behind Thana), Kulaura, Moulvibazar."
+        ],
+        [
+            63,
+            "Safe Diagnostic Center.",
+            "HSM91026",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemongal Road Post,Upazila & Dist: Moulvibazar."
+        ],
+        [
+            64,
+            "safe diagonostic center ",
+            "HSM91478",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachhari",
+            "Panchhari",
+            "Vill: Puratan Logang Jeep Station, Panchari, Khagrachari. "
+        ],
+        [
+            65,
+            "SAFE DIGITAL DIAGNOSTIC CENTER",
+            "HSM26886",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "band road, barisal"
+        ],
+        [
+            66,
+            "Safe Health Diagnostic Center",
+            "HSM07777",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandanaish",
+            "Vill: Dohazari Municipality, P.O: Dohazari-4382, \r\nP.S: Chandanaish, Dist: Chittagong."
+        ],
+        [
+            67,
+            "Safe Hospital",
+            "HSM48018",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Stadium Road (Adjacent to the police outpost), sadar, Lakshmipur."
+        ],
+        [
+            68,
+            "Safe Hospital (Pathlogy)",
+            "HSM77158",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Stadium Road, Sadar, Lakshmipur"
+        ],
+        [
+            69,
+            "Safe hospital and Diagnostic center",
+            "HSM23749",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "\u09e7\u09e6/\u098f \u09b2\u09be\u0995\u09c0 \u09aa\u09cd\u09b2\u09be\u099c\u09be , \u09a2\u09be\u0995\u09be \u09b0\u09bf\u09df\u09c7\u09b2 \u098f\u09b8\u09cd\u099f\u09c7\u099f, \u09ac\u099b\u09bf\u09b2\u09be \u09b0\u09cb\u09a1, \u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6\u09aa\u09c1\u09b0,\u09a2\u09be\u0995\u09be-\u09e7\u09e8\u09e6\u09ed\u0964"
+        ],
+        [
+            70,
+            "SAFE IDEAL HEALTHCARE LTD",
+            "HSM64890",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Chandgaon",
+            "1516/1725, SHAH AMANAT BRIDGE CONNECTING ROAD, 1 KM, BAHADDARHAT, PS- CHANDGAON, CHATTAGRAM"
+        ],
+        [
+            71,
+            "SAFE IDEAL HEALTHCARE LTD",
+            "HSM14749",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Chandgaon",
+            "1516/1725, SHAH AMANAT BRIDGE CONNECTING ROAD, 1 KM, BAHADDARHAT, PS- CHANDGAON, CHATTAGRAM"
+        ],
+        [
+            72,
+            "SAFE LAND DIAGONISTIC CENTER ",
+            "HSM57073",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Double Mooring",
+            "2208, Mohosen Market, Kadorntoli Moor,\r\nDoublemoorIng, Chittagong\r\n"
+        ],
+        [
+            73,
+            "Safe Life Diagnostic & Diabetic Center",
+            "HSM20093",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Medicine Market, Purbo Bazar, Galachipa, Patuakhali."
+        ],
+        [
+            74,
+            "Safe Life Diagnostic Center",
+            "HSM98346",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Bagatipara",
+            "Malonchi Bazar, Bagatipara, Natore."
+        ],
+        [
+            75,
+            "Safe Life Diagnostic Centre",
+            "HSM29334",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kapasia",
+            "Bir Uzali,Kapasia,Gazipur."
+        ],
+        [
+            76,
+            "SAFE LIFE DIAGONSTIC CENTER",
+            "HSM46558",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Gazaria",
+            "BHABERCHAR HOSPITAL ROAD, GAZARIA, MUNSHIGANJ."
+        ],
+        [
+            77,
+            "SAFE LIFE DIGITAL DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM16706",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "Panchpukuria Bazar, Muradnagar, Cumilla"
+        ],
+        [
+            78,
+            "Safe Life Digital Diagnostic Centre",
+            "HSM19290",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Sundarganj",
+            "Bamondanga, Sundarganj, Gaibandha."
+        ],
+        [
+            79,
+            "Safe Life Hospital & Diagnostic Center",
+            "HSM32050",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhamrai",
+            "A-63/1/1, Choto Chandrail, Dhamrai, Dhaka"
+        ],
+        [
+            80,
+            "Safe Life Hospital & Diagnostic Center",
+            "HSM98693",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "A-63/1/1, Choto Chandrail, Dhamrai, Dhaka"
+        ],
+        [
+            81,
+            "SAFE LIFE PATHOLOGY",
+            "HSM98581",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Boalkhali",
+            "C/O- Safe Life Pathology, Vill- Bidagram, P.O- Kanungopara, P.S- Boalkhali, Dist- Chittagong."
+        ],
+        [
+            82,
+            "Safe Medical Center.",
+            "HSM07628",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Sadar Dakshin",
+            "Paduar Bazar Bissaroad, Sadar Dakshin, Cumilla"
+        ],
+        [
+            83,
+            "SAFELAND Diagnostic & Research Center",
+            "HSM87809",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chittagong Port",
+            "Shafi Building, Opposite CEPZ Gate, Airport Road, Bandar, Chittagram."
+        ],
+        [
+            84,
+            "SAFELAND Diagnostic & Research Center (Unit 2).",
+            "HSM50334",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chittagong Port",
+            "Hazi Tower, BandarTila, Airport Road, CEPZ, Chittagong."
+        ],
+        [
+            85,
+            "Safety Diagnostic & Hormone Center",
+            "HSM06679",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 979, Napiter Poll, Maijdee Bazar, Sadar, Noakhali"
+        ],
+        [
+            86,
+            "SAFEUAY DIAGNOSTIC COMPLEX",
+            "HSM41804",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "72/2 dhaka road, charpara,mymensingh\r\n"
+        ],
+        [
+            87,
+            "Safeway Eye & Dental Hospital",
+            "HSM86973",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mugda Para",
+            "55, Autish Dipankar Road, Dakkhin Mugda, Dhaka"
+        ],
+        [
+            88,
+            "SAFEWAY MEDICAL SERVICES",
+            "HSM78193",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "BLOCK #10 PLOT#76  MEDICAL COLLEGE ROAD UPHSHOR, DINAJPUR "
+        ],
+        [
+            89,
+            "SAFIA DIAGNOSTIC CENTER ",
+            "HSM31539",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Baraigram",
+            "Agran, Agran, Agran-6430 , Baraigram, Natore"
+        ],
+        [
+            90,
+            "SAFIA SOBHAN HOSPITAL LIMITED",
+            "HSM66706",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Sonaimuri",
+            "Safia Sobhan Tower, Chhatarpaiya Poschim Bazar, Sonaimuri Road, Sonaimuri, Noakhali "
+        ],
+        [
+            91,
+            "SAFIA SOBHAN HOSPITAL LIMITED",
+            "HSM40500",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Sonaimuri",
+            "Safia Sobhan Tower, Chhatarpaiya Poschim Bazar, Sonaimuri Road, Sonaimuri, Noakhali."
+        ],
+        [
+            92,
+            "SAFOLLO DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM18496",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Hat Gangopara, Bagmara, Rajshahi"
+        ],
+        [
+            93,
+            "Safwan General Hospital",
+            "HSM52787",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kamrangir Char",
+            "161, Pha , Ashrafabad, Ashrafabad, Kamrangir Char, Dhaka."
+        ],
+        [
+            94,
+            "Safwan General Hospital & Diagnostic Center",
+            "HSM13072",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kamrangir Char",
+            "161, pHA. Ashrafabad, Kamrangir Char, Dhaka"
+        ],
+        [
+            95,
+            "Sagar Kanya Digital Diagnostic Center",
+            "HSM36876",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            " \u09b9\u09c7\u09a4\u09be\u09b2\u09bf\u09df\u09be \u09ac\u09be\u0981\u09a7\u0998\u09be\u099f, \u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0 \u09b8\u09a6\u09b0, \u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0"
+        ],
+        [
+            96,
+            "SAGARDIGHI DIGITAL DIAGNOSTIC CENTER",
+            "HSM35798",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "SAGARDIGHI BAZAR, GHATAIL, TANGAIL."
+        ],
+        [
+            97,
+            "Sagardighi Health Center, Grameen Kalyan",
+            "HSM54972",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "Sagardighi Health Center, Sagardighi Bazar, Ghatail, Tangail "
+        ],
+        [
+            98,
+            "SAGARICA DIAGNOSTIC CENTER",
+            "HSM12478",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "Chowrangir More, Dak Banglo Road, Shariatpur"
+        ],
+        [
+            99,
+            "Sagarika Diagnostic Center",
+            "HSM23277",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Subarnachar",
+            "Charbata, Khaserhat, Subarnachar, Noakhali"
+        ],
+        [
+            100,
+            "SAGARIKA DIAGNOSTIC CENTRE",
+            "HSM64442",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Pahartali",
+            "RASTARU COMPLEX.808,D.T. ROAD,PAHARTALI,CHITTAGONG"
+        ]
+    ]
+}

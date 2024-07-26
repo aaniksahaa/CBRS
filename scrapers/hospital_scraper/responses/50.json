@@ -1,0 +1,1007 @@
+{
+    "draw": 50,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Farin Hospital ",
+            "HSM98805",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Paikgachha",
+            "Hospital Road, Paikgacha, Khulna. "
+        ],
+        [
+            2,
+            "Farin Lab & Consultation Center",
+            "HSM80538",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Paikgacha",
+            "Hospital Road, Paikgachha, Khulna."
+        ],
+        [
+            3,
+            "Farjana Anwar Diagnostic Center",
+            "HSM37479",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Sarail",
+            "Girls School Road,Sarail,Brahmanbaria"
+        ],
+        [
+            4,
+            "Farjana Clinic ",
+            "HSM48438",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Baghmara",
+            "Bhabanigonj Bazar, Bagmara, Rajshahi"
+        ],
+        [
+            5,
+            "Farjana Diagnostic Center",
+            "HSM18951",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Bhabanigonj Pourosova, Bagmara, Rajshahi"
+        ],
+        [
+            6,
+            "FARJANA MATERNITY CLINIC",
+            "HSM57772",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "102/110, Bagichagaon, Cumilla"
+        ],
+        [
+            7,
+            "FARJANA MATERNITY CLINIC",
+            "HSM30992",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "102/110, Bagichagaon, Cumilla"
+        ],
+        [
+            8,
+            "FARUK AL NASIR WELFARE HOSPITAL",
+            "HSM47972",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Kazipur",
+            "Vill- Sonamukhi, P.O- Sonamukhi Hat, P.S-Kazipur, Dist- Sirajganj"
+        ],
+        [
+            9,
+            "FARYAD DIAGNOSTIC AND HEALTH CARE CENTER",
+            "HSM61302",
+            "Diagnostic Center",
+            "Category-B",
+            "Dinajpur",
+            "Parbatipur",
+            "Gulshan Nagar, Natun Bazar, Parbatipur, Dinajpur, Rangpur."
+        ],
+        [
+            10,
+            "FARZANA CLINIC",
+            "HSM00708",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Palashpool, Jessore Road, Satkhira."
+        ],
+        [
+            11,
+            "Farzana Clinic & Diagonostic Center",
+            "HSM21664",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhalokathi",
+            "Nalchity",
+            "Hospital Road, Post & Police Station: Nalchity, District: Jhalakati, Bangladesh."
+        ],
+        [
+            12,
+            "FARZANA DIAGNOSTIC CENTER",
+            "HSM78007",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Palashpool, Jessore Road, Satkhira."
+        ],
+        [
+            13,
+            "Farzana Diagonostic Center",
+            "HSM88472",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhalokati",
+            "Nalchity",
+            "Hospital Road, Police Station: Nalchity, District: Jhalakati, Bangladesh."
+        ],
+        [
+            14,
+            "Fashion Diagnostic Center",
+            "HSM87049",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Charfession",
+            "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u0986\u0987\u099a\u09be \u09ac\u09be\u099c\u09be\u09b0, \u09b8\u09cc\u09a6\u09bf \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u099a\u09b0\u09ab\u09cd\u09af\u09be\u09b8\u09a8, \u09ad\u09cb\u09b2\u09be\u0964"
+        ],
+        [
+            15,
+            "Fashion Eye Hospital Ltd.",
+            "HSM50019",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sabujbagh",
+            "98/6/A Bara Moghbazar,Ramna, Dhaka-1217"
+        ],
+        [
+            16,
+            "FAST AID DIAGNOSTIC & CONSULTANT CENTER",
+            "HSM98161",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "House # 46, Road # 1, Dhap Jail Road, Rangpur."
+        ],
+        [
+            17,
+            "Fast Care Diagnostic Center",
+            "HSM27966",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "A. Hakim Chy Market (1st floor), Arkan Road, Padua Bazar, Lohagara, Chittagong."
+        ],
+        [
+            18,
+            "Fast Care Hospital Limited",
+            "HSM78172",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "69/P.Q, Bir Uttam Kazi Nuruzzaman Sarak, Panthapath, Kalabagan, Dhaka-1205"
+        ],
+        [
+            19,
+            "Fast Care Hospital Limited",
+            "HSM36376",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kalabagan",
+            "69/P.Q, Bir Uttam Kazi Nuruzzaman Sarak, Panthapath, Kalabagan, Dhaka-1205"
+        ],
+        [
+            20,
+            "Fast care Medical Center",
+            "HSM97190",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Noyonpur Bazar, Kasba, Brahmanbaria"
+        ],
+        [
+            21,
+            "Fast Care Medical Centre",
+            "HSM38043",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Pabna Sadar",
+            "Hospital Road, Thana Para, Pabna Sadar, Pabna"
+        ],
+        [
+            22,
+            "Fast Care Medical Services ",
+            "HSM66280",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Charfession",
+            "421, Hospital Road, Charfassion, Bhola."
+        ],
+        [
+            23,
+            "Fast Care Medical Services ",
+            "HSM25632",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bhola",
+            "Charfession",
+            "421, Hospital Road, Charfassion, Bhola."
+        ],
+        [
+            24,
+            "FAST CURE SPECIALIZED HOSPITAL & TRAUMA CENTER",
+            "HSM99305",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Cant. Public School Link Road, Medical More, Dhap Rangpur."
+        ],
+        [
+            25,
+            "Fast eye Hospital Board Bazar",
+            "HSM94469",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Board Bazar, Gazipur City Corporation, Gazipur. "
+        ],
+        [
+            26,
+            "FastCare Clinic, Diagnostic & Consultation  Centre",
+            "HSM98909",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sonatola",
+            "Haq Abash, Upazila Parishad Sarak,\r\nSonatola, Bogra\r\n"
+        ],
+        [
+            27,
+            "FastCare Clinic, Diagnostic & Consultation Centre",
+            "HSM55253",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sonatola",
+            "Haq Abash, Upazila Parishad Sarak,\r\nSonatola, Bogra."
+        ],
+        [
+            28,
+            "Fatama Clinic",
+            "HSM98439",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Shalikha",
+            "Hospital Gate, Teker Bazar, Shalikha, Magura"
+        ],
+        [
+            29,
+            "FATAMA CLINIC",
+            "HSM60729",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Narail Sadar",
+            "BAGDANGA BAZAR NARAIL SADAR.BANGLADESH>"
+        ],
+        [
+            30,
+            "Fatama Clinic & Nursing Home",
+            "HSM07480",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Bhandaria",
+            "Bhandaria, Pirojpur. "
+        ],
+        [
+            31,
+            "FATAMA CLINIC COMPLEX",
+            "HSM65172",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Bagherpara",
+            "Moslem Tower, Agroni Bank (3rd Floor), Bagherpara, Jashore"
+        ],
+        [
+            32,
+            "Fatama Diagnostic Center ",
+            "HSM67772",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Bhandaria",
+            "Bhandaria, Pirojpur."
+        ],
+        [
+            33,
+            "Fatama Diagnostic Center",
+            "HSM96218",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Shalikha",
+            "Hospital Gate, Teker Bazar, Shalikha, Magura"
+        ],
+        [
+            34,
+            "FATEHABAD CLINIC AND DIAGNOSTIC CENTRE",
+            "HSM89888",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Hathazari",
+            "Chowdhury hat,Fatehabad,Hathazari,ctg."
+        ],
+        [
+            35,
+            "FATEMA  CLINIC",
+            "HSM04666",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kumarkhali",
+            "kumarkhali kushtia"
+        ],
+        [
+            36,
+            "FATEMA  DIAGNOSTIC AND CONSULTATION CENTER",
+            "HSM24724",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dumuria",
+            "DUMURIA HOSPITAL ROAD,DUMURIA KHULNA,BANGLADEH."
+        ],
+        [
+            37,
+            "FATEMA (PVT) HOSPITAL",
+            "HSM69268",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Kaliganj",
+            "Kaliganj, Jhenaidah"
+        ],
+        [
+            38,
+            "FATEMA (RA.) MA O SHISHU SPECIALIZED HOSPITAL",
+            "HSM95786",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "1093, KHARAMPOTTI, KISHOREGANJ SADAR, KISHOREGANJ "
+        ],
+        [
+            39,
+            "FATEMA (RA.) MA O SHISHU SPECIALIZED HOSPITAL",
+            "HSM62037",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "1093, KHARAMPOTTI, KISHOREGANJ SADAR, KISHOREGANJ"
+        ],
+        [
+            40,
+            "FATEMA BEGUM GENERAL HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM56615",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "Permollikpur, Laxmipasha, Lohagara, Narail."
+        ],
+        [
+            41,
+            "FATEMA BUSHRA DIAGNOSTIC CENTRE",
+            "HSM81806",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "Shahid Azizar Rahman Street, Saidpur, Nilphamari."
+        ],
+        [
+            42,
+            "FATEMA CHIKITSHALAY & DIAGNOSTIC CENTRE",
+            "HSM47795",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Singra",
+            "Sagor Supar Market, Singra Busstand, Singra, Natore"
+        ],
+        [
+            43,
+            "Fatema Clinic",
+            "HSM85159",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Puthia",
+            "On the western side of Puthia Medical Gate, Puthia, Rajshahi"
+        ],
+        [
+            44,
+            "FATEMA CLINIC",
+            "HSM43728",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jhikargacha",
+            " Hospital More, College Road, Jhikargacha, Jessore"
+        ],
+        [
+            45,
+            "FATEMA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM89955",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "SHERPUR ROAD, KANOSGARI, BOGURA"
+        ],
+        [
+            46,
+            "FATEMA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM36821",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "SHERPUR ROAD, KANOSGARI, BOGURA"
+        ],
+        [
+            47,
+            "Fatema Clinic & Diagnostic Complex",
+            "HSM33785",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Bagha",
+            "Bagha Bazar, Bagha, Rajshahi"
+        ],
+        [
+            48,
+            "FATEMA CLINIC & DIAGONOSTIC CENTER",
+            "HSM31577",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Nandigram",
+            "SAMIR UDDIN MARKET, NANDIGRAM,BOGURA"
+        ],
+        [
+            49,
+            "FATEMA CLINIC & DIAGONOSTIC CENTER",
+            "HSM35282",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Nandigram",
+            "Samir uddin Market, Nandigram, Bogura"
+        ],
+        [
+            50,
+            "FATEMA CLINIC.",
+            "HSM52807",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jhikargachha",
+            "HOSPITAL MORE, COLLEGE ROAD, JHIKARGACHA, JESSORE"
+        ],
+        [
+            51,
+            "FATEMA DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM17896",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sonatola",
+            "SHIHIPUR BATTOLA, SONATALA, BOGURA"
+        ],
+        [
+            52,
+            "Fatema diagnostic center",
+            "HSM46146",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Prosadpur,Manda,Naogaon"
+        ],
+        [
+            53,
+            "Fatema Diagnostic Center",
+            "HSM64075",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Chaugachha",
+            "Jessore Road, Chaugachha,Jessore"
+        ],
+        [
+            54,
+            "Fatema Diagnostic Center",
+            "HSM04947",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "Kalikabarihat, Morreganj, Bagerhat"
+        ],
+        [
+            55,
+            "FATEMA DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM30211",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Patnitala",
+            "NAOGAON ROAD, PALSHA, NAZIPUR, PATNITALA, NAOGAON."
+        ],
+        [
+            56,
+            "FATEMA DIAGNOSTIC CENTER & HOSPITAL ",
+            "HSM44697",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Patnitala",
+            "NAOGAON ROAD, PALSHA, NAZIPUR, PATNITALA, NAOGAON."
+        ],
+        [
+            57,
+            "Fatema Diagnostic Center, Puthia, Rajshahi",
+            "HSM46186",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "On the western side of Puthia Medical Gate, Puthia, Rajshahi"
+        ],
+        [
+            58,
+            "Fatema Diagnostic Center.",
+            "HSM17521",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Sher-E Bangla Sarak, Hamdah, Jhenaidah"
+        ],
+        [
+            59,
+            "Fatema Diagnostic Center.",
+            "HSM97271",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Charghat",
+            "Charghat, Rajshahi"
+        ],
+        [
+            60,
+            "Fatema Diagnostic Complex",
+            "HSM14969",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Bagha",
+            "Bagha Bazar, Bagha, Rajshahi"
+        ],
+        [
+            61,
+            "FATEMA DIAGONOSTIC CENTER ",
+            "HSM96081",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Magura Sadar, Magura, Hospital para.Bangladesh."
+        ],
+        [
+            62,
+            "FATEMA DIGITAL DIAGNOSTIC CENTER",
+            "HSM29767",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "joynagar, Netrokona sadar, Netrokona"
+        ],
+        [
+            63,
+            "FATEMA GANI EYE HOSPITAL",
+            "HSM08599",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Hajiganj",
+            "Station Road, Primary Teachers Somiti Bhaban, Hajiganj, Chandpur."
+        ],
+        [
+            64,
+            "FATEMA GENERAL HOSPITAL",
+            "HSM82788",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Station Road, Medical Gate, Tongi, Gazipur Sadar, Gazipur. "
+        ],
+        [
+            65,
+            "Fatema General Hospital",
+            "HSM69862",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Rikabibazar, Munshiganj"
+        ],
+        [
+            66,
+            "Fatema General Hospital",
+            "HSM99560",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Rikabibazar, Munshiganj"
+        ],
+        [
+            67,
+            "Fatema General Hospital",
+            "HSM27331",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            68,
+            "Fatema General Hospital",
+            "HSM85035",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "Shajadpur,Sirajgonj."
+        ],
+        [
+            69,
+            "FATEMA LAB & CONSULTATION CENTER",
+            "HSM19044",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Tulsheghat Bazar, Gaibandha "
+        ],
+        [
+            70,
+            "FATEMA LAB & CONSULTATION CENTER",
+            "HSM60837",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "MEHAR KALIBARI BAZAR,SHAHRASTI,CHANDPUR"
+        ],
+        [
+            71,
+            "Fatema Mamotaz Clinic & Diagnostic Center",
+            "HSM40114",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Morrelganj",
+            "College Road, Word No-07\r\nMorrelgonj Paurasava"
+        ],
+        [
+            72,
+            "Fatema Medical Center",
+            "HSM93780",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "174, Tulasar, Shariatpur Sadar, Shariatpur."
+        ],
+        [
+            73,
+            "Fatema Medical Center",
+            "HSM18440",
+            "Diagnostic Center",
+            "Category-B",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "174, Tulashar, Shariatpur Sadar, Shariatpur."
+        ],
+        [
+            74,
+            "Fatema Memorial Diagnostic &  Medical Service",
+            "HSM30554",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dakshinkhan",
+            "\u09e8\u09df \u09a4\u09b2\u09be, \u09ac\u09bf\u09b8\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u09b9 \u09b6\u09aa\u09bf\u0982 \u0995\u09ae\u09aa\u09cd\u09b2\u09c7\u0995\u09cd\u09b8, \u09b6\u09be\u09b9 \u0995\u09ac\u09bf\u09b0 \u09ae\u09be\u099c\u09be\u09b0 \u09b0\u09cb\u09a1, \u0986\u099c\u09ae\u09aa\u09c1\u09b0, \u09a6\u0995\u09cd\u09b7\u09bf\u09a3\u0996\u09be\u09a8, \u09a2\u09be\u0995\u09be-\u09e7\u09e8\u09e9\u09e6\u0964 "
+        ],
+        [
+            75,
+            "Fatema Memorial Diagnostic &  Medical Service",
+            "HSM21681",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dakshinkhan",
+            "\u09e8\u09df \u09a4\u09b2\u09be, \u09ac\u09bf\u09b8\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u09b9 \u09b6\u09aa\u09bf\u0982 \u0995\u09ae\u09aa\u09cd\u09b2\u09c7\u0995\u09cd\u09b8, \u09b6\u09be\u09b9 \u0995\u09ac\u09bf\u09b0 \u09ae\u09be\u099c\u09be\u09b0 \u09b0\u09cb\u09a1, \u0986\u099c\u09ae\u09aa\u09c1\u09b0, \u09a6\u0995\u09cd\u09b7\u09bf\u09a3\u0996\u09be\u09a8, \u09a2\u09be\u0995\u09be-\u09e7\u09e8\u09e9\u09e6\u0964 "
+        ],
+        [
+            76,
+            "Fatema Memorial Hospital",
+            "HSM27913",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bhola",
+            "Bhola Sadar",
+            "Kali Bari Road Bhola Pourasava."
+        ],
+        [
+            77,
+            "FATEMA MODERN HOSPITAL",
+            "HSM54403",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Baby Stand, Tangail"
+        ],
+        [
+            78,
+            "FATEMA MODERN HOSPITAL",
+            "HSM68608",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "BABYSTAND, TANGAIL."
+        ],
+        [
+            79,
+            "fatema nursing home",
+            "HSM06739",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "97/12 kalibari road mymensingh\r\n"
+        ],
+        [
+            80,
+            "fatemadigital diagnostic center",
+            "HSM03409",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "haspital road, netrakona , Mymensingh."
+        ],
+        [
+            81,
+            "FATHE GAZI DIAGNOSTIC CENTER.",
+            "HSM25833",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Madhabpur",
+            "\u09b6\u09be\u09b9\u099c\u09c0\u09ac\u09be\u099c\u09be\u09b0, \u0993\u09df\u09be\u09ac\u09a6\u09be, \u09ae\u09be\u09a7\u09ac\u09aa\u09c1\u09b0,\u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            82,
+            "FATHEA DIGITAL DIAGNOSTIC CENTER",
+            "HSM22374",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "Gazi Tower (1st Floor), Main Road, Haziganj, Chandpur."
+        ],
+        [
+            83,
+            "FATHEPUR GREEN HEALTH HOSPITAL",
+            "HSM56861",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Hathazari",
+            "Madanhat,Fathepur,Hathazari,Chittagong"
+        ],
+        [
+            84,
+            "FATHEPUR GREEN HEALTH HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM04709",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "Madanhat,Fathepur,Hathazari,Chittagong"
+        ],
+        [
+            85,
+            "Father Boudreaus Medical Centre",
+            "HSM58816",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Kotwali",
+            "10, Mohim Das Road, Patherghata, Chittagong-4000"
+        ],
+        [
+            86,
+            "Father tonino memoril hospital",
+            "HSM19206",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "Aolatli, Habirbari, Bhaluka, Mymensingh"
+        ],
+        [
+            87,
+            "Father tonino memoril hospital",
+            "HSM53552",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Bhaluka",
+            "Aolatli, Habirbari, Bhaluka, Mymensingh"
+        ],
+        [
+            88,
+            "Fatickchari Popular Diagnostic Centre.",
+            "HSM69061",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Fatickchari City Centre, Bibirhat, Fatickchari, Chittagong. "
+        ],
+        [
+            89,
+            "Fatickchari Square Clinic & Diagnostic Center",
+            "HSM24715",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Fatikchari",
+            "Saheed Mahabubul Alam Road, Beside of Fatickchari 20 beds Hospital,  Fatickchari Pourashava, Chittagong. "
+        ],
+        [
+            90,
+            "FATIHA DIAGNOSTIC CENTER",
+            "HSM27086",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "bramopolly, sodor, mymensingh"
+        ],
+        [
+            91,
+            "Fatikchhari Clinic & Diagnostic Centre",
+            "HSM28297",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Fatikchari",
+            "Hospital Road, Nazirhat, Fatikchhari, Chittagong."
+        ],
+        [
+            92,
+            "Fatikchhari Clinic & Diagnostic Centre",
+            "HSM87282",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Hospital Road, Nazirhat, Fatikchhari, Chittagong."
+        ],
+        [
+            93,
+            "Fatikchhari Square Clinic & Diagnostic Center",
+            "HSM18408",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Fatikchari",
+            "Saheed Mahabubul Alam Road, Beside of Fatickchari 20 beds Hospital,  Fatickchari Pourashava, Chittagong. "
+        ],
+        [
+            94,
+            "Fatima Begum General Hospital",
+            "HSM75482",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narail",
+            "Lohagara",
+            "MOLLICPUR. Lohagara.Narail."
+        ],
+        [
+            95,
+            "Fatima Daigonestic Center",
+            "HSM70090",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jhikargacha",
+            "Gadkhali Bazar, Jhikargacha, Jashore"
+        ],
+        [
+            96,
+            "Fatima Diagnostic &  Consultation Center",
+            "HSM55675",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "SP banglow More, Polashpole, Satkhia"
+        ],
+        [
+            97,
+            "FATIMA DIAGNOSTIC CENTRE",
+            "HSM69158",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Purbadhala",
+            "Purbadhala Hospital Gate, Purbadhala, Netrakona."
+        ],
+        [
+            98,
+            "FATIMA DIAGNOTIC AND MEDICAL CENTRE",
+            "HSM95185",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Hazi Abdul Barek Road, Aganogor, South keranjgonj, Keranigonj, Dhaka."
+        ],
+        [
+            99,
+            "FATIMA DIGITAL DIAGNOSTIC CENTER",
+            "HSM78101",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Shyamnagar",
+            "Shahid Mukti Joddha Sarak, Badaghata, Shyamnagar, Satkhira."
+        ],
+        [
+            100,
+            "Fatima General Hospital ",
+            "HSM67860",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Station Road, Medical Gate, Tongi, Gazipur Sadar, Gazipur. "
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Google Map</title>
+    <style>
+        table {
+            width: 100%;
+        }
+        td {
+            padding: 0;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: 0;
+        }
+        input {
+            margin: 5px;
+            padding: 5px;
+        }
+    </style>
+    <script>
+        function updateMap() {
+            var lat = document.getElementById('lat').value;
+            var lon = document.getElementById('lon').value;
+            var iframe = document.getElementById('mapIframe');
+            iframe.src = 'https://maps.google.com/maps?q=' + lat + ',' + lon + '&output=embed';
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="lat" placeholder="Enter latitude (N)">
+    <input type="text" id="lon" placeholder="Enter longitude (E)">
+    <button onclick="updateMap()">Update Map</button>
+    <table>
+        <tr>
+            <td>
+                <iframe id="mapIframe" src="https://maps.google.com/maps?q=23.7130789,90.4011022&output=embed" allowfullscreen></iframe>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

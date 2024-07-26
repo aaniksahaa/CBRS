@@ -1,0 +1,1007 @@
+{
+    "draw": 73,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Joy Medical & Diagnostic Center",
+            "HSM71314",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Badarpur Bazar, Chandina, Comilla."
+        ],
+        [
+            2,
+            "JOY PATHOLOGY",
+            "HSM97176",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Kachua",
+            "Sinboard,Kachua,Bagerhat"
+        ],
+        [
+            3,
+            "Joya Diagnostic Center",
+            "HSM59720",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Bochaganj",
+            "School Road,Setabganj,Bochaganj,Dinajpur,Bangladesh."
+        ],
+        [
+            4,
+            "JOYA DIAGNOSTIC CENTER",
+            "HSM70130",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Sujanagar",
+            "133/B, Oposite of the Hospital Gate, Sujanagar, Pabna"
+        ],
+        [
+            5,
+            "JOYA DIAGNOSTIC CENTER",
+            "HSM01614",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Bakal,Satkhira."
+        ],
+        [
+            6,
+            "Joya Health Care Clinic & Diagnostic Center",
+            "HSM86311",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Durgapur",
+            "Hospital Mour, Durgapur, Netrakona"
+        ],
+        [
+            7,
+            "Joya Health Care Clinic & Diagnostic Center",
+            "HSM86504",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "Hospital Mour, Durgapur, Netrakona"
+        ],
+        [
+            8,
+            "JOYEETA  DENTAL CARE",
+            "HSM45580",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Tangail",
+            "Sakhipur",
+            "TakterChala Bazar, Sakhipur, Tangail"
+        ],
+        [
+            9,
+            "JOYEETA NEER MEDICAL CENTER (DRUG ADDICTION & PSYCHIATIC HOSPITAL)",
+            "HSM00132",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "21/18, Block-B, Babor Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            10,
+            "JOYETA DIAGNOSTIC COMPLEX ",
+            "HSM15322",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "GOSHPARA MORE,GPO-6000,RAJPARA, RAJSHAHI"
+        ],
+        [
+            11,
+            "Joynab Hospital ",
+            "HSM62404",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Baraigram",
+            "Gopalpur Road, Bonpara Bazar, Baraigram, Natore "
+        ],
+        [
+            12,
+            "Joynab Hospital (Diagnostic)",
+            "HSM05742",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Baraigram",
+            "Gopalpur Road, Bonpara Bazar, Baraigram, Natore."
+        ],
+        [
+            13,
+            "Joynal Pathology Centre, Homna.",
+            "HSM26478",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Homna",
+            "Homna Hospital Road, Homna, Comilla."
+        ],
+        [
+            14,
+            "Joypara Clinic & Diagnostic Complex Ltd",
+            "HSM91299",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dohar",
+            "Lotakhola Main road, Joypara, Dohar, Dhaka"
+        ],
+        [
+            15,
+            "Joypara Clinic & Diagnostic Complex Ltd",
+            "HSM97193",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "Lotakhola Main road, Joypara, Dohar, Dhaka"
+        ],
+        [
+            16,
+            "JOYPARA DIAGNOSTIC CENTRE",
+            "HSM24728",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "Hospital Gate, Joypara, Dohar, Dhaka-1330"
+        ],
+        [
+            17,
+            "Joypurhat Diabetic Association",
+            "HSM43384",
+            "Diagnostic Center",
+            "Category-C",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "joypurhat Diabetic Association,Babupara,Joypurhat,Bangladesh"
+        ],
+        [
+            18,
+            "Joypurhat Diagnostic & Dialysis Centre",
+            "HSM55727",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Poshu Hospital Road, Amtoli, Joypurhat Sadar, Joypurhat"
+        ],
+        [
+            19,
+            "Joypurhat Diagnostic & Dialysis Centre",
+            "HSM80954",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Poshu Hospital Road, Amtoli, Joypurhat "
+        ],
+        [
+            20,
+            "JOYTUN HOSPITAL",
+            "HSM62063",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Islambag, R.K. Road, Sadar,Rangpur."
+        ],
+        [
+            21,
+            "JP Seba Life Care",
+            "HSM12598",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Shahid Maolana market, 1st floor, High School road, Chatalpar Bazar, Nasirnagar, Brahmanbaria. "
+        ],
+        [
+            22,
+            "JS Diagnostic & Medical Checkup Centre",
+            "HSM31669",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Rampura",
+            "17, DIT Road, Chowdhurypara (1st Floor), Malibag, Rampura, Dhaka"
+        ],
+        [
+            23,
+            "JS Diagnostic & Medical Checkup Centre.",
+            "HSM28338",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "17, DIT Road, Chowdhurypara (1st Floor), Malibag, Rampura, Dhaka"
+        ],
+        [
+            24,
+            "Jubeda Life Care Diagnostic",
+            "HSM60321",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Court Station Road, Mutalib Chattar, Habiganj. "
+        ],
+        [
+            25,
+            "Jugajog Clinic & Diagnostic Center",
+            "HSM45107",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Biddakot Bazar,Nabinagar,Brahmanbaria"
+        ],
+        [
+            26,
+            "JUKTIKHOLA DIAGNOSTIC CENTER",
+            "HSM59504",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "JUKTIKHOLA, SADAR DAKSHIN, COMILLA"
+        ],
+        [
+            27,
+            "Jul Asfia Memorial Hospital",
+            "HSM99061",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Compelx Sarak,Vill: shakharia,Post: Saliabakpur,Banaripara,Barisal."
+        ],
+        [
+            28,
+            "Jul Asfia Memorial Hospital",
+            "HSM56850",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Banaripara",
+            "Complex Sarak,Vill: Shakharia,Post: Saliabakpur,Banaripara,Barishal"
+        ],
+        [
+            29,
+            "JUMAR JAMI DIAGNOSTIC ",
+            "HSM81453",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Proshadpur,Manda,Naogaon"
+        ],
+        [
+            30,
+            "JUMAR JAMI HOSPITAL",
+            "HSM86240",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Manda",
+            "Proshadpur,Manda,Naogaon"
+        ],
+        [
+            31,
+            "JUMMAN HELATH CENTER",
+            "HSM43432",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bajitpur",
+            "BAJITPUR BAZAR, BAJITPUR, KISHOREGANJ"
+        ],
+        [
+            32,
+            "JURI LAB AID DIGITAL DIAGNOSTIC AND CONSULTATION CENTER",
+            "HSM72594",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Juri",
+            "Haji Ramzan Ali Market, Bachirpur, Juri, Moulvibazar."
+        ],
+        [
+            33,
+            "Justice Amin Ahmed Trust",
+            "HSM15282",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "  Dhanmondi, Dhaka, Bangladesh"
+        ],
+        [
+            34,
+            "JUSTVISION DAIGNOSTIC SERVICE",
+            "HSM14140",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Karimganj",
+            "COLLEGE ROAD,KARIMGANJ,KISHOREGANJ"
+        ],
+        [
+            35,
+            "Juthi Diagnostic Centre ",
+            "HSM86189",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "isapura, Serajdikhan, Munshiganj"
+        ],
+        [
+            36,
+            "JYNPUR CLINIC                                                           ",
+            "HSM41193",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "AMBURA COMPLEX, JALKURY BUS STAND, SIDDIRGANJ, NARAYANGANJ"
+        ],
+        [
+            37,
+            "Jyoti Clinic",
+            "HSM23722",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Fakirhat",
+            "Manasa   Bazar,Fakirhat,Bagerhat"
+        ],
+        [
+            38,
+            "K C Diagnostic Centre Takerhat Branch",
+            "HSM05058",
+            "Diagnostic Center",
+            "Category-B",
+            "Madaripur",
+            "Rajoir",
+            "K C Tower, Takerhat, Rajoir, Madaripur"
+        ],
+        [
+            39,
+            "K I Digital Hospital and Diagnostic Center",
+            "HSM45182",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Panichatra, Shariatpur Road, Madaripur"
+        ],
+        [
+            40,
+            "K I Digital Hospital and Diagnostic Center",
+            "HSM92233",
+            "Diagnostic Center",
+            "Category-B",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Panichatra, Shariatpur Road, Madaripur"
+        ],
+        [
+            41,
+            "k k a General Hospital",
+            "HSM84555",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Phultala",
+            "Gilatala bazer ,jahanabad cant , khan jahan ali ,khulna"
+        ],
+        [
+            42,
+            "K M Lab and Consaltensi",
+            "HSM80638",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Muslim Nagor,Joypurhat sadar,Joypurhat"
+        ],
+        [
+            43,
+            "K R Dinajpur Lion Eye Hospital",
+            "HSM37014",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Vill: 2 no New Town  P.O: Sadar P.S: Sadar  Dist: Dinajpur"
+        ],
+        [
+            44,
+            "K. ALI MA O SHISHU HOSPITAL LTD.",
+            "HSM11216",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "House # 212, Jawtola, Cumilla."
+        ],
+        [
+            45,
+            "K. ALI MA O SHISHU HOSPITAL LTD.",
+            "HSM41679",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "House # 212, Jawtola, Cumilla."
+        ],
+        [
+            46,
+            "K.B. Diabetic & Consultation Center",
+            "HSM11376",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Turag",
+            "House-1, Khayertak Rana Bhola Main Road Block-E, Nimatnagar, Turag, Dhaka"
+        ],
+        [
+            47,
+            "K.H Memorial Hospital",
+            "HSM66596",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Nawabganj",
+            "Dolar Darga, Putimara, Nawabgonj, Dinajpur"
+        ],
+        [
+            48,
+            "K.H. Memorial Dignostic Center",
+            "HSM41457",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Nawabganj",
+            "Doral Darga, Putimara, Nawabgonj, Dinajpur."
+        ],
+        [
+            49,
+            "K.K.Hospital & Diagnostic Lab",
+            "HSM27404",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Sadar Hospital Road,Gazipur."
+        ],
+        [
+            50,
+            "K.K.Hospital & Diagnostic Lab",
+            "HSM61732",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Sadar Hospital Road,Gazipur"
+        ],
+        [
+            51,
+            "K.M.C. Hospital & Diagnostic Center",
+            "HSM78804",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Barishal Sadar",
+            "Khwaja Moinuddin Madrasa Complex, Bazar Road, Barisal."
+        ],
+        [
+            52,
+            "K.R. MALIK ADHUNIK DIAGNOSTIC CENTRE",
+            "HSM97298",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "IBRAHIMPUR, DAMURHUDA, CHUADANGA"
+        ],
+        [
+            53,
+            "K.R. MALIK ADHUNIK HOSPITAL",
+            "HSM68510",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chuadanga",
+            "Damurhuda",
+            "IBRAHIMPUR, DAMURHUDA, CHUADANGA"
+        ],
+        [
+            54,
+            "K.S.M Digital Diagnostic Center",
+            "HSM30443",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Sharsha",
+            "Gorpara, Sharsha, Jashore."
+        ],
+        [
+            55,
+            "Kabir Dental Care",
+            "HSM29080",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Coxs Bazar",
+            "Chakaria",
+            "Hospital Road, Chiringa, Chakaria, Coxs Bazar."
+        ],
+        [
+            56,
+            "KABIR PATHOLOGY & HEALTH SERVICE CENTER",
+            "HSM11771",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Raghunath Bazar, Sherpur Town, Sherpur."
+        ],
+        [
+            57,
+            "KABIRAJPUR DIAGNOSTIC CENTRE.",
+            "HSM08598",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "KABIRAJPUR MIA BARI, RAJOIR, MADARIPUR."
+        ],
+        [
+            58,
+            "KABIRHAT IBN SINA DIAGNOSTIC CENTER",
+            "HSM01137",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Kabirhat",
+            "Hospital Road, Kabirhat, Noakhali "
+        ],
+        [
+            59,
+            "Kabirhat Private Hospital",
+            "HSM10451",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Kabirhat",
+            "Hospital Road, Kabirhat, Noakhali"
+        ],
+        [
+            60,
+            "Kabirhat Private Hospital & Pathology",
+            "HSM08686",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Kabirhat",
+            "Hospital Road, Kabirhat, Noakhali"
+        ],
+        [
+            61,
+            "KACHAKATA MODERN CLINIC & DIAGNOSTIC CENTER",
+            "HSM54372",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Nageshwari",
+            "Uttoar Bus Stand, Kachakata, Kurigram. "
+        ],
+        [
+            62,
+            "kachikata Digital Diagnostic  Center",
+            "HSM35337",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Gurudaspur",
+            "Vill- Kachikata, P.o-Kachikata, P.s-  Gurudaspur,  Dist- Natore"
+        ],
+        [
+            63,
+            "Kachipara diagnostic center.",
+            "HSM47947",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Sahin Super Market, Kachipara, Bauphal, Patuakhali."
+        ],
+        [
+            64,
+            "KACHUA CITY PATH DIGITAL LAB & DIAGONSTIC CENTER",
+            "HSM04738",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Holding No-274, UHC Gate,Upazila Road,Kachua Municipality,Kachua,Chandpur."
+        ],
+        [
+            65,
+            "Kachua Islamia Digital Diagnostic Center  ",
+            "HSM85605",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Kachua Dhan Bazar, Kachua, Chandpur"
+        ],
+        [
+            66,
+            "KACHUA NEW LIFE DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM10413",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "\u0995\u099a\u09c3\u09c1\u09df\u09be \u09ac\u09bf\u09b6\u09cd\u09ac\u09b0\u09cb\u09a1, \u0995\u099a\u09c1\u09df\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be, \u0995\u099a\u09c1\u09df\u09be, \u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0\u0964"
+        ],
+        [
+            67,
+            "KACHUA TOWAR HOSPITAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM21629",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Kachua",
+            "HOSPITAL ROAD, KACHUA, CHANDPUR"
+        ],
+        [
+            68,
+            "KACHUA TOWAR HOSPITAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM36763",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "HOSPITAL ROAD, KACHUA, CHANDPUR"
+        ],
+        [
+            69,
+            "Kachua Trauma & General Hospital PVT",
+            "HSM17891",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Kachua Bishwo Road, Kachua, Chandpur"
+        ],
+        [
+            70,
+            "Kachua Trauma & General Hospital PVT",
+            "HSM51427",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Kachua",
+            "Kachua Bishwo Road, Kachua, Chandpur"
+        ],
+        [
+            71,
+            "Kadam Rasul Digital Lab & Consultation Center",
+            "HSM53044",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Bandar",
+            "7, T.Hossain Road, Nobigonj, Bandar, Narayangonj."
+        ],
+        [
+            72,
+            "KADAMTALI GENERAL HOSPITAL",
+            "HSM70807",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Kadamtali Pul, Adamjee Nagar, Siddirganj, Narayanganj"
+        ],
+        [
+            73,
+            "KADOMTOLI GENERAL HOSPITAL",
+            "HSM36956",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Kadomtoli, Keranigonj, Dhaka-1310"
+        ],
+        [
+            74,
+            "KADOMTOLI GENERAL HOSPITAL",
+            "HSM26018",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Kadomtoli, Keranigonj, Dhaka-1310"
+        ],
+        [
+            75,
+            "KAJIRHAT DIAGNOSTIC CENTER",
+            "HSM05440",
+            "Diagnostic Center",
+            "Category-B",
+            "Shariatpur",
+            "Zanjira",
+            "DUBISAYBOR BONDOR, JAJIRA, SHARIATPUR."
+        ],
+        [
+            76,
+            "Kakan Clinic",
+            "HSM15006",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Bhuapur",
+            "Darog Ali Market,\r\n Bhuapur, \r\nUpazila: Bhuapur\r\n Dt Tangail"
+        ],
+        [
+            77,
+            "KAKINA DIAGNOSTIC CENTER",
+            "HSM28449",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Kaliganj",
+            "Kakina, Kaliganj, Lalmonirhat"
+        ],
+        [
+            78,
+            "KAKONHAT GENERAL DIAGNOSTIC CENTER ",
+            "HSM26577",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Godagari",
+            "Vill: Kahonhat, P.o:  kakonhat-6000, Ps: Godagari, Dist: Rajshahi"
+        ],
+        [
+            79,
+            "KAKRI MEDICAL CENTER",
+            "HSM65384",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Kakri Tower, Miah Bazar, Chauddagram, Cumilla"
+        ],
+        [
+            80,
+            "Kalamridha Popular Digital Diagnostic Center.",
+            "HSM19596",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Bhanga",
+            "Kalamridha Bazar, Bhanga, Faridpur."
+        ],
+        [
+            81,
+            "Kalapara Clinic and Diagnostic Center",
+            "HSM50850",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Kalapara",
+            "Nachnapara Hospital Road, Kalapara"
+        ],
+        [
+            82,
+            "Kalapara Clinic and Diagnostic Center",
+            "HSM54031",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Nachnapara Hospital Road, Kalapara"
+        ],
+        [
+            83,
+            "Kalaroa Arogya Sadan Privet Hospital & Diagonastic Center",
+            "HSM38293",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Kalaroa",
+            "Hospital Road, Kalaroa, Satkhira."
+        ],
+        [
+            84,
+            "Kalaroa Arogya Sadan Privet Hospital & Diagonstic Center",
+            "HSM36652",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Kalaroa",
+            "Hospital Road,  Kalaroa ,Satkhira"
+        ],
+        [
+            85,
+            "Kalaroa Doctors Digital Diagnostic Center",
+            "HSM23956",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Kalaroa",
+            "Hospital Road, Kalaroa, Satkhira."
+        ],
+        [
+            86,
+            "Kalaroa Shishu O General Hospital Pvt",
+            "HSM86496",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Kalaroa",
+            "Amanullah College Road, Kalaroa, Satkhira"
+        ],
+        [
+            87,
+            "Kalatiya central hospital (pvt) Ltd.",
+            "HSM96570",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "fotenagor,kalatiya,keranigonj,dhaka"
+        ],
+        [
+            88,
+            "Kalatiya central hospital (pvt).Ltd.",
+            "HSM93788",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "fotenagor,kalatiya,keraniganj,dhaka."
+        ],
+        [
+            89,
+            "Kalatiya Modern Hospital (Pvt) Ltd.",
+            "HSM93275",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Bazar Road, Kalatiya, Keranigonj, Dhaka-1313."
+        ],
+        [
+            90,
+            "Kalatiya Modern Hospital Pvt. Ltd.",
+            "HSM86352",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Bazar Road, Kalatiya, Keranigonj, Dhaka-1313."
+        ],
+        [
+            91,
+            "KALIA CLINIC & DIAGNOSTIC CENTER ",
+            "HSM03958",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "Boyra Cross Road, Sonadanga, Khulna "
+        ],
+        [
+            92,
+            "KALIA CLINIC & DIAGNOSTIC CENTER ",
+            "HSM95702",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Sonadanga",
+            "Boyra Cross Road, Khulna"
+        ],
+        [
+            93,
+            "Kalia Surgical Clinic & Diagnostic Center",
+            "HSM31341",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Kalia",
+            "Kalia, Narail."
+        ],
+        [
+            94,
+            "Kalia Surgical Clinic and Diagnostic Center",
+            "HSM02410",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Kalia",
+            "Kalia, Narail, Bangladesh "
+        ],
+        [
+            95,
+            "Kaliakair Central Hospital & Diagnostic Centre(Pvt.)",
+            "HSM06644",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kaliakair",
+            "Dhaka Tangail  Road,Kaliakair,Gazipur"
+        ],
+        [
+            96,
+            "Kaliakair Central Hospital & Diagnostic Centre(Pvt.)",
+            "HSM75772",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kaliakair",
+            "Dhaka Tangail  Road,Kaliakair,Gazipur"
+        ],
+        [
+            97,
+            "KALIGANJ SURGICAL CLINIC & DIAGNOSTIC CENTRE",
+            "HSM72275",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Kaliganj",
+            "Hospital Road,Kaliganj, Satkhira"
+        ],
+        [
+            98,
+            "Kaligonj Adhunik Hospital & Diagnostic Center",
+            "HSM41471",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kaliganj",
+            "Puraton Banker Mor,Post Office Road,Dorishome,Kaligonj,Gazipur."
+        ],
+        [
+            99,
+            "Kaligonj Adhunik Hospital & Diagnostic Centre",
+            "HSM45233",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kaliganj",
+            "Puraton Banker More,Post office road,Dorishome ,Kligonj,Gazipur."
+        ],
+        [
+            100,
+            "KALIGONJ CENTRAL HOSPITAL",
+            "HSM69616",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Kaliganj",
+            "Kaligonj Gazipur"
+        ]
+    ]
+}

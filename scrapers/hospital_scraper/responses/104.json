@@ -1,0 +1,1007 @@
+{
+    "draw": 104,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Narsindi Adhunik Eye Hospital & Medical Services ",
+            "HSM90665",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "50, Nagoria kandi, UMC Jute Mills gate, Narsingdi"
+        ],
+        [
+            2,
+            "Narsingdi Ad-din Diagnostic and Consultation Center",
+            "HSM27425",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "35, Shahid Sattar Sorok, Station Road, Narsingdi,Dhaka, Bangladesh"
+        ],
+        [
+            3,
+            "Narsingdi Adhunik Eye Hospigtal & Medical Services",
+            "HSM21017",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "50, Nagoriakandi, UMC Jute Mills Gate, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            4,
+            "NARSINGDI ADHUNIK HOSPITAL",
+            "HSM65839",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "37, Torowa, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            5,
+            "NARSINGDI ADHUNIK HOSPITAL",
+            "HSM78942",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "37, Torowa, Narsingdi Sardar, Narsingdi"
+        ],
+        [
+            6,
+            "Narsingdi City Hospital",
+            "HSM39375",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Bashail, (Near Zila Hospital South Site), Narsingdi"
+        ],
+        [
+            7,
+            "Narsingdi City Hospital",
+            "HSM01712",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Bashail (Near Zila Hospital south site), Narsingdi"
+        ],
+        [
+            8,
+            "Narsingdi Diabetic & General Hospital",
+            "HSM81130",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Baniachal, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            9,
+            "Narsingdi Diabetic & General Hospital",
+            "HSM76192",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Baniachal, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            10,
+            "NARSINGDI DIAGNOSTIC CENTRE",
+            "HSM31344",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "251, Bashail, Narsingdi"
+        ],
+        [
+            11,
+            "Narsingdi Eye Care",
+            "HSM27806",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "150/12, Court Road, Bilashdi, Narsingdi"
+        ],
+        [
+            12,
+            "Narsingdi Eye Hospital ",
+            "HSM21544",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Basail,  Jartola, Shapla Chatter  Road,  Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            13,
+            "Narsingdi General Hospital",
+            "HSM33055",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "89/1, Taroa, DC Road, Narsingdi."
+        ],
+        [
+            14,
+            "Narsingdi General Hospital & Diagnostic Center",
+            "HSM39205",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "89, Taroa, DC Road, Narsingdi."
+        ],
+        [
+            15,
+            "Narsingdi Green Life (PVT) Hospital & Diagnostic Centre",
+            "HSM21434",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Sawdagor Mension, Old Bus stand, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            16,
+            "Narsingdi Green Life (PVT) Hospital & Diagnostic Centre",
+            "HSM31566",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Sawdagor Mension, Old Bus stand, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            17,
+            "Narsingdi IBN Sina General (Pvt.) Hospital",
+            "HSM09357",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "H E Tower, 25/1 Bashail Railgate, Torowa, Narsingdi "
+        ],
+        [
+            18,
+            "Narsingdi IBN Sina General (Pvt.) Hospital",
+            "HSM25815",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "H E Tower, 25/1 Bashail Railgate, Torowa, Narsingdi"
+        ],
+        [
+            19,
+            "NARSINGDI ISLAMIA EYE HOSPITAL",
+            "HSM43191",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Satirpara, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            20,
+            "Narsingdi Janoprio Hospital",
+            "HSM08316",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Basail (Near Eidgah Field), Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            21,
+            "Narsingdi Janoprio Hospital",
+            "HSM41994",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "47 Basail (Near Eidgha Field,) Narsingdi Sadar, Narsingdi."
+        ],
+        [
+            22,
+            "NARSINGDI LABAID GENERAL(PVT.) HOSPITAL",
+            "HSM43931",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "37/5, Jishan Tower, Torowa, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            23,
+            "Narsingdi Specialised Diabetic & Diagnostic Centre",
+            "HSM43045",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "37/2 Taroa, Bash Bazar, Jalkana Mour, Narsingdi Sadar, Narsingdi."
+        ],
+        [
+            24,
+            "NARSUNDA RIVERVIEW CLINIC &  DIAGNOSTIC  SERVICE",
+            "HSM22447",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "ISHAQ PLAZA,STATION ROAD, PURAN THANA, KISHOREGONJ"
+        ],
+        [
+            25,
+            "NARSUNDA RIVERVIEW CLINIC & DIAGNOSTIC SERVICES",
+            "HSM41039",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "ISHAQ PLAZA,STATION ROAD, PURAN THANA,KISHOREGONJ"
+        ],
+        [
+            26,
+            "Nas Hospital",
+            "HSM26666",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "ESSENTIAL DRUGS LANE, THANTHANIA, BOGURA SADAR, BOGURA"
+        ],
+        [
+            27,
+            "Nasima Alauddin Diagnostatic and Consultation Center",
+            "HSM71167",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Kamarkhanda",
+            "Konabari College mor, Bagbari. kamarkhand, sirajganj"
+        ],
+        [
+            28,
+            "NASIMA DENTAL CARE",
+            "HSM41090",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Sunamganj",
+            "Jagannathpur",
+            "Hospital Pont, Jagonnathpur, Sunamganj"
+        ],
+        [
+            29,
+            "Nasima Dental Care",
+            "HSM74723",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Habiganj",
+            "Nabiganj",
+            "Osmani Road, Nabiganj Municipility, Nabiganj, Habiganj"
+        ],
+        [
+            30,
+            "NASIMA DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM70810",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Board Bazar,National University,Gazipur"
+        ],
+        [
+            31,
+            "NASIMA DIAGNOSTIC CENTRE",
+            "HSM60273",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Soinic More, Sharishabari Road, Dikpait Upa shahar, Jamalpur Sadar, Jamalpur"
+        ],
+        [
+            32,
+            "Nasima Medical and Diagnostic Center",
+            "HSM50784",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Rampura",
+            "476/C D.I.T Road, Malibagh, Dhaka-1217"
+        ],
+        [
+            33,
+            "NASIR DENTAL CARE",
+            "HSM13495",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Tangail",
+            "Sakhipur",
+            "Baro Chouna Bazar, Sakhipur, Tangail. "
+        ],
+        [
+            34,
+            "Nasir Uddin Medical  & Diagnostic Center",
+            "HSM86558",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Shikder Mansion, College Road, Zirani Bazar, Ashulia, Savar, Dhaka, Bangladesh"
+        ],
+        [
+            35,
+            "Nasir Uddin Medical Centre",
+            "HSM36360",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "Shikder Mansion, College Road, Zirani Bazar, Ashulia, Savar, Dhaka, Bangladesh"
+        ],
+        [
+            36,
+            "NASIR UDDIN MEMORIAL HOSPITAL ",
+            "HSM17360",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Rupsa",
+            "Khanjahan Ali Bridge Road, Jabusha, Rupsha, Khulna"
+        ],
+        [
+            37,
+            "Nasirnagar Adunik Hospital pvt.ltd",
+            "HSM22113",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Nasirnagar,Brahmanbaria"
+        ],
+        [
+            38,
+            "Nasirnagar Adunik Hospital pvt.ltd",
+            "HSM97777",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Nasirnagar,Brahmanbaria"
+        ],
+        [
+            39,
+            "Nasirnagar Digital Diagnostic Center.",
+            "HSM84985",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Nasirnagar,Brahmanbaria"
+        ],
+        [
+            40,
+            "Nasirnagar Sheba Diagnostic Center",
+            "HSM00969",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Nasirnagar,Brahmanbaria"
+        ],
+        [
+            41,
+            "Nassa Diagnostic Center",
+            "HSM29087",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Noapara, Rajapur, Laksam, Comilla"
+        ],
+        [
+            42,
+            "Nassa Hospital",
+            "HSM49135",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Laksam",
+            "Noapara, Rajapur, Laksam, Comilla."
+        ],
+        [
+            43,
+            "NATH DENTAL CARE",
+            "HSM86906",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Purbo Medda A Rosul Plaza (2nd floor) Brahmanbaria"
+        ],
+        [
+            44,
+            "Nath Dental Surgeory",
+            "HSM73700",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Mosjid Road,Brahmanbaria"
+        ],
+        [
+            45,
+            "Natherpetua General Hospital",
+            "HSM73305",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Monoharganj",
+            "Natherpetua, Monoharganj, Cumilla"
+        ],
+        [
+            46,
+            "Natherpetua General Hospital",
+            "HSM80911",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Monoharganj",
+            "Natherpetua, Monoharganj, Cumilla"
+        ],
+        [
+            47,
+            "NATHERPETUA MODERN DIAGNOSTIC CENTER",
+            "HSM40135",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Monoharganj",
+            "Natherpetua, Monoharganj, Cumilla"
+        ],
+        [
+            48,
+            "natinal nursing home",
+            "HSM57428",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "76 / A Brakshapalli Road Baghmara (Hiru Mia Alley) Mymensingh"
+        ],
+        [
+            49,
+            "National  Diagnostic Center ",
+            "HSM65039",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Bhairab",
+            "Dhaka-Sylhet Highway, Kamalpur, Bhairab, Kishoreganj."
+        ],
+        [
+            50,
+            "National Clinic",
+            "HSM27557",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Kabirhat",
+            "B.K.M Road, Kabir Hat, Noakhali."
+        ],
+        [
+            51,
+            "National Clinic and Diagnostic Centre",
+            "HSM42972",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sherpur",
+            "Dunot More, Sherpur, Bogura"
+        ],
+        [
+            52,
+            "National Community Hospital",
+            "HSM90095",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "M.P. check Post Post, R.K. Road, Dhap, Rangpur. "
+        ],
+        [
+            53,
+            "National Diabetes & Medical Centre",
+            "HSM16596",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kapasia",
+            "Collage Road, Kapasia, Gazipir"
+        ],
+        [
+            54,
+            "National Diagnostic & Consultation Center",
+            "HSM15801",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Khulna Sadar",
+            "269/1, Khan Jahan Ali Road, Khulna-9100"
+        ],
+        [
+            55,
+            "NATIONAL DIAGNOSTIC & HEALTH CENTER ",
+            "HSM42463",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Kutubdia",
+            "West side of Janata Bank, Medical Gate,2 no word,Baragop-4720, Kutubdia, Coxs Bazar."
+        ],
+        [
+            56,
+            "National Diagnostic & Medical Services",
+            "HSM30873",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Bhanga Raster Mor, Faridpur."
+        ],
+        [
+            57,
+            "National Diagnostic and Health centre ",
+            "HSM37721",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "Kuchiamora,Bheramara, Kushtia "
+        ],
+        [
+            58,
+            "National Diagnostic and Medical Services",
+            "HSM36454",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "18, Mir Mosarraf Hossain road, (Infornt of Kushtia Govt. College), Courtpara, Kushtia."
+        ],
+        [
+            59,
+            "National Diagnostic Center",
+            "HSM17299",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Bangla School Moor, Sadar Road, Bhola."
+        ],
+        [
+            60,
+            "National Diagnostic Center",
+            "HSM54858",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Goalanda",
+            "Goalunda, Rajbari."
+        ],
+        [
+            61,
+            "National Diagnostic Center",
+            "HSM42507",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Udoy Sadhur Hat, Village- West Char Motua, P.O. Sofigonj, Upazilla- Sadar, Dist. Noakhali"
+        ],
+        [
+            62,
+            "NATIONAL DIAGNOSTIC CENTER",
+            "HSM27356",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "HOSPITAL GET,KOTALIPARA,GOPALGANJ"
+        ],
+        [
+            63,
+            "NATIONAL DIAGNOSTIC CENTER",
+            "HSM16983",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "77/1 charpara bylane, sadar, mymensingh"
+        ],
+        [
+            64,
+            "National Diagnostic Center",
+            "HSM43980",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            65,
+            "National Diagnostic Center",
+            "HSM14777",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "213/1, Sere-E-Bangla Road, Rayar Bazar, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            66,
+            "National Diagnostic Center & Doctor`s Chamber",
+            "HSM90366",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            " Near Chan Mastan Maszar, Gur Patty ,Sreenagar, Munshigonj"
+        ],
+        [
+            67,
+            "NATIONAL DIAGNOSTIC CENTRE",
+            "HSM20753",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "J.M SEN GUPTA ROAD, CHANDPUR"
+        ],
+        [
+            68,
+            "NATIONAL DIAGNOSTIC CENTRE",
+            "HSM22917",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Sylhet Sadar",
+            "33 ARNOB, MIRER MOIDAN, SYLHET-3100."
+        ],
+        [
+            69,
+            "NATIONAL DIAGNOSTIC CENTRE ",
+            "HSM68803",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Ghior",
+            "Vil.-Ghior, P.O.-Ghior, P.S.-Ghior, District-Manikganj."
+        ],
+        [
+            70,
+            "NATIONAL DIAGNOSTIC CENTRE",
+            "HSM91957",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sherpur",
+            "TOLAR GAETE, DHUNAT MORE, SHERPUR, BOGURA."
+        ],
+        [
+            71,
+            "National Diagnostic Centre",
+            "HSM35054",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Tahirpur",
+            "Surjergoan, Tahirpur, Sunamganj"
+        ],
+        [
+            72,
+            "National Diagnostic Centre",
+            "HSM43210",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Shohid Miner Moor, Balubari, Sadar, Dinajpur"
+        ],
+        [
+            73,
+            "NATIONAL DIAGNOSTIC CENTRE, PABNA",
+            "HSM40086",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 892, Hospital Road, Shalgaria, Pabna Sadar, Pabna"
+        ],
+        [
+            74,
+            "National Diagnostic Complex",
+            "HSM60531",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "3/12 Humayun Road,Mohammadpur, Dhaka- 1207"
+        ],
+        [
+            75,
+            "National Diagnostic Complex",
+            "HSM80621",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Santi Nogor Para,Hamdha,Jhenaidah"
+        ],
+        [
+            76,
+            "NATIONAL DIAGONSTIC CENTER",
+            "HSM29892",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "514-1 \u09b8\u09c1\u09ab\u09bf \u09ae\u099e\u09cd\u099c\u09bf\u09b2, \u09ae\u09c7\u0987\u09a8 \u09b0\u09cb\u09a1, \r\n\u0986\u09ae\u09bf\u09b0\u09be\u09ac\u09be\u09a6, \u09b2\u09cb\u09b9\u09be\u0997\u09be\u09dc\u09be, \u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae\u0964"
+        ],
+        [
+            77,
+            "National Digital Clinic",
+            "HSM33016",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Diabetic Hospital Road, Sabalia, Tangail, Bangladesh"
+        ],
+        [
+            78,
+            "National Eye Hospital & Phaco Center ",
+            "HSM44503",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 524, Nahar Building, New Bus Stand, Maijdee Court, Sadar, Noakhali.  "
+        ],
+        [
+            79,
+            "National Genaral  Hoapital",
+            "HSM43105",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "\u09b0\u09ae\u099c\u09be\u09a8 \u0986\u09b2\u09c0 \u0995\u09b2\u09c7\u099c \u09b0\u09cb\u09a1 , \u09ac\u09be\u09b8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 , \u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            80,
+            "National General  Hospital",
+            "HSM95285",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "\u09b0\u09ae\u099c\u09be\u09a8 \u0986\u09b2\u09c0 \u0995\u09b2\u09c7\u099c \u09b0\u09cb\u09a1, \u09ac\u09be\u09b8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u09a1, \u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            81,
+            "NATIONAL GENERAL & CHILD HOSPITAL",
+            "HSM26048",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "142/2, Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            82,
+            "NATIONAL GENERAL & SHISHU HOSPITAL",
+            "HSM29173",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            83,
+            "National general hospital & diabetic care",
+            "HSM08089",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishorgonj",
+            "Bhairab",
+            "Dhaka-Sylhet Highway, Kamalpur, Bhairab, Kishoreganj."
+        ],
+        [
+            84,
+            "NATIONAL GENERAL HOSPITAL AND DIAGNOSTIC CENTER (PVT.)",
+            "HSM99064",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "MIRZAPUR, TANGAIL"
+        ],
+        [
+            85,
+            "NATIONAL GENERAL HOSPITAL AND DIAGNOSTIC CENTER (PVT.)",
+            "HSM23984",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Mirzapur",
+            "MIRZAPUR, TANGAIL"
+        ],
+        [
+            86,
+            "National General Hospital and Diagnostic Centre",
+            "HSM43190",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Amtoly,Sadar Road ,Joypurhat"
+        ],
+        [
+            87,
+            "National General Hospital and Diagnostic Centre",
+            "HSM52735",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Amtoly,Sadar Road ,Joypurhat"
+        ],
+        [
+            88,
+            "National Health Care General Hospital ",
+            "HSM13771",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "22/14,Block-B, Khiljee Road, Shyamoli, Mohammadpur,Dhaka-1207"
+        ],
+        [
+            89,
+            "National Heart & Health Care Centre ",
+            "HSM60121",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Mir Mahal, Mission Road, Chandpur."
+        ],
+        [
+            90,
+            "National Heart Foundation Hospital and  Research Institute ",
+            "HSM39072",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "Plot # 7/2, Section # 2, Mirpur, Dhaka-1216, Bangladesh"
+        ],
+        [
+            91,
+            "National Heart Foundation Hospital and Research Institute",
+            "HSM47383",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "Plot-7/2, Section-2, Mirpur, Dhaka-1216"
+        ],
+        [
+            92,
+            "National Heart Foundation Hospital and Research Institute",
+            "HSM06418",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "26/4, Darus Salam Road, Mirpur, Dhaka-1216"
+        ],
+        [
+            93,
+            "National Heart Foundation Hospital and Resrarch Institute",
+            "HSM73382",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "26/4, Darus Salam Road, Mirpur-1, Dhaka-1216"
+        ],
+        [
+            94,
+            "National Heart Foundation Hospital and Resrarch Institute",
+            "HSM28548",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "26/4, Darus Salam Road, Mirpur-1, Dhaka-1216"
+        ],
+        [
+            95,
+            "National Heart Foundation Hospital Sylhet",
+            "HSM15644",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "East Shahi Eidgha"
+        ],
+        [
+            96,
+            "National Heart Foundation Hospital Sylhet",
+            "HSM49642",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "East Shahi Eidgha"
+        ],
+        [
+            97,
+            "National Heart Foundation Medical Centre, Rajshahi",
+            "HSM15078",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "618 Sher Shah Road, Laxmipur, GPO-6000, Rajpara , Rajshahi."
+        ],
+        [
+            98,
+            "NATIONAL HOSPITAL",
+            "HSM68705",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Comilla Sadar Dakshin",
+            "Janglia Bus Stand, Laksam Road, Sadar South, Comilla"
+        ],
+        [
+            99,
+            "NATIONAL HOSPITAL",
+            "HSM34938",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Comilla Sadar Dakshin",
+            "Janglia Bus Stand, Laksam Road, Sadar South, Comilla"
+        ],
+        [
+            100,
+            "National Hospital",
+            "HSM19476",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Chandragonj Purbo Bazar, Begumgonj, Noakhali"
+        ]
+    ]
+}

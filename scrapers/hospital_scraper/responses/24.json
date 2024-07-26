@@ -1,0 +1,1007 @@
+{
+    "draw": 24,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "BARGUNA KUWAIT PROBASI HOSPITAL,MIRZAGANJ BRANCH",
+            "HSM36732",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Mirzaganj",
+            "KHALISA KHALI BAZAR,MIRZAGANJ,PATUAKHALI"
+        ],
+        [
+            2,
+            "Barguna Modern Central Hospital Ltd.",
+            "HSM91700",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barguna",
+            "Barguna Sadar",
+            "College road, Barguna Sadar, Barguna."
+        ],
+        [
+            3,
+            "Baridhara General Hospital Ltd. ",
+            "HSM04449",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Gulshan",
+            "Ka-54/1 Progoti Sharoni, Nadda, Gulshan, Dhaka-1212"
+        ],
+        [
+            4,
+            "Baridhara General Hospital Ltd. ",
+            "HSM37454",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gulshan",
+            "Ka-54/1 Progoti Sharoni, Nadda, Gulshan, Dhaka-1212"
+        ],
+        [
+            5,
+            "Barind Hospital Unit-2 Ltd.",
+            "HSM86733",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, Rajshahi"
+        ],
+        [
+            6,
+            "Barind Hospital Unit-2 Ltd. Pathology",
+            "HSM60799",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, Rajshahi"
+        ],
+        [
+            7,
+            "Barind Medical College Hospital ",
+            "HSM24410",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Rajshahi",
+            "Boalia",
+            "179/1, Chhoto Bongram, Chandrima, Rajshahi-6207"
+        ],
+        [
+            8,
+            "Barind Medical College Hospital Pathology",
+            "HSM94905",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Boalia",
+            "179/1 Choto bongram, Chandrima, Rajshahi-6207"
+        ],
+        [
+            9,
+            "Barind Medical Collge Hospital  Blood Bank",
+            "HSM54949",
+            "Blood Bank",
+            "",
+            "Rajshahi",
+            "Boalia",
+            "Choto Bongram, Chandrima, Rajshahi-6207"
+        ],
+        [
+            10,
+            "Barisal Blood Bank and Transfusion Centre",
+            "HSM78595",
+            "Blood Bank",
+            "",
+            "Barishal",
+            "Barishal Sadar",
+            "South Alekanda, Barisal"
+        ],
+        [
+            11,
+            "Barisal C.T Centre Ltd.",
+            "HSM93354",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Power House Road, Patuakhali"
+        ],
+        [
+            12,
+            "BARISAL CENTRAL HOSPITAL & DIAGNOSTIC CENTERE(MCC)",
+            "HSM83958",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Barishal",
+            "Barisal Sadar",
+            "783,shantiplaza,c&b Road, Barisal"
+        ],
+        [
+            13,
+            "BARISHAL ADHUNIK EYE HOSPITAL",
+            "HSM48376",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barishal Sadar",
+            "1 No. C& B Pol, Barishal"
+        ],
+        [
+            14,
+            "BARISHAL AN NUR AL BORG HEALTH CHECKUP CENTRE",
+            "HSM41613",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Barishal",
+            "Barishal Sadar",
+            "Sreenath chaterjee Lane, Barishal Sadar,  Barishal, Bangladesh"
+        ],
+        [
+            15,
+            "Barishal C.T Centre",
+            "HSM97039",
+            "Diagnostic Center",
+            "Category-A",
+            "Barishal",
+            "Barishal Sadar",
+            "Band Road, Barishal Sader, Barishal."
+        ],
+        [
+            16,
+            "BARISHAL CENTARL HOSPITAL &DIAGNOSTIC CENTERE",
+            "HSM41284",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "783, shantiplaza, c&b road,barisal"
+        ],
+        [
+            17,
+            "BARISHAL CENTARL HOSPITAL &DIAGNOSTIC CENTERE",
+            "HSM55932",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Barisal Sadar",
+            "783, Shantiplaza,C&B Road, Barisal"
+        ],
+        [
+            18,
+            "BARISHAL CITY GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM36367",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "BANDROAD, BARISHAL"
+        ],
+        [
+            19,
+            "BARISHAL CITY GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM40034",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "BAND ROAD, BARISHAL"
+        ],
+        [
+            20,
+            "BARISHAL EYE CARE HOSPITAL",
+            "HSM62706",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Barishal Sadar",
+            "SAGORDI BAZAR, SADAR, BARISHAL"
+        ],
+        [
+            21,
+            "Barishal Health Care Clinic & Diagnostic Center",
+            "HSM61430",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Parara Road, Girza Mahalla, Barishal Sader, Barishal."
+        ],
+        [
+            22,
+            "Barishal Health Care Clinic & Diagnostic Center",
+            "HSM20614",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barishal Sadar",
+            "Parara Road, Girza Mahalla, Barishal Sader, Barishal."
+        ],
+        [
+            23,
+            "BARISHAL ISLAMI EYE HOSPITAL",
+            "HSM62977",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barisal",
+            "Barisal Sadar (kotwali)",
+            "KASHIPUR BAZAR, BARISHAL"
+        ],
+        [
+            24,
+            "BARISHAL ISLAMIA SPECIALIZED HOSPITAL",
+            "HSM83987",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barishal Sadar",
+            "AMTOLAMORE,C&B ROADE, BARISHAL"
+        ],
+        [
+            25,
+            "BARISHAL ISLAMIA SPECIALIZED HOSPITAL",
+            "HSM54564",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Barishal Sadar",
+            ",C&B ROAD,BARISHAL"
+        ],
+        [
+            26,
+            "Barishal Metropolitan Hospital",
+            "HSM35244",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Kalibari Road, Barishal Sadar, Barishal."
+        ],
+        [
+            27,
+            "Barishal Metropolitan Hospital",
+            "HSM95406",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barishal Sadar",
+            "Kalibari Road, Barishal Sadar, Barishal."
+        ],
+        [
+            28,
+            "Bariyerhat General Hospital",
+            "HSM91412",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Mirsharai",
+            "Old D.T. Road, Bariyerhat Pourhava, Mirsarai, Chittagong."
+        ],
+        [
+            29,
+            "Bariyerhat General Hospital & Diagnostic Center",
+            "HSM49036",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Old D.T Road, Bariyerhat Pourashava, Mirsharai, Chittagong."
+        ],
+        [
+            30,
+            "Barlekha City Clinic & Diagnostic Center",
+            "HSM38428",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Barlekha",
+            "B & J Market Upazilla Cattar, P.O & P.S Barlekha, Dist: Moulvibazar"
+        ],
+        [
+            31,
+            "Barlekha Diabetes, Heart Care, Diagnostic Center and Medical Services",
+            "HSM32067",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Barlekha",
+            "Hospital Road, Barlekha, Moulvibazar."
+        ],
+        [
+            32,
+            "Barlekha Poly Clinic",
+            "HSM16962",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Barlekha",
+            "Upazila Chattar, Barlekha."
+        ],
+        [
+            33,
+            "BARNO HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM09729",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kotalipara",
+            "vill:-Ulahati,Miapara,kotalipara,Gopalganj"
+        ],
+        [
+            34,
+            "Barobaria Gonoshasthaya Diagnostic Centre",
+            "HSM39478",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "Barobariya,Dhamrai,Dhaka"
+        ],
+        [
+            35,
+            "BAROICHA GENERAL HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM74143",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Belabo",
+            "Baroicha Bazar, Belabo, Narsingdi"
+        ],
+        [
+            36,
+            "BAROICHA GENERAL HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM35072",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Belabo",
+            "Baroicha Bazar, Belabo, Narsingdi"
+        ],
+        [
+            37,
+            "Baroipara digital diagnostic and diabetic center",
+            "HSM83598",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Sikder market, Baroipara, Ashulia, Savar, Dhaka"
+        ],
+        [
+            38,
+            "BARONOY ADHUNIK PATHOLOGY & DIAGNOSTIC",
+            "HSM54998",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Naldanga",
+            "Natore Road, Naldanga Powrosova, Naldanga, Natore, Bangladesh"
+        ],
+        [
+            39,
+            "Baropul Eye Hospital",
+            "HSM53169",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Katabaria More, Kishoreganj"
+        ],
+        [
+            40,
+            "Baroycha United Hospital",
+            "HSM22762",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Belabo",
+            "Baroycha Bazar,Belabo Road,Belabo,Narsingdi"
+        ],
+        [
+            41,
+            "Baroycha United Hospital",
+            "HSM31854",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Belabo",
+            "Baroycha Bazar,Belabo Road,Belabo,Narsingdi"
+        ],
+        [
+            42,
+            "Barrister Ashfaque Memorial Hospital & Diabetic Somittee",
+            "HSM43442",
+            "Diagnostic Center",
+            "Category-B",
+            "Manikganj",
+            "Singair",
+            "House No-32, Hospital Road, Golaidanga, Singair, Manikganj"
+        ],
+        [
+            43,
+            "Barrister Ashfaque Memorial Hospital & Diabetic Somittee.",
+            "HSM01586",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Singair",
+            "Holding No-32, Hospital Road, P.O-Golaidanga, P.S- Singair, Dist-Manikganj."
+        ],
+        [
+            44,
+            "BARURA MODERN HOSPITAL",
+            "HSM37297",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Barura",
+            "HOSPITAL ROAD, BARURA, COMILLA"
+        ],
+        [
+            45,
+            "BARURA MODERN HOSPITAL",
+            "HSM12585",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "HOSPITAL ROAD, BARURA, COMILLA"
+        ],
+        [
+            46,
+            "Basabo Multicare Hospital Ltd",
+            "HSM08443",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sabujbagh",
+            "House# 1/A, Middle Bashabo, Dhaka-1214"
+        ],
+        [
+            47,
+            "Basabo Multicare Hospital Ltd",
+            "HSM00301",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Sabujbagh",
+            "House# 1/A, Middle Bashabo, Dhaka-1205"
+        ],
+        [
+            48,
+            "BASANTI HEALTH CARE",
+            "HSM58400",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "CHANDRA BAZAR, FARIDGONJ, CHANDPUR."
+        ],
+        [
+            49,
+            "Bashchara Seba Diagnostic Center",
+            "HSM99674",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Bashchara Bazar, Jamalpur Sadar, Jamalpur"
+        ],
+        [
+            50,
+            "Bashir Ullah Medical Center",
+            "HSM86444",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "Suapara, Shahrasti, Chandpur"
+        ],
+        [
+            51,
+            "Bashir Ullah Medical Center",
+            "HSM83926",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Shahrasti",
+            "Suapara, Shahrasti, Chandpur "
+        ],
+        [
+            52,
+            "BASHOUNDHARA DIAGNOSTIC CENTARE",
+            "HSM54904",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "hospital gate,folpur,mymensingh\r\n"
+        ],
+        [
+            53,
+            "Bashundhara Ad-din Medical College Hospital",
+            "HSM70027",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Keraniganj",
+            "Bashundhara Riverview Project, South Keraniganj, Dhaka"
+        ],
+        [
+            54,
+            "Bashundhara Ad-din Medical College Hospital",
+            "HSM81638",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Bashundhara Riverview Project, South Keraniganj, Dhaka"
+        ],
+        [
+            55,
+            "Bashundhara Ad-din Medical College Hospital",
+            "HSM26373",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Keraniganj",
+            "Bashundhara Riverview Project, South Keraniganj, Dhaka"
+        ],
+        [
+            56,
+            "BASHUNDHARA CLINIC AND DIAGNOSTIC CENTRE",
+            "HSM21494",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Hospital Road, Chapainawabganj "
+        ],
+        [
+            57,
+            "BASHUNDHARA CLINIC AND DIAGNOSTIC CENTRE.",
+            "HSM25846",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Hospital Road, Chapainawabganj."
+        ],
+        [
+            58,
+            "Bashundhara Diagnostic",
+            "HSM55411",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Bochaganj",
+            "School Road, Setabganj, Bochaganj, Dinajpur"
+        ],
+        [
+            59,
+            "Bashundhara Diagnostic Center",
+            "HSM10692",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Khulna Sadar",
+            "47, Khanjahan Ali Road (Beside Of Royal Hotel), Khulna-9100"
+        ],
+        [
+            60,
+            "BASHUNDHARA DIAGNOSTIC CENTER",
+            "HSM42758",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shajahanpur",
+            "RANIRHAT, SHAJAHANPUR, BOGURA"
+        ],
+        [
+            61,
+            "Bashundhara Diagnostic Complex",
+            "HSM23457",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "\u09b8\u09a6\u09b0 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09ae\u09cb\u09dc, \u09ae\u09c1\u09a8\u09cd\u09b8\u09bf\u09aa\u09be\u09dc\u09be, \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0"
+        ],
+        [
+            62,
+            "Bashundhara Eye Hospital & Research Institute",
+            "HSM43562",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Bhatara",
+            "474 (A&D), sabrina sobhan sharak, block- D, bashundhara R/A, Dhaka-1229"
+        ],
+        [
+            63,
+            "Bashundhara Eye Hospital & Research Institute",
+            "HSM20747",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Bhatara",
+            "474 (A&D), Sabrina Sobhan Sharak, Bashundahra R/A, Dhaka - 1229"
+        ],
+        [
+            64,
+            "BASHUNDHARA HOSPITAL",
+            "HSM52687",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "VILL: SADAR HOSPITAL ROAD, P.O:DINAJPUR-5200, P.S:KOTWALI, DIST:DINAJPUR"
+        ],
+        [
+            65,
+            "BASHUNDHARA HOSPITAL & DIAGNOSTIC (COMPLEX)",
+            "HSM45786",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "84/1 bramopolly charpara,mymensingh"
+        ],
+        [
+            66,
+            "Bashundhara Hpspital",
+            "HSM79224",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Kasba",
+            "Kuti Chowmohony,Kasba"
+        ],
+        [
+            67,
+            "Bashundhara Hpspital.",
+            "HSM27502",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Kuti Chowmohony,Kasba"
+        ],
+        [
+            68,
+            "BASHUNDHARA MEDICAL & DIAGNOSTIC CENTRE",
+            "HSM44695",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "156 Green Majeda Park, Shanti-Nagar, Dhaka-1217."
+        ],
+        [
+            69,
+            "BASHUNDHARA MEDICAL CENTER",
+            "HSM21324",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Brahmanpara",
+            "B-Para Tower, Naighar Road, Brahmanpara, Comilla"
+        ],
+        [
+            70,
+            "Bashurhat City Hospital ",
+            "HSM68492",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Hospital Road, Companignj, Noakhali "
+        ],
+        [
+            71,
+            "Bashurhat City Hospital ",
+            "HSM81261",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Hospital Road, Bashurhat, Companiganj, Noakhai"
+        ],
+        [
+            72,
+            "Bashurhat Health Care Hospital ",
+            "HSM24600",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Trisha Tower, Hospital Road, 8 No. Ward, Bashurhat Pourashava, Companiganj, Noakhali"
+        ],
+        [
+            73,
+            "Bashurhat Private Hospital",
+            "HSM73171",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Manik View, Ward No. 08, Bosurhat Municipality, Companigonj, Noakhali"
+        ],
+        [
+            74,
+            "Bashurhat Private Hospital",
+            "HSM71628",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Manik View, Ward No. 08, Bashurhat Municipality, Companigonj, Noakhali"
+        ],
+        [
+            75,
+            "Bashuti Maa O Shishu Hospital Ltd.",
+            "HSM31867",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "House-2, Block-G, Main Road, Banasree, Rampura, Dhaka 1219 1219"
+        ],
+        [
+            76,
+            "Bashuti Maa O Shishu Hospital Ltd. Diagnostic Centre",
+            "HSM21398",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "House-02, Block-G, Main Road, Banasree, Rampura, Dhaka-1219"
+        ],
+        [
+            77,
+            "Basic Aid And Hospital",
+            "HSM12232",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Kachua",
+            "Rahimanagar Uttar Bazar, Kachua, Chandpur"
+        ],
+        [
+            78,
+            "Basic Diagnostic & Consultataion Centre",
+            "HSM35341",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Sabujbagh",
+            "457, South Basabo, Sabujbag, Dhaka, PO: 1214"
+        ],
+        [
+            79,
+            "Basic Diagnostic Center",
+            "HSM64889",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Rahimanagar Uttar Bazar, Kachua, Chandpur"
+        ],
+        [
+            80,
+            "BASIC DIAGNOSTIC CENTER.",
+            "HSM18347",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "South Alipur, Faridpur Sadar, Faridpur."
+        ],
+        [
+            81,
+            "BASIC LAB",
+            "HSM89846",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Panchlaish",
+            "20, K.B. FAZLUL KADER ROAD, CHITTAGONG"
+        ],
+        [
+            82,
+            "Basila Maa-O-Shishu Diagnostic Center",
+            "HSM51095",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "House-1/11,Road-2,Block-A,Basila West Dhanmondi Housing,Basila,Dhaka"
+        ],
+        [
+            83,
+            "Basila Maa-O-shishu Hospital",
+            "HSM20923",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "House-1/11,Road-2,Block-A,West Dhanmondi Housing,Basila,Dhaka-1207"
+        ],
+        [
+            84,
+            "Basonti Diagnostic Certer ",
+            "HSM92276",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Dacope",
+            "Khutakhali Bazar, Dacope, Khulna, Bangladesh"
+        ],
+        [
+            85,
+            "BASUDDHARA DIAGONOSTICS CENTRE",
+            "HSM40063",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "15 parararoad, barishal"
+        ],
+        [
+            86,
+            "Basundara Diagnostic & Consaltation Center",
+            "HSM61603",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mongla",
+            "Degraj,Mongla,Bagerhat"
+        ],
+        [
+            87,
+            "BASUNDHARA  DIAGNOSTIC CENTRE",
+            "HSM00990",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "BASUNDHARA  DIAGNOSTIC CENTRE. MR Road , Magura Sadar Magura.Bangladesh."
+        ],
+        [
+            88,
+            "BASUNDHARA DIAGNOSTIC COMPLEX  ",
+            "HSM55446",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Sarankhola",
+            "Rayenda Bazar, Sharonkhola, Bagerhat."
+        ],
+        [
+            89,
+            "Basundhara Medical Diagnostic Center",
+            "HSM10749",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Boro Mosjid Market, Mandari Purbo Bazar, Sadar, Lakshmipur"
+        ],
+        [
+            90,
+            "BASUNDHORA DIAGNOSTIC CENTER",
+            "HSM54704",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA,PABNA SADAR,PABNA"
+        ],
+        [
+            91,
+            "Basurhat Chukkhu Hospital",
+            "HSM37893",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Karim Monjil, Kabirhat Road, Koralia, Basurhat Pourashava, Companigonj, Noakhali. "
+        ],
+        [
+            92,
+            "Basurhat Chukkhu Hospital",
+            "HSM23481",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Karim Monjil, Kabirhat Road, Koralia, Basurhat Pourashava, Companigonj, Noakhali. "
+        ],
+        [
+            93,
+            "Basurhat Lab Aid Diagnostic Center ",
+            "HSM76316",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Hospital Road, Ward No. 08, Basurhat Pourashava, Companiganj, Noakhali"
+        ],
+        [
+            94,
+            "Basurhat Maa O Shishu Hospital",
+            "HSM58279",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Badhan Plaza, Hospital Road, Companiganj, Noakhali"
+        ],
+        [
+            95,
+            "Basurhat Maa O Shishu Hospital",
+            "HSM59487",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Badhan Plaza, Hospital Road, Basurhat, Companiganj, Noakhali."
+        ],
+        [
+            96,
+            "Basurhat Normal Delivery Center & General Hospital",
+            "HSM16095",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Anowar Ali Mohol, K.G. School Road, Ward No. 08,  Bosurhat Pourashava, Companiganj, Noakhali. "
+        ],
+        [
+            97,
+            "Basurhat Normal Delivery Center & General Hospital",
+            "HSM47000",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Anowar Ali Mohol, Near of the upazilla mosque, Basurhat, Companiganj, Noakhali"
+        ],
+        [
+            98,
+            "BATIAGHATA DIGITAL CLINIC & DIAGNOSTIC CENTER  ",
+            "HSM60162",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Batiaghata",
+            "Batighata Main Road, Khulna "
+        ],
+        [
+            99,
+            "BATIAGHATA DIGITAL DIAGNOSTIC CENTER ",
+            "HSM79335",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Batiaghata",
+            "Batiaghata Main Road, Khulna "
+        ],
+        [
+            100,
+            "Baukathi Health Center Grameen Kalyan",
+            "HSM15866",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "Baukathi, Sadar, Jhalokati"
+        ]
+    ]
+}

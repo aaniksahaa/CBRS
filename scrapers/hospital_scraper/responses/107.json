@@ -1,0 +1,1007 @@
+{
+    "draw": 107,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "New Bismillah Hospital",
+            "HSM95241",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Naldanga",
+            "Natore Road, Naldanga Pawrosova, PS: Naldanga, Dist: Natore, Rajshahi, Bangladesh"
+        ],
+        [
+            2,
+            "New Bismillah Hospital",
+            "HSM71034",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Naldanga",
+            "Natore Road, Naldanga Pawrosova, PS: Naldanga, Dist: Natore, Rajshahi, Bangladesh"
+        ],
+        [
+            3,
+            "NEW BOGURA BLOOD BANK",
+            "HSM31479",
+            "Blood Bank",
+            "",
+            "Bogura",
+            "Bogra Sadar",
+            "Staff Quater Road, Thantania, Bogura"
+        ],
+        [
+            4,
+            "New Boishakhi Hospital",
+            "HSM51239",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Kaliganj",
+            "Vill: Kashiram, Post: Karimpur, Post Code: 5520, Upzilla: Kaliganj, Dist: Lalmonirhat"
+        ],
+        [
+            5,
+            "New Boral Diagnostic Center",
+            "HSM35008",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Bhangura",
+            "Hospital Gate, Bhangura, Pabna"
+        ],
+        [
+            6,
+            "NEW BRAHMANPARA DIABETIC & GENERAL HOSPITAL ",
+            "HSM10307",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Brahmanpara",
+            "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09ac\u09be\u099c\u09be\u09b0, \u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09aa\u09be\u09dc\u09be, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be "
+        ],
+        [
+            7,
+            "NEW BRAHMANPARA DIABETIC & GENERAL HOSPITAL",
+            "HSM78503",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Brahmanpara",
+            "ALTAF ALI MARKET, DAKKHIN BAZAR, BRAHMANPARA, CUMILLA "
+        ],
+        [
+            8,
+            "New British Bangla (Pvt.) Hospital",
+            "HSM32951",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "270/3Mokter tower,(Shahid janabondhu lockman Hossain Road)west Kandapara,Narsingdi Sadar,Narsingdi"
+        ],
+        [
+            9,
+            "New British Bangla Pvt. Hospital ",
+            "HSM66656",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "270/3, Mukter Tower, West Kanda Para, Narsingdi. "
+        ],
+        [
+            10,
+            "NEW CARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM01679",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Sreemangal",
+            "Habigonj Road, Post & P.S.: Sreemangal, Dist: Moulvibazar"
+        ],
+        [
+            11,
+            "NEW CARE SPECIALIZED ORTHOPEDIC HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM13278",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Sheikhpara, Bypass Road, Pirojpur"
+        ],
+        [
+            12,
+            "NEW CARE SPECIALIZED ORTHOPEDIC HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM41357",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Sheikhpara, Bypass Road, Pirojpur"
+        ],
+        [
+            13,
+            "New Central Hospital",
+            "HSM61267",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Nawabganj",
+            "Kashimpur, Mozzamel Plaza, Nawabganj, Dhaka-1320."
+        ],
+        [
+            14,
+            "New Central Hospital",
+            "HSM09108",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "Kashimpur, Mozzamel Plaza, Nawabganj, Dhaka-1320."
+        ],
+        [
+            15,
+            "New Central Hospital & Diagnostic Complex, Dinajpur",
+            "HSM35124",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "M. Abdur Rahim Medical College Hospital Road, Newtown, Dinajpur"
+        ],
+        [
+            16,
+            "New Central Hospital & Diagnostic Complex, Dinajpur",
+            "HSM96096",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "M. Abdur Rahim Medical College Road, Newtown, Dinajpur"
+        ],
+        [
+            17,
+            "New Central Hospital Private",
+            "HSM36515",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgoti Road, Sadar Lakshmipur"
+        ],
+        [
+            18,
+            "NEW CENTRAL LABORATORY",
+            "HSM26371",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "40/1 maskanda ,sadar mymensingh"
+        ],
+        [
+            19,
+            "NEW CENTRAL MEDICAL SERVICES & CONSULTATION CENTER",
+            "HSM74259",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "RAMGATI ROAD, SADAR, LAKSHMIPUR."
+        ],
+        [
+            20,
+            "New Central Pathology",
+            "HSM99591",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "RAMGOTI ROAD, LAKSHMIPUR"
+        ],
+        [
+            21,
+            "New Chander Allo - Family Health Support & Diagnostic Center",
+            "HSM18087",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chittogram Port",
+            "Mailer Matha No -2, Gafur Pharmacy Building, Bandar, Chittagong"
+        ],
+        [
+            22,
+            "NEW CHANDER ALLO HOSPITAL",
+            "HSM41742",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Chittogram Port",
+            "Gafur Building, 2 No. Mailer Matha, South Middle Halishahar, Bandar, Chattogram"
+        ],
+        [
+            23,
+            "New Chandina Medical Center",
+            "HSM19761",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla"
+        ],
+        [
+            24,
+            "New Chandina Medical Center",
+            "HSM22688",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla. "
+        ],
+        [
+            25,
+            "New Check Up Diagnostic Center",
+            "HSM69088",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Kendua",
+            "Digdair Road, Kendua, Netrokona"
+        ],
+        [
+            26,
+            "NEW CHECK UP DIAGNOSTIC CENTRE",
+            "HSM18785",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "SAIDPUR PLAZA (2ND FLOOR), SAIDPUR, NILPHAMARI."
+        ],
+        [
+            27,
+            "NEW CHINA DIAGNISTIC CENTRE",
+            "HSM34908",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Hospital Road, Fakirhat, Bagerhat"
+        ],
+        [
+            28,
+            "New Chitra Pathology",
+            "HSM61551",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Sadar Hospital Road, Narail Sadar, Narail."
+        ],
+        [
+            29,
+            "New City  Diagnostic Center ",
+            "HSM68915",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Ghoraghat",
+            "Hospital Road, Osmanpur, Ghoraghat, Dinajpur"
+        ],
+        [
+            30,
+            "New City Clinic & Nursing Home",
+            "HSM54650",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "District Hospital Road, Pirojpur"
+        ],
+        [
+            31,
+            "New City Clinic & Nursing Home",
+            "HSM64145",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Sapahar",
+            "Hospital Road, Sapahar, Naogaon"
+        ],
+        [
+            32,
+            "New City Diagnostic Center ",
+            "HSM92549",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            " Hospital Road Pirojpur Bangladesh"
+        ],
+        [
+            33,
+            "NEW CITY DIAGNOSTIC CENTRE",
+            "HSM06135",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Tomaltala, Jamalpur"
+        ],
+        [
+            34,
+            "New City Diagnostic Centre",
+            "HSM04883",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "\u0989\u09a4\u09cd\u09a4\u09b0 \u09b8\u09c1\u099c\u09be\u09aa\u09c1\u09b0, \u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09c0, \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0 "
+        ],
+        [
+            35,
+            "NEW CITY HOSPITAL",
+            "HSM72918",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Tomaltala, Jamalpur"
+        ],
+        [
+            36,
+            "New Classic Hospital",
+            "HSM44600",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "B.O.C Market, Karimpur Road, Chowmuhani, Noakhli"
+        ],
+        [
+            37,
+            "New Comfort (Pvt.)Hospital",
+            "HSM12358",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Manohardi",
+            "Monohardi Powrasova.Monohardi "
+        ],
+        [
+            38,
+            "New Comfort (Pvt.)Hospital",
+            "HSM15411",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Monohardi Powrashava,Monohardi Narshingdi"
+        ],
+        [
+            39,
+            "New Comfort Diagnostic Center",
+            "HSM22827",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Panchdona Bazar, Burarhat,  Ward-09, Panchdona, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            40,
+            "New Comfort Diagnostic Center.",
+            "HSM92842",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Tantor Bazar,Akhaura"
+        ],
+        [
+            41,
+            "NEW COMFORT DIAGNOSTIC CENTRE",
+            "HSM77611",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "FARIDGONJ, CHANDPUR."
+        ],
+        [
+            42,
+            "New Cordio Diagonostic Center",
+            "HSM45075",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Medical Moor Rangpur"
+        ],
+        [
+            43,
+            "NEW COSMOPOLITAN DIAGNOSTIC & CONSULTATION CENTER ",
+            "HSM66512",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "HAZI LATIF TOWER, CUMILLA BUS STAND, TRUNK ROAD, FENI SADAR, FENI"
+        ],
+        [
+            44,
+            "NEW CRESCENT DIAGNOSTIC CENTRE",
+            "HSM99251",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Padua Shopping Centre, Main Road, Padua Tewarihat, Lohagara, Chattogram."
+        ],
+        [
+            45,
+            "NEW CURE DIGITAL DIAGNOSTIC LAB",
+            "HSM99234",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Hospital Road, Sadar, Lakshmipur"
+        ],
+        [
+            46,
+            "New Daulatkhan Diagnostic  Center",
+            "HSM02960",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Daulat Khan",
+            "Hospital Road,Daulatkhan,Bhola."
+        ],
+        [
+            47,
+            "New Deep Cinic &  Diagnostic Centre",
+            "HSM47876",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "1/2, Parboti Nagar, Thana Road, Savar, Dhaka-1340"
+        ],
+        [
+            48,
+            "New Deep Clinic & Diagnostic Center",
+            "HSM35365",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "1/2 Parboti Nagar, Thana Road, Savar, Dhaka-1340"
+        ],
+        [
+            49,
+            "New Deep Jele Jai Clinic Homna",
+            "HSM65697",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Homna",
+            "Homna School Road, Baherkhola Homna, Comilla"
+        ],
+        [
+            50,
+            "New Delta Digital Diagonostic. Center",
+            "HSM99081",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Stediam Road, Chandpur sadar, Chandpur"
+        ],
+        [
+            51,
+            "NEW DESH DIAGNOSTIC CENTER",
+            "HSM49472",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Gopalpur",
+            "Hospital Gate, Gopalpur"
+        ],
+        [
+            52,
+            "NEW DESH DIAGNOSTIC CENTRE",
+            "HSM87279",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "North Hazipara, Thakurgaon Sadar, Thakurgaon. "
+        ],
+        [
+            53,
+            "New Desh Pathology",
+            "HSM58797",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "3/B, Brammopolly Road, Sadar, Mymensingh."
+        ],
+        [
+            54,
+            "New Dhaka Diagnostic Center",
+            "HSM41239",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Nageshwari",
+            "Moszid Market, Bus Stand, Nageshwari, Kurigram."
+        ],
+        [
+            55,
+            "NEW DHAKA DIGITAL DIAGNOSTIC CENTER",
+            "HSM46535",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "HOLDING NO 0001-00,KABI NAZRUL ISLAM SAROK, SADAR HOSPITAL ROAD, CHANDPUR SADAR, CHANDPUR"
+        ],
+        [
+            56,
+            "New Dhaka Islami General Hospital  &  Diagnostic Center",
+            "HSM46466",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Barabari,National University,Gacha,Gazipur Sadar,Gazipur."
+        ],
+        [
+            57,
+            "New Dhaka Islami General Hospital  & Diagnostic Center",
+            "HSM49858",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Barabari,National University,Gacha,Gazipur Sadar,Gazipur.\r\n\r\n\r\n"
+        ],
+        [
+            58,
+            "NEW DHANSIRI HOSPITAL",
+            "HSM62976",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College Road, Sabalia, Tangail."
+        ],
+        [
+            59,
+            "NEW DHANSIRI HOSPITAL",
+            "HSM70373",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College Road, Sabalia, Tangail."
+        ],
+        [
+            60,
+            "NEW DIABETICE & DIEGNOSTIC CENTER",
+            "HSM79738",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "4 No. Word, Mathbaria Pourasova, Mathbaria, Pirojpur."
+        ],
+        [
+            61,
+            "New Diagnostic Center (Pvt.)",
+            "HSM61787",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Jahajmara Bazar, Hatiya, Noakhali"
+        ],
+        [
+            62,
+            "NEW DIGANTA LAB AND HOSPITAL(PVT)",
+            "HSM74048",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "324/2 hajara complex,chorpara mymensingh\r\n"
+        ],
+        [
+            63,
+            "NEW DIGANTA LAB AND HOSPITAL(PVT)",
+            "HSM20226",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "324/2 hajara complex,chorpara mymensingh\r\n"
+        ],
+        [
+            64,
+            "New Digital Diagnostic Center",
+            "HSM93023",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Upazilar Moor,Fakirhat,Bagerhat"
+        ],
+        [
+            65,
+            "NEW DIGITAL DIAGNOSTIC CENTER",
+            "HSM84962",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "19/2 charpara, mymensingh"
+        ],
+        [
+            66,
+            "New Digital Diagnostic Center",
+            "HSM54354",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Sundarganj",
+            "Hospital Road, Tetultala, Sundarganj, Gaibandha."
+        ],
+        [
+            67,
+            "NEW DIGITAL DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM53217",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Agailjhara",
+            "College Road, Agailjhara, Barishal"
+        ],
+        [
+            68,
+            "New Digital Lab Diagnostic Center",
+            "HSM30316",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Kamalganj",
+            "Moulvibazar Road, Beside Hospital, Kamalganj, Moulvibazar."
+        ],
+        [
+            69,
+            "NEW DIGITAL PRIVATE HOSPITAL",
+            "HSM44658",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Damurhuda",
+            "CHITLA HOSPITAL MORE, DAMURHUDA, CHUADANGA"
+        ],
+        [
+            70,
+            "New Disari Diagnostic",
+            "HSM38791",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Riaz Kazi Lane, Tetultola More, Sutrapur, Bogura Sadar, Bogura."
+        ],
+        [
+            71,
+            "NEW DOCTORS CARE AND PATHOLOGY",
+            "HSM55423",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Aldi Bazar, Siraj Cold Storage Market, Tongibari, Munshiganj"
+        ],
+        [
+            72,
+            "New Doctors Chamber & Digital Laboratory",
+            "HSM86457",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Singpara Bazar, Sreenagar, Munshiganj"
+        ],
+        [
+            73,
+            "New Doctors Clinic",
+            "HSM16982",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Sonar Potty, Bazar Goli, Joypurhat"
+        ],
+        [
+            74,
+            "New Doctors Clinic & Diagnostic Centre",
+            "HSM70021",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Bhuapur",
+            "Bhuapur Bazar,Bhuapur,Tangail"
+        ],
+        [
+            75,
+            "NEW DOCTORS DIAGNOSTIC LAB & CONSULTATION CENTER",
+            "HSM24382",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "KAZI KHORSHED PLAZA(1ST FLOOR), PAGLA BAZAR, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            76,
+            "New Esquare Hospital",
+            "HSM47850",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Belkuchi",
+            "Somespur,Belkuchi,Sirajgonj"
+        ],
+        [
+            77,
+            "New Esquare Hospital.",
+            "HSM29799",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Belkuchi",
+            "Somespur,Belkuchi,Sirajgonj"
+        ],
+        [
+            78,
+            "New Fair Health Clinic & Diagnostic Centre",
+            "HSM20594",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Narailpara, Pirojpur"
+        ],
+        [
+            79,
+            "New Fair Health Clinic & Diagnostic Centre",
+            "HSM23392",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Narailpara, Pirojpur"
+        ],
+        [
+            80,
+            "New Fairlab Diagnostic & Consultation Centre",
+            "HSM28968",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Lalbagh",
+            "15/A/1, Azimpur Road, Lalbagh, Dhaka-1205."
+        ],
+        [
+            81,
+            "New Faith Diagnostic Center",
+            "HSM70017",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Ramgarh",
+            "Ramgarh Bazar,ramgarh,khagrachari"
+        ],
+        [
+            82,
+            "New Family Care Lab",
+            "HSM94513",
+            "Diagnostic Center",
+            "Category-C",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Jamalpur Charmatha,Jamalgong Joypurhat"
+        ],
+        [
+            83,
+            "NEW FAMOUS DIAGNOSTIC CENTER",
+            "HSM31586",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Tazumuddin",
+            "Hospital Gate. Tajumuddin. Bhola."
+        ],
+        [
+            84,
+            "New Follow Up Private Hospital",
+            "HSM75771",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "House No-23, Upashohor, Sadar, Dinajpur"
+        ],
+        [
+            85,
+            "NEW FULTALA PATHOLOGIY CENTER",
+            "HSM22614",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Phultala",
+            "FULTALA BAZAR, FULTALA, KHULNA"
+        ],
+        [
+            86,
+            "New Gaibandha Ma & Shishu Genarel Hospital ",
+            "HSM46645",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "College Road, Palashpara, Gaibandha"
+        ],
+        [
+            87,
+            "New Galachipa Diagnostic Centre",
+            "HSM80099",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Hospital Road, Galachipa, Patuakhali"
+        ],
+        [
+            88,
+            "NEW GARIB SHAH CLINIC",
+            "HSM14002",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Kaliganj",
+            "Barobazar, Kaliganj, Jhenaidah."
+        ],
+        [
+            89,
+            "New General Diagnostics & Doctors Chamber",
+            "HSM08339",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Near Old Passport Office, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            90,
+            "New General Digital Diagonstic Center ",
+            "HSM01319",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Bahubal",
+            "Putijuri,Bahubol,Hobigonj"
+        ],
+        [
+            91,
+            "New Goalanda Diagnostic Centre",
+            "HSM01888",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Goalanda",
+            "Main Road, Goalanda Bazar, Rajbari."
+        ],
+        [
+            92,
+            "New Grameen Diagnostic Center",
+            "HSM69150",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Tantor Bazar,Akhaura"
+        ],
+        [
+            93,
+            "New Grameen Diagnostic Center.",
+            "HSM52606",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Tantor Bazar,Akhaura"
+        ],
+        [
+            94,
+            "NEW GRAMEEN SHATHI DIAGNOSTIC CENTER",
+            "HSM73893",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "fulbaria,mymensingh"
+        ],
+        [
+            95,
+            "NEW GREEN CITY HOSPITAL & DIAGNOSTIC",
+            "HSM88266",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Nuton Hat, Diar Shahapur, Ishurdi, Pabna"
+        ],
+        [
+            96,
+            "NEW GREEN CITY HOSPITAL & DIAGNOSTIC",
+            "HSM34154",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Ishwardi",
+            "Nuton Hat, Diar Shahapur, Ishurdi, Pabna"
+        ],
+        [
+            97,
+            "NEW GREEN DIAGNOSTIC CENTER",
+            "HSM40228",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, Rajshahi"
+        ],
+        [
+            98,
+            "New Green Diagnostic Center",
+            "HSM42229",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Kushtia Sadar",
+            "45, M. M Hossain Road, Bazlur More, Kushtia"
+        ],
+        [
+            99,
+            "New Green Life  Diagnostic Center",
+            "HSM92903",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Madhabpur",
+            "Asad Monjil,Hospital Road.Madhabpur ,Habiganj"
+        ],
+        [
+            100,
+            "New Green Life Clinic & Nursing Home",
+            "HSM61512",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Bhandaria",
+            "Bhandaria, Pirojpur"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 81,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "LIFE CARE CLINIC. ",
+            "HSM56021",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Sakhipur",
+            "sakhipur,tangail"
+        ],
+        [
+            2,
+            "LIFE CARE D-LAB",
+            "HSM25547",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "A. N. Plaza, Hospital Road, Boro Bazar, Meherpur"
+        ],
+        [
+            3,
+            "LIFE CARE DIAGNOSTIC",
+            "HSM44976",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "SULTAN RAZIA ROAD,COLLEGE GATE,TONGI,GAZIPUR"
+        ],
+        [
+            4,
+            "LIFE CARE DIAGNOSTIC & (PVT) HOSPITAL",
+            "HSM60090",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Vill-Chandan Bari, P.o-Monohardi, P.s-Monohardi, Dist: Narsingdi."
+        ],
+        [
+            5,
+            "LIFE CARE DIAGNOSTIC & (PVT) HOSPITAL",
+            "HSM11554",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Manohardi",
+            "Vill: Chandanbari, P.O: Monohardi, P.S: Monohardi, Dist: Narsingdi."
+        ],
+        [
+            6,
+            "Life Care Diagnostic & Consultant Center",
+            "HSM76354",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "S.P Office Road,Panchagarh Sadar,Panchagarh, Bangladesh"
+        ],
+        [
+            7,
+            "Life Care Diagnostic & Consultation center",
+            "HSM11667",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Niamatpur",
+            "Balahor, Niamatpur, naogaon"
+        ],
+        [
+            8,
+            "Life Care Diagnostic & Consultation Center",
+            "HSM00185",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Maheshpur",
+            "College Bus Stand, Moheshpur, Jhenaidah"
+        ],
+        [
+            9,
+            "Life Care Diagnostic & Consultation Center",
+            "HSM60181",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Kawkhali",
+            "Shialkathi Chowrasta, Kawkhali, Pirojpur "
+        ],
+        [
+            10,
+            "LIFE CARE DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM48113",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "SADAR HOSPITAL ROAD JHALOKATHI"
+        ],
+        [
+            11,
+            "Life Care Diagnostic & Consultation Center.",
+            "HSM41657",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital Road,Nabinagar"
+        ],
+        [
+            12,
+            "Life Care Diagnostic & Physiotherapy Centre ",
+            "HSM72142",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Char Fasson",
+            "Hospital Link Road, Charfassion, Bhola."
+        ],
+        [
+            13,
+            "LIFE CARE DIAGNOSTIC AND CONSULTATION CENTER",
+            "HSM71153",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "SADAR HOSPITAL ROAD, ISWARDI, PABNA"
+        ],
+        [
+            14,
+            "LIFE CARE DIAGNOSTIC AND DOCTORS CHAMBER",
+            "HSM81060",
+            "Diagnostic Center",
+            "Category-B",
+            "Coxs Bazar",
+            "Teknaf",
+            "Nhila Bus Station "
+        ],
+        [
+            15,
+            "Life Care Diagnostic Cente",
+            "HSM26898",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "Dhamura, Wazirpur, Barisal-8221"
+        ],
+        [
+            16,
+            "Life Care Diagnostic Center",
+            "HSM87169",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "88 Bazar Road ,Barguna."
+        ],
+        [
+            17,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM29079",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Derai",
+            "THANA ROAD, SEN MARKER, 3rd FLOOR, DERAI, SUNAMGONJ."
+        ],
+        [
+            18,
+            "Life care Diagnostic Center",
+            "HSM25735",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Lalmohan",
+            "Lordhardige,Lalmohan,Bhola."
+        ],
+        [
+            19,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM25913",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "206, Trunk Road, Feni"
+        ],
+        [
+            20,
+            "Life Care Diagnostic Center",
+            "HSM22990",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Gazaria",
+            "Bhuiyan Complex (1st Floor), Sonali Market, Gajaria, Munshiganj"
+        ],
+        [
+            21,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM90177",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Circular Road, Masterpara, Gaibandha"
+        ],
+        [
+            22,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM40903",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Hospital Gate, Chatmohar, Pabna."
+        ],
+        [
+            23,
+            "Life care diagnostic center",
+            "HSM61602",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Hpspital road, Fakirhat, Bagerhat"
+        ],
+        [
+            24,
+            "Life Care Diagnostic Center",
+            "HSM03429",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road,Moulvibazar"
+        ],
+        [
+            25,
+            "Life Care Diagnostic center ",
+            "HSM42049",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Nakaihat College Road, Nakaihat, Gobindganj, Gaibandha,\r\nRangpur"
+        ],
+        [
+            26,
+            "Life Care Diagnostic Center",
+            "HSM57708",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Masimpur Hospital Road, Pirojpur"
+        ],
+        [
+            27,
+            "Life Care Diagnostic Center",
+            "HSM69119",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sreebardi",
+            "Sreebardi Hospital Shonmukhe Sreebardi Sherpur"
+        ],
+        [
+            28,
+            "Life Care Diagnostic Center",
+            "HSM39539",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Khajuria Bazar, Faridganj, Chandpur. "
+        ],
+        [
+            29,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM13506",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Ulipur",
+            "Purbo Bazar, Ulipur, Kurigram"
+        ],
+        [
+            30,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM55832",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Pakundia",
+            "MOTKHOLA TAN BAZAR, DUBAIRA MARKET,PAKUNDIA, KISHOREGANJ. "
+        ],
+        [
+            31,
+            "LIFE CARE DIAGNOSTIC CENTER",
+            "HSM15496",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "BIZRA BAZAR "
+        ],
+        [
+            32,
+            "Life Care Diagnostic Center",
+            "HSM27322",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar Bus Stand, Debidwar, Cumilla."
+        ],
+        [
+            33,
+            "Life Care Diagnostic Center",
+            "HSM09255",
+            "Diagnostic Center",
+            "Category-B",
+            "Narail",
+            "Kalia",
+            "Upazilla Health Complex er Samne, Hospital Road, Kalia, Narail "
+        ],
+        [
+            34,
+            "Life Care Diagnostic Center",
+            "HSM70201",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Raozan",
+            "Kabir Tower, Jalil Nagar, Raozan Pourashava, 8 No. Ward, Raozan, Chattogram. "
+        ],
+        [
+            35,
+            "LIFE CARE DIAGNOSTIC CENTER ",
+            "HSM40995",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Subarnachar",
+            "Khaserhat Raster Matha, Char Bata, Subarnachar, Noakhali"
+        ],
+        [
+            36,
+            "LIFE CARE DIAGNOSTIC CENTER.",
+            "HSM48530",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jessore Sadar",
+            "Holding No.57, Voyrob Super Market, Sadar Hospital Moor, Jashore."
+        ],
+        [
+            37,
+            "LIFE CARE DIAGNOSTIC CENTER.",
+            "HSM72725",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Derai",
+            "THANA ROAD, SEN MARKER, 3rd FLOOR, DERAI, SUNAMGONJ."
+        ],
+        [
+            38,
+            "Life Care Diagnostic Center.",
+            "HSM87175",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "Infront Of Goila Hospital (West Side), Agailjhara, Barisal"
+        ],
+        [
+            39,
+            "LIFE CARE DIAGNOSTIC CENTER.",
+            "HSM96178",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Alfadanga",
+            "Hospital Back Gate, Alfadanga, Faridpur."
+        ],
+        [
+            40,
+            "Life Care Diagnostic Center..",
+            "HSM27986",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Jagannathpur",
+            "Yasmin Super Market, Hospital Point, Jagannathpur, Sunamganj"
+        ],
+        [
+            41,
+            "Life Care Diagnostic Centre",
+            "HSM12188",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Singiasholpur, Narail Sadar, Narail"
+        ],
+        [
+            42,
+            "LIFE CARE DIAGNOSTIC CENTRE",
+            "HSM12739",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "shanvhugang, sadar,mymensingh"
+        ],
+        [
+            43,
+            "Life Care Diagnostic Centre",
+            "HSM20875",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Hamdah, Jhenaidah, Bangladesh."
+        ],
+        [
+            44,
+            "LIFE CARE DIAGNOSTIC CENTRE",
+            "HSM42755",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Paharpur, Sadar, Dinajpur. "
+        ],
+        [
+            45,
+            "LIFE CARE DIAGNOSTIC CENTRE",
+            "HSM60591",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Khagrachari Sadar",
+            "VILL- NARIKEL BAGAN, COLLEGE ROAD, KHAGRACHARI SADAR, KHAGRACHARI."
+        ],
+        [
+            46,
+            "Life Care Diagnostic Centre",
+            "HSM73064",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Sujanagar",
+            "Raipur More, Sujanagar, Pabna"
+        ],
+        [
+            47,
+            "LIFE CARE DIAGNOSTIC CENTRE",
+            "HSM52204",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ukhia",
+            "Tofayel Fatema Shopping  Complex, 1st Floor, Ratna Palong-4750, Court Bazar, "
+        ],
+        [
+            48,
+            "Life Care Diagnostic Centre & Clinic ",
+            "HSM52019",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Fakirhat",
+            "Upazila Moor,Fakirhat,Bagerhat"
+        ],
+        [
+            49,
+            "Life Care Diagnostic Centre Ltd",
+            "HSM68845",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kafrul",
+            "888/3 Sadir Complex, 1st Floor, East Shewrapara, Kaprul, Dhaka "
+        ],
+        [
+            50,
+            "LIFE CARE DIAGNOSTIC LAB",
+            "HSM95640",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u0995\u09b2\u09be\u09aa\u09be\u09dc\u09be, \u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0\u0964"
+        ],
+        [
+            51,
+            "Life Care Diagnostics Centre",
+            "HSM54586",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Dilalpur, Technical more, Pabna 6600"
+        ],
+        [
+            52,
+            "LIFE CARE DIGITAL  DIAGNOSTIC CENTER",
+            "HSM53878",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Kotalipara",
+            "Hospital Road, pahcimpara, kotalipara, Gopalganj."
+        ],
+        [
+            53,
+            "LIFE CARE DIGITAL DIAGNOSTIC  AND CONSULTATION CENTRE",
+            "HSM42960",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Abdul Molla Super Market, Baluchar Bazar, Koborsthsn Songlagno Main Road, Sirajdikhan, Munshiganj"
+        ],
+        [
+            54,
+            "Life Care Digital Diagnostic & Consultation Center",
+            "HSM90865",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Kamalganj",
+            "Chatlapur Road, Shamshernagar, Kamalganj, Moulvibazar."
+        ],
+        [
+            55,
+            "LIFE CARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM74444",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "Saghata, Gaibandha"
+        ],
+        [
+            56,
+            "LIFE CARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM51013",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhalokathi",
+            "Kanthalia",
+            "Sadar Road, Kathalia, Jhalokathi."
+        ],
+        [
+            57,
+            "Life Care Digital Diagnostic Center",
+            "HSM32036",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Paba",
+            "Village- Afipara, Post Office- Darusha, Upozila- Paba, District- Rajshahi"
+        ],
+        [
+            58,
+            "LIFE CARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM37978",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "RAMCHANDRAPUR BAZAR, MURADNAGAR, CUMILLA"
+        ],
+        [
+            59,
+            "LIFE CARE DIGITAL DIAGNOSTIC CENTRE & CONSULTATION",
+            "HSM97295",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Daulat Khan",
+            "Tarek Jamil Tower, Sador Road, Daulatkhan, Bhola."
+        ],
+        [
+            60,
+            "Life care digital lab",
+            "HSM64079",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Anabil-33,Ukilpara,sunamgonj"
+        ],
+        [
+            61,
+            "Life Care Digital Lab & Hospital",
+            "HSM04160",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Kaliganj",
+            "Near Rokeya Munsur Mohila Kollege, Main Road, Kaligonj, Satkhira"
+        ],
+        [
+            62,
+            "Life Care Digital Lab & Hospital",
+            "HSM87268",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Kaliganj",
+            "Near Rokeya Munsur Mohila Kollege, Main Road, Kaligonj, Satkhira"
+        ],
+        [
+            63,
+            "Life Care Digital Lab & Hospital",
+            "HSM28537",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat Residential Road, Rajoir, Madaripur "
+        ],
+        [
+            64,
+            "Life Care Digital Lab & Hospital",
+            "HSM81759",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat Residential Road, Rajoir, Madaripur "
+        ],
+        [
+            65,
+            "LIFE CARE GENERAL HOSPITAL",
+            "HSM62888",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "FIRE SERVICE ROAD, ADALOT PARA, TANGAIL."
+        ],
+        [
+            66,
+            "LIFE CARE GENERAL HOSPITAL",
+            "HSM02499",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "FIRE SERVICE ROAD, ADALOT PARA, TANGAIL."
+        ],
+        [
+            67,
+            "Life Care General Hospital",
+            "HSM06108",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "1/1, 1/2, 1/3, Goznabi Road, Muktijoddha Tower, College gate, Mohammadpur, Dhaka 1207"
+        ],
+        [
+            68,
+            "LIFE CARE GENERAL HOSPITAL",
+            "HSM69224",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "NAWJUR, GAZIPUR SUDUR, GAZIPUR"
+        ],
+        [
+            69,
+            "LIFE CARE GENERAL HOSPITAL",
+            "HSM46187",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "NAWJUR, GAZIPUR SUDUR, GAZIPUR"
+        ],
+        [
+            70,
+            "Life Care Health Centre",
+            "HSM22846",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Charzotpur, Holding No-17, H#15(Hospital Mor), Sadar, Chapainawabganj"
+        ],
+        [
+            71,
+            "LIFE CARE HOSPITAL",
+            "HSM58024",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "Feni Road, Chowmuhani, Begumgonj, Noakhali."
+        ],
+        [
+            72,
+            "Life Care Hospital ",
+            "HSM99970",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pirojpur",
+            "Bhandaria",
+            "Near Overbridge, Beside Walton Plaza, Highway Road, Bhandaria, Pirojpur"
+        ],
+        [
+            73,
+            "LIFE CARE HOSPITAL",
+            "HSM98184",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "MAWNA,SREEPUR,GAZIPUR"
+        ],
+        [
+            74,
+            "LIFE CARE HOSPITAL",
+            "HSM65526",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Sreepur",
+            "MAWNA,SREEPUR,GAZIPUR"
+        ],
+        [
+            75,
+            "LIFE CARE HOSPITAL",
+            "HSM88872",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Paharpur, Sadar, Dinajpur."
+        ],
+        [
+            76,
+            "Life Care Hospital",
+            "HSM78297",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Rasiknagar, Ranihati, Shibganj, Chapainawabganj"
+        ],
+        [
+            77,
+            "Life Care Hospital",
+            "HSM69308",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "Gohail road, Khander, Bogura"
+        ],
+        [
+            78,
+            "LIFE CARE HOSPITAL",
+            "HSM51333",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Shalgaria, Pabna Sadar, Pabna"
+        ],
+        [
+            79,
+            "Life Care Hospital",
+            "HSM01854",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Madhupur",
+            "Madhupur Bus stand, Madhupur, tangail"
+        ],
+        [
+            80,
+            "Life Care Hospital",
+            "HSM53559",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Madhupur",
+            "Madhupur Bus stand, Madhupur, Tangail."
+        ],
+        [
+            81,
+            "Life Care Hospital",
+            "HSM03083",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Hamdah, Jhenaidah"
+        ],
+        [
+            82,
+            "Life Care Hospital",
+            "HSM15495",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Bhandaria",
+            "Near Overbridge, Beside Walton Plaza, Highway Road,Bhandaria,Pirojpur"
+        ],
+        [
+            83,
+            "LIFE CARE HOSPITAL",
+            "HSM69458",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Meherpur",
+            "Meherpur Sadar",
+            "A. N. Plaza, Hospital Road, Boro Bazar, Meherpur"
+        ],
+        [
+            84,
+            "Life Care Hospital",
+            "HSM94260",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Bagha",
+            "Narayanpur, Bagha, Rajshahi"
+        ],
+        [
+            85,
+            "LIFE CARE HOSPITAL & DIAGNOSTIC",
+            "HSM68413",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Kurigram Sadar",
+            "HOSPITAL PARA, KURIGRAM SADAR, KURIGRAM."
+        ],
+        [
+            86,
+            "LIFE CARE HOSPITAL & DIAGNOSTIC",
+            "HSM32143",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Kurigram Sadar",
+            "HOSPITAL PARA, KURIGRAM SADAR, KURIGRAM."
+        ],
+        [
+            87,
+            "Life Care Hospital & Diagnostic Center",
+            "HSM74757",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Patnitala",
+            "Nazipur, Patnitala, Naogaon "
+        ],
+        [
+            88,
+            "LIFE CARE HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM80962",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Godagari",
+            "100 goj Uttare Godagari Bhumi Registry Office, Godagari, Rajshahi."
+        ],
+        [
+            89,
+            "LIFE CARE HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM82073",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Godagari",
+            "100 goj Uttare Godagari Bhumi Registry Office, Godagari, Rajshahi."
+        ],
+        [
+            90,
+            "Life Care Hospital And Diagnostic",
+            "HSM17434",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Muksudpur",
+            "Tengrakhola, Muksudpur, Gopalganj."
+        ],
+        [
+            91,
+            "Life Care Hospital And Diagnostic",
+            "HSM55557",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Muksudpur",
+            "Tengrakhola,Muksudpur,Gopalganj."
+        ],
+        [
+            92,
+            "LIFE CARE HOSPITAL PVT",
+            "HSM60078",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "66 / A Baghmara Road Sadar Mymensingh"
+        ],
+        [
+            93,
+            "Life Care Hospital(Diagnostic Centre)",
+            "HSM62691",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Rasiknagar, Ranihati, Shibganj, Chapainawabganj"
+        ],
+        [
+            94,
+            "LIFE CARE MEDICAL CENTER",
+            "HSM41299",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "Karpashdanga Bazar, Damurhdua, Chuadanga"
+        ],
+        [
+            95,
+            "Life Care Medical Center, Badda Branch",
+            "HSM05954",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "Ga-82, Middle Badda, Gulshan Link Road, Dhaka-1212"
+        ],
+        [
+            96,
+            "Life Care Medical Centre",
+            "HSM27151",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Banani",
+            "Ja-28/8-D, Bir Uttam A. K \r\nKhondokar Sarak, \r\nMohakhali, C/A , \r\nDhaka-1212"
+        ],
+        [
+            97,
+            "Life Care Medical Centre",
+            "HSM40152",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chakmutar, Naogaon Sadar, Naogaon"
+        ],
+        [
+            98,
+            "LIfe Care Medical Services ",
+            "HSM66203",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Tahirpur",
+            "Hospital Road, Badaghat Bazar, Tahirpur, Sunamganj"
+        ],
+        [
+            99,
+            "Life Care Medical Services",
+            "HSM36351",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "New Super Market, Bukainagar, Sador, Barishal."
+        ],
+        [
+            100,
+            "LIFE CARE MENTAL HOSPITAL",
+            "HSM34092",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "5/2, 1No Road, Shamoli, Sher-E_ Bangla Nagar, Dhaka-1207"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 33,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Chirirbandar Digital Diagnostic Center",
+            "HSM44811",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Chirirbandar",
+            "Ghughuratoli, Chirirbandar, Dinajpur."
+        ],
+        [
+            2,
+            "Chirirbandar Digital Diagnostic Center and Hospital",
+            "HSM48470",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Chirirbandar",
+            "Ghughuratoli, Chirirbandar, Dinajpur."
+        ],
+        [
+            3,
+            "Chistya  Maa O Shisu General Hospital & Diagnostic Center",
+            "HSM48772",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "182, Shaheed Shahidullah Kaiser Road, Old Police Quarter, Feni."
+        ],
+        [
+            4,
+            "Chistya  Maa O Shisu General Hospital & Diagnostic Center",
+            "HSM80024",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "182, Shaheed Shahidullah Kaiser Road, Old Police Quarter, Feni."
+        ],
+        [
+            5,
+            "CHITALMARI CLINIC",
+            "HSM42611",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Chitalmari",
+            "Main Road, Chitalmari, Bagerhat"
+        ],
+        [
+            6,
+            "CHITALMARI DIAGNOSTIC CENTRE",
+            "HSM88560",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Chitalmari",
+            "Main Road,Chitalmari,Bagerhat"
+        ],
+        [
+            7,
+            "Chitalmari Ma Clinic & Digital Diagnostic Center",
+            "HSM47048",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Chitalmari",
+            "Carcuraltola,Chitalmari,Bagerhat"
+        ],
+        [
+            8,
+            "Chitalmari Ma Clinic & Digital Diagnostic Center",
+            "HSM34544",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Chitalmari",
+            "Charkuraltola,Chitalmari,Bagerhat"
+        ],
+        [
+            9,
+            "CHITRA DIAGNOSTIC CENTRE",
+            "HSM43200",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "SADAR HOSPITAL ROAD, MUNSHIPARA, DINAJPUR"
+        ],
+        [
+            10,
+            "Chitra Digital Diagnostic Center",
+            "HSM31059",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Terokhada",
+            "Katenga Bazar,Terokhada,Khulna."
+        ],
+        [
+            11,
+            "CHITRA DIGITAL DIAGNOSTIC CENTER & CLINIC",
+            "HSM00705",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Terokhada",
+            "TEROKHADA, Bus Stand, Khulna "
+        ],
+        [
+            12,
+            "Chitra Surgical Clinic",
+            "HSM65730",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Narail Sadar",
+            "Govt. Mohila College Road, Durgapur, Narail"
+        ],
+        [
+            13,
+            "CHITTAGONG BELLE VUE LIMITED",
+            "HSM34028",
+            "Diagnostic Center",
+            "Category-B",
+            "Chittagong",
+            "Panchlaish",
+            "1530/A O.R.NIZAM ROAD, CHITTAGONG. "
+        ],
+        [
+            14,
+            "CHITTAGONG BELLE VUE LTD",
+            "HSM88710",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "79/A JAMAL KHAN ROAD, CHITTAGONG"
+        ],
+        [
+            15,
+            "CHITTAGONG BLOOD BANK & TRANSFUSION CENTER.",
+            "HSM24477",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Panchlaish",
+            ""
+        ],
+        [
+            16,
+            "Chittagong Community Hospital & Diag. Center",
+            "HSM66032",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Patiya",
+            "College Bazar Sikalbaha, West Patiya,Chittagong."
+        ],
+        [
+            17,
+            "Chittagong Community Hospital & Diag. Center.",
+            "HSM91094",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "potiya"
+        ],
+        [
+            18,
+            "CHITTAGONG EYE CARE CENTER",
+            "HSM47047",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Panchlaish",
+            "37,K.B Fazlul Kader Road ,Panchlish,Chattagong"
+        ],
+        [
+            19,
+            "Chittagong Eye Infirmary and Training Complex ",
+            "HSM52069",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Khulshi",
+            "Pahartali, Foys Lake, Chattogram."
+        ],
+        [
+            20,
+            "Chittagong Health Care Diagnostic Center",
+            "HSM97044",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandgaon",
+            "Marjan Shah Market, Moulvi Pukur par, Arakan Road, Chandgaon, Chittagang"
+        ],
+        [
+            21,
+            "CHITTAGONG HEALTH POINT HOSPITAL LTD.",
+            "HSM89295",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "1501, O. R. Nijam Road, Panchlaish, Chittagong "
+        ],
+        [
+            22,
+            "CHITTAGONG LAB LTD.",
+            "HSM13628",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Panchlaish",
+            "20.K.B Fazlul Kader Road, Medical Front Gate,  Panchlaish, Chittagong"
+        ],
+        [
+            23,
+            "Chittagong Monorog Clinic",
+            "HSM16561",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Panchlaish",
+            "4,Hill View Road,Aonwar Manson,Nasirabad,Chittagong"
+        ],
+        [
+            24,
+            "Chittagong Shishu Hospital (Pvt) Ltd",
+            "HSM27328",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "Muktijoddha Bhavan, 20 K. B. Fazlul Kader Road - Chittagong -  Bangladesh"
+        ],
+        [
+            25,
+            "CHITTAGONG SQUARE CLINICAL LABORATORY LTD ",
+            "HSM01020",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Panchlaish",
+            "195, K. B. Fazlul Kader Road, Panchlaish, Chittagong "
+        ],
+        [
+            26,
+            "CHITTAGONG UROLOGY AND GENERAL HOSPITAL",
+            "HSM00618",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chittagong",
+            "Panchlaish",
+            "1548,SANONDA R/A, EAST NASIRABAD, PANCHLAISH, CHITTAGONG"
+        ],
+        [
+            27,
+            "CHONDA HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM29946",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Arappur Bus Stand, Dhaka Road, Jhenaidah"
+        ],
+        [
+            28,
+            "CHONDROGHONA EYE HOSPITAL AND HEALTH CENTER",
+            "HSM60348",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Rangunia",
+            "LICUBAGAN MORE(CHONDROGHONA),RANGUNIA,CTG"
+        ],
+        [
+            29,
+            "Chowdhury Clinic",
+            "HSM96189",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "9/1 Brommo somaj Sarak uttar kalibari , Faridpur."
+        ],
+        [
+            30,
+            "Chowdhury Clinic& Nursing Home",
+            "HSM26433",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "R.K Road(Porzoton more)Rangpur"
+        ],
+        [
+            31,
+            "CHOWDHURY DIAGNOSTIC CENTER & CLINIC",
+            "HSM33225",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Bera",
+            "Holding no: 98/51(3), Kanaibari Road, Bera, Pabna"
+        ],
+        [
+            32,
+            "CHOWDHURY DIAGNOSTIC CENTER & CLINIC",
+            "HSM22851",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Bera",
+            "Holding no: 98/51(3), Kanaibari Road, Bera, Pabna"
+        ],
+        [
+            33,
+            "Chowdhury Digital Diagnostic Centre",
+            "HSM68626",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Chowrongir more, Jhiltuli, Faridpur."
+        ],
+        [
+            34,
+            "Chowdhury General  Hospital",
+            "HSM82408",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Bangshal",
+            "72/75, Majed Sarder Road, Chankharpool, Dhaka"
+        ],
+        [
+            35,
+            "CHOWDHURY GENERAL HOSPITAL PVT ",
+            "HSM24757",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "1261/1 Chowdhury Bhaban, Kharampatti, Kishoreganj"
+        ],
+        [
+            36,
+            "CHOWDHURY GENERAL HOSPITAL PVT",
+            "HSM55560",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "1261/1 Chowdhury Bhaban, Kharampatti, Kishoreganj"
+        ],
+        [
+            37,
+            "CHOWDHURY HAT NURSING HOME & DIAGONOSTIC CENTER.",
+            "HSM72064",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Hathazari",
+            "2ND FLOOR, ARAFAT TOWER,CHOWDHURY HAT,\r\n            FATEHABAD,  HATHAZARI. CHATTAGRAM."
+        ],
+        [
+            38,
+            "CHOWDHURY HAT NURSING HOME & DIAGONOSTIC CENTER.",
+            "HSM69199",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "CHOWDHURY HAT NURSING HOME & DIAGONOSTIC CENTER. 2ND FLOOR, ARAFAT TOWER,CHOWDHURY HAT,\r\n            FATEHABAD,  HATHAZARI. CHATTAGRAM.\r\n"
+        ],
+        [
+            39,
+            "Chowdhury Nurun Nahar General Hospital",
+            "HSM26217",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kushtia Sadar",
+            "168, Mojibur Rahman Road, Fultola, Chourhash, Kushtia."
+        ],
+        [
+            40,
+            "Chowdhury Nurun Nahar General Hospital",
+            "HSM93746",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Kushtia Sadar",
+            "168, Mojibur Rahman Road, Fultola, Chourhash, Kushtia"
+        ],
+        [
+            41,
+            "Chowdhury Out Door Clinic & Hospital (Pvt.)",
+            "HSM53738",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Madhupur",
+            "Rajmoni Market, Madhurpur Bus Stand, Madhupur, Tangail."
+        ],
+        [
+            42,
+            "Chowdhury Out Door Clinic & Hospital (Pvt.)",
+            "HSM56865",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Madhupur",
+            "Rajmoni Market, Madhupur Bus Stand, Madhupur, Tangail."
+        ],
+        [
+            43,
+            "Chowmuhani Medical Services",
+            "HSM36584",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Public Hall Road, chowmuhani, Bagumgonj, Noakhali"
+        ],
+        [
+            44,
+            "CHOWRASTA MODERN HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM68049",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "tangail road,chandana, chowrasta,gazipur city corporation"
+        ],
+        [
+            45,
+            "CHOWRASTA MODERN HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM34749",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Tangail Road,chandana,chowrasta,gazipur city corporation"
+        ],
+        [
+            46,
+            "Christian Hospital Chandraghona",
+            "HSM55840",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangamati",
+            "Kaptai",
+            "Chandraghona-4531, Kaptai Upazilla, Rangamati Hill District"
+        ],
+        [
+            47,
+            "Christian Hospital Lab Chandraghona",
+            "HSM68015",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Kaptai",
+            "Christian Hospital Chandraghona, Chandraghona-4531, Kaptai, Rangamati"
+        ],
+        [
+            48,
+            "Christian Medical Center Ahladipur (CMCA)",
+            "HSM96970",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Ahladipur, Goalanda More, Rajbari Sadar, Rajbari."
+        ],
+        [
+            49,
+            "Christian Medical Centre",
+            "HSM13535",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Abokas,Brahmanbaria"
+        ],
+        [
+            50,
+            "Christian Medicial Center",
+            "HSM87535",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Abokash,Brahmanbaria"
+        ],
+        [
+            51,
+            "Christian Memorial Hospital",
+            "HSM85784",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Muncefpara ,Brahmanbaria"
+        ],
+        [
+            52,
+            "Christian Memorial Hospital",
+            "HSM36542",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Munsefpara,Brahmanbaria"
+        ],
+        [
+            53,
+            "Christian Mission Hospital, Rajshahi",
+            "HSM77963",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Sreerampur"
+        ],
+        [
+            54,
+            "Christian Mission Hospital,Rajshahi",
+            "HSM66425",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Sreerampur,Rajpara,Rajshahi-6000"
+        ],
+        [
+            55,
+            "CHUADANGA  EYE CLINIC",
+            "HSM15408",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Red Crescent  Eye  Hospital Road, Chuadanga 7200"
+        ],
+        [
+            56,
+            "CHUADANGA DIAGNOSTIC CENTRE",
+            "HSM78129",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Cinema Hall Para, Sadar Hospital Road, Chuadanga"
+        ],
+        [
+            57,
+            "CHUADANGA PHYSIOTHERAPY  &  DIAGNOSTIC CENTRE",
+            "HSM24154",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            " \u200dSadar Hospital Road, Chuadanga."
+        ],
+        [
+            58,
+            "CHUKNAGAR MEDICAL & DIAGNOSTIC CENTER",
+            "HSM32526",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dumuria",
+            "CHUKNAGAR BAZAR, DUMURIA, KHULNA"
+        ],
+        [
+            59,
+            "CHUKNAGAR MEDICAL CENTRE",
+            "HSM37449",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Dumuria",
+            "CHUKNAGAR BAZAR, DUMIRIA, KHULNA"
+        ],
+        [
+            60,
+            "CHUNARUGHAT EYE HOSPITAL",
+            "HSM58081",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Chunarughat",
+            "Master House, Balla Road, Chunarughat, Habiganj."
+        ],
+        [
+            61,
+            "CIMEC HEALTH",
+            "HSM20579",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dhanmondi",
+            "House#17, Road#6, Dhanmondi, Dhaka"
+        ],
+        [
+            62,
+            "CISHTIYA SAJLIYA MEDICAL SERVICES",
+            "HSM98683",
+            "Diagnostic Center",
+            "Category-B",
+            "Narayanganj",
+            "Araihazar",
+            "Pinki Super Market (2nd Floor), Araihazar, Narayanganj"
+        ],
+        [
+            63,
+            "Citizen Health Complex ",
+            "HSM99585",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Kazipara, Sadar Patuakhali"
+        ],
+        [
+            64,
+            "CITY  CLINIC ",
+            "HSM97349",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "DINAJPUR "
+        ],
+        [
+            65,
+            "CITY ADHUNIK HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM01235",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "185, \u200dSattar Plaza, Chowrangi, Sadar Road, Shariatpur"
+        ],
+        [
+            66,
+            "CITY ADHUNIK HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM06255",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "185, Sattar Plaza, Chowrangi, Sadar Road, Shariatpur"
+        ],
+        [
+            67,
+            "City Aid Diagnostic & consultation Center",
+            "HSM43232",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Muktijoddha Market Bhaban, 1st Floor, Shahid Muktijoddha Sarak, Chandpur. "
+        ],
+        [
+            68,
+            "City Blood Bank and Transfusion Medicine Center",
+            "HSM46336",
+            "Blood Bank",
+            "",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Badurtala, Comilla."
+        ],
+        [
+            69,
+            "City Care Diagnostic Center.",
+            "HSM25335",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandgaon",
+            "Kalamia Bazar.Chittagong"
+        ],
+        [
+            70,
+            "City Care General Hospital & Diagnostic Center ",
+            "HSM76909",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "Shelford Tower, House # 23/6, Mirpur Road, Block-B, Shyamoli, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            71,
+            "City Care General Hospital & Diagnostic Center ",
+            "HSM74421",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "Shelford Tower, House # 23/6, Mirpur Road, Block-B, Shyamoli, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            72,
+            "City Clinic",
+            "HSM34300",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Kasaripara, Shahid Najmul Sharani, Satkhira."
+        ],
+        [
+            73,
+            "CITY CLINIC",
+            "HSM23203",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Bangabandu Road, Thakurgaon Sadar, Thakurgaon."
+        ],
+        [
+            74,
+            "CITY CLINIC & DIAGNOSTIC",
+            "HSM42138",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogura",
+            "Bogra Sadar",
+            "\u09b0\u09b9\u09ae\u09be\u09a8 \u09a8\u0997\u09b0, \u09ac\u0997\u09c1\u09dc\u09be \u09b8\u09a6\u09b0, \u09ac\u0997\u09c1\u09dc\u09be\u0964"
+        ],
+        [
+            75,
+            "CITY CLINIC & DIAGNOSTIC",
+            "HSM45935",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "\u09b0\u09b9\u09ae\u09be\u09a8 \u09a8\u0997\u09b0, \u09ac\u0997\u09c1\u09dc\u09be \u09b8\u09a6\u09b0, \u09ac\u0997\u09c1\u09dc\u09be\u0964"
+        ],
+        [
+            76,
+            "CITY CLINIC & DIAGNOSTIC CENTER",
+            "HSM94642",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            77,
+            "CITY CLINIC & DIAGNOSTIC CENTER",
+            "HSM09339",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            78,
+            "CITY CLINIC (PVT) Ltd",
+            "HSM02116",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Allardarga, Daulatpur, Kushtia."
+        ],
+        [
+            79,
+            "CITY COMMUNITY HOSPITAL",
+            "HSM47954",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Nilphamari",
+            "Saidpur",
+            "NEAR SEBA DIAGNOSIS, DINAJPUR ROAD, SAIDPUR, NILPHAMARI"
+        ],
+        [
+            80,
+            "City Diagnostic & Consultation Center",
+            "HSM37759",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road Barirpar, Moulvibazar"
+        ],
+        [
+            81,
+            "CITY DIAGNOSTIC & MEDICAL CENTRE",
+            "HSM91766",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhenaidah",
+            "Kaliganj",
+            "Main Bus Stand, Kaliganj, Jhenaidah"
+        ],
+        [
+            82,
+            "City Diagnostic @ Consultation Center",
+            "HSM32360",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "College Road,Morrelganj,Bagerhat"
+        ],
+        [
+            83,
+            "City Diagnostic Care",
+            "HSM68265",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Aldi Bazar, Tongibari, Munshigonj"
+        ],
+        [
+            84,
+            "City Diagnostic Center",
+            "HSM96486",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "School Road (Sabutola), Lohagara Bazar, Lohagara, Narail"
+        ],
+        [
+            85,
+            "CITY DIAGNOSTIC CENTER",
+            "HSM72604",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, GPO-6000, RAJPARA, RAJSHAHI."
+        ],
+        [
+            86,
+            "CITY DIAGNOSTIC CENTER",
+            "HSM26103",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Bagherpara",
+            "Hospitalgeat,bagherpara,jessore"
+        ],
+        [
+            87,
+            "City Diagnostic Center",
+            "HSM53595",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            " College Road,Rajnagar,Habiganj."
+        ],
+        [
+            88,
+            "CITY DIAGNOSTIC CENTER",
+            "HSM18196",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Hospital Gate, Chatmohar, Pabna"
+        ],
+        [
+            89,
+            "City Diagnostic Center",
+            "HSM70541",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Bhola Sadar",
+            "Mahabuba Market Bhola Sador Bhola."
+        ],
+        [
+            90,
+            "CITY DIAGNOSTIC CENTER",
+            "HSM89510",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Bhanga",
+            "Bhanga, Faridpur."
+        ],
+        [
+            91,
+            "CITY DIAGNOSTIC CENTER ",
+            "HSM88301",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Shailkupa",
+            "Kabirpur, Shailkupa, Jhenaidah."
+        ],
+        [
+            92,
+            "City Diagnostic Center",
+            "HSM47660",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "Shohid Rafique Sharoni T.T Pluza"
+        ],
+        [
+            93,
+            "City Diagnostic Center",
+            "HSM10783",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Tetulia road Panchagarh "
+        ],
+        [
+            94,
+            "CITY DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM11537",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Shibganj",
+            "HOSPITAL ROAD SHIBGANJ, CHAPAINAWABGANJ"
+        ],
+        [
+            95,
+            "CITY DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM10738",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chapainawabganj",
+            "Shibganj",
+            "HOSPITAL ROAD SHIBGANJ, CHAPAINAWABGANJ"
+        ],
+        [
+            96,
+            "CITY DIAGNOSTIC CENTRE",
+            "HSM11607",
+            "Diagnostic Center",
+            "Category-A",
+            "Pabna",
+            "Pabna Sadar",
+            "Sadar Hospital Road (Near TB Hospital), Shalgaria, Pabna"
+        ],
+        [
+            97,
+            "City Diagnostic Centre",
+            "HSM18753",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "132, College Masjid Road, Gopalganj, Bangladesh."
+        ],
+        [
+            98,
+            "CITY DIAGNOSTIC CENTRE",
+            "HSM30067",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Sylhet Sadar",
+            "OLD MEDICAL ROAD. SYLHET. "
+        ],
+        [
+            99,
+            "City Diagnostic Centre",
+            "HSM78775",
+            "Diagnostic Center",
+            "Category-B",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Mistripara, Hospital Road, Chapainawabganj"
+        ],
+        [
+            100,
+            "CITY DIAGNOSTIC CENTRE",
+            "HSM40650",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "53/1 Nowab Salimullah Road, Chasara Narayanganj"
+        ]
+    ]
+}

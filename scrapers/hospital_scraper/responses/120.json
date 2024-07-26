@@ -1,0 +1,1007 @@
+{
+    "draw": 120,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Patient Care Diagnostic Center",
+            "HSM45290",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Mithapukur",
+            "Gorermatha, Mithapukur, Rangpur"
+        ],
+        [
+            2,
+            "PATIENT CARE DIAGNOSTIC CENTER",
+            "HSM02692",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "PUBLIC HOLL ROAD,BINAPANI SCHOOL ROAD,GOPALGANJ SADAR,GOPALGANJ."
+        ],
+        [
+            3,
+            "Patient Care Diagnostic Center",
+            "HSM90210",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "\u099a\u09be\u09a8\u09cd\u09a6\u09b0\u09be ,\u09a6\u09bf\u0998\u09c0 , \u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0, \u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            4,
+            "Patient Care Hospital",
+            "HSM89152",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Mithapukur",
+            "Gorermatha, Mithapukur, Rangpur"
+        ],
+        [
+            5,
+            "Patient Care Hospital & Diagnostic Centre",
+            "HSM59615",
+            "Diagnostic Center",
+            "Category-B",
+            "Barguna",
+            "Barguna Sadar",
+            "\u0995\u09b2\u09c7\u099c \u09b0\u09cb\u09a1, \u09ac\u09b0\u0997\u09c1\u09a8\u09be \u09b8\u09a6\u09b0, \u09ac\u09b0\u0997\u09c1\u09a8\u09be\u0964"
+        ],
+        [
+            6,
+            "Patient Care Hospital & Diagnostic Centre",
+            "HSM73312",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barguna",
+            "Barguna Sadar",
+            "\u0995\u09b2\u09c7\u099c \u09b0\u09cb\u09a1, \u09ac\u09b0\u0997\u09c1\u09a8\u09be \u09b8\u09a6\u09b0, \u09ac\u09b0\u0997\u09c1\u09a8\u09be\u0964"
+        ],
+        [
+            7,
+            "PATIENT CARE PRIVET  HOSPITAL",
+            "HSM30248",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Birganj",
+            "EKKHU SENTER ROAD,BIRGONJ,DINAJPUR"
+        ],
+        [
+            8,
+            "Patient Care Shisu O General Hospital & Diagnostic Center.",
+            "HSM63762",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Jail Road,Brahmanbari"
+        ],
+        [
+            9,
+            "PATIENT CURE HOSPITAL ",
+            "HSM93858",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "mayabini Building, 57 K.B Fazlul Kader Road, panchlaish, Chattogram.\r\n"
+        ],
+        [
+            10,
+            "Patient Point Diagnostic Center",
+            "HSM22918",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Degerchala Road, Chodana, National University, Gazipur Sadar, Gazipur-1704"
+        ],
+        [
+            11,
+            "PATIENT POINT DIAGNOSTIC CENTER",
+            "HSM40117",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Majhgram, Sutabaria, Galachipa, Patuakhali."
+        ],
+        [
+            12,
+            "PATIENTS CARE & DIAGNOSTIC CENTRE",
+            "HSM30809",
+            "Diagnostic Center",
+            "Category-B",
+            "Dinajpur",
+            "Parbatipur",
+            "Puraton  Bazar (Talipotti), Parbatipur, Dinajpur"
+        ],
+        [
+            13,
+            "Patients Care Diagnostic and Consultation Center",
+            "HSM03004",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "Medical College Road, Laxmipur, Rajshahi"
+        ],
+        [
+            14,
+            "PATIENTS DIAGNOSTIC CENTER",
+            "HSM31985",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road, Sadar, Rangpur"
+        ],
+        [
+            15,
+            "Patients Nursing Home ",
+            "HSM79100",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Dighalia",
+            "KUET,Fulbarigate,Khulna"
+        ],
+        [
+            16,
+            "Patiya Blood Bank & Transfusion center",
+            "HSM51836",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Patiya",
+            "Nabi Market (3rd Floor), Ward No. 04, Patia Municipality, Chittagong."
+        ],
+        [
+            17,
+            "Patiya Central hospital & Diagnostic center PVT.LTd.",
+            "HSM97792",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Patiya",
+            "salam tower,munsef bazar,patiya,chittagong."
+        ],
+        [
+            18,
+            "patiya central hospital&Diagnostic Center PVT.LTD",
+            "HSM76930",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Patiya",
+            "salam tower,minsef bazar,patiya,chittagong."
+        ],
+        [
+            19,
+            "Patiya Chevron Hospital (PVT) LTD.",
+            "HSM94756",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Patiya",
+            "Kader Super Market ( In Front Of Patiya Health Complex, Patiya Chattagram."
+        ],
+        [
+            20,
+            "Patiya General Hospital & Diagnostic",
+            "HSM36745",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Patiya",
+            "Rafa Plaza, Arakan Road, Ward No-04, Patiya, Chittagong."
+        ],
+        [
+            21,
+            "Patiya General Hospital & Diagnostic",
+            "HSM93227",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "Rafa Plaza, Arakan Road, Ward No: 04, Patiya, Chittagong, 4370."
+        ],
+        [
+            22,
+            "PATUAKHALI CLINIC (PVT) LTD.",
+            "HSM98099",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "21, Kazipara, Patuakhali Sador, Patuakhali."
+        ],
+        [
+            23,
+            "PATUAKHALI CLINIC (PVT) LTD. (PATHOLOGY)",
+            "HSM45608",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "21, Kazipara, Patuakhali Sador, Patuakhali."
+        ],
+        [
+            24,
+            "PATUAKHALI DIABETIC ASSOCIATION.",
+            "HSM89349",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "SHER-E-BANGLA SARAK,PATUAKHALI"
+        ],
+        [
+            25,
+            "PATUAKHALI DIABETIC Hospital",
+            "HSM84701",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "SHER-E-BANGLA SARAK,PATUAKHALI."
+        ],
+        [
+            26,
+            "Patuakhali Eye Hospital ",
+            "HSM99522",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Kazipara,sadar, patuakhali "
+        ],
+        [
+            27,
+            "Patuakhali Heart Foundation & Diagnostic Center",
+            "HSM80786",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Sarek Villa, Munsef Para, Patuakhali Sadar, Patuakhali."
+        ],
+        [
+            28,
+            "Patuakhali Lab Aid Diagnostic & Consultation Center",
+            "HSM69562",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "P T I Road, Patuakhali."
+        ],
+        [
+            29,
+            "Patuakhali Modern Hospital And Diagnostic Center ",
+            "HSM61311",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "241 No Bissash Vila, College Road, Patuakhali "
+        ],
+        [
+            30,
+            "Patuakhali Mother & Child Hospital",
+            "HSM57379",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Town School Road, Patuakhali Sadar, Patuakhali."
+        ],
+        [
+            31,
+            "Patuakhali Mother Oh Child Hospital & Diagnostic Center",
+            "HSM24494",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Town School Road, Patuakhali Sadar, Patuakhali"
+        ],
+        [
+            32,
+            "PATWARY DIAGNOSTIC & DOCTORS CHAMBER",
+            "HSM27207",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Banani",
+            "Ka-105/9, Mohakhali Southpara, Niketan Bazar Gate, Banani, Dhaka-1213"
+        ],
+        [
+            33,
+            "Patwary General Hospital ",
+            "HSM17195",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Baraigram",
+            "Bonpara, Baraigram,Natore, Bangladesh"
+        ],
+        [
+            34,
+            "Patwary General Hospital",
+            "HSM67339",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Nangalkot",
+            "Upazilla Road, Nangalkot, Comilla"
+        ],
+        [
+            35,
+            "PAUL DENTAL CARE",
+            "HSM05123",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Maulvibazar",
+            "Kulaura",
+            "Mosjid Market, Dokkin Bazar, Kulaura, Moulvibazar"
+        ],
+        [
+            36,
+            "Payra Bondor Darus Shefa Diagnostic Centre , (Digital Lab)",
+            "HSM00366",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Banati Bazar, Kalapara ,Patuakhali "
+        ],
+        [
+            37,
+            "Payra Diagnostic Center",
+            "HSM03660",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Harirampur",
+            "Jhitka Bazar, Harirampur,Manikganj"
+        ],
+        [
+            38,
+            "Payra Diagnostic Center ",
+            "HSM20885",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Rangabali",
+            "Kachiabunia, Rangabali, Patuakhali "
+        ],
+        [
+            39,
+            "Payra Diagnostic Center.",
+            "HSM68764",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "kaler pukur par,Patuakhali"
+        ],
+        [
+            40,
+            "Payra Diagnostic Complex",
+            "HSM10642",
+            "Diagnostic Center",
+            "Category-B",
+            "Barguna",
+            "Barguna Sadar",
+            "Sadar Road, Barguna Sadar, Barguna."
+        ],
+        [
+            41,
+            "PDS health care centre",
+            "HSM80053",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "Naogaon Bazar, Post: Shorifabad, Up: Tarash, Dist: Sirajgonj."
+        ],
+        [
+            42,
+            "PEA EYE CARE CENTER",
+            "HSM13260",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Abhaynagar",
+            "ABHAYNAGAR, JASHORE"
+        ],
+        [
+            43,
+            "Peace Hospital",
+            "HSM50222",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "dagbangla para, shahjdpur, sirajganj"
+        ],
+        [
+            44,
+            "PEACE HOSPITAL",
+            "HSM81749",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "DAGBANGLA PARA, SHAZADPUR, SIRAJGANJ"
+        ],
+        [
+            45,
+            "Peace Hospital",
+            "HSM97144",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "36, Mujib Sarak, Jashore."
+        ],
+        [
+            46,
+            "Peace Hospital",
+            "HSM02479",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "36, Mujib sarak, Jashore."
+        ],
+        [
+            47,
+            "PediCare Hospital",
+            "HSM07652",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "31, Panchlaish, Chawkbazar-4203, Chattogram, Bangladesh"
+        ],
+        [
+            48,
+            "PEERLESS CLINIC & NURSING HOME",
+            "HSM91391",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Shamoli Lan, Sadar, Rangpur"
+        ],
+        [
+            49,
+            "Peerless Diagnostic & Hospital",
+            "HSM35589",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chalkmukter Naogaon Sader, Naogaon."
+        ],
+        [
+            50,
+            "Peerless Diagnostic & Hospital ",
+            "HSM70572",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chalkmukter Naogaon Sader, Naogaon."
+        ],
+        [
+            51,
+            "Peerless Diagnostic Center",
+            "HSM14439",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Paba",
+            "Naohata College More, Naohata, Paba, Rajshahi"
+        ],
+        [
+            52,
+            "Peerless Diagnostic Center ",
+            "HSM78676",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Racecourse, Main Road, Comilla 3500"
+        ],
+        [
+            53,
+            "Peerless Diagnostic Center",
+            "HSM28402",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Kushtia Sadar",
+            "1, Arjuna Dash Agarwalla Road, kushtia Sadar,  Kushtia-7000"
+        ],
+        [
+            54,
+            "Peerless Diagnostic Center Ltd",
+            "HSM13743",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Panchlaish",
+            "1504, O. R. Nizam road, Goalpahar Moor, Chattogram."
+        ],
+        [
+            55,
+            "PEERLESS DIAGNOSTIC CENTRE",
+            "HSM76048",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jessore Sadar",
+            "Islam Market 2nd Floor, Garikhana Road, Jessore"
+        ],
+        [
+            56,
+            "PEERLESS DOCTORS POINT",
+            "HSM56858",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "STADIUM ROAD, CHANDPUR"
+        ],
+        [
+            57,
+            "Peerless Hospital",
+            "HSM88648",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Racecourse, Main Road, Comilla"
+        ],
+        [
+            58,
+            "PEERLESS HOSPITAL (PVT.)",
+            "HSM56740",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "West Gate 250 bed Sadar Hospital, Magura."
+        ],
+        [
+            59,
+            "PEERLESS MEDICAL SERVICES",
+            "HSM85444",
+            "Diagnostic Center",
+            "Category-C",
+            "Jessore",
+            "Keshabpur",
+            "Razgong Road, Keshabpur, Jessore"
+        ],
+        [
+            60,
+            "PEERLESS MEDICAL SERVICES",
+            "HSM61428",
+            "Diagnostic Center",
+            "Category-B",
+            "Magura",
+            "Magura Sadar",
+            "Magura Hospital Pvt., West Gate, 250 bed Sadar Hospital Magura"
+        ],
+        [
+            61,
+            "PEERLESS SPECIALIZED HOSPITAL (PVT.) LTD",
+            "HSM55402",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "RMST Tower, Baipail, Gazirchat Aliya Madrasha, Ashulia, Savar, Dhaka"
+        ],
+        [
+            62,
+            "PEERLESS SPECIALIZED HOSPITAL (PVT.) LTD",
+            "HSM71338",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "RMST Tower, Baipail, Gazirchat Aliya Madrasha, Ashulia, Savar, Dhaka"
+        ],
+        [
+            63,
+            "PEKS GENERAL HOSPITAL",
+            "HSM88688",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gaibandha",
+            "Gobindaganj",
+            "Gobindaganj, Gaibandha"
+        ],
+        [
+            64,
+            "Pekua General Hospital",
+            "HSM54726",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Pekua",
+            "\u0986\u09b2\u09b9\u09be\u099c\u09cd\u09ac \u0995\u09ac\u09bf\u09b0 \u0986\u09b9\u09ae\u09a6 \u099a\u09cc\u09a7\u09c1\u09b0\u09c0 \u09ac\u09be\u099c\u09be\u09b0\u09c7\u09b0 \u09aa\u09c2\u09b0\u09cd\u09ac \u09aa\u09be\u09b0\u09cd\u09b6\u09cd\u09ac\u09c7 (\u099c\u09a8\u09a4\u09be \u09ac\u09cd\u09af\u09be\u0982\u0995 \u09ac\u09bf\u09b2\u09cd\u09a1\u09bf\u0982) \u09aa\u09c7\u0995\u09c1\u09df\u09be, \u0995\u0995\u09cd\u200c\u09b8\u09ac\u09be\u099c\u09be\u09b0\u0964"
+        ],
+        [
+            65,
+            "pekua life care Diagnostic Center",
+            "HSM71760",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Pekua",
+            "pekua. coxs Bazar"
+        ],
+        [
+            66,
+            "Pekua Life Care Hospital",
+            "HSM67896",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Pekua",
+            "\u09aa\u09c7\u0995\u09c1\u09df\u09be \u099a\u09cc\u09ae\u09c1\u09b9\u09a8\u09c0\u09b0 \u09aa\u09b6\u09cd\u099a\u09bf\u09ae \u09aa\u09be\u09b6\u09c7, \u09aa\u09c7\u0995\u09c1\u09df\u09be, \u0995\u0995\u09cd\u09b8\u09ac\u09be\u099c\u09be\u09b0"
+        ],
+        [
+            67,
+            "PEKUA MEDICAL CENTER ",
+            "HSM64008",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Pekua",
+            "Alhaj Ahmed Shafi Building, Chowmohani, Pekua, Coxs Bazar."
+        ],
+        [
+            68,
+            "PEKUA MEDICAL CENTRE HOSPITAL",
+            "HSM55427",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Pekua",
+            "Alhaj Ahmed Shafi Building, 1st Floor, Pekua, Pekua, Coxs Bazar"
+        ],
+        [
+            69,
+            "PEOPLE CARE DIAGNOSTIC CENTRE",
+            "HSM68568",
+            "Diagnostic Center",
+            "Category-B",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur. "
+        ],
+        [
+            70,
+            "People Diagnostic Center",
+            "HSM98876",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "1062/ Kazihata, GPO-6000, Rajpara, Rajshahi."
+        ],
+        [
+            71,
+            "People\u2019s Eye Hospital Limited",
+            "HSM79951",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Badda",
+            "Hussain Supper Market, Progoti Sharani, North Badda, Dhaka"
+        ],
+        [
+            72,
+            "Peoples Care Hospital ",
+            "HSM53521",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gulshan",
+            "Ga 37|1 progoti sharawni Main road Baridhara J block  Gulshan,Dhaka, \r\n bangladesh"
+        ],
+        [
+            73,
+            "Peoples Diagnostic & Hospital",
+            "HSM59611",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "22/1, Maskanda, Sadar, Mymensingh."
+        ],
+        [
+            74,
+            "Peoples Diagnostic & Hospital",
+            "HSM68922",
+            "Diagnostic Center",
+            "Category-A",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "22/1, Maskanda, Sadar, Mymensingh."
+        ],
+        [
+            75,
+            "PEOPLES DIAGNOSTIC CENTER",
+            "HSM62490",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "61/E/1 BAGMARA ROAD, MYMENSINGH SADAR, MYMENSINGH\r\n"
+        ],
+        [
+            76,
+            "Peoples Diagnostic Center",
+            "HSM06689",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "Hospital West Side, Puthia, Rajshahi"
+        ],
+        [
+            77,
+            "Peoples Diagnostic Center",
+            "HSM03742",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road, Rangpur"
+        ],
+        [
+            78,
+            "PEOPLES DIAGNOSTIC CENTER.",
+            "HSM73957",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "33/A, AMBIKA ROAD, JHILTULI, FARIDPUR"
+        ],
+        [
+            79,
+            "PEOPLES DIAGONSTIC & CONSULTATION CENTER",
+            "HSM53546",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "STADIUM ROAD, CHANDPUR SADAR,CHANDPUR"
+        ],
+        [
+            80,
+            "Peoples General Hospital & Diagnostic Center",
+            "HSM01665",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "College Road, Ziranibazar,BKSP, Asulia, Savar, Dhaka"
+        ],
+        [
+            81,
+            "Peoples General Hospital and Diagnostic Center",
+            "HSM31733",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "College Road, Zirani Bazar, BKSP, Ashulia, Savar, Dhaka"
+        ],
+        [
+            82,
+            "Peoples Health Care & Digital Diagnostics Lab",
+            "HSM30347",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "Upzila Hospital Road, Sreepur, Gazipur - 1740"
+        ],
+        [
+            83,
+            "PEOPLES HEALTHCARE TECHNOLOGIES DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM70764",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Adabor",
+            "12/1, RING ROAD, SHYAMOLI, ADABOR, DHAKA-1207"
+        ],
+        [
+            84,
+            "Peoples Hospital Ltd ",
+            "HSM41908",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "94 K.B Fazlul Kader Road, Panchlish, Chittagong "
+        ],
+        [
+            85,
+            "Peoples Hospital Ltd",
+            "HSM93781",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "5-B Malibagh Chowdhury Para, Dhaka-1219"
+        ],
+        [
+            86,
+            "Peoples Hospital Ltd",
+            "HSM21716",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "5-B Malibagh Chowdhury Para, Dhaka-1219"
+        ],
+        [
+            87,
+            "PEOPLES MEDICAL SERVICES SAYESTAGANJ",
+            "HSM10661",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Chunarughat",
+            "Notun Bridge Habiganj road, Sayestaganj , Chunrughat, Habiganj"
+        ],
+        [
+            88,
+            "PERFECT DIAGNOSTIC   CENTER",
+            "HSM93590",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "13/a/5 asor uddin market,barmopolli,corpara,mymensingh"
+        ],
+        [
+            89,
+            "Perfect Diagnostic Center",
+            "HSM23723",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khalishpur",
+            "Perfect Diagnostic Center"
+        ],
+        [
+            90,
+            "PERFECT DIAGNOSTIC CENTER",
+            "HSM31222",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "WEST KHABASHPUR, BARISHAL ROAD, FARIDPUR."
+        ],
+        [
+            91,
+            "Perfect Diagnostic Centre",
+            "HSM25470",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Double Mooring",
+            "31, D.T. Road, Dastagir Centre (1st Floor), Kadamtali, Chattogram."
+        ],
+        [
+            92,
+            "PERFECT DIAGONSTIC CENTER",
+            "HSM54342",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, RAJPARA, RAJSHAHI."
+        ],
+        [
+            93,
+            "Perfect Digital Lab",
+            "HSM63587",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "9 Stadium Market (2nd Floor), Sadar, Sylhet"
+        ],
+        [
+            94,
+            "PERFECT MEDICARE LTD.",
+            "HSM22176",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "186, Shahid Sayed Nazrul Islam Sarani (Allys Center) Bijoy Nagar, Dhaka, Bangladesh."
+        ],
+        [
+            95,
+            "Perlov Medical Services Ltd. ",
+            "HSM20220",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Rampura",
+            "91/B, Khilgaon Chowdhury Para, Rampura, Dhaka "
+        ],
+        [
+            96,
+            "Perua Computerized Diagnostic Complex.",
+            "HSM42549",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Jagannathpur",
+            "Shantinagar,Hospital Point,Jagannathpur,Sunamganj"
+        ],
+        [
+            97,
+            "PHeaRTs EYE HOSPITAL",
+            "HSM86369",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Araihazar",
+            "NEW MODEL TOWN, ARAIHAZAR SADAR, ARAIHAZAR, NARAYANGANJ"
+        ],
+        [
+            98,
+            "Phoenix Medical Center",
+            "HSM60308",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Dhanmondi",
+            "Ahmed & Kazi Tower, Plot # 35, Road # 2, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            99,
+            "Phulbari City Digital Diagnostic Center",
+            "HSM32826",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Phulbari",
+            "Hospital Gate, Phulbari, Kurigram"
+        ],
+        [
+            100,
+            "Phulbari Diabetes and Hypertension Care Center. Phulbari. Dinajpur.",
+            "HSM46524",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "\u0997\u09cd\u09b0\u09be\u09ae/\u09ae\u09b9\u09b2\u09cd\u09b2\u09be: \u09aa\u09b6\u09cd\u099a\u09bf\u09ae \u0997\u09cc\u09b0\u09c0\u09aa\u09be\u09dc\u09be\u0964\r\n\u09b0\u09be\u09b8\u09cd\u09a4\u09be \u09a8\u09be\u09ae: \u09b8\u09a6\u09b0 \u09b0\u09cb\u09a1\u0964\r\n\u0987\u0989\u09a8\u09bf\u09df\u09a8/\u09aa\u09cc\u09b0\u09b8\u09ad\u09be\u09b0 \u09a8\u09be\u09ae: \u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09c0\u0964\r\n\u0989\u09aa\u099c\u09c7\u09b2\u09be: \u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09c0\u0964\r\n\u099c\u09c7\u09b2\u09be: \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0\u0964 \r\n\r\n"
+        ]
+    ]
+}

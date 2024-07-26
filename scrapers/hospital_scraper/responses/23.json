@@ -1,0 +1,1007 @@
+{
+    "draw": 23,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Bangladesh Diabetes & Diagnostic Center",
+            "HSM26959",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Adamdighi",
+            "Murail Bazar, Adamdighi, Bogura."
+        ],
+        [
+            2,
+            "Bangladesh Diabetic General Hospital",
+            "HSM85703",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "R.R Plaza, Hospital Road, Basurhat, Companiganj, Noakhali"
+        ],
+        [
+            3,
+            "BANGLADESH DIABETIC GENERAL HOSPITAL ",
+            "HSM79323",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "R.R. Plaza, Hospital Road, Basurhat, Companiganj, Noakhali"
+        ],
+        [
+            4,
+            "Bangladesh Diabetic Health Care Ltd.",
+            "HSM84092",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "105/1,Dogor Mura, Savar, Dhaka-1340"
+        ],
+        [
+            5,
+            "Bangladesh Diabetic Network Ltd. (BDN)",
+            "HSM08068",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "\u0986\u0995\u09b0\u09be\u09ae \u099f\u09be\u0993\u09df\u09be\u09b0, 1\u09ae \u09a4\u09b2\u09be, \u098f\u09ad\u09bf\u09a8\u09bf\u0989-1, \u09b8\u09c7\u0995\u09b6\u09a8-7, \u09aa\u09c2\u09b0\u09ac\u09c0, \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09a2\u09be\u0995\u09be-1216"
+        ],
+        [
+            6,
+            "BANGLADESH DIAGNOSTIC & MEDICAL CENTER",
+            "HSM10397",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Shahbagh",
+            "205/1 SHOHID NAZRUL ISLAM SORONI BIJOY NAGAR DHAka -1000"
+        ],
+        [
+            7,
+            "Bangladesh Diagnostic Center  ",
+            "HSM73110",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "59/1, Shamsur Rahman Road, Khulna"
+        ],
+        [
+            8,
+            "BANGLADESH DIAGNOSTIC CENTER",
+            "HSM20059",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "SAKHIPUR, SAKHIPUR, SAKHIPUR, TANGAIL"
+        ],
+        [
+            9,
+            "Bangladesh Diagnostic Center",
+            "HSM77789",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Bangabandhu Road, Barguna Sadar, Barguna."
+        ],
+        [
+            10,
+            "Bangladesh Diagnostic Center, Rangpur.",
+            "HSM85955",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Zill Road, Rangpur."
+        ],
+        [
+            11,
+            "Bangladesh Diagnostic Centre",
+            "HSM12803",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Chowrangi, Gopalgonj."
+        ],
+        [
+            12,
+            "BANGLADESH DIGITAL DIAGNOSTIC",
+            "HSM22196",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Sujanagar",
+            "Nazirganj, Sujanagar, Pabna"
+        ],
+        [
+            13,
+            "Bangladesh Digital Diagnostic Centre.",
+            "HSM24744",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Khabaspur, Faridpur."
+        ],
+        [
+            14,
+            "Bangladesh Digital Eye Hospital",
+            "HSM16783",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Gigatola, Munshipara, Jamalpur"
+        ],
+        [
+            15,
+            "BANGLADESH DIGITAL LAB-",
+            "HSM19391",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "CHALKENAYET (BEBASSREM ROAD) NAOGAON"
+        ],
+        [
+            16,
+            "Bangladesh ENT Hospital Ltd.",
+            "HSM34524",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "4/1-A, Navana Newbury Place(3rd Floor),Sobhanbag, Mirpur Road, Dhaka-1207"
+        ],
+        [
+            17,
+            "Bangladesh Eye Care & Fazilatunnesa Phaco Center",
+            "HSM60534",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Adabor",
+            "Hous: 43,46, Road:6, Shyamoli Housing, Shekhertek, Adabor PS: Dhaka-1207"
+        ],
+        [
+            18,
+            "BANGLADESH EYE FOUNDATION AND RESEARCH HOSPITAL LIMITED",
+            "HSM43820",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            " 92, Sohid Faruk Road, Arman Shopping Center (1st and 2nd) Floor, Dhaka-1204"
+        ],
+        [
+            19,
+            "Bangladesh Eye Hospital & Institute ",
+            "HSM59753",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "78, Satmasjid Road, Dhanmondi, Dhaka-1205."
+        ],
+        [
+            20,
+            "Bangladesh Eye Hospital & Institute ",
+            "HSM64694",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "78, Satmasjid Road, Dhanmondi, Dhaka-1205."
+        ],
+        [
+            21,
+            "Bangladesh Eye Hospital & Institute Limited (Banani)",
+            "HSM71851",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Banani",
+            "House: 138, Road: 04, Block: C, Banani, Dhaka-1213."
+        ],
+        [
+            22,
+            "Bangladesh Eye Hospital Khulna.",
+            "HSM64582",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "9/B, KDA, Mojid Sarani Shibbari Khulna 9100"
+        ],
+        [
+            23,
+            "Bangladesh Eye Hospital Khulna.",
+            "HSM51974",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "9/B, KDA, Mojid Sarani Shibbari Khulna 9100"
+        ],
+        [
+            24,
+            "Bangladesh Eye Hospital Mirpur Ltd.",
+            "HSM27032",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "66,Sumi Tower Zoo Road,Mirpur-2,Dhaka-1216"
+        ],
+        [
+            25,
+            "Bangladesh Eye Hospital Shantinagar Ltd.",
+            "HSM53403",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Paltan",
+            "24/1, Chamelibagh, Shantinagar, Dhaka"
+        ],
+        [
+            26,
+            "Bangladesh Eye Hospital, Chittagong Limited.",
+            "HSM66810",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "Probotak sangha Building, Probortak, Punchalish, Chattogram "
+        ],
+        [
+            27,
+            "Bangladesh Eye Hospital, Uttara Limited",
+            "HSM32113",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot#27, Nandon Kanon Orchard Point, Sonargaon Janapath Road, Sector#07, Uttara, Dhaka-1230"
+        ],
+        [
+            28,
+            "Bangladesh Eye Trust Hospital",
+            "HSM25450",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "3/26/2B, Sultangonj, Rayer Bazar, Dhaka."
+        ],
+        [
+            29,
+            "BANGLADESH FERTILITY HOSPITAL LIMITED",
+            "HSM13918",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Khilgaon",
+            "Plot # 10, BlocK # E, Main Road, Banasree, Dhaka-1219"
+        ],
+        [
+            30,
+            "Bangladesh General Hospital",
+            "HSM98539",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "ati bazar, keranigonj"
+        ],
+        [
+            31,
+            "Bangladesh General Hospital",
+            "HSM20581",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "ati bazar, keranigonj"
+        ],
+        [
+            32,
+            "Bangladesh Hospital Rangpur",
+            "HSM72092",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Kakuli Lane, Dhap, Rangpur"
+        ],
+        [
+            33,
+            "Bangladesh Infertility Management Center Ltd.",
+            "HSM49053",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dhanmondi",
+            "House No-81( 5th floor), Road No-8/A (New), Satmosjid Road,Dhanmondi,Dhaka-1209."
+        ],
+        [
+            34,
+            "Bangladesh Institute Of Health Sciences (BIHS) General Hospital ",
+            "HSM13666",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "125/1, Darus Salam, Mirpur-1, Dhaka-1216"
+        ],
+        [
+            35,
+            "Bangladesh Institute Of Health Sciences (BIHS) General Hospital ",
+            "HSM58947",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "125/1, Darus Salam, Mirpur-1, Dhaka-1216"
+        ],
+        [
+            36,
+            "BANGLADESH LAB",
+            "HSM98961",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Moddo rajason ,Birulia Road,Savar ,Dhaka."
+        ],
+        [
+            37,
+            "Bangladesh Laser & Cell Surgery Institute & Hospital ",
+            "HSM83803",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Badda",
+            "House: 2, Road: 2, Sector:2, Block: D, Aftabnagar Housing, Badda, Dhaka."
+        ],
+        [
+            38,
+            "Bangladesh Laser & Cell Surgery Institute & Hospital Diagnostic Center",
+            "HSM10852",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "House: 2, Road: 2, Sector:2, Block: D, Aftabnagar  Housing, Badda, Dhaka."
+        ],
+        [
+            39,
+            "BANGLADESH MANOSHIK HOSPITAL (Pvt.)",
+            "HSM00291",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "SONAPOTTI ROAD,PABNA SADAR,PABNA"
+        ],
+        [
+            40,
+            "Bangladesh Medical Center",
+            "HSM22016",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "JN Tower, Mandari Bazar, Sadar, Lakshmipur"
+        ],
+        [
+            41,
+            "Bangladesh Medical College Hospital",
+            "HSM70763",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 33, 34 & 35, Road # 14/A (New), Dhanmondi R/A, Dhaka-1209"
+        ],
+        [
+            42,
+            "Bangladesh Medical College Hospital",
+            "HSM73426",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 33,34 & 35 Road # 14/A (new), Dhanmondi R/A, Dhaka."
+        ],
+        [
+            43,
+            "Bangladesh Medical College Hospital",
+            "HSM90709",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 33,34 & 35 Road # 14/A (new), Dhanmondi, Dhaka"
+        ],
+        [
+            44,
+            "Bangladesh Molecular Laboratory",
+            "HSM22023",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "3/A,Prirbag (Noth Side of Sapra Mosque),60 Feet Road, Mirpur, Dhaka-1216."
+        ],
+        [
+            45,
+            "Bangladesh Multicare Hospital Ltd.",
+            "HSM95698",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "382, West Rampura, D.I.T Road, West Rampura, Dhaka-1219"
+        ],
+        [
+            46,
+            "Bangladesh Multicare Hospital Ltd.",
+            "HSM48879",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "382, West Rampura D.I.T Road, Dhaka-1219"
+        ],
+        [
+            47,
+            "BANGLADESH NEONATAL HOSPITAL LTD.",
+            "HSM55883",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "House No-E, 206/1, Signboard Moor, Siddirganj, Narayangonj."
+        ],
+        [
+            48,
+            "BANGLADESH NEONATAL HOSPITAL LTD.",
+            "HSM97769",
+            "Diagnostic Center",
+            "Category-A",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "House No-E, 206/1, Signboard Moor, Siddirganj, Narayangonj."
+        ],
+        [
+            49,
+            "Bangladesh Pathology",
+            "HSM31205",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 1156, Hospital Road, Maijdee Court, Sadar, Noakhali. "
+        ],
+        [
+            50,
+            "Bangladesh Premium Hospital Ltd.",
+            "HSM34944",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "1220 Rokeya Super Market, Shahid Buddhijibi Shetu Road, Ghaterchor, Keranigonj, Dhaka."
+        ],
+        [
+            51,
+            "Bangladesh Premium Hospital Ltd.",
+            "HSM45975",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Keraniganj",
+            "1220 Rokeya Super Market, Shahid Buddhijibi Shetu Road, Ghaterchor, Keranigonj, Dhaka."
+        ],
+        [
+            52,
+            "Bangladesh Probin Hospital",
+            "HSM80669",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Probin Bhabon, E-10, Agargaon, Sher-e-bangla Nagar, , Dhaka-1207"
+        ],
+        [
+            53,
+            "Bangladesh Probin Hospital",
+            "HSM72734",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Probin Bhabon, E-10, Agargaon, Sher-e-bangla Nagar, , Dhaka-1207"
+        ],
+        [
+            54,
+            "Bangladesh Seba Clinic",
+            "HSM78510",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "203, Koborstan Road,Gopalganj."
+        ],
+        [
+            55,
+            "Bangladesh Specialized ENT & Hearing Centre",
+            "HSM05401",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mugda Para",
+            "1/24/C/3, South Mugdapara, Dhaka-1214"
+        ],
+        [
+            56,
+            "Bangladesh Specialized Hospital Ltd. (BSHL) ",
+            "HSM28216",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Adabor",
+            "21 Shyamoli, Mirpur Road, Dhaka-1207"
+        ],
+        [
+            57,
+            "Bangladesh Specialized Hospital Ltd. (BSHL)",
+            "HSM03013",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "21 Shyamoli, Mirpur Road, Dhaka-1207"
+        ],
+        [
+            58,
+            "Bangladesh Specialized Hospital Ltd. (BSHL)",
+            "HSM97614",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Adabor",
+            "21 Shyamoli, Mirpur Road, Dhaka-1207"
+        ],
+        [
+            59,
+            "BANGLADESH SPINE & ORTHOPAEDIC GENERAL HOSPITAL (PVT.) LTD.",
+            "HSM39324",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "10, Main Road, Kllyanpur (Buss stand),  Dhaka-1216."
+        ],
+        [
+            60,
+            "BANGLADESH SPINE & ORTHOPAEDIC GENERAL HOSPITAL (PVT.) LTD.",
+            "HSM90694",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "10, Main Road, Kllyanpur (Buss stand),  Dhaka-1216."
+        ],
+        [
+            61,
+            "Bangladesh Thalassaemia Hospital",
+            "HSM83984",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Kalabagan",
+            "25-A/25-B, Bir Uttam K M Shafiullah Sarak, ( Green Road), Dhaka-1205"
+        ],
+        [
+            62,
+            "Bangladesh Thalassaemia Hospital ",
+            "HSM84858",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kalabagan",
+            "25-A/25-B, Bir Uttam K M Shafiullah Sarak, (Green Road), Dhaka-1205"
+        ],
+        [
+            63,
+            "BANGLADESH THALASSAEMIA SAMITY HOSPITAL",
+            "HSM83244",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "25-A /25-B,Bir Uttam Shafiullah Sarak, (Green Road), Dhaka 1205"
+        ],
+        [
+            64,
+            "BANGLADESH-NORWAY FRIENDSHIP HOSPITAL &  DIAGNOSTIC CENTRE",
+            "HSM65408",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "NAYANPUR, RAJENDRAPUR CANTONMENT, GAZIPUR SADAR,GAZIPUR"
+        ],
+        [
+            65,
+            "Bangladesh-Sweden Friendship Hospital & Diagnostic Center",
+            "HSM34800",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "516, Kobi Golam Mostofa Road, Ghop, Sadar, Jessor"
+        ],
+        [
+            66,
+            "Bangladesh-Sweden Friendship Hospital & Diagnostic Center",
+            "HSM85538",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "516, Kobi Golam Mostofa Road, Ghop, Sadar, Jessor"
+        ],
+        [
+            67,
+            "Bangora Digital Medical  Center.",
+            "HSM37967",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangora Bazar,Nabinagar"
+        ],
+        [
+            68,
+            "Bangora Grameen Medical Center.",
+            "HSM60457",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangora Bazar,Nabinagar,Brahmanbaria"
+        ],
+        [
+            69,
+            "Bangora Ibn Sina Diagnostic Center",
+            "HSM13524",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangora Bazar,Nabinagar,Brahmanbaria"
+        ],
+        [
+            70,
+            "Bangora Islami Diagnostic Center",
+            "HSM16076",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangora Bazar,Nabinagar,Brahmanbaria"
+        ],
+        [
+            71,
+            "Bangshai Diagnostic Centre",
+            "HSM41038",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Hatu Vanga Road, Mirzapur, Tangail, Bangladesh."
+        ],
+        [
+            72,
+            "Bangsipur Nursing Home",
+            "HSM02446",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Shyamnagar",
+            "Bangshipur, Shyamnagar, Satkhira."
+        ],
+        [
+            73,
+            "BANI DIAGNOSTIC CENTER",
+            "HSM65812",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhalokati",
+            "Jhalokati Sadar",
+            "204.East Chandkathi. Gurudham.Jhalakathi."
+        ],
+        [
+            74,
+            "BANIACHANG MEDICAL SERVICES",
+            "HSM32276",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Baniachong",
+            "Aliya Madrasa Road,Bara Bazar,Baniachang,Habiganj"
+        ],
+        [
+            75,
+            "Bank Asia - Ma Amiran Diagnostic Centre",
+            "HSM22984",
+            "Diagnostic Center",
+            "Category-B",
+            "Munshiganj",
+            "Serajdikhan",
+            "Mouza: Fursail, Village: Rothbari, \r\nUnion: Malkhanagar, Upozila: Serajdikhan, Dist: Munshiganj."
+        ],
+        [
+            76,
+            "Bank Asia-Ma Amiran Hospital and Diagnostic Centre",
+            "HSM91276",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Serajdikhan",
+            "Rothbari, Malkhanagar, Serajdikhan, Munshiganj"
+        ],
+        [
+            77,
+            "BANKA FRIENDS SURGICAL CLINIC",
+            "HSM92619",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Paikgacha",
+            "\u09ac\u09be\u0981\u0995\u09be \u09ac\u09be\u099c\u09be\u09b0, \u09aa\u09be\u0987\u0995\u0997\u09be\u099b\u09be, \u0996\u09c1\u09b2\u09a8\u09be \u0964"
+        ],
+        [
+            78,
+            "Bankra Medical Services",
+            "HSM21624",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jhikargacha",
+            "Bankra Bazara, Jhikargacha, Jashore."
+        ],
+        [
+            79,
+            "Bankra Medical Services",
+            "HSM65639",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jhikargacha",
+            "Bankra Bazar, Jhikargacha, Jashore."
+        ],
+        [
+            80,
+            "BANKRA SURGICAL CLINIC & DIAGONESTIC CENTER",
+            "HSM89404",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jhikargacha",
+            "morol super market, bankra, jhikargcha, jessore"
+        ],
+        [
+            81,
+            "BANKRA SURGICAL CLINIC & DIAGONESTIC CENTER",
+            "HSM06109",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jhikargacha",
+            "Morol Super Market 1st fol-ore,  Bankra Bazar, Jhikargacha, Jashore."
+        ],
+        [
+            82,
+            "BANSKHALI GENERAL HOSPITAL LIMITED",
+            "HSM33556",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Banshkhali",
+            "CHAMBAL, BANSKHALI, CHATTOGRAM"
+        ],
+        [
+            83,
+            "BANSKHALI GENERAL HOSPITAL LIMITED",
+            "HSM23927",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "CHAMBAL, BANSKHALI, CHATTOGRAM"
+        ],
+        [
+            84,
+            "BANSKHALI MAA-SHISHU O GENERAL HOSPITAL LTD.",
+            "HSM01592",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "Kokndi,Asram Gate,Sawpnil Super Market  Banskhali Chattogram"
+        ],
+        [
+            85,
+            "BANSKHALI MAA-SHISHU O GENERAL HOSPITAL LTD.",
+            "HSM46722",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Banshkhali",
+            " Kokdandi,Asram Gate,Sawpnil Super Market(2nd floor),Banskhali,Chattogram.  "
+        ],
+        [
+            86,
+            "BANSKHALI NATIONAL HOSPITAL (PVT) LTD.",
+            "HSM36434",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Banshkhali",
+            "Green Haidar Complex, Chambal Bazar, Banshkhali, Chattogram."
+        ],
+        [
+            87,
+            "BANSKHALI NATIONAL HOSPITAL (PVT.) LTD.",
+            "HSM30643",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "Green Haidar Complex, Chambal Bazar, Banskhali, Chattogram."
+        ],
+        [
+            88,
+            "BAPTIST MID-MISSION (DIAGNOSTIC)",
+            "HSM49326",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Natore Sadar",
+            "BAROHORISHPUR, NATORE"
+        ],
+        [
+            89,
+            "BAPTIST MID-MISSIONS HOSPITAL",
+            "HSM93361",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "BAROHORISHPUR, NATORE."
+        ],
+        [
+            90,
+            "BARAIYERHAT MEDICAL CENTER & DIAGNOSTIC",
+            "HSM80126",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "WARD: 06,  SHANTIRHAT ROAD, BARAIYERHAT POURASHVOA, P.O: BARAIYERHAT, P.S: ZORARGONJ, UPAZILA: MIRSARAI, DIST: CHATTOGRAM."
+        ],
+        [
+            91,
+            "BARAIYERHAT MEDICAL CENTER & DIAGNOSTIC",
+            "HSM59362",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Mirsharai",
+            "WARD: 06, BARAIYERHAT POURASHOVA, P.O: BARAIYERHAT, P.S: ZORARGONJ, UPAZILA: MIRSARAI, DIST: CHATTOGRAM."
+        ],
+        [
+            92,
+            "Barak PRP Medical Centre",
+            "HSM46456",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "736, Satmosjid Road, Dhanmondi, Dhaka"
+        ],
+        [
+            93,
+            "BARAKA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM87325",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "Puraton Bazar, Darsana, Damurhuda"
+        ],
+        [
+            94,
+            "BARAKA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM29432",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Damurhuda",
+            "Puraton Bazar, Darsana, Damurhuda, Chuadanga"
+        ],
+        [
+            95,
+            "Barakat Digital Diagnostic Center.",
+            "HSM61029",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Dakshin",
+            "Narayanpur middle.matlab south chandpur."
+        ],
+        [
+            96,
+            "Barendra Healthcare & Diagnostic Center",
+            "HSM04026",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Paba",
+            "Katakhali Bazar, Shyampur, Paba, Rajshahi"
+        ],
+        [
+            97,
+            "Barguna Apollo Diagnostic & Consultation Centre",
+            "HSM15960",
+            "Diagnostic Center",
+            "Category-B",
+            "Barguna",
+            "Barguna Sadar",
+            "Bazar Road, Barguna Sadar, Barguna."
+        ],
+        [
+            98,
+            "Barguna Digital Diagnostic Center",
+            "HSM76847",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Sher-e-Bangla Road, Barguna Sadar, Barguna."
+        ],
+        [
+            99,
+            "Barguna Kuwait Probashi Diagnostic Center",
+            "HSM65450",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Sher-e Bangla Road, Barguna."
+        ],
+        [
+            100,
+            "BARGUNA KUWAIT PROBASI DIAGNOSTIC CENTER,MIRGAGANJ BRANCH",
+            "HSM21153",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Mirzaganj",
+            "\u0996\u09b2\u09bf\u09b8\u09be\u0996\u09be\u09b2\u09c0 \u09ac\u09be\u099c\u09be\u09b0"
+        ]
+    ]
+}

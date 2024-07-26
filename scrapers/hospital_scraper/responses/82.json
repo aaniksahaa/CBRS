@@ -1,0 +1,1007 @@
+{
+    "draw": 82,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Life Care Pathology Center",
+            "HSM43666",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Bijoynagar",
+            "Bijoynagar,Brahmanbaria"
+        ],
+        [
+            2,
+            "Life Care Private Hospital",
+            "HSM70199",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "42/1, Patil Bari Road, Uttor Kanda Para, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            3,
+            "Life Care Private Hospital",
+            "HSM74358",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "42/1, Patil Bari Road, Uttor Kanda Para, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            4,
+            "Life Care Pvt. Hospital ",
+            "HSM65716",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road,Moulvibazar"
+        ],
+        [
+            5,
+            "Life Care Shishu o General Hospital & Diagnostic Center",
+            "HSM03901",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Jail Road,Brahmanbaria"
+        ],
+        [
+            6,
+            "Life Care Shishu o General Hospital & Diagnostic Center",
+            "HSM29873",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Jail Road,Brahmanbaria"
+        ],
+        [
+            7,
+            "Life Care Specialized Hospital & Diagnostic Centre",
+            "HSM58442",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            8,
+            "LIFE CARE_DIAGNOSTIC CENTER",
+            "HSM97678",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Hospital Road, Banaripara, Barishal"
+        ],
+        [
+            9,
+            "LIFE CT SCAN CENTER",
+            "HSM02829",
+            "Diagnostic Center",
+            "Category-A",
+            "Barishal",
+            "Barishal Sadar",
+            "Band Road, Barisal."
+        ],
+        [
+            10,
+            "Life Cure Diagnostic Centre",
+            "HSM29330",
+            "Diagnostic Center",
+            "Category-B",
+            "Dinajpur",
+            "Hakimpur",
+            "Bangla Hili Chair Matha ,Hakimpur,Dinajpur"
+        ],
+        [
+            11,
+            "Life Dental Health & Diagnostic Center",
+            "HSM24542",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Rajbari Road,Joydebpur,Gazipur"
+        ],
+        [
+            12,
+            "LIFE DIAGNOSTIC  CENTER ",
+            "HSM47778",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Matiranga",
+            "VILL- MATIRANGA BAZAR, MATIRANGA, KHAGRACHARI."
+        ],
+        [
+            13,
+            "Life Diagnostic & Ultrasonography Centre",
+            "HSM04873",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Sonatola Road, West Master Para, Mohimagonj, Gobindagonj, Gaibandha."
+        ],
+        [
+            14,
+            "LIFE DIAGNOSTIC CENTER",
+            "HSM70208",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "BAGMAMUDALI, MUNSHIGANJ SADAR, MUNSHIGANJ"
+        ],
+        [
+            15,
+            "Life Diagnostic Center ",
+            "HSM27154",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Arjundash Agarwala Sarok Coart para kushtia"
+        ],
+        [
+            16,
+            "Life Diagnostic Center",
+            "HSM04837",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "56,57 Ahsan Ahmed Road, Khulna-9100"
+        ],
+        [
+            17,
+            "LIFE DIAGNOSTIC CENTRE",
+            "HSM72849",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Station Road, Narsingdi"
+        ],
+        [
+            18,
+            "LIFE DIAGNOSTIC CENTRE LIMITED",
+            "HSM67237",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "35/C Nayapaltan,Dhaka Bangladesh."
+        ],
+        [
+            19,
+            "LIFE DIGITAL LAB",
+            "HSM66398",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nesarabad",
+            "Swarupkati, Nesarabad, Pirojpur"
+        ],
+        [
+            20,
+            "LIFE GENERAL HOSPITAL",
+            "HSM38391",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "145, Bangabandhu Road, Narayanganj"
+        ],
+        [
+            21,
+            "LIFE GENERAL HOSPITAL",
+            "HSM96193",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "145, Bangabandhu Road, Narayanganj"
+        ],
+        [
+            22,
+            "Life General Hospital and Diagnostatic Center",
+            "HSM18862",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "\u09ac\u09be\u09b9\u09bf\u09b0\u0997\u09cb\u09b2\u09be,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            23,
+            "Life General Hospital and Diagnostatic Center",
+            "HSM12815",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "\u09ac\u09be\u09b9\u09bf\u09b0\u0997\u09cb\u09b2\u09be,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            24,
+            "LIFE GENERAL HOSPITAL LTD",
+            "HSM37797",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Faridganj",
+            "Kalir bazar chowrasta songlogno, Faridganj, Chandpur. "
+        ],
+        [
+            25,
+            "Life General Hospital Ltd.",
+            "HSM56409",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Kalir bazar chowrasta songlogno, Faridganj, Chandpur. "
+        ],
+        [
+            26,
+            "Life Guard Diagnostic  Center",
+            "HSM18429",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "Kazihata Greater Road, Rajshahi"
+        ],
+        [
+            27,
+            "Life Hospital .",
+            "HSM62527",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "House #1/2, South Sheikhde Road, Donia,Jatrabari , Dhaka."
+        ],
+        [
+            28,
+            "Life Line Community Hospital",
+            "HSM49954",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            29,
+            "Life Line Community Hospital(Pathology)",
+            "HSM89786",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            30,
+            "Life Line Diagnostic & Consultation Center",
+            "HSM84548",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road, Moulvibazar"
+        ],
+        [
+            31,
+            "LIFE LINE DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM03322",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "191, GREATER ROAD, LAXMIPUR, RAJSHAHI."
+        ],
+        [
+            32,
+            "Life Line Diagnostic and Consultation Center",
+            "HSM69556",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "1084 Sahid budigibi  satu, Main Rorad, ghater Chare,  Karanigonj, Dhaka-1312"
+        ],
+        [
+            33,
+            "Life Line Diagnostic Center",
+            "HSM74294",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "BDR Road, Lalmonirhat"
+        ],
+        [
+            34,
+            "LIFE LINE DIAGNOSTIC CENTER",
+            "HSM98793",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Sayed Nazrul Islam Medical College Road, \r\nJashodol, Kishoreganj."
+        ],
+        [
+            35,
+            "Life Line Diagnostic Centre",
+            "HSM71611",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Kuti Bazar,Kasba"
+        ],
+        [
+            36,
+            "Life Line Diagnostic Centre",
+            "HSM79954",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Maa Moni Plaza, 2nd Floor, Baratakia Bazar (South Side), Mirsarai, Chattogram."
+        ],
+        [
+            37,
+            "life line genaral hospital & diagnostic centre",
+            "HSM96748",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sherpur",
+            "HOSPITAL ROAD, SHERPUR, BOGRA"
+        ],
+        [
+            38,
+            "life line genaral hospital & diagnostic centre",
+            "HSM29535",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sherpur",
+            "HOSPITAL ROAD, SHERPUR, BOGRA"
+        ],
+        [
+            39,
+            "Life Line Hospital & Cardiac Center",
+            "HSM00011",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road, Moulvibazar"
+        ],
+        [
+            40,
+            "Life Line Hospital (Private)",
+            "HSM59702",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Sonaimuri",
+            "kashipur, sonaimuri, Noakhali"
+        ],
+        [
+            41,
+            "Life Line Hospital (Pvt.)",
+            "HSM39970",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Kamalnagar",
+            "Koroytola Bazar, Komol Nagar, Lakshmipur"
+        ],
+        [
+            42,
+            "Life Line Hospital (Pvt.)",
+            "HSM12290",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Kamalnagar",
+            "Koroytola Bazar, Kamalnagar, Lakshmipur"
+        ],
+        [
+            43,
+            "Life Line Medical Services Ltd",
+            "HSM96703",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Banani",
+            "75/ka, Bir Uttam AK Khandakar Sarak, Wirelee Gate, Mohakhali, Dhaka-1213"
+        ],
+        [
+            44,
+            "Life Line Medical Services Ltd",
+            "HSM62688",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Banani",
+            "75/ka, Rahman Mansion(1st Fooor)Bir Uttam A K Khandakar Sarak Mohakhali Wireless Gate,Dhaka -1213"
+        ],
+        [
+            45,
+            "Life Medical Service (Diagnostic)",
+            "HSM66976",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Bangabaria, Naogaon Sadar, Naogaon"
+        ],
+        [
+            46,
+            "LIFE SAIVE DIGITAL DIAGNOSTIC CENTRE",
+            "HSM16508",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Gaurnadi",
+            "Hospital Road, Asokhati, Gaurnadi, Barisal"
+        ],
+        [
+            47,
+            "LIFE SAVE BLOOD BANK & TRANSFUSION CENTRE",
+            "HSM13790",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Chittogram Port",
+            "1284, O.R. NIZAM ROAD, PROBORTOK MORE, PANCHLAISH, CHITTAGONG"
+        ],
+        [
+            48,
+            "LIFE SAVE MENTAL HOSPITAL",
+            "HSM89158",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "shahid buddhijibi setu road (bosila, buriganga setu 3) gatarchar, ati, keranigong, dhaka"
+        ],
+        [
+            49,
+            "Life Saver Diagnostic Center",
+            "HSM06718",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Turag",
+            "House:- 13, Road:- 01, Rajabari, Nishatnagar, Turag, Dhaka."
+        ],
+        [
+            50,
+            "Life Scan Pathological Lab",
+            "HSM56045",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Main road,coxsbazar sadar"
+        ],
+        [
+            51,
+            "LIFE SIGN LAB",
+            "HSM82448",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "SEPAHI PARA, RAJPARA, RAJSHAHI."
+        ],
+        [
+            52,
+            "Life Square Hospital",
+            "HSM46082",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Senbagh",
+            "Hospital Road, Senbag, Noakhali"
+        ],
+        [
+            53,
+            "Life Square Hospital",
+            "HSM43782",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Senbagh",
+            "Hospital Road, Senbag, Noakhali"
+        ],
+        [
+            54,
+            "LIFE SUPPORT DIAGNOSTIC & IMAGING CENTER",
+            "HSM02471",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Sadullapur",
+            "Kachari Bazar, Naldanga, sadullapur,Gaibandha "
+        ],
+        [
+            55,
+            "Life Support Diagnostic Center",
+            "HSM14452",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Birganj",
+            "Muktijuddha Complex, Birganj, Dinajpur"
+        ],
+        [
+            56,
+            "LIFE TRUST DIAGNOSTIC LTD.",
+            "HSM75433",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "Rafiq Tower B, C 211/8 (3rd Floor), Kachukhet Main Road, Mirpur-14. Dhaka Cantt.PS: Dhaka-1206"
+        ],
+        [
+            57,
+            "LifeAid Diagnostic Center",
+            "HSM41144",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Mohanpur",
+            "Keshorehat Bazar, Mohonpur, Rajshahi"
+        ],
+        [
+            58,
+            "LIFEBUOY FRIENDSHIP HOSPITAL",
+            "HSM32908",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Fulchhari",
+            "FRIENDSHIP, PURBAPARA, MUNSHIPARA JAME MOSHJID ROAD, GAIBANDHA"
+        ],
+        [
+            59,
+            "LIFEBUOY FRIENDSHIP HOSPITAL",
+            "HSM79181",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "FRIENDSHIP, PURBAPARA, MUNSHIPARA JAME MOSHJID ROAD, GAIBANDHA"
+        ],
+        [
+            60,
+            "Lifecare Diagnostic and Medical Center",
+            "HSM59482",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "Vil-Kahalgaon, PS- Fulbaria, Dist- Mymensingh"
+        ],
+        [
+            61,
+            "LIFECARE DIAGNOSTIC CENTER",
+            "HSM27202",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No. 846/2, Shapla Plastic More, Shalgaria, Pabna"
+        ],
+        [
+            62,
+            "LIFECARE DIAGNOSTIC CENTRE",
+            "HSM28606",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhunat",
+            "College Road, Dhunut, Bogra"
+        ],
+        [
+            63,
+            "LIFECARE HOSPITAL ",
+            "HSM95136",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Begumganj",
+            "Chowmuhani, Begumgonj, Noakhali. "
+        ],
+        [
+            64,
+            "LIFECARE HOSPITAL",
+            "HSM57758",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Dhunat",
+            "College Road, Dhunut, Bogra"
+        ],
+        [
+            65,
+            "LIFECARE HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM57418",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Faridpur",
+            "Gopalnagar, Faridpur, Pabna"
+        ],
+        [
+            66,
+            "LIFECARE HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM87894",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Faridpur",
+            "Gopalnagar, Faridpur, Pabna"
+        ],
+        [
+            67,
+            "Lifecare Lab & Consultation Center",
+            "HSM48329",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Tala",
+            "Hospital gate, Tala, Satkhira."
+        ],
+        [
+            68,
+            "lifecareeyahospital",
+            "HSM86840",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Madhupur",
+            "Madhupur,"
+        ],
+        [
+            69,
+            "Lifeline  Diagnostic   Center.",
+            "HSM01594",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Amrita Lal Dey Swarak (Hospital Road), Barishal."
+        ],
+        [
+            70,
+            "Lifeline Consultation And Diagnostic Ltd",
+            "HSM61341",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "Adept Amir Complex,k-3/1-c,Bashundhara link Road,Jagannath Pur,Vatara,Dhaka-1229"
+        ],
+        [
+            71,
+            "Lifeline Diagnostic Center",
+            "HSM77736",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Amrita Lal Dey Swarak (Hospital Road), Barisal-8200"
+        ],
+        [
+            72,
+            "lifeline diagonostic",
+            "HSM71938",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "chotabazer , Netrakona 2400"
+        ],
+        [
+            73,
+            "LIFELINE MEDICAL CENTRE",
+            "HSM33455",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Bhatara",
+            "KA-40/2-A, Jogonnathpur, Progoti Soroni\r\nVatara, Dhaka-1229"
+        ],
+        [
+            74,
+            "LifeLine Medical Institute of Science & Research",
+            "HSM34012",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Shyampur",
+            "166, West Dolaipar, Shaympur, Dhaka-1236"
+        ],
+        [
+            75,
+            "LifeLine Medical Institute of Science & Research",
+            "HSM30265",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Shyampur",
+            "166, West Dolaipar, Shaympur, Dhaka-1236"
+        ],
+        [
+            76,
+            "Lighthouse Diagnostic Center",
+            "HSM82987",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Subarnachar",
+            "Char Bata Khaserhat Master Para, Subarnachar, Noakhali"
+        ],
+        [
+            77,
+            "LIKHON MEDICAL AND HEALTH COMPLEX",
+            "HSM86502",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "West Nandina Bazar, Jamalpur"
+        ],
+        [
+            78,
+            "LILI PRIVATE HOSPITAL & DIAGNOSTIC CENTER (DIAGNOSTIC)",
+            "HSM75853",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Harokandi, Faridpur."
+        ],
+        [
+            79,
+            "LILI PRIVATE HOSPITAL & DIAGNOSTIC CENTRE.",
+            "HSM11284",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Harokandi, Faridpur."
+        ],
+        [
+            80,
+            "Lily Clinic & Diagnostic Center",
+            "HSM27818",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Ayesha Amjad Tower,Nabinagar"
+        ],
+        [
+            81,
+            "Linda Clinic & Diagnostic Complex",
+            "HSM20722",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Phultala",
+            "Shiromoni,Phultala, Khulna"
+        ],
+        [
+            82,
+            "Linda Clinic, Shiromoni, Khulna",
+            "HSM54405",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Phultala",
+            "Shiromoni, Phultala.  Khulna"
+        ],
+        [
+            83,
+            "LION A BADAL EYE HOSPITAL",
+            "HSM41480",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Khilgaon",
+            "E-163,South Banashree,Eastern Housing Goran Project,Khilgaon Dhaka,Bangladesh. "
+        ],
+        [
+            84,
+            "LION PERVINE FIROZ EYE HOSPITAL",
+            "HSM75112",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Kalihati",
+            "ELENGA, KALIHATI, TANGAIL"
+        ],
+        [
+            85,
+            "Lions  Blood Bank",
+            "HSM05016",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Lions Bhaban, Begum Rokeya Sarani, Agargaon, Dhaka"
+        ],
+        [
+            86,
+            "LIONS ALAM GENERAL & EYE HOSPITAL",
+            "HSM58126",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Kapasia",
+            "TARGON, KAPASIA, GAZIPUR"
+        ],
+        [
+            87,
+            "LIONS ALAM GENERAL & EYE HOSPITAL",
+            "HSM14063",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kapasia",
+            "TARGON, KAPASIA, GAZIPUR"
+        ],
+        [
+            88,
+            "Lions Bonaful Green Eye Hospital.",
+            "HSM89675",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Laksam",
+            "Mudaforganj Bazar, Laksam, Cumilla"
+        ],
+        [
+            89,
+            "Lions Charitable Diagnostic Center",
+            "HSM08295",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Khulshi",
+            "Zakir Hossain Road, Nasirabad, Chattogram"
+        ],
+        [
+            90,
+            "Lions Charitable Eye Hospital",
+            "HSM51546",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Khulshi",
+            "Zakir Hossain Road, Nasirabad, Chittagong, Bangladesh"
+        ],
+        [
+            91,
+            "Lions Children Hospital",
+            "HSM12989",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Manikpir Road, Sylhet, Bangladesh"
+        ],
+        [
+            92,
+            "lions Diagnostic Center",
+            "HSM97755",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Parbatipur",
+            "\u09b2\u09be\u09df\u09a8\u09cd\u09b8 \u0995\u09cd\u09b2\u09be\u09ac \u09b0\u09cb\u09b0\u09cd\u09a1, \u09aa\u09be\u09b0\u09cd\u09ac\u09a4\u09c0\u09aa\u09c1\u09b0 "
+        ],
+        [
+            93,
+            "LIONS DIAGNOSTIC CENTER",
+            "HSM58875",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Manikpir Road, Kumarpara, Sylhet."
+        ],
+        [
+            94,
+            "Lions Eye Hospital",
+            "HSM87431",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Lions Bhaban, Begum Rokeya Sharani, Agargaon, Dhaka-1207"
+        ],
+        [
+            95,
+            "LIONS EYE HOSPITAL ",
+            "HSM46334",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Boalia",
+            "SHEKPARA, GPO-6000, BOALIA, R AJSHAHI"
+        ],
+        [
+            96,
+            "Lions Eye Hospital & Diagnostic Centre",
+            "HSM71231",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Parbatipur",
+            "\u09b2\u09be\u09df\u09a8\u09cd\u09b8 \u0995\u09cd\u09b2\u09be\u09ac \u09b0\u09cb\u09b0\u09cd\u09a1, \u09aa\u09be\u09b0\u09cd\u09ac\u09a4\u09c0\u09aa\u09c1\u09b0 "
+        ],
+        [
+            97,
+            "Lions Eye Hospital(Pathology)",
+            "HSM37827",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Lions Bhaban, Begum Rokeya Sharani, Agargaon, Dhaka-1207"
+        ],
+        [
+            98,
+            "Lions Jahirul Islam Eye (Chokkhu) Care & Diagnostic Center",
+            "HSM12966",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Sonaimuri",
+            "Bypass Road, Sonaimuri Bazar, Sonaimuri, Noakhali"
+        ],
+        [
+            99,
+            "Lions Jahirul Islam Eye (Chokkhu) Care & Diagnostic Center ",
+            "HSM18234",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Sonaimuri",
+            "Bypass Road, Sonaimuri, Noakhali "
+        ],
+        [
+            100,
+            "Liton Diagnostic Centre",
+            "HSM95187",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Purbadhala",
+            "Hospital Gare, Purbadhala, Netrokona"
+        ]
+    ]
+}

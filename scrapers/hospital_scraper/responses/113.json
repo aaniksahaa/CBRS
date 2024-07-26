@@ -1,0 +1,1007 @@
+{
+    "draw": 113,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "New Surokkha Hospital and Diagnostic Center",
+            "HSM48307",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Muktarpara, Netrokona"
+        ],
+        [
+            2,
+            "New Swadesh Hospital & Diagnostic Centre",
+            "HSM55428",
+            "Diagnostic Center",
+            "Category-B",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Old Court Road, Netrakona."
+        ],
+        [
+            3,
+            "New Swadesh Hospital & Diagnostic Centre",
+            "HSM60651",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Old Court Road, Netrakona"
+        ],
+        [
+            4,
+            "New Tahasin Diagnostic Center",
+            "HSM96819",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "18/2, Amir Ali Sarak, Choto Boyra, Sonadanga, Khulna"
+        ],
+        [
+            5,
+            "NEW TAKOWA DIAGNOSTIC CENTER",
+            "HSM89739",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "KOBI NAZRUL ISLAM ROAD,CHANDPUR"
+        ],
+        [
+            6,
+            "New Talukder Diagnostic Center",
+            "HSM38142",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "Joysree Puraton Shikarpur Road, Wazirpur, Barishal."
+        ],
+        [
+            7,
+            "New Taqwa Lab &  Consultation Centre",
+            "HSM30675",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Akkelpur",
+            "Thana More,Akkelpur.Joypurhat"
+        ],
+        [
+            8,
+            "New Tata Digital Diagnostic & Clinic",
+            "HSM13973",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sonatola",
+            "\u09b9\u09be\u09ac\u09c0\u09ac \u09ae\u09cd\u09af\u09be\u09a8\u09b6\u09a8, \u09ae\u09cc\u09a4\u09b2\u09be, \u09aa\u09cc\u09b0\u09b8\u09ad\u09be \u09b0\u09cb\u09a1, \u09b8\u09cb\u09a8\u09be\u09a4\u09b2\u09be, \u09ac\u0997\u09c1\u09dc\u09be\u0964"
+        ],
+        [
+            9,
+            "New Tata Digital Diagnostic & Clinic",
+            "HSM62532",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sonatola",
+            "\u09b9\u09be\u09ac\u09c0\u09ac \u09ae\u09cd\u09af\u09be\u09a8\u09b6\u09a8, \u09ae\u09cc\u09a4\u09b2\u09be, \u09aa\u09cc\u09b0\u09b8\u09ad\u09be \u09b0\u09cb\u09a1, \u09b8\u09cb\u09a8\u09be\u09a4\u09b2\u09be, \u09ac\u0997\u09c1\u09dc\u09be\u0964"
+        ],
+        [
+            10,
+            "New Tuli (PVT). Hospital & Diagnostic Centre",
+            "HSM22098",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Bhanga",
+            "Bhanga Bazara, Bhanga, Faridpur. "
+        ],
+        [
+            11,
+            "New Tuli Diagnostic Centre",
+            "HSM40899",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Bhanga",
+            "Bhanga Bazar, Bhanga, Faridpur."
+        ],
+        [
+            12,
+            "NEW ULTRA ASSAY HEALTH CENTRE",
+            "HSM16691",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Raozan",
+            "Mohamuni, Pahartali, Roazan, Chittagong "
+        ],
+        [
+            13,
+            "New Unique Diagnostic Center.",
+            "HSM18987",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Rangabali",
+            "Bango Bazar , Choto Baishdia , Rangabali, Patuakhali."
+        ],
+        [
+            14,
+            "NEW UNIQUE PRIVATE HOSPITAL",
+            "HSM97570",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "52, Shamshernagar Road, Moulvibazar."
+        ],
+        [
+            15,
+            "New United  Diagnostic Center",
+            "HSM09007",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Senbagh",
+            "Sebarhat, Senbag, Noakhali."
+        ],
+        [
+            16,
+            "New United Diagnostic Center",
+            "HSM49515",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Adhunik Sadar Hospital Road, Gaibandha"
+        ],
+        [
+            17,
+            "New Upasham Clinic",
+            "HSM86164",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Shapla Bhaban, Hospital Road, Basurhat, Companigonj, Noakhali. "
+        ],
+        [
+            18,
+            "New Upasham Clinic ",
+            "HSM94013",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Companiganj",
+            "Shapla Bhaban, Hospital Road, Bashurhat, Companigonj, Noakhali"
+        ],
+        [
+            19,
+            "NEW UPASHAM DOCTORS POINT",
+            "HSM50467",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "S R ROAD, LAKSHMIPUR"
+        ],
+        [
+            20,
+            "New Upasham General Hospital Ltd",
+            "HSM73564",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "352(Monohor Tower) Shahid shahidullah Kaiser Sarak Feni"
+        ],
+        [
+            21,
+            "New Upasham General Hospital Ltd",
+            "HSM51867",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "352. Monohor Tower Shahid shahidullah Kaiser Sarak Feni"
+        ],
+        [
+            22,
+            "NEW UPDATE DIAGNOSTIC CENTRE",
+            "HSM93230",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "BANGABONDHU ROAD,THAKURGAON"
+        ],
+        [
+            23,
+            "New Upokul Lab And Diagnostic center",
+            "HSM60362",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Kamalnagar",
+            "Koroitola  bazar,kamal nagor,lakshmipur,chittagong,Bangladesh"
+        ],
+        [
+            24,
+            "New Uttara General Hospital",
+            "HSM24089",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Shamoly Lane, Dhap, Rangpur"
+        ],
+        [
+            25,
+            "New Uttaran Clinic & Diagnostic Center",
+            "HSM32415",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Nageshwari",
+            "College More, Bazar Road"
+        ],
+        [
+            26,
+            "New Uttaran Clinic & Diagnostic Center",
+            "HSM52088",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Nageshwari",
+            "College More, Bazar Road"
+        ],
+        [
+            27,
+            "NEW UTTORA DIAGNOSTIC CENTER",
+            "HSM30839",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 1111-00; Sarkarpara, Thakurgaon"
+        ],
+        [
+            28,
+            "NEW VIP DIGITAL DIAGNOSTIC CENTER",
+            "HSM48416",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "AYNATOLY BAZAR, SHAHRASTI,CHANDPUR"
+        ],
+        [
+            29,
+            "New Vision Eye Hospital",
+            "HSM88046",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Busstand. Manikganj"
+        ],
+        [
+            30,
+            "NEW VISION MODEL HOSPITAL ",
+            "HSM76622",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "EPZ ROAD, NO:1 GATE, SOUTH  CHARTHA, ADARSHA SADAR,  CUMILLA"
+        ],
+        [
+            31,
+            "NEW VISION MODEL HOSPITAL",
+            "HSM98159",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "EPZ ROAD, NO:01 GATE,SOUTH CHARTHA, ADARSHA SADAR , CUMILLA."
+        ],
+        [
+            32,
+            "NEW XYLIA MEDICARE",
+            "HSM24622",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "VIll-Laxmipur Jhawtola MORE, PO-Gpo-6000, PS- Rajpara, Dist-Rajshahi"
+        ],
+        [
+            33,
+            "NEW ZABEDA CLINIC ",
+            "HSM15596",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Sadar Hospital Road, Naogaon Sadar, Naogaon"
+        ],
+        [
+            34,
+            "New Zisan Diagonostic Center",
+            "HSM80539",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Dashmina",
+            "Vill:Dashmina,Post: Dashmina,Up: Dashmina,Ps:Dashmia,zilla: Patuakhali"
+        ],
+        [
+            35,
+            "New Zisan Diagonstic Center & Clinic",
+            "HSM11719",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Dashmina",
+            " VILL: DASHMINA, POST: DASHMINA-8630,UP: DASHMINA,DIST: PATUAKHALI."
+        ],
+        [
+            36,
+            "NEW- POPULAR DIAGNOSTIC CENTER",
+            "HSM73144",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Charfession",
+            "HOSPITAL ROAD, CHARFASSION, BHOLA."
+        ],
+        [
+            37,
+            "NEWLIFE  GENERAL HOSPITAL",
+            "HSM12970",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Sreenagar",
+            "Thana Gate, Sreenagar Police Station, Sreenagar"
+        ],
+        [
+            38,
+            "NEWLIFE DIAGNOSTIC CENTRE",
+            "HSM14027",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "1160, Sarson Road, Askar Dighir Par, Kotwali, Chattogram"
+        ],
+        [
+            39,
+            "NEWLIFE HOSPITAL",
+            "HSM40285",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Kotwali",
+            "1160, Sarson Road, Askar Dighir Par, Kotwali, Chattogram"
+        ],
+        [
+            40,
+            "NEWMEDILABHOSPITAL",
+            "HSM96346",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Ajmiriganj",
+            "Muktijudha Bhaban,Ajmeriganj ,Habiganj"
+        ],
+        [
+            41,
+            "NewMoon Diagnostic Center",
+            "HSM04359",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bhuiyan super market (2nd floor) nabinaga (boro bazar) nabinagar pourashava, nabinagar,brahmanbarir"
+        ],
+        [
+            42,
+            "News basundhara diagnostic lab",
+            "HSM82362",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Kalapara",
+            "Nachnapara, kalapara, patuakhali"
+        ],
+        [
+            43,
+            "NEWSURGICALCLINIC",
+            "HSM49764",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "JAMRULTALA, MAGURA SADAR, MAGURA. BANGLADESH."
+        ],
+        [
+            44,
+            "NEXUS CARDIAC HOSPITAL & RESEARCH LTD",
+            "HSM48947",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "29, Shehora, Dhaka Road ,Mymensingh"
+        ],
+        [
+            45,
+            "Nexus Diagono Complex ",
+            "HSM04365",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur."
+        ],
+        [
+            46,
+            "nexus hospital & research lid",
+            "HSM14119",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "29,Shehora, Dhaka Road, Mymensingh."
+        ],
+        [
+            47,
+            "NHN ROTARY HASINA NOOR MOHSIN HEALTH CARE CENTER",
+            "HSM98950",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Ghorashal"
+        ],
+        [
+            48,
+            "NHN SAVAR HEALTH CARE CENTER",
+            "HSM93056",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "83/1, NAYABARI, RADIO COLONY"
+        ],
+        [
+            49,
+            "Niamatpur Clinic & Diagnostic Center",
+            "HSM98714",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Niamatpur",
+            "Niamatpur Bazar, Naogaon"
+        ],
+        [
+            50,
+            "NIBEDITA DIAGNOSTIC CENTER",
+            "HSM57229",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Assasuni",
+            "BHUDHATA,ASSASUNI,SATKHIRA."
+        ],
+        [
+            51,
+            "NIBEDITA NURSING HOME",
+            "HSM20629",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Assasuni",
+            "BUDHATA BAZAR,ASASUNI,SATKHIRA."
+        ],
+        [
+            52,
+            "NIBEDITA SHISHU HOSPITAL LTD",
+            "HSM55821",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Wari",
+            "11/1 Hare Street, Wari Dhaka"
+        ],
+        [
+            53,
+            "Nibir Diagnostic  and Doctor Point",
+            "HSM04586",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sreebardi",
+            "Hospital Gate, Sreebardi, Sherpur"
+        ],
+        [
+            54,
+            "NICE HEALTHCARE",
+            "HSM28016",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Nimtola"
+        ],
+        [
+            55,
+            "NIDHI DIAGNOCOMPLEX",
+            "HSM38080",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "Sakhipur .Hospital Gate, Sakhipur,Tangail"
+        ],
+        [
+            56,
+            "NIGHTANGLE  DIAGNOSTIC LAB",
+            "HSM55589",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Mahiuddin (Babul) Market (1st Floor), Maszid Road, Barayerhat, Poura Sava, Mirsarai, Chittagong."
+        ],
+        [
+            57,
+            "NIGHTANGLE  DIAGNOSTIC LAB",
+            "HSM47524",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Ramgarh",
+            "Patowari Complex (1st Floor) Uparar Bazar, In Side of Shilpi Cinema Hall, Ramgor, Khagrachari."
+        ],
+        [
+            58,
+            "Nightingale Hospital & Diagnostic Center",
+            "HSM30628",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halder Pera, Brahmanbaria"
+        ],
+        [
+            59,
+            "Nightingale Hospital & Diagnostic Center",
+            "HSM00918",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halder pera, Brahmanbaria"
+        ],
+        [
+            60,
+            "Nightingale Medical Center",
+            "HSM61306",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halderpara Road,Brahmanbaria"
+        ],
+        [
+            61,
+            "Nightingale Medical Center.",
+            "HSM44498",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halderpara,Brahmanbaria"
+        ],
+        [
+            62,
+            "Nihad diagnostic centre",
+            "HSM98411",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "311, charpara, mymensingh"
+        ],
+        [
+            63,
+            "NIKLIDIGITAL DIAGNOSTIC CENTER",
+            "HSM16108",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Nikli",
+            "Hospital Gate Nikli, Kishoreganj"
+        ],
+        [
+            64,
+            "Nilla Diagnostic Center",
+            "HSM15278",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Coxs Bazar",
+            "Teknaf",
+            "Pankhali Road, Master Market,2nd Floor, Nilla Station, Teknaf, Coxs Bazar."
+        ],
+        [
+            65,
+            "Niloy Diagnostic Centre ",
+            "HSM51004",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Jahirul Haque Super Market, Shop No-7, Baburhat, Chandpur Sadar, Chandpur."
+        ],
+        [
+            66,
+            "NILOY DIGITAL LAB",
+            "HSM73611",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Chirirbandar",
+            "Ranirbandar, Chirirbandar, Dinajpur"
+        ],
+        [
+            67,
+            "Nilphamari clinic & Narsing Home",
+            "HSM72148",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "Sobijpara, Nilphamari Sadar, Nilphamari."
+        ],
+        [
+            68,
+            "Nilphamari clinic & Narsing Home (Pathology)",
+            "HSM29961",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "Sobujpara, Nilphamari Sadar, Nilphamari."
+        ],
+        [
+            69,
+            "NILU CLINIC",
+            "HSM32711",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "Khila Bazar, Shahrasti, Chandpur"
+        ],
+        [
+            70,
+            "Nimgachi Health Center, Grameen Kalyan",
+            "HSM36977",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Royganj",
+            "Nimgachi, Rayganj, Sirajganj"
+        ],
+        [
+            71,
+            "Nimgachi Seba Diagnostic and Consultation Centre",
+            "HSM22122",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "\u09a8\u09bf\u09ae\u0997\u09be\u099b\u09bf \u09ac\u09be\u099c\u09be\u09b0 \u09a4\u09be\u09b0\u09be\u09b6 \u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c \u0964"
+        ],
+        [
+            72,
+            "NIMRAT DIAGNOSTIC & PAIN CENTER",
+            "HSM34502",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Khan Mansion, Mastannagor, Jorargonj. Mirsharari, Chattogram."
+        ],
+        [
+            73,
+            "Nine Zero Medical Services",
+            "HSM74912",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Kalukhali",
+            "Sonapur More, Busstand, Boalia, Kalukhali, Rajbari."
+        ],
+        [
+            74,
+            "NIPRO JMI DIALYSIS CENTER LTD.",
+            "HSM46463",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "UNION HEIGHTS (LEVEL-6), 55-2, BIR UTTAM KAZI NURUZZAMAN SAROK, WEST PANTHAPATH, DHAKA-1205"
+        ],
+        [
+            75,
+            "Nipun Diagnostic & Clinic",
+            "HSM18392",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "647 B.M.R Bhabon,  Sadar Road,  Shariatpur."
+        ],
+        [
+            76,
+            "Nipun Diagnostic & Clinic",
+            "HSM28389",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "647 B.M.R Bhabon,  Sadar Road,  Shariatpur."
+        ],
+        [
+            77,
+            "Nipun Digital Diagnostic Centre ",
+            "HSM88186",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Munshi Market, Tongibari Bazar, Tongibari, Munshigonj"
+        ],
+        [
+            78,
+            "NIRA MOY (PVT) HOSPITAL",
+            "HSM59784",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "PTI para sadar Magura, Bangladesh"
+        ],
+        [
+            79,
+            "NIRALA DIAGNOSTIC & DOCTORS CONSULTANT CENTER",
+            "HSM76774",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "MONIRAMPUR BAZAR, SHAHZADPUR, SIRAJGANJ"
+        ],
+        [
+            80,
+            "Nirala Hospital",
+            "HSM39810",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "MONIRAMPUR BAZAR, SHAHZADPUR, SIRAJGANJ"
+        ],
+        [
+            81,
+            "Niramay Diagnostic Center",
+            "HSM92924",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Purninaganti, Ullapara, Sirajganj."
+        ],
+        [
+            82,
+            "Niramay Nursing Home & Diagnostic Centre",
+            "HSM66000",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "12, DC Road, Gopalganj Sadar, Gopalganj."
+        ],
+        [
+            83,
+            "NIRAMOY  CENTRE",
+            "HSM07148",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "619-SHERSHA ROAD, KAZIHATA, GPO-6000, RAJPARA, RAJSHAHI."
+        ],
+        [
+            84,
+            "NIRAMOY  CLINIC",
+            "HSM89027",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Damurhuda",
+            "Karpashdanga Bazar, Post-Karpashdanga, Upazila-Damurhuda, District-Chuadanga"
+        ],
+        [
+            85,
+            "Niramoy (Pvt.) Clinic",
+            "HSM83735",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halderpara Road, Brahmanbaria Sadar, Brahmanbaria."
+        ],
+        [
+            86,
+            "Niramoy (Specialized Hospital for Treatment of Mental Health & Drug Dependence)",
+            "HSM42962",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "27/1/B, Mirpur Road, Shyamoli, Dhaka-1207"
+        ],
+        [
+            87,
+            "Niramoy Clinic",
+            "HSM83626",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Niamatpur",
+            "Dakbanglo Road, Niamatpur, Naogaon"
+        ],
+        [
+            88,
+            "Niramoy Clinic & Diagnosis ",
+            "HSM93826",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Khordosaptana, B.D.R Road, Lalmonirhat "
+        ],
+        [
+            89,
+            "Niramoy Clinic & Diagnostic Center",
+            "HSM24584",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halderpara,sadar,Brahmanbaria"
+        ],
+        [
+            90,
+            "Niramoy Clinic & Diagnostic Center",
+            "HSM62897",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Baliakandi",
+            "Baliakandi Bazar, Baliakandi, Rajbari"
+        ],
+        [
+            91,
+            "Niramoy Clinic & Diagnostic Center",
+            "HSM71825",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Baliakandi",
+            "Baliakandi Bazar, Baliakandi, Rajbari"
+        ],
+        [
+            92,
+            "Niramoy Clinic & Nursing Home",
+            "HSM84536",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Cant. Road, Rangpur"
+        ],
+        [
+            93,
+            "NIRAMOY CLINIC (PVT) LTD",
+            "HSM81298",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Panchlaish",
+            "75, PANCHLAISH R/A, CHITTAGONG"
+        ],
+        [
+            94,
+            "Niramoy Clinic and Diagnostic",
+            "HSM41671",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "Enayetpur mondol para, Enayetpur, Khukni, Shahjadpur, Sirajgonj."
+        ],
+        [
+            95,
+            "Niramoy Clinic and Diagnostic",
+            "HSM76710",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Shahjadpur",
+            "Enayetpur Mondol Para, Enayetpur, Shahjadpur, Sirajgonj."
+        ],
+        [
+            96,
+            "Niramoy Clinic And Diagnostic Cennter",
+            "HSM08038",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Bholahat",
+            "Chaitotala, Shon-nashitala, Bholahat, Chapainawabganj"
+        ],
+        [
+            97,
+            "Niramoy Clinic and Diagnostic center",
+            "HSM56548",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "46/D Padri mistion road, Mymensingh"
+        ],
+        [
+            98,
+            "Niramoy Clinic and Diagnostic center",
+            "HSM45264",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "46/D Padri Mistion Road, Mymensingh"
+        ],
+        [
+            99,
+            "Niramoy Clinic And Diagnostic Center",
+            "HSM60568",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Bholahat",
+            "Chaitotala, Shon-nashitala, Bholahat, Chapainawabganj"
+        ],
+        [
+            100,
+            "Niramoy clinic and diagnostic center",
+            "HSM05705",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Puthia",
+            "Medical Gate, Puthia, Rajshahi"
+        ]
+    ]
+}

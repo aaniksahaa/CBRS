@@ -1,0 +1,1007 @@
+{
+    "draw": 123,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Popular Pathological Lab",
+            "HSM28837",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Raja Bari, Sherpur Town, Sherpur"
+        ],
+        [
+            2,
+            "Popular Pathology",
+            "HSM13284",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ukhia",
+            "Ukhia, Main Road, Coxs Bazar"
+        ],
+        [
+            3,
+            "Popular Pathology & Health Center ",
+            "HSM77744",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Nandail",
+            "Hospital Moor, Nandail Bazar, Mymensingh. "
+        ],
+        [
+            4,
+            "Popular Pathology Center ",
+            "HSM01502",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Dumki",
+            "Hospital Road,Dumki ,Patuakhali"
+        ],
+        [
+            5,
+            "Popular Plus Clinic & Diagnostic Centre",
+            "HSM80453",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Ullahpara",
+            "Sheikh Super Market, Gul Chattarer Pashe, Salanga, Ullapara, Sirajganj."
+        ],
+        [
+            6,
+            "Popular Plus Clinic & Diagnostic Centre",
+            "HSM15403",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Sheikh Super Market, Gul Chattarer Pashe, Salanga, Ullapara, Sirajganj."
+        ],
+        [
+            7,
+            "Popular Prtvate Clinic",
+            "HSM70080",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Alfadanga",
+            "Hospital Road, Alfadanga, Faridpur "
+        ],
+        [
+            8,
+            "Popular Sasto Seba Diagnostic & Consultation Centere",
+            "HSM46002",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "College Road, Danmahal, Durgapur."
+        ],
+        [
+            9,
+            "POPULAR SURGERY & NURSING",
+            "HSM85341",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Narail Sadar",
+            "Puraton Bus Terminal, Aladatpur, Narail sadar, Narail"
+        ],
+        [
+            10,
+            "POPULAR X-RAY AND PATHOLOGY CENTER",
+            "HSM96151",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Main Road, Ramgonj Bazar, Ramgonj, Lakshmipur."
+        ],
+        [
+            11,
+            "POPULATION HEALTH RESEARCH & TRAINING SOCIETY CLINIC",
+            "HSM03434",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Araihazar",
+            "NEW MODEL TOWN, ARAIHAZAR SADAR, ARAIHAZAR, NARAYANGANJ"
+        ],
+        [
+            12,
+            "POPULATION HEALTH RESEARCH & TRAINING SOCIETY CLINIC",
+            "HSM79619",
+            "Diagnostic Center",
+            "Category-B",
+            "Narayanganj",
+            "Araihazar",
+            "NEW MODEL TOWN, ARAIHAZAR SADAR, ARAIHAZAR, NARAYANGANJ"
+        ],
+        [
+            13,
+            "POPULER DIAGNOSTIC CENTRE",
+            "HSM52205",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Burichang",
+            "Thana Health Complex Gate, Burichang Uttar Bazar, Comilla"
+        ],
+        [
+            14,
+            "POPULER HOSPITAL",
+            "HSM38073",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Bangabandhu Road, Thakurgaon Sadar, Thakurgaon."
+        ],
+        [
+            15,
+            "Popy Pathcare Diagnostic Center",
+            "HSM22583",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Main Road, Hotel Bazar, Meherpur, Bangladesh."
+        ],
+        [
+            16,
+            "PORADIA GENERAL  HOSPITAL & DIABETIC CENTER",
+            "HSM62889",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Belabo",
+            "Poradia Bazar, Belabo, Narsingdi."
+        ],
+        [
+            17,
+            "PORADIA GENERAL HOSPITAL & DIABETIC CENTER",
+            "HSM85976",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Belabo",
+            "Poradia Bazar, Belabo, Narsingdi."
+        ],
+        [
+            18,
+            "Poricharja Clinic",
+            "HSM04755",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Shahid Harun Sarak, Jamalpur-2000, Jamalpur"
+        ],
+        [
+            19,
+            "PORITTRAN CLINIC",
+            "HSM76002",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Fakirhat",
+            " Paglasamnogor, Fakirhat, Bagerhat"
+        ],
+        [
+            20,
+            "poros (pvt)  hospital",
+            "HSM28087",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "18 / N Krishtapur Alia Madrasa Junction, Mymensingh\r\n\r\n"
+        ],
+        [
+            21,
+            "Porshuram Clinic (Diagnostic Center)",
+            "HSM96059",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Parshuram",
+            "Hospital Road, Porshuram, Feni"
+        ],
+        [
+            22,
+            "POUSHEE DIAGNOSTIC CENTER",
+            "HSM78849",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Road No #1, House No #1, Puraton Thana Mour, Kandivita, PTI Road, Natore"
+        ],
+        [
+            23,
+            "PPD Trust Diagnostic",
+            "HSM25573",
+            "Diagnostic Center",
+            "Category-B",
+            "Sirajganj",
+            "Shahjadpur",
+            "Aikebari Shaktipur, Shahzadpur, Shirajgonj-6770."
+        ],
+        [
+            24,
+            "PPD Trust Hospital-",
+            "HSM31930",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "House-46, AikeBari, Shaktipur, Shahzadpur,  Sirajganj."
+        ],
+        [
+            25,
+            "Praava Health Bangladesh Ltd",
+            "HSM21342",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Banani",
+            "Plot: 09, Road: 17, Block: C, Banani"
+        ],
+        [
+            26,
+            "Praava Health Bangladesh Ltd.",
+            "HSM38332",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Banani",
+            "Plot # 09, R # 17, Blck -C, Banani, Dhaka"
+        ],
+        [
+            27,
+            "PRANTI DIAGNOSTIC CENTRE",
+            "HSM98139",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "GRIDO KALINDIA, FARIDGONJ, CHANDPUR."
+        ],
+        [
+            28,
+            "Prantik General Hospital",
+            "HSM54055",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Wapda Road, Ramgonj, Lakshmipur."
+        ],
+        [
+            29,
+            "Pranto Dental Care",
+            "HSM66152",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Brahmanbaria",
+            "Banchharampur",
+            "Darierchar Bazar,Bancharampur"
+        ],
+        [
+            30,
+            "PRANTO DIAGNOSTIC CENTER",
+            "HSM99120",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gauripur",
+            "Sayed Plaza, Uttar Bazar, Gaurypur, Mymensingh"
+        ],
+        [
+            31,
+            "pranto diagnostic Centre",
+            "HSM51822",
+            "Diagnostic Center",
+            "Category-A",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "236/ charpara,mymensingh"
+        ],
+        [
+            32,
+            "Pranto Medical Care",
+            "HSM08079",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Royganj",
+            "Village- Hatpangashi,P/o - Hatpangashi,Upazila- Raigonj, District-Sirajgonj, Bangladesh."
+        ],
+        [
+            33,
+            "pranto specialized hospital",
+            "HSM83131",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "67/charpara mymensingh"
+        ],
+        [
+            34,
+            "pranto specialized hospital",
+            "HSM42220",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "67/charpara mymensingh"
+        ],
+        [
+            35,
+            "PRANTO. DIAGNOSTIC CENTRE",
+            "HSM62657",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "hospital road.phulpur,mymensingh\r\n"
+        ],
+        [
+            36,
+            "PRANTYK PATHOLOGICAL LAB",
+            "HSM47351",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "charpara,mymensingh"
+        ],
+        [
+            37,
+            "Prathona (PVT) Hospital",
+            "HSM22690",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Kaliganj",
+            "Baro Bazar, Kaligonj, Jhenaidah"
+        ],
+        [
+            38,
+            "Prattasha Clinic",
+            "HSM21206",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Naogaon Sadar",
+            " Par Naogaon, Naogaon Sadar, Naogaon."
+        ],
+        [
+            39,
+            "PrattashaClinic",
+            "HSM06715",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "New Bazar Road, Thanapara, Gopalganj Sadar , Gopalganj."
+        ],
+        [
+            40,
+            "Precision Diagnostics Ltd.",
+            "HSM78033",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Rampura",
+            "91/B, Feroza Tower, Khilgaon, Chowdhury Para, Rampura, Dhaka-1219"
+        ],
+        [
+            41,
+            "Prema Pathology center",
+            "HSM04783",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Chitalmari",
+            "Hospital Road,Chitolmari. Bagerhat"
+        ],
+        [
+            42,
+            "PREMIER BABY CARE",
+            "HSM51844",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Panchlaish",
+            "576/577,O.R.Nizam Road,Panchlish,Chittagong"
+        ],
+        [
+            43,
+            "Premier Diagnostic Centre Ltd.",
+            "HSM20075",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Jatrabari",
+            "Rahman Plaza, 40/1/B, Shahid Faruk Shorok, Uttor Jatrabari, Dhaka"
+        ],
+        [
+            44,
+            "Premier General Hospital",
+            "HSM77567",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Bogura Sadar",
+            "Thanthonia, Bogura Sadar, Bogura"
+        ],
+        [
+            45,
+            "Premier General Hospital",
+            "HSM30035",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Thanthonia, Bogura Sadar, Bogura"
+        ],
+        [
+            46,
+            "Premier Hospital",
+            "HSM53228",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Panchlaish",
+            "576/577,O.R. Nizam Road,panchlish,Chittagong"
+        ],
+        [
+            47,
+            "PREMIER HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM05081",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "H#326,HAJIMOSIN ROAD, ALIMPARA,CHANDPUR SADAR,CHANDPUR"
+        ],
+        [
+            48,
+            "PREMIER HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM93795",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "H#326,HAJIMOSIN ROAD, ALIMPARA,CHANDPUR SADAR,CHANDPUR"
+        ],
+        [
+            49,
+            "Prescription Point Center",
+            "HSM15671",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Uttara  Paschim",
+            "IPCO, Civil Aviation Plot, Dhaka-Tongi Highway, Kurmitola, Dhaka-1229, Bangladesh"
+        ],
+        [
+            50,
+            "PRESCRIPTION POINT DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM30558",
+            "Diagnostic Center",
+            "Category-B",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "S.B FOZLUL HAQUE ROAD, SIRAJGANJ"
+        ],
+        [
+            51,
+            "PRESCRIPTION POINT DIAGNOSTIC CENTRE",
+            "HSM61664",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Cant. Public School Link Road, Medical More, Dhap, Rangpur     "
+        ],
+        [
+            52,
+            "Prescription Point Ltd.",
+            "HSM10829",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Banani",
+            "House# 105, Road# 12, Block#E, Banani, Dhaka-1213"
+        ],
+        [
+            53,
+            "Prescription Point Ltd. Badda Branch",
+            "HSM36105",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "House # Ga-136, Uttar Badda, Progoti Saroni, Dhaka-1212"
+        ],
+        [
+            54,
+            "Prescription Point Ltd. Specialized Clinic",
+            "HSM76607",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Banani",
+            "House-24,Road-13/C, Block-E, Banani, Dhaka-1213"
+        ],
+        [
+            55,
+            "President Abdul Hamid Medical College & Hospital",
+            "HSM83759",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Kishorgonj",
+            "Karimganj",
+            "Daktarbari, Jafrabad, Karimganj, Kishoreganj, Dhaka, Bangladesh"
+        ],
+        [
+            56,
+            "President Abdul Hamid Medical College & Hospital",
+            "HSM82118",
+            "Diagnostic Center",
+            "Category-A",
+            "Kishorgonj",
+            "Karimganj",
+            "Daktarbari, Jafrabad, Karimganj, Kishoreganj, Dhaka, Bangladesh."
+        ],
+        [
+            57,
+            "Prime  Diagnostic Centre",
+            "HSM68644",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Hospital Road.Patuakhali"
+        ],
+        [
+            58,
+            "PRIME  MEDICAL  COLLEGE  HOSPITAL ",
+            "HSM95400",
+            "Diagnostic Center",
+            "Category-A",
+            "Rangpur",
+            "Rangpur Sadar",
+            "PIRJABAD, BADARGONJ ROAD, RANGPUR"
+        ],
+        [
+            59,
+            "Prime Bank Eye Hospital ",
+            "HSM27780",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kalabagan",
+            "House#82, Road#8/A, Satmasjid Road, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            60,
+            "Prime Bank Eye Hospital ",
+            "HSM72656",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "House#82, Road#8/A, Satmasjid road, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            61,
+            "Prime Blood Bank",
+            "HSM27596",
+            "Blood Bank",
+            "",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Holding: 2299-00, Sadar Hospital Road, Nagaon"
+        ],
+        [
+            62,
+            "Prime Care Diagnostic Center",
+            "HSM73290",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Mamtaj Mahal, Old Hospital Road,Habiganj"
+        ],
+        [
+            63,
+            "Prime Clinic",
+            "HSM80799",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Ahaladipur, Shahid Ohabpur, Rajbari Sadar, Rajbari."
+        ],
+        [
+            64,
+            "Prime Clinic & Diagnostic Center",
+            "HSM31728",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Patuakhali Medical College Hospital Road,Patuakhali."
+        ],
+        [
+            65,
+            "PRIME DIAGANOSTIC CENTER",
+            "HSM69331",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "115 SADAR ROAD, BARISHAL"
+        ],
+        [
+            66,
+            "Prime Diagnostic  Center",
+            "HSM25370",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Chitalmari",
+            "Hospital Road Chitalmari Bagerhat"
+        ],
+        [
+            67,
+            "Prime Diagnostic & Ayesha Hyder Clinic",
+            "HSM23495",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "Thanthonia, Sherpur Road, Bogra."
+        ],
+        [
+            68,
+            "Prime Diagnostic & Ayesha Hyder Clinic",
+            "HSM17525",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "Thanthonia, Sherpur Road, Bogra."
+        ],
+        [
+            69,
+            "Prime Diagnostic & Consultation Centre",
+            "HSM46573",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Palashbari",
+            "Gaibandha Road, Palashbari, Gaibandha"
+        ],
+        [
+            70,
+            "Prime Diagnostic & Infertility Care Centre",
+            "HSM81751",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Harail, Sadar Road, Joypurhat"
+        ],
+        [
+            71,
+            "PRIME DIAGNOSTIC CENTER",
+            "HSM85072",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Gopalpur",
+            "Nandanpur,Gopalpur,Tangail,Bangladesh."
+        ],
+        [
+            72,
+            "Prime Diagnostic Center",
+            "HSM48378",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Rasulpur, Satkhira"
+        ],
+        [
+            73,
+            "Prime Diagnostic Center ",
+            "HSM45213",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Medicine Market , Galachipa Purosava , Patuakhali "
+        ],
+        [
+            74,
+            "Prime Diagnostic Center",
+            "HSM09634",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Hospital Mor, Chatmohor, Pabna"
+        ],
+        [
+            75,
+            "Prime Diagnostic Center ",
+            "HSM04450",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Hospital Road, 09 No. Ward, Banaripara, Barishal"
+        ],
+        [
+            76,
+            "Prime Diagnostic Center",
+            "HSM09137",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Raozan",
+            "Alhaz  Ahmodur Rahaman Residential Complex, (Amirhat Bazar) Raozan PS: Chittagong-4340, Bangladesh."
+        ],
+        [
+            77,
+            "Prime Diagnostic Center (Digital Lab)",
+            "HSM77475",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Holding No-622, Patuapara, Madrasa More, Natore"
+        ],
+        [
+            78,
+            "Prime Diagnostic Center.",
+            "HSM95442",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchhari",
+            "Bibirhat Bus Station, Fatickchari, Chittagong."
+        ],
+        [
+            79,
+            "Prime Diagnostic Centre",
+            "HSM79255",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Jail Road,Brahmanbaria"
+        ],
+        [
+            80,
+            "PRIME DIAGNOSTIC CENTRE",
+            "HSM09719",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "T.R. ROAD, SAIDPUR, NILPHAMARI."
+        ],
+        [
+            81,
+            "Prime Diagnostic Centre",
+            "HSM66156",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            82,
+            "PRIME DIAGNOSTIC CENTRE",
+            "HSM61370",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road, Moulvibazar."
+        ],
+        [
+            83,
+            "PRIME DIAGNOSTIC CENTRE",
+            "HSM99252",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Islampur",
+            "Hospital Road, Islampur, Jamalpur"
+        ],
+        [
+            84,
+            "PRIME DIAGNOSTIC CENTRE",
+            "HSM38821",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            85,
+            "Prime Diagnostic Centre Ltd.",
+            "HSM41706",
+            "Diagnostic Center",
+            "Category-A",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Noakhali."
+        ],
+        [
+            86,
+            "PRIME DIAGNOSTIC COMPLEX",
+            "HSM33511",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "Mawna Chowrasta, Sreepur, Gazipur"
+        ],
+        [
+            87,
+            "Prime Diagnostic Complex",
+            "HSM28893",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhenaidah",
+            "Kaliganj",
+            "Maxi Super Market, Kaliganj, Jhenaidah"
+        ],
+        [
+            88,
+            "Prime Diagnostic Complex ",
+            "HSM20331",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Tetulia Rouad Panchagarh "
+        ],
+        [
+            89,
+            "PRIME DIAGNOSTIC LIMITED ",
+            "HSM62407",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Motijheel",
+            "6/9 Outer Circular Road , Hosaf Shopping Complex (4th Floor) Lift Level , Malibagh More, Dhaha"
+        ],
+        [
+            90,
+            "Prime Diagnostice Centre",
+            "HSM41941",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Sadar Hospital Road, Narail"
+        ],
+        [
+            91,
+            "Prime diagnosticlimited",
+            "HSM83043",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Khilgaon",
+            "6/9 Outer Circular Road, Hosaf Shopping Complex (4th Floor) Lift Level,Malibagh More,Dhaha"
+        ],
+        [
+            92,
+            "PRIME DIAGNOTIC COMPLEX.",
+            "HSM77949",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jessore Sadar",
+            "Holding No: 74, Sadar Hospital Road, Daratana, Jashore"
+        ],
+        [
+            93,
+            "PRIME DIAGONOSTIC CENTER ",
+            "HSM95168",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Adhunik hospital road, gaibandha sadar,Gaibandha"
+        ],
+        [
+            94,
+            "PRIME DIAGONOSTIC CENTER",
+            "HSM16856",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Shibpur",
+            "Dhanua, College Gate, Shibpur, Narsingdi"
+        ],
+        [
+            95,
+            "PRIME DIANGNOSTIC PABNA",
+            "HSM32029",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 1183/6, A.K Khondoker Road, Shalgaria, Pabna"
+        ],
+        [
+            96,
+            "PRIME DIGITAL DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM54796",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Sadar Hospital Road, Manikpur, Munshiganj"
+        ],
+        [
+            97,
+            "PRIME DIGITAL DIAGNOSTIC AND  CONSULTATION CENTER.",
+            "HSM38017",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Boalmari",
+            "HOSPITAL ROAD, SHIBPUR, BOALMARI, FARIDPUR."
+        ],
+        [
+            98,
+            "PRIME DIGITAL DIAGNOSTIC CENTER",
+            "HSM15986",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "District Hospital Road, Gaibanda"
+        ],
+        [
+            99,
+            "Prime Eye Hospital",
+            "HSM39773",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "226, Khondakar Center, Shahid Shahidullah Kaiser Sarak, Feni "
+        ],
+        [
+            100,
+            "Prime General Hospital",
+            "HSM57118",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Hossain Market,Dhaka Mymensingh Road,Tongi,Gazipur."
+        ]
+    ]
+}

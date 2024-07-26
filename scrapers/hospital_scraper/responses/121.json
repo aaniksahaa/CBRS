@@ -1,0 +1,1007 @@
+{
+    "draw": 121,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Phulbari Digital Diagnostic Center",
+            "HSM47361",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "Mainroad, Phulbari, Dinajpur "
+        ],
+        [
+            2,
+            "Pikasu Diagnostic Center",
+            "HSM73873",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Rangamati Sadar  Up",
+            "Kata Pahar Road, Banarupa, Rangamati."
+        ],
+        [
+            3,
+            "PILOT HOSPITAL",
+            "HSM22663",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "NEW BUS STAND, TANGAIL SADAR, TANGAIL."
+        ],
+        [
+            4,
+            "PILOT HOSPITAL.",
+            "HSM12733",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "NEW BUS STAND, TANGAIL SADAR, TANGAIL."
+        ],
+        [
+            5,
+            "PINKING DIANGNOSTIC CENTER",
+            "HSM82248",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Melandaha",
+            "VILL-IMAMPUR,P.O-MAHMUDPUR, P.S-MELANDAH,DIST-JAMALPUR"
+        ],
+        [
+            6,
+            "Pioneer diagnostic & Consultation Center ",
+            "HSM10222",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "06/06 B.B Somotat Center 1st Floor Kandirpar, Laksham Road Pubali Chattar, Sadar, Cumilla"
+        ],
+        [
+            7,
+            "Pioneer Diagnostic Center",
+            "HSM18601",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "South Dorga Mohollah, Sylhet Sadar-3100, Sylhet"
+        ],
+        [
+            8,
+            "Pioneer Diagnostic Center Ltd.",
+            "HSM95304",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Raozan",
+            "Vill. Noapara, Pther Hat, P.O. Guzara Noapara-4347, Chittagong."
+        ],
+        [
+            9,
+            "PIONEER DIAGNOSTIC CENTRE.",
+            "HSM86014",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Ukil Para (Alimabag),  Sunamganj"
+        ],
+        [
+            10,
+            "Pioneer Hospital Ltd.",
+            "HSM78052",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Raozan",
+            "Ibrahim Soban Tower, Noapara, Pather Hat, Raozan, Chittagong."
+        ],
+        [
+            11,
+            "Pioneer Medical & Diagnostic Center.",
+            "HSM60158",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangora Bazar,Nabinagar,Brahmanbaria"
+        ],
+        [
+            12,
+            "Pioneer.Hospital",
+            "HSM40797",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "South Dorga Moholla, Sylhet Sadar-3100, Sylhet"
+        ],
+        [
+            13,
+            "PIRANGONG DIAGNOSTIC CENTER",
+            "HSM58589",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Santhia",
+            "BOGRA ROAD, KASHINATHPUR, PABNA"
+        ],
+        [
+            14,
+            "PIRIJPUR DIAGNOSTIC CENTER",
+            "HSM35088",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bajitpur",
+            "PIRIJPUR BAZAR, BAJITPUR, KISHOREGANJ"
+        ],
+        [
+            15,
+            "Pirojpur General & Eye Hospital",
+            "HSM02687",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Jatokhati Police line road, Pirojpur"
+        ],
+        [
+            16,
+            "Pirojpur Lab Aid Clinic ",
+            "HSM67689",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Thana Road, Pirojpur"
+        ],
+        [
+            17,
+            "Pirojpur Lab Aid Diagnostic Center ",
+            "HSM00872",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Thana Road, Pirojpur"
+        ],
+        [
+            18,
+            "Pirojpur Medical Center",
+            "HSM49663",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "25/5, Masimpur Bypass Road, Pirojpur Sadar, Pirojpur."
+        ],
+        [
+            19,
+            "PLASMA DIAGNOSTIC CENTER",
+            "HSM92097",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Dowarabazar",
+            "Sulaiman mantion,Ambari Bazar,Dowarabazar,Sunamganj."
+        ],
+        [
+            20,
+            "PLASMA DIAGNOSTIC CENTER ",
+            "HSM54746",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "SHERSHA ROAD,LAXMIPUR,RAJPARA, RAJSHAHI "
+        ],
+        [
+            21,
+            "PLASMA DIAGNOSTIC CENTER.",
+            "HSM91245",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Dowarabazar",
+            "Ambari Bazar, Dowarabazar, Sunamganj."
+        ],
+        [
+            22,
+            "PLASMA HOSPITAL",
+            "HSM25424",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "634, Laxmipur, GPO-60000, Rajpara, Rajshahi."
+        ],
+        [
+            23,
+            "Plasma Research Center",
+            "HSM71134",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Adabor",
+            "Holding: 14, Road-12, PC Culture Housing, Sheker Tech, Adabor, Dhaka"
+        ],
+        [
+            24,
+            "Platinum Hospital Ltd",
+            "HSM31675",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kalabagan",
+            "69/M/1,G.H Tower Panthpath, Dhanmondi,Dhaka -1205."
+        ],
+        [
+            25,
+            "Platinum Hospital Ltd",
+            "HSM58461",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "69/M/1,G.H Tower Panthpath, Dhanmondi,Dhaka -1205."
+        ],
+        [
+            26,
+            "PMK HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM06334",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "ZIRABO, ASHULIA, DHAKA."
+        ],
+        [
+            27,
+            "POKURIA DIGITAL LAB ",
+            "HSM25331",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "Shapla Complex (1st floor),Pukuria Chowmohani,Banshkhali,Chittagram."
+        ],
+        [
+            28,
+            "POLAR DIAGNOSTIC CENTER",
+            "HSM20768",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "207/1 no hospital ghate, charpara, mymensingh\r\n"
+        ],
+        [
+            29,
+            "POLASH DIAGNOSTIC CENTER",
+            "HSM24405",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Hospital Gate, Chatmohar, Pabna"
+        ],
+        [
+            30,
+            "Polash Diagnostic Center & Doctors Chamber",
+            "HSM40247",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Bishwambarpur",
+            "Polash Bazar, Biswambharpur, Sunamganj"
+        ],
+        [
+            31,
+            "Poli Clinic Eye Hospital & Diagnostic Center",
+            "HSM59351",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "19/4, Kawriapara, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            32,
+            "POLI CLINIC EYE HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM26645",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "120/2, Kawriapara, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            33,
+            "Poli-X-Ray & Pathology & Clinic",
+            "HSM72187",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Bauphal",
+            "Hospital Road, Bauphal, Patuakhali"
+        ],
+        [
+            34,
+            "Poli-X-Ray& Pathology",
+            "HSM04387",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1,\u09ac\u09be\u0989\u09ab\u09b2,\u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0"
+        ],
+        [
+            35,
+            "POLLI BANGLA DIAGONSTIC CENTER",
+            "HSM28716",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Bagha",
+            "Vill: Bagha, Po: Bagha, Ps: Bagha, DisT: Rajshahi, "
+        ],
+        [
+            36,
+            "POLLI BONDHU DIGITAL DIAGNOSTIC CENTER.",
+            "HSM58482",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Goalchamot, Old Bus Stand, Faridpur."
+        ],
+        [
+            37,
+            "Polli Diagnostic Center",
+            "HSM99867",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Howlader Complex, Nutun Bazar, Bhola."
+        ],
+        [
+            38,
+            "Polli Diagnostic Center",
+            "HSM38356",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Dula Miah Market(1st Floor) Main Road, Heyako Bazar, Bhujpur, Fatickchari, Chittagong."
+        ],
+        [
+            39,
+            "Polli Digital Clinic",
+            "HSM65448",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Durgapur",
+            "508 Hospital Mur, Durgapur, Netrokona, Mymensingh."
+        ],
+        [
+            40,
+            "Polli Eye Hospital",
+            "HSM67435",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Fulbaria",
+            "Assim bazar,Fulbaria,mymensingh."
+        ],
+        [
+            41,
+            "Polli Surgical Cilinic & Diagnostic Centar",
+            "HSM27452",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Mathbaria",
+            "hospital road mathbaria pirojpur"
+        ],
+        [
+            42,
+            "polli surgical cilinic & diagnostic centar",
+            "HSM95867",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Mathbaria, Pirojpur"
+        ],
+        [
+            43,
+            "POLLY CLINIC & DIAGNOSTIC CENTER",
+            "HSM25405",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Sharsha",
+            "Hospital Road, Navaron, Sharsha, Jessore"
+        ],
+        [
+            44,
+            "POLLY CLINIC & DIAGNOSTIC CENTER",
+            "HSM30212",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Sharsha",
+            "pollyclinicdc25@gmail.com"
+        ],
+        [
+            45,
+            "POLLY DIAGNOSTIC CENTRE",
+            "HSM69259",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Bisho Road Inside of Mohila College, Gobindaganj, Gaibandha"
+        ],
+        [
+            46,
+            "Polly Diagnostic Centre.",
+            "HSM42105",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagacha",
+            "Vill- Kalibari, P.O- Gabtoli, P.S- Muktagachha, Dist- Mymensingh"
+        ],
+        [
+            47,
+            "Polly Sasto Kendro & Diagnostic Center",
+            "HSM79037",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Rampal",
+            "Gelatala bazar,rampal,bagerhat"
+        ],
+        [
+            48,
+            "POlly Seba Diagonstic Center",
+            "HSM03641",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Gaurnadi",
+            "Bakai Bazar, Gournadi, Barisal"
+        ],
+        [
+            49,
+            "POLLY SHASHTHO SHEBA HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM62523",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Muksudpur",
+            "Khandarpara, Muksudpur, Gopalganj."
+        ],
+        [
+            50,
+            "POLLY SHASHTHO SHEBA HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM96451",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gopalganj",
+            "Muksudpur",
+            "Khandarpara, Muksudpur, Gopalganj."
+        ],
+        [
+            51,
+            "Polton Diagnostic Center",
+            "HSM05665",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "37/2 purana paltan paltan dhaka 1000"
+        ],
+        [
+            52,
+            "POLY CLINIC",
+            "HSM18079",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Puraton Bazar(Amlapara)Bagerhat"
+        ],
+        [
+            53,
+            "Poly Clinic",
+            "HSM71570",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "South Munshipara, Sadar Hospital Road, Dinajpur-5200"
+        ],
+        [
+            54,
+            "Poly Clinic & Diagnostic Center",
+            "HSM34478",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "M Rahman Sarak, Sadar Road, 01 No Word, Bakerganj Pouroshova. "
+        ],
+        [
+            55,
+            "POLY DIAGNOSTIC CENTER ",
+            "HSM61282",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "144, B B  ROAD, NARAYANGANJ"
+        ],
+        [
+            56,
+            "Poly Digital Diagnostic Centre",
+            "HSM54975",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Mohimagonj Road, Gobindagonj, Gaibandha."
+        ],
+        [
+            57,
+            "POLY HOSPITAL LTD.",
+            "HSM63556",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "33, Panchlaish R/A, Chattogram."
+        ],
+        [
+            58,
+            "Pongu  General Hospital Sarail  & Diagnostic Center ",
+            "HSM51310",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Sarail",
+            "Hospital More,Sarail,Brahmanbaria"
+        ],
+        [
+            59,
+            "Pongu & General Diagnostic Center",
+            "HSM73876",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "SP Bangow More, Polashpole, Satkhira"
+        ],
+        [
+            60,
+            "Pongu Hospital Jessore",
+            "HSM80442",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jessore Sadar",
+            "2308, Mujib Sarak, Jessore, Bangladesh."
+        ],
+        [
+            61,
+            "PONGU SHEBA KENDRO",
+            "HSM27402",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "92 Jail Road, Jashore."
+        ],
+        [
+            62,
+            "PONGU SHEBA KENDRO",
+            "HSM60029",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jashore Sadar",
+            "92, Jail Road, Jashore "
+        ],
+        [
+            63,
+            "Poonam Nursing Home",
+            "HSM39804",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Medical Road, Jamalpur-2000"
+        ],
+        [
+            64,
+            "Poonam Nursing Home",
+            "HSM66017",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Medical Road, Jamalpur-2000"
+        ],
+        [
+            65,
+            "Popula Diagnostic Center",
+            "HSM15637",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Golapganj",
+            "A. Ohab Plaza, Golapganj, Sylhet."
+        ],
+        [
+            66,
+            "Popula Diagnostic Center",
+            "HSM08639",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Rail Road,Bagerhat"
+        ],
+        [
+            67,
+            "POPULAR  CLINIC & DIGNOSTIC CENTER",
+            "HSM13588",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "17, maskanda, sadar,mymensingh"
+        ],
+        [
+            68,
+            "POPULAR  CLINIC & DIGNOSTIC CENTER",
+            "HSM83145",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "17, maskanda, sadar,mymensingh"
+        ],
+        [
+            69,
+            "Popular  Hospital and Digital Diagnostic Center",
+            "HSM30782",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Khalia Road, Ghosalkandi, Takerhat, "
+        ],
+        [
+            70,
+            "Popular  Hospital and Digital Diagnostic Center",
+            "HSM46200",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "Khalia Road, Ghosalkandi, Takerhat, Rajoir, Madaripur"
+        ],
+        [
+            71,
+            "POPULAR  MEDICAL  CENTRE",
+            "HSM79545",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Dakshin",
+            "Upazila-Matlab Dakshin, District- Chandpur."
+        ],
+        [
+            72,
+            "POPULAR  MEDICAL  CENTRE ",
+            "HSM60234",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Shalikha",
+            "Taker Bazar Shalikha, Magura, Bangladesh."
+        ],
+        [
+            73,
+            "Popular  pathlogy",
+            "HSM96012",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ramu",
+            "Chowmohony, Ramu, Coxs Bazar."
+        ],
+        [
+            74,
+            "POPULAR CLINIC",
+            "HSM96931",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Madaripur",
+            "Shibchar",
+            "New Super Market, Sadar Road, Shibchar, Madaripur, "
+        ],
+        [
+            75,
+            "Popular Clinic & Diagnostic",
+            "HSM92587",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Popular Tower, Kanaikhali, Natore"
+        ],
+        [
+            76,
+            "Popular Clinic & Diagnostic",
+            "HSM67270",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Popular Tower, Kanaikhali, Natore"
+        ],
+        [
+            77,
+            "Popular Clinic & Diagnostic Center",
+            "HSM08910",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Pangsha",
+            "Narayanpur, Pangsha, Rajbari."
+        ],
+        [
+            78,
+            "Popular Clinic & Diagnostic Center",
+            "HSM72999",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Pangsha",
+            "Narayanpur, Pangsha, Rajbari."
+        ],
+        [
+            79,
+            "POPULAR CLINIC and Diagnostic Center",
+            "HSM06156",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Shibchar",
+            "New Super Market, Sador Road, Shibchar, Madaripur"
+        ],
+        [
+            80,
+            "Popular Clinic Rajbari",
+            "HSM65025",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari."
+        ],
+        [
+            81,
+            "Popular Clinical Laboratory",
+            "HSM53235",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Chunati Bazar, Lohagara, Chittagong."
+        ],
+        [
+            82,
+            "Popular Consultant & Diagnostic Center",
+            "HSM16261",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Sreenagar Upazila Road, Near of Shahid Minar, Sreenagar, Munshiganj Mob: 01913201007"
+        ],
+        [
+            83,
+            "POPULAR DENTAL CARE",
+            "HSM35100",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Sreemangal",
+            "Sreemangal Chowmuhoni, Moulvibazar Raod, Sreemangal"
+        ],
+        [
+            84,
+            "Popular Diabetic And Health Care Center",
+            "HSM62410",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Birampur",
+            "Birampur, Dinajpur"
+        ],
+        [
+            85,
+            "POPULAR DIAGNOSIS",
+            "HSM22388",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA,PABNA SADAR,PABNA"
+        ],
+        [
+            86,
+            "Popular Diagnostic & Diabetic Center",
+            "HSM84146",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Senbagh",
+            "South Bazar, Samir Munshir Hat, Senbag, Noakhali."
+        ],
+        [
+            87,
+            "Popular Diagnostic & Trauma Center",
+            "HSM54777",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Noyanpur Bazar, Akhaura,Brahmanbaria"
+        ],
+        [
+            88,
+            "popular diagnostic and consultation center",
+            "HSM02900",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Gangni",
+            "Gangni"
+        ],
+        [
+            89,
+            "Popular Diagnostic and Medical centre",
+            "HSM50122",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Kamalnagar",
+            "Fozumiarhat, South Char Pagla, Kamal Nagar, Lakshmipur."
+        ],
+        [
+            90,
+            "Popular Diagnostic Center",
+            "HSM54339",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Patnitala",
+            "Nozipur, Patnitola, Naogaon"
+        ],
+        [
+            91,
+            "Popular Diagnostic Center ",
+            "HSM78669",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Durgapur",
+            "Upazila Health Conplex Gate, Durgapur, Rajshahi"
+        ],
+        [
+            92,
+            "POPULAR DIAGNOSTIC CENTER",
+            "HSM24142",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Hospital Road, Chandina, Comilla"
+        ],
+        [
+            93,
+            "Popular Diagnostic Center",
+            "HSM17962",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Hataliha Badghata, Botolbunia Sharok, Post : Bahalghachia , Upzila : Patuakhali, Patuakhali-8600"
+        ],
+        [
+            94,
+            "Popular Diagnostic Center",
+            "HSM06101",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 825, Bokshi Mizir Pool, Maijdee Court, Sadar, Noakhali."
+        ],
+        [
+            95,
+            "Popular Diagnostic Center",
+            "HSM88105",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Alfadanga",
+            "Hospital Road, Alfadanga, Faridpur "
+        ],
+        [
+            96,
+            "Popular Diagnostic Center",
+            "HSM75181",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Shyamnagar",
+            "Shahid Muktizoddaha Sarak,  Shyamnagar, Satkhira."
+        ],
+        [
+            97,
+            "Popular Diagnostic Center",
+            "HSM10602",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Monoharganj",
+            "Haspatal Road, Mohongonj, Netrokona"
+        ],
+        [
+            98,
+            "POPULAR DIAGNOSTIC CENTER",
+            "HSM61731",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Mujibnagar",
+            "KEDERGONJ BAZAR, MUJIBNAGAR, MEHERPUR"
+        ],
+        [
+            99,
+            "POPULAR DIAGNOSTIC CENTER",
+            "HSM72821",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Sundarganj",
+            "HOSPITAL ROAD, SUNDARGANJ, GAIBANDHA"
+        ],
+        [
+            100,
+            "Popular Diagnostic Center Ltd. (English Road)",
+            "HSM04273",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kotwali",
+            "Popular Diagnostic Centre Ltd.\r\n2, English Road, Dhaka-1100"
+        ]
+    ]
+}

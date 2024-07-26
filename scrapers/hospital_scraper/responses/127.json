@@ -1,0 +1,1007 @@
+{
+    "draw": 127,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Rajanigandha Diagnostic Center",
+            "HSM64425",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Taj market (1st floor), Asian highway, Baraiyarhat Paurashava, Thana- Zorargonj, Dist- Chittagong."
+        ],
+        [
+            2,
+            "RAJAPUR POPULAR CLINIC & DIAGNOSTIC CENTER",
+            "HSM40645",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhalokathi",
+            "Rajapur",
+            "BYPASS SAROK RAJAPUR.JHALOKATHI"
+        ],
+        [
+            3,
+            "RAJARHAT DIAGNOSTIC CENTER",
+            "HSM80455",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Rajarhat",
+            "RAJARHAT, KURIGRAM, BANGLADESH."
+        ],
+        [
+            4,
+            "Rajbari Clinic & Diagnostic Centre Private Ltd",
+            "HSM49528",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari."
+        ],
+        [
+            5,
+            "Rajbari Clinic & Diagnostic Centre Private Ltd",
+            "HSM26957",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari."
+        ],
+        [
+            6,
+            "Rajbari Diabetic Samiti Kazi Hedayet Hossain Memorial Diabetic Hospital",
+            "HSM15252",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Binodpur, Rajbari."
+        ],
+        [
+            7,
+            "Rajbari Eye  Clinic & Specialized Hospital",
+            "HSM03573",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Prodhan Sarak, Public Health Moor, Sazzankanda, Rajbari."
+        ],
+        [
+            8,
+            "RAJBARI LAB & DIAGNOSTIC CENTER",
+            "HSM26866",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Public Health Mor Sajjankanda.Rajbari sadar Rajbari .Bangladesh."
+        ],
+        [
+            9,
+            "Rajbari Medical Center & Hospital",
+            "HSM90963",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Hospital Road, Sajjankanda, Rajbari."
+        ],
+        [
+            10,
+            "Rajbari Medical Center & Hospital",
+            "HSM74734",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Hospital Road, Sajjankanda, Rajbari."
+        ],
+        [
+            11,
+            "RAJDHALA DIAGNOSTIC CENTER",
+            "HSM95157",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Purbadhala",
+            "HOSPITAL GATE, STATION ROAD, PURBADHALA, NETRAKONA"
+        ],
+        [
+            12,
+            "RAJDHANI BLOOD BANK & TRANSFUSION CENTER",
+            "HSM67747",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mohammadpur",
+            "1/1, 1/2,1/3, Goznabi road, Mohammadpur, Dhaka-1207."
+        ],
+        [
+            13,
+            "RAJDHANI CLINIC",
+            "HSM41200",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD,  CHUADANGA"
+        ],
+        [
+            14,
+            "Rajdhani Digital Medical Services Ltd.",
+            "HSM73945",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "Kashfia Plaza (4th Floor), 35/C, VIP Road, Nayapaltan, Dhaka-1000."
+        ],
+        [
+            15,
+            "Rajdhani Hospital & Digital Diagnostic Center",
+            "HSM28589",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Serajdikhan",
+            "Ichhapura Chowrasta Hospital Road, Sirajdikhan, Munshiganj. "
+        ],
+        [
+            16,
+            "RAJDHANI NURSING HOME",
+            "HSM84457",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College & Hospital road, Sabalia, Tangail."
+        ],
+        [
+            17,
+            "RAJDHANI NURSING HOME ",
+            "HSM11394",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College & Hospital Road, Sabalia, Tangail."
+        ],
+        [
+            18,
+            "RAJENDRAPUR PATHOLOGICAL LABORATORY & X-RAY",
+            "HSM32306",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Sreepur",
+            "Rajendrapur Railgate, Sreepur, Gazipur"
+        ],
+        [
+            19,
+            "RAJENDROPUR GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM75056",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Sreepur",
+            "Rajendropur Sripur Gazipur"
+        ],
+        [
+            20,
+            "Rajendropur General Hospital & Diagnostic Centre",
+            "HSM04572",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "Rajendropur Sripur Gazipur"
+        ],
+        [
+            21,
+            "Rajgong Diagnostic Center",
+            "HSM05271",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "Rajgonj Bazar, Monirampur, Jessore."
+        ],
+        [
+            22,
+            "Rajib (PVT.)Hospital",
+            "HSM37981",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Manohardi",
+            "Monohardi.Narshingdi"
+        ],
+        [
+            23,
+            "RAJIB (PVT.)HOSPITAL.(LAB)",
+            "HSM03891",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "MONOHARDI.NARSHINGDI."
+        ],
+        [
+            24,
+            "Rajib Dental Care",
+            "HSM24263",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Noakhali",
+            "Sonaimuri",
+            "B.S.R Road, Sonaimuri Bazar, Noakhali."
+        ],
+        [
+            25,
+            "Rajibpur Diagnostic Center",
+            "HSM92029",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Rajibpur",
+            "Hospital gate, Rajibpur, kurigram"
+        ],
+        [
+            26,
+            "RAJNAGAR  DENTAL CARE",
+            "HSM67067",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Maulvibazar",
+            "Rajnagar",
+            "Central Road, Rajnagar Sodar, Moulvibazar"
+        ],
+        [
+            27,
+            "Rajnagar Diagnostic & Consultation Center",
+            "HSM78289",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Rajnagar",
+            "Hospital Road, Rajnagar, Moulvibazar"
+        ],
+        [
+            28,
+            "RAJOIR EYE CARE CENTER.",
+            "HSM01351",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Madaripur",
+            "Rajoir",
+            "Rajoir Bastand,Kotalipara Road Rajoir,Madaripur."
+        ],
+        [
+            29,
+            "Rajoir Surgical (Pvt.) Hospital & Diagnostic Center",
+            "HSM05627",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "Rajoir, Madaripur."
+        ],
+        [
+            30,
+            "Rajoir Surgical (Pvt.) Hospital & Diagnostic Center",
+            "HSM15946",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Rajoir Surgical (Pvt.) Hospital & Diagnostic Center, Rajoir, Madaripur"
+        ],
+        [
+            31,
+            "Rajon Pathological Center",
+            "HSM24641",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Road, Mohongonj, Netrakona"
+        ],
+        [
+            32,
+            "RAJSHAHI  COMFORT HOSPITAL",
+            "HSM46854",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "SHER SHAH ROAD, LAXMIPUR, GPO-6000, RAJSHAHI"
+        ],
+        [
+            33,
+            "Rajshahi Apollo Hospital ",
+            "HSM90186",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Rajpara",
+            "Aziz mahal, Hol. No. 629, Kazihata, Rajshahi"
+        ],
+        [
+            34,
+            "RAJSHAHI BLOOD BANK AND TRANSFUSION CENTRE, RAJSHAHI.",
+            "HSM59144",
+            "Blood Bank",
+            "",
+            "Rajshahi",
+            "Rajpara",
+            "H:106,KAZIHATA, RAJPARA, RAJSHAHI"
+        ],
+        [
+            35,
+            "RAJSHAHI CANCER HOSPITAL",
+            "HSM19661",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Matihar",
+            "MASKATA DIGHI,SHYAMPUR, MOTIHAR, RAJSHAHI."
+        ],
+        [
+            36,
+            "RAJSHAHI CANCER HOSPITAL",
+            "HSM49063",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Matihar",
+            "MASKATADIGHI, SHYAMPUR, MOTIHAR, RAJSHAHI. "
+        ],
+        [
+            37,
+            "Rajshahi Central Hospital ",
+            "HSM51212",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur,Rajpara, Rajshahi"
+        ],
+        [
+            38,
+            "Rajshahi Central Hospital (Diagnostic Unit)",
+            "HSM40215",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, GPO, Rajpara, Rajshahi "
+        ],
+        [
+            39,
+            "Rajshahi Community Eye Hospital",
+            "HSM43414",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "88/A, Helenabad Girls School, Road- Vatapara, Rajshahi"
+        ],
+        [
+            40,
+            "Rajshahi Diabetic Association General Hospital",
+            "HSM15139",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Jhawtala, Laxmipur, Rajshahi-6000"
+        ],
+        [
+            41,
+            "Rajshahi Diabetic Association Pathology Laboratory",
+            "HSM00970",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Jhawtala, Laxmipur, Rajshahi"
+        ],
+        [
+            42,
+            "RAJSHAHI DIAGNOSTIC CENTER",
+            "HSM32124",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "SHER SHAH ROAD, LAXMIPUR, RAJPARA, RAJSHAHI, "
+        ],
+        [
+            43,
+            "Rajshahi Diagnostic Centre",
+            "HSM15716",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Hospital Road, Ward No-05, Meherpur"
+        ],
+        [
+            44,
+            "Rajshahi Eye Hospital",
+            "HSM75770",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Boalia",
+            "Malopara, Rajshahi"
+        ],
+        [
+            45,
+            "RAJSHAHI GENERAL HOSPITAL ",
+            "HSM04214",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "SHERSHAH ROAD, LAXMIPUR,  RAJPARA, RAJSHAHI"
+        ],
+        [
+            46,
+            "Rajshahi Kidney Dialysis and Diagnostic Center",
+            "HSM67530",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Shopnomoy, Basa No-114/1, GPO North Side, Rajpara, Rajshahi"
+        ],
+        [
+            47,
+            "Rajshahi Metropolitan Hospital & Diagnostic  Center.",
+            "HSM43922",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "C&B More , Kazihata, Rajpara, Rajshahi-6000."
+        ],
+        [
+            48,
+            "Rajshahi Metropolitan Hospital & Diagnostic Center.",
+            "HSM05344",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "C&B More , Kazihata, Rajpara, Rajshahi-6000."
+        ],
+        [
+            49,
+            "RAJSHAHI MODEL HOSPITAL",
+            "HSM41858",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, RAJPARA, RAJSHAHI."
+        ],
+        [
+            50,
+            "RAJSHAHI MODEL HOSPITAL",
+            "HSM36920",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, RAJPARA, RAJSHAHI."
+        ],
+        [
+            51,
+            "Rajshahi Re-Life Hospital and diagnostic",
+            "HSM95067",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Rajpara",
+            "Greater Road, Laxmipur, GPO, Rajshahi"
+        ],
+        [
+            52,
+            "Rajshahi Re-Life Hospital and diagnostic",
+            "HSM16742",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "Greater Road, Laxmipur, GPO, Rajshahi"
+        ],
+        [
+            53,
+            "RAJSHAHI RETINA & PHACO CENTER",
+            "HSM08723",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Rajpara",
+            "248,Al-Aksha Doctors Tower(1st Floor),Sipai Para,PO:GPO,Thana: Rajpara, Rajshahi."
+        ],
+        [
+            54,
+            "RAJSHAHI ROYAL HOSPITAL PRIVATE  LIMITED",
+            "HSM05828",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "623-SHERSHA ROAD, KAJIHATA, LAXMIPUR, GPO-6000,RAJPARA, RAJSHAHI."
+        ],
+        [
+            55,
+            "RAJSHAHI ROYAL HOSPITAL PRIVATE LIMITED",
+            "HSM48908",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "624 SERSHA ROAD,LAXMIPUR, G.P.O-6000, RAJPARA, RAJSHAHI."
+        ],
+        [
+            56,
+            "RAJSHAHI SEBA CLINIC ",
+            "HSM84058",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Rajpara",
+            "JHOWTOLA MORE,LAXMIPUR, GPO-6000, RAJPAR, RAJSHAHI"
+        ],
+        [
+            57,
+            "Rajshhai Eye Care Centre",
+            "HSM36023",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Boalia",
+            "Sadhurmore, Boalia, Rajshahi"
+        ],
+        [
+            58,
+            "Rakhi Diagnostic & Clinic",
+            "HSM02432",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "PTI MOR,Sherpur Road,Kanachhgari,Bogura"
+        ],
+        [
+            59,
+            "Rakhi Diagnostic & Clinic",
+            "HSM46514",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "PTI MOR,Sherpur Road,Kanachhgari,Bogura"
+        ],
+        [
+            60,
+            "RAMCHANDRAPUR X-RAY CLINIC ",
+            "HSM27664",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "RAMCHANDRAPUR, Muradnagar, Cumilla"
+        ],
+        [
+            61,
+            "Ramdia Clinic",
+            "HSM48042",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kashiani",
+            "Ramdia, Kashiani,Gopalgonj."
+        ],
+        [
+            62,
+            "Ramdia Clinic & Diagnostic Centre",
+            "HSM41352",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kashiani",
+            "Ramdia Bazar, Kashani, Gopalgonj."
+        ],
+        [
+            63,
+            "Ramganj Apollo Diagnostic Center",
+            "HSM01700",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Baypass road, Ramganj, Lakshmipur"
+        ],
+        [
+            64,
+            "Ramganj Care Diagnostic Center",
+            "HSM60917",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Wabda Raod, Ramganj, Lakshmipur"
+        ],
+        [
+            65,
+            "Ramganj Care Hospital",
+            "HSM16494",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Ramganj",
+            "Wabda Road, Ramganj, Lakshmipur"
+        ],
+        [
+            66,
+            "Ramgarh Memorial Hospital and Diaghnostic Center",
+            "HSM02690",
+            "Diagnostic Center",
+            "Category-B",
+            "Khagrachari",
+            "Ramgarh",
+            "\u09ae\u09c1\u0995\u09cd\u09a4\u09bf\u09af\u09cb\u09a6\u09cd\u09a7\u09be \u0995\u09ae\u09aa\u09cd\u09b2\u09c7\u0995\u09cd\u09b8, \u09ae\u09be\u09b8\u09cd\u099f\u09be\u09b0 \u09aa\u09be\u09dc\u09be (\u0995\u09b2\u09c7\u099c \u09b0\u09cb\u09a1), \u09b0\u09be\u09ae\u0997\u09dc, \u0996\u09be\u0997\u09dc\u09be\u099b\u09dc\u09bf"
+        ],
+        [
+            67,
+            "Ramgarh Memorial Hospital and Diagnostic Centre",
+            "HSM86235",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khagrachari",
+            "Ramgarh",
+            "Master Para, College Road, Ramgarh, Khagrachari.Bangladesh"
+        ],
+        [
+            68,
+            "Ramgonj Adhunik Hospital and diagnostic Centre",
+            "HSM09806",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Ramganj",
+            "College Road, Ramgonj, Lakshmipur"
+        ],
+        [
+            69,
+            "Ramgonj Adhunik Hospital and diagnostic Centre",
+            "HSM87849",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "College Road, Ramgonj, Lakshmipur"
+        ],
+        [
+            70,
+            "Ramgonj Diabetic Hospital",
+            "HSM99856",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Thana Road, Ramgonj Bazar, Upazila: Ramgonj, District: Lakshmipur."
+        ],
+        [
+            71,
+            "Ramgonj IBN Sina Diagnostic Center",
+            "HSM20686",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Hospital Road, Ramganj Lakshmipur"
+        ],
+        [
+            72,
+            "Ramgonj Labaid Diagnostic Center",
+            "HSM96235",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "\u09a5\u09be\u09a8\u09be \u09ac\u09be\u0987\u09aa\u09be\u09b8 \u09b0\u09cb\u09a1, \u09b0\u09be\u09ae\u0997\u099e\u09cd\u099c, \u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u09aa\u09c1\u09b0\u0964"
+        ],
+        [
+            73,
+            "Ramgonj Life Care Diagnostic Center",
+            "HSM36342",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Kolabagan, Ramgonj, Lakshmipur"
+        ],
+        [
+            74,
+            "Ramgonj Square Specialised (pvt.) Hospital & Diagnostic Center",
+            "HSM36012",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Ramganj",
+            "Baypass Road Ramganj, Laxmipur"
+        ],
+        [
+            75,
+            "Ramgonj Square Specialised Diagnostic Center",
+            "HSM88434",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Baypass Road, Ramganj, Laxmipur"
+        ],
+        [
+            76,
+            "Ramgonj United Diagnostic Center",
+            "HSM74969",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Hospital Road, Ramganj, Lakshmipur"
+        ],
+        [
+            77,
+            "RAMICHHA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM27980",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Panchbibi",
+            "Bazar Road, Panchbibi, Joypurhat"
+        ],
+        [
+            78,
+            "RAMICHHA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM42130",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Joypurhat",
+            "Panchbibi",
+            "Bazar Road, Panchbibi, Joypurhat"
+        ],
+        [
+            79,
+            "Ramit Diagnostic Center",
+            "HSM07965",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Hospital Road,Mathbaria,Pirojpur"
+        ],
+        [
+            80,
+            "RAMMOHAN DIAGNOSTIC CENTER",
+            "HSM80610",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "School Road, Barura, Comilla"
+        ],
+        [
+            81,
+            "Ramp Clinic",
+            "HSM08469",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Mohishkundi Bazar, Daulatpur, Kushtia"
+        ],
+        [
+            82,
+            "Ramu Modern Medical & Diagnostic Center ",
+            "HSM04694",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ramu",
+            "Ramu Chowmohony"
+        ],
+        [
+            83,
+            "RANA COMPATH LAB DIGITAL X-RAY & PATHOLOGICAL CENTRE",
+            "HSM51947",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "MONIRAMPUR, BAZAR, SHAJADPUR, SIRAJGANJ"
+        ],
+        [
+            84,
+            "RANA PATHOLOGY",
+            "HSM24695",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Tarail",
+            "Haspital Road, Tarail,Kishoreganj. "
+        ],
+        [
+            85,
+            "RANG DHANU CLINIC & NURSING HOME",
+            "HSM07682",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Munshipara, Sadar, Dinajpur"
+        ],
+        [
+            86,
+            "Rangabali Diagnostic Center ",
+            "HSM84465",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Rangabali",
+            "Baherchar Bazar, Rangabali, Patuakhali "
+        ],
+        [
+            87,
+            "Rangamati Diagnostic Centre",
+            "HSM33867",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Rangamati Sadar  Up",
+            "Hossain Market (2nd Floor),  Banarupa, Rangamati."
+        ],
+        [
+            88,
+            "RANGDHANU DIAGNOSTIC CENTER",
+            "HSM46507",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "49, Band Road, Barisal Sadar, Barisal, Bangladesh."
+        ],
+        [
+            89,
+            "Rangdhanu Diagnostic Center",
+            "HSM41842",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            " Puran Bazar Road Shadar PatuaKhahi."
+        ],
+        [
+            90,
+            "Rangdhanu Diagnostic Center",
+            "HSM38475",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Medical More, Rangpur 5400"
+        ],
+        [
+            91,
+            "Rangdhanu Diagnostic Center",
+            "HSM47736",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nazirpur",
+            "Gawkhali Bazar, Nazirpur, Pirojpur"
+        ],
+        [
+            92,
+            "Rangdhanu Diagnostic Centre",
+            "HSM91970",
+            "Diagnostic Center",
+            "Category-B",
+            "Barguna",
+            "Barguna Sadar",
+            "Santa Bhaban, Bazar Road, Barguna."
+        ],
+        [
+            93,
+            "Rangdhonu Clinic & Diagnostic Complex",
+            "HSM84329",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "29 ShamSur Rahman Road, Khulna."
+        ],
+        [
+            94,
+            "Rangdhonu Clinic & diagnostic Complex",
+            "HSM47109",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "29, Samsur Rahman Road, Khulna. Bangladesh."
+        ],
+        [
+            95,
+            "Rangdhonu Digital Diagnostic Center",
+            "HSM72571",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "Village Hospital Road, Kotalipara, Gopalganj."
+        ],
+        [
+            96,
+            "Rangpur Central Hospital",
+            "HSM24657",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            97,
+            "Rangpur City Hospital",
+            "HSM59226",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Burirhat Road Dhap Shimulbag Rangpur"
+        ],
+        [
+            98,
+            "Rangpur Diabetic Somity",
+            "HSM75747",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Radhaballave, Rangpur."
+        ],
+        [
+            99,
+            "Rangpur Digital Diagnostic Center",
+            "HSM79904",
+            "Diagnostic Center",
+            "Category-B",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            100,
+            "RANGPUR DIGITAL EYE HOSPITAL",
+            "HSM56676",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "R.K Road, Islambagh, Sadar, Rangpur"
+        ]
+    ]
+}

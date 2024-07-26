@@ -1,0 +1,1007 @@
+{
+    "draw": 93,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Medinova Diagnostic Centre",
+            "HSM00234",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Vill: Angarpara, Road# Hospital Road, Post Office: Ramgonj,  Upazila: Ramgonj, District Lakshmipur"
+        ],
+        [
+            2,
+            "MEDINOVA DIAGNOSTIC CENTRE-(PATHOLOGY)",
+            "HSM03246",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "dorga road, sirajganj"
+        ],
+        [
+            3,
+            "MEDINOVA GENAREL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM78939",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Chandra, Manikganj Sodor, Manikganj"
+        ],
+        [
+            4,
+            "MEDINOVA GENERAL HOSPITAL & DIAGNOSTIC LAB",
+            "HSM50536",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Mofizpaglar Mor, Sherpur Road, Bogura."
+        ],
+        [
+            5,
+            "MEDINOVA GENERAL HOSPITAL & DIAGNOSTIC LAB",
+            "HSM76388",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogura",
+            "Bogura Sadar",
+            "MOFIZ PAGLAR MOR, SHERPUR ROAD, SUTRAPUR, BOGURA"
+        ],
+        [
+            6,
+            "MEDINOVA HOSPITAL",
+            "HSM28383",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Barura",
+            "HOSPITAL ROAD, BARURA, COMILLA"
+        ],
+        [
+            7,
+            "MEDINOVA HOSPITAL",
+            "HSM62056",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "HOSPITAL ROAD, BARURA, COMILLA"
+        ],
+        [
+            8,
+            "MEDINOVA HOSPITAL COMPLEX",
+            "HSM37619",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "DORGA ROAD, SIRAJGANJ, BANGLADESH"
+        ],
+        [
+            9,
+            "MEDINOVA MEDICAL & DIAGNOSTIC CENTRE",
+            "HSM14497",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "MISSION ROAD, CHANDPUR"
+        ],
+        [
+            10,
+            "MEDINOVA MEDICAL CENTER",
+            "HSM54201",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Hospital Road, Chuadanga."
+        ],
+        [
+            11,
+            "Medinova Medical Center",
+            "HSM46983",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Hospital Road, Basurhat, Companigonj, Noakhali"
+        ],
+        [
+            12,
+            "medinova medical service center",
+            "HSM37660",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "50/3 charpar mymensing"
+        ],
+        [
+            13,
+            "MEDINOVA MEDICAL SERVICES",
+            "HSM91663",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "KANDIRPAR, LAKSAM ROAD, COMILLA"
+        ],
+        [
+            14,
+            "MEDINOVA MEDICAL SERVICES LIMITED",
+            "HSM86802",
+            "Diagnostic Center",
+            "Category-A",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "145, B.B. ROAD, ZATKIR SUPER MARKET, NARAYANGANJ"
+        ],
+        [
+            15,
+            "Medinova Medical Services Ltd.",
+            "HSM24095",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "Banth Road, Barisal."
+        ],
+        [
+            16,
+            "Medinova Medical Services Ltd.",
+            "HSM39750",
+            "Diagnostic Center",
+            "Category-A",
+            "Barishal",
+            "Barisal Sadar",
+            "K.B. Hemayet Uddin Road, Girza Moholla, Barisal-8200."
+        ],
+        [
+            17,
+            "Medinova Medical Services Ltd.  (English Road Branch) ",
+            "HSM10625",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Sutrapur",
+            "31,  Johnson Road, Dhaka-1100 "
+        ],
+        [
+            18,
+            "Medinova Medical Services Ltd. (Dhanmondi Head Office & Central Branch) )",
+            "HSM95902",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka-1209"
+        ],
+        [
+            19,
+            "Medinova Medical Services Ltd. (Dhanmondi Head Office & Central Laboratory) ",
+            "HSM49068",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "House- 71/A, Road-5/A, Dhanmondi R/A, Dhaka-1209"
+        ],
+        [
+            20,
+            "Medinova Medical Services Ltd. (Malibagh Branch)",
+            "HSM38249",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Khilgaon",
+            "Hosaf Tower, 6/9 Outer Circular Road, Malibagh More, Dhaka 1217. "
+        ],
+        [
+            21,
+            "Medinova Medical Services Ltd. (Mirpur Branch)",
+            "HSM67419",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "Plot No. 29-30, Block- Kha, Section-6, Main Road-1, Senpara Porbota, Mirpur, Dhaka-1216"
+        ],
+        [
+            22,
+            "Medinova Medical Services Ltd. (Subid Bazar, Sylhet))",
+            "HSM28028",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Sylhet",
+            "Sylhet Sadar",
+            "29, Excel Tower, Sunamganj Road \r\nSubid Bazar, Sylhet."
+        ],
+        [
+            23,
+            "Medinova Medical Services Ltd. (Tangail Branch)",
+            "HSM36882",
+            "Diagnostic Center",
+            "Category-A",
+            "Tangail",
+            "Tangail Sadar",
+            "1044, Main Road( Santi Kunjo More) Thana Para, Tangail"
+        ],
+        [
+            24,
+            "Medinova Medical Services Ltd. (Uttara Branch)",
+            "HSM30907",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Purba",
+            "House # 11, Sonargaon Janapath,Sector # 7, Uttara, Dhaka. "
+        ],
+        [
+            25,
+            "Medinova Medical Services Ltd., Sylhet Branch ",
+            "HSM59947",
+            "Diagnostic Center",
+            "Category-A",
+            "Sylhet",
+            "Sylhet Sadar",
+            "98, Kajalshah, New Medical Road, Sylhet "
+        ],
+        [
+            26,
+            "MEDINOVA NURSING HOME",
+            "HSM92744",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Meherpur",
+            "Meherpur Sadar",
+            "250 Bedded General Hospital Road, Meherpur"
+        ],
+        [
+            27,
+            "MEDINOVA SPECIALIZED HOSPITAL",
+            "HSM86719",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Bera",
+            "Hasina Plaza, 3rd Floor, Fulbagan More, Kashinathpur, Bera, Pabna"
+        ],
+        [
+            28,
+            "MEDIPATH CLINIC",
+            "HSM71674",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Madaripur",
+            "Shibchar",
+            "MOHORI POTTI, SHIBCHAR, MADARIPUR"
+        ],
+        [
+            29,
+            "Medipath clinic and Digital Diagnostic Center",
+            "HSM84956",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Sapahar",
+            "Hospital Road, Sapahar, Naogaon. "
+        ],
+        [
+            30,
+            "MEDIPATH COMPUTARISED DIAGNOSTIC CENTER",
+            "HSM96501",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "MEDIPATH DIAGNOSTIC CENTER\r\nKHYAGHAT ROAD, SHALGARIA, PABNA."
+        ],
+        [
+            31,
+            "MEDIPATH D-LAB & CONSULTATION CENTRE",
+            "HSM91837",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Bangshal",
+            "31,Nowab Eysuf Road,Noyabazar, Dhaka-1100"
+        ],
+        [
+            32,
+            "Medipath Daignostic Centre",
+            "HSM50233",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "125/A, Chokrampur, Dhaka Road, Natore."
+        ],
+        [
+            33,
+            "MEDIPATH DIAGNOSTIC AND CONSULTATION CENTER",
+            "HSM18504",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "Bicik More, Sheilkol, Sirajganj"
+        ],
+        [
+            34,
+            "Medipath Diagnostic Center",
+            "HSM73389",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Shibchar",
+            "Mohuripotti, Shibchar, Madaripur"
+        ],
+        [
+            35,
+            "MEDIPATH DIAGNOSTIC CENTER",
+            "HSM08804",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Taker Bazar, Shalikha, Magura. Bangladesh"
+        ],
+        [
+            36,
+            "MEDIPATH DIAGNOSTIC CENTRE",
+            "HSM34351",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Sadullapur",
+            "Sadullapur, Gaibandha"
+        ],
+        [
+            37,
+            "MediPath DIAGNOSTIC CENTRE",
+            "HSM66322",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Chak Bazar",
+            "85/A-B Hoseni Dalan Road, Chankharpool, Dhaka-1210"
+        ],
+        [
+            38,
+            "MEDIPATH DIAGNOSTIC CENTRE LIMITED",
+            "HSM53652",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "5, K.B. Aman Ali Road, Laldighi East P.S - Kotwali, District - Chittagong - 4000 "
+        ],
+        [
+            39,
+            "Medipath Diagnostic Complex",
+            "HSM99106",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Kazihata Laxmipur, Rajshahi"
+        ],
+        [
+            40,
+            "MEDIPATH DIAGNOSTIC COMPLEX-2",
+            "HSM46036",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "SEPAIPARA, RAJPARA, RAJSHAHI."
+        ],
+        [
+            41,
+            "MEDIPATH GENERAL HOSPITAL",
+            "HSM68471",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "SEPAIPARA, FIRE SERVICE MORE, GPO-6000, RAJPARA, RAJSHAHI"
+        ],
+        [
+            42,
+            "Medipath Hospital & D-Lab Centre",
+            "HSM21174",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "31,Nowab Eysuf Road,Noyabazar, Dhaka"
+        ],
+        [
+            43,
+            "MEDIPATH HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM27518",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Medipath Bhabon, mymensing road, chandona chowrasta Gazipur"
+        ],
+        [
+            44,
+            "MEDIPATH HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM18970",
+            "Diagnostic Center",
+            "Category-A",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Medipath Bhabon, mymensing road, chandona chowrasta Gazipur"
+        ],
+        [
+            45,
+            "Mediplus",
+            "HSM22327",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "1357/15,Khyegat Road, Pabna"
+        ],
+        [
+            46,
+            "Mediplus Diagnostic Center",
+            "HSM14822",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Paglakanai, Shahid Moshiur Rahman Rad, Jhenaidah"
+        ],
+        [
+            47,
+            "MEDIPLUS DIAGNOSTIC CENTRE",
+            "HSM35809",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "PATAWARY PLAZA, MISSION ROAD,CHANDPUR"
+        ],
+        [
+            48,
+            "MediPlus Hospital & Hormone Center",
+            "HSM57199",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College Road, Shabaliya, Tangail "
+        ],
+        [
+            49,
+            "Mediplus Medical Servicec",
+            "HSM94759",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Tahirpur",
+            "Hospital Gate, Tahirpur, Sunamganj"
+        ],
+        [
+            50,
+            "Mediplus Medical Services & General Hospital",
+            "HSM01384",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "57/2 Nobab Sirajuddowlla  Road,Kalir Bazar,Narayanganj"
+        ],
+        [
+            51,
+            "Mediplus Medical Services (Pvt.) Ltd.",
+            "HSM80774",
+            "Diagnostic Center",
+            "Category-B",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "253/1 President Road Narayanganj"
+        ],
+        [
+            52,
+            "Mediplus Medical Services Pvt.Ltd",
+            "HSM54311",
+            "Diagnostic Center",
+            "Category-B",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "1.No Esha Kha Road,Kazipara,Khanpur, Narayanganj"
+        ],
+        [
+            53,
+            "Medipoint Diagnostics",
+            "HSM20315",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Medical College Hospital Road, Sadar, Dinajpur"
+        ],
+        [
+            54,
+            "Mediprime Clinic & Diagnostic Centre",
+            "HSM70420",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nesarabad",
+            "Hospital  Road. Swarupkati, Pirojpur."
+        ],
+        [
+            55,
+            "Mediprime Clinic & Diagnostis Center",
+            "HSM33322",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Nesarabad",
+            "Hospital Road, Nesarabad (Swarupkati) Pirojpur."
+        ],
+        [
+            56,
+            "Mediquest Diagnostics Ltd.",
+            "HSM88360",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "Holding# Ga 37/1, Baridhara View, Jamalpur Twin Tower, Progoti Soroni, Baridhara J- Block, Gulshan, Dhaka-1212. "
+        ],
+        [
+            57,
+            "MEDISAFE DIAGNOSTIC & CONSULTATION CENTRE ",
+            "HSM27669",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gendaria",
+            "15, Distilari Road, Gendaria, (Dhupkhola Math West Side), Dhaka-1204"
+        ],
+        [
+            58,
+            "MEDISAVE DIAGNOSTIC & RESEARCH CENTER",
+            "HSM73322",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patenga",
+            "Masuda Plaza, Opposite of Steelmill Bazar, Uttar Patenga, Patenga, Chattogram."
+        ],
+        [
+            59,
+            "MEDISCAN DIAGNOSTIC CENTER",
+            "HSM57102",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Shohid Shohidullah Kaichar Sorok;Feni"
+        ],
+        [
+            60,
+            "MEDISCAN DIAGNOSTIC CENTER",
+            "HSM82523",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "AL AMIN MARKET, BARAIYERHAT POURASHAVA,MIRSHARAI,CHITTAGONG"
+        ],
+        [
+            61,
+            "MEDISCAN DIAGNOSTIC CENTER",
+            "HSM33343",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Shalikha",
+            "Bunagati Bazar , Shalikha, Magura.Bangladesh."
+        ],
+        [
+            62,
+            "MediScan Digital Lab",
+            "HSM69332",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Chirirbandar",
+            "Ranirbandar, Chirirbandar, Dinajpur "
+        ],
+        [
+            63,
+            "Mediscan DNA Lab",
+            "HSM32786",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Shaheed Syed Nazrul Islam Medical College Road, Josodal, Kishoreganj."
+        ],
+        [
+            64,
+            "MEDISCAN HOSPITAL & DIAGNOSTIC CENTRE.",
+            "HSM92524",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Mozaffor Tower (3rd Floor), Siddirganj Pool, Narayanganj"
+        ],
+        [
+            65,
+            "MEDISCAN HOSPITAL & DIAGNOSTIC CENTRE.",
+            "HSM69232",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Mozaffor Tower (3rd Floor), Siddirganj Pool, Narayanganj"
+        ],
+        [
+            66,
+            "MEDISCAN HOS[ITAL",
+            "HSM79546",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "Shohid shohidullah kaisar sorok;feni"
+        ],
+        [
+            67,
+            "MEDISCAN IMAGING CENTRE",
+            "HSM49678",
+            "Diagnostic Center",
+            "Category-A",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Rotary Club Bhaban, \r\nKazi Nazrul Islam Sarak, \r\nKishoreganj-2300"
+        ],
+        [
+            68,
+            "Mediscan Specialized Imaging Centre",
+            "HSM66971",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Emirates Tower, Station Road"
+        ],
+        [
+            69,
+            "Medisense Diagnostic & Consultation",
+            "HSM57274",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandgaon",
+            "Riyad Center,4508/A,Arakan Road(Opposite to RAB-7),Chandgaon,Bahaddarhat,Chattogram."
+        ],
+        [
+            70,
+            "Medison Diagnostic Center",
+            "HSM20493",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "3, Principal Abul Kashem Sarak (3, Darus Salam Road) Mirpur-1, Dhaka-1216."
+        ],
+        [
+            71,
+            "Medison Diagnostic Center",
+            "HSM11885",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "291 Charpara, Sadar"
+        ],
+        [
+            72,
+            "Medison Medical Services Limited.",
+            "HSM16552",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka-1209 "
+        ],
+        [
+            73,
+            "MEDISTAR DIAGNOSTIC CARE",
+            "HSM95742",
+            "Diagnostic Center",
+            "Category-A",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Sadar Hospital Road, Manikpur"
+        ],
+        [
+            74,
+            "MEDISTAR GENERAL HOSPITAL  ",
+            "HSM36044",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "17, NAWAB SALIMULLAH ROAD, NARAYANGANJ"
+        ],
+        [
+            75,
+            "Medistar Hospital & Renaissance Lab",
+            "HSM05379",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "17,Nobab Solimullah Road,Don Chamber,Narayangonj."
+        ],
+        [
+            76,
+            "Medistar Hospital & Renaissance Lab",
+            "HSM26203",
+            "Diagnostic Center",
+            "Category-A",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "17,Nobab Solimullah Road,Don Chamber,Narayangonj."
+        ],
+        [
+            77,
+            "Medisun Diagnostic Center & Medical Services",
+            "HSM95675",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road, Moulvibazar"
+        ],
+        [
+            78,
+            "Medisun Health Care (Diagnostic & Consultation Center",
+            "HSM73168",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Bangshal",
+            "19,19/1, D.C. Roy Road,Mitford, Dhaka-1100"
+        ],
+        [
+            79,
+            "MEDITEC (Medical Information Technologies) ",
+            "HSM71002",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Daudkandi",
+            "Eng. Abdul Latif Market , Gouripur-Homna Road, Gouripur Bazar, Cumilla."
+        ],
+        [
+            80,
+            "Meditech Clinic Diagonestic & Consaltation Centre",
+            "HSM02276",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sonatola",
+            "Near Sonatola Girls High School, Sonatola, Bogra"
+        ],
+        [
+            81,
+            "Meditech Clinic Diagonestic & Consultation Centre",
+            "HSM03110",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sonatola",
+            "Nera Sonatola Pilot Girls School"
+        ],
+        [
+            82,
+            "Meditest Diagnostic & Consultancy Center",
+            "HSM33503",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "C O Colony Joypurhat"
+        ],
+        [
+            83,
+            "Meditest Diagnostic Services",
+            "HSM79815",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Uttar Khan",
+            "House: 811, Yousuf Manson, Shah Kabir Majar, Uttarkhan, Dhaka-1230. "
+        ],
+        [
+            84,
+            "MediTest Medical Services ",
+            "HSM45950",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Bhatara",
+            "Bir muktijuddha Mannan Tower(1st Floor & 2nd Floor )KA-96/3 progati Sarani,kuril,Vatara,Dhaka-1229"
+        ],
+        [
+            85,
+            "Medivision Diagnostic & Consultation Center",
+            "HSM11424",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Dakshin Surma",
+            "Jamuna Supper Market (2nd floor) terminal Road ,Sylhet "
+        ],
+        [
+            86,
+            "Medizone Diagnostic & Consultation Center",
+            "HSM08007",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jessore Sadar",
+            "Jirzt, Rupdia, Sadar , Jashore"
+        ],
+        [
+            87,
+            "Medizone Diagnostic Center",
+            "HSM53489",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sulla",
+            "Hospital Road, Ghungiargaon, Sulla, SUnamganj"
+        ],
+        [
+            88,
+            "Meek Digital Diagnostic Center",
+            "HSM81117",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "34/2, Stedium Road, Chandpur Sadar, Chandpur."
+        ],
+        [
+            89,
+            "MEEM HOSPITAL (PVT) LTD",
+            "HSM11734",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "RAILGATE, SASONGACHA, COMILLA"
+        ],
+        [
+            90,
+            "MEEM HOSPITAL (PVT) LTD",
+            "HSM17120",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "RAILGATE, SASONGACHA, COMILLA"
+        ],
+        [
+            91,
+            "Meem Medical Center",
+            "HSM71301",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "Plot-2185/A, Block- I Extension, Madani Avenue, Bashundhara, Dhaka-1229"
+        ],
+        [
+            92,
+            "Megha Diagnostic Lab",
+            "HSM00868",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "40, Birshreshtha Captain Mohiuddin Jahangir Sarok, Sadar Road, Barishal."
+        ],
+        [
+            93,
+            "MEGHLA CLINIC",
+            "HSM94251",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Sujanagar",
+            "Ahmed Super Market 1st Floor, Sujanagar, Pabna"
+        ],
+        [
+            94,
+            "MEGHLA DIAGNOSTIC CENTER",
+            "HSM23253",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Sujanagar",
+            "Ahmed Super Market 1st Floor, Sujanagar, Pabna"
+        ],
+        [
+            95,
+            "MEGHNA CLINIC",
+            "HSM62633",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA, PABNA SADAR, PABNA"
+        ],
+        [
+            96,
+            "MEGHNA CLINIC & NURSING HOME",
+            "HSM53880",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "DOKHIN BALUBARI, DINAJPUR "
+        ],
+        [
+            97,
+            "MEGHNA DIAGNOSTIC & GENERAL HOSPITAL ",
+            "HSM59812",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Gazaria",
+            "Jamaldi Hosssaindi Gazaria,Munshigang-1511"
+        ],
+        [
+            98,
+            "Meghna Diagnostic Center",
+            "HSM35306",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Rahima Super Market, Panchasar, Munshiganj"
+        ],
+        [
+            99,
+            "MEGHNA DIAGNOSTIC CENTER",
+            "HSM38505",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "1400, Station Road, Kishoreganj Sadar, \r\nKishoreganj-2300"
+        ],
+        [
+            100,
+            "Meghna Diagnostic Center ",
+            "HSM30731",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Shahid Super Market, Infront of Court Building, Main Road, Oskhali, Hatiya, Noakhali"
+        ]
+    ]
+}

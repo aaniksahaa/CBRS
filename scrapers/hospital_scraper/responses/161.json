@@ -1,0 +1,167 @@
+{
+    "draw": 161,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Zianagar Health Center, Grameen Kalyan",
+            "HSM65270",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhupchanchia",
+            "Zianagar, Dhupchanchia, Bogura."
+        ],
+        [
+            2,
+            "Zidan  Medical Hall & Diagnostic Center ",
+            "HSM05794",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Char Shiba, Galachipa, Patuakhali "
+        ],
+        [
+            3,
+            "ZILANI DIGITAL DIAGNOSTIC CENTRE",
+            "HSM42704",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "GOURIPUR BAZAR, DAUDKANDI, COMILLA"
+        ],
+        [
+            4,
+            "ZINDANI DIAGNOSTIC&CONSALTATION  CENTER",
+            "HSM23718",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "nougon bazar, muthura para , tarash, sirijgonj"
+        ],
+        [
+            5,
+            "Zinjira Diagnostic & medical center",
+            "HSM81006",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Losmanganj mosjid market, zinjira bus Road, Keranigonj,Dhaka 1310"
+        ],
+        [
+            6,
+            "ZINNAHNAGAR CLINIC & DIAGNOSTIC CENTER  ",
+            "HSM62940",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Maheshpur",
+            "ZINNAHNAGAR, MOHESHPUR, JHENAIDAH"
+        ],
+        [
+            7,
+            "ZIRABO CITY HOSPITAL",
+            "HSM67897",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Zirabo Bus Stand, Ashulia, Savar, Dhaka"
+        ],
+        [
+            8,
+            "Zobed Ali Memorial Hospital Ltd.",
+            "HSM62634",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Araihazar",
+            "Araihazar Chowrasta, Araihazar, Narayangonj"
+        ],
+        [
+            9,
+            "Zobed Ali Memorial Hospital Ltd.",
+            "HSM79459",
+            "Diagnostic Center",
+            "Category-B",
+            "Narayanganj",
+            "Araihazar",
+            "Araihazar Chowrasta, Araihazar, Narayangonj"
+        ],
+        [
+            10,
+            "Zohora Medical Center ",
+            "HSM28902",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Sharsha",
+            "Baganchara, Sharsha, Jashora."
+        ],
+        [
+            11,
+            "Zohora Medical Center ",
+            "HSM65763",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Sharsha",
+            "Baganchara, Sharsha, Jashore."
+        ],
+        [
+            12,
+            "Zohra Memorial Hospital & Diagnostic Centre",
+            "HSM33892",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "Outer Bypass Road, Sonadanga, Khulna "
+        ],
+        [
+            13,
+            "Zoynul Abedin Ma O Shisu Hospital",
+            "HSM11383",
+            "Diagnostic Center",
+            "Category-B",
+            "Sirajganj",
+            "Tarash",
+            "Vill- Naogaon Bazar,P/O- Sharifabad, Upazila- Tarash, Dist-Sirajgonj."
+        ],
+        [
+            14,
+            "ZP DIAGNOSTIC & DOCTOR`S CHAMBER",
+            "HSM92250",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SOROJGONJ BAZAR,  SADAR, CHUADANGA"
+        ],
+        [
+            15,
+            "ZUBEDA DIAGNOSIC CENTRE",
+            "HSM32037",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gaffargaon",
+            "Gospital road, Gaffargoan, Mymensingh"
+        ],
+        [
+            16,
+            "ZUMA DIGITAL DENTAL CARE",
+            "HSM49552",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Sunamganj",
+            "Jagannathpur",
+            "Syedpur Bazar, Jaganathpur, Sunamganj"
+        ]
+    ]
+}

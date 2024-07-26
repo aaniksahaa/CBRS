@@ -1,0 +1,1007 @@
+{
+    "draw": 8,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "AFC Health - Fortis Heart Institute (Khulna Unit) {In association with Escorts Heart and Research Centre Limited} ",
+            "HSM22249",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Sonadanga",
+            "A-17, Majid Saroni, Sonadanga,Khulna-9100"
+        ],
+        [
+            2,
+            "Afia Clinic & Digital Diagnostic Center",
+            "HSM89471",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Dumuria",
+            "\u09b0\u0998\u09c1\u09a8\u09be\u09a5\u09aa\u09c1\u09b0 \u09ac\u09be\u099c\u09be\u09b0, \u09a1\u09c1\u09ae\u09c1\u09b0\u09bf\u09df\u09be, \u0996\u09c1\u09b2\u09a8\u09be\u0964"
+        ],
+        [
+            3,
+            "Afia clinic & Digital Diagnostic Center",
+            "HSM44734",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dumuria",
+            "Raghunathpur Bazar,Dumuria,Khulna"
+        ],
+        [
+            4,
+            "Afia Diagnostic Centre..",
+            "HSM26007",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Deowan Plaza (Near Al-Arafah Bank), Balashur Chowrasta, Sreenagar, Munshiganj"
+        ],
+        [
+            5,
+            "Afia Eye Center Ltd. ",
+            "HSM74598",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Tangail Sadar",
+            "C&B Road, Bottola, Akur Takur Para, Tangail Sadar, Tangail"
+        ],
+        [
+            6,
+            "Afia Hospital & Diagnostic Center",
+            "HSM66820",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Charfession",
+            "Hospital Road, Charfession, Bhola"
+        ],
+        [
+            7,
+            "Afia Hospital And Diagnostic Center",
+            "HSM56018",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bhola",
+            "Charfession",
+            "Hospital Road, Charfession, Bhola"
+        ],
+        [
+            8,
+            "AFIA JALAL FOUNDATION CLINIC",
+            "HSM05799",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "POST OFFICE ROAD, LALPUR, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            9,
+            "AFNAN HOSPITAL & DIAGNOSTIC CENTRE LTD.",
+            "HSM74497",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "RAJFULBARIA BUS STAND, SAVAR, DHAKA"
+        ],
+        [
+            10,
+            "AFNAN HOSPITAL & DIAGNOSTIC CENTRE LTD.",
+            "HSM16720",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "RAJFULBARIA BUS STAND, SAVAR, DHAKA"
+        ],
+        [
+            11,
+            "Afra Digital Diagnostic Center ",
+            "HSM68036",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            " Hospital Road, Bir Dhanata, Sarishabari, Jamalpur. "
+        ],
+        [
+            12,
+            "AFRA MEDICAL SERVICE AND DIAGNOSTIC CENTER",
+            "HSM83151",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Faridpur",
+            "Banwarinagar Bazar, Faridpur, Pabna"
+        ],
+        [
+            13,
+            "AFRAD DIAGNOSTIC CENTER",
+            "HSM13171",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Shibpur",
+            "College Road, Dhanua, Shibpur, Narsingdi"
+        ],
+        [
+            14,
+            "Afroza Begum General Hospital",
+            "HSM66139",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Holding no-0009-01, Moslem Uddin Khan Habu Miah Road( Beutha Road), Manikganj-1800"
+        ],
+        [
+            15,
+            "Afroza Begum General Hospital",
+            "HSM53019",
+            "Diagnostic Center",
+            "Category-B",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Holding No# 0009-01, Moslem Uddin Khan Habu Mia Road (Beutha Road ), Manikgonj -1800"
+        ],
+        [
+            16,
+            "Afroza Diagnostic and Diabetic Center",
+            "HSM08261",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Lohajang",
+            "Ghordour Bazar, Lohajang, Munshiganj"
+        ],
+        [
+            17,
+            "Afroza Digi Lab",
+            "HSM43784",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Kalmakanda",
+            "Nazirpur Bazar, Kalmakanda, Netrakona"
+        ],
+        [
+            18,
+            "AFTAB DIGITAL DIAGNOSTIC CENTRE",
+            "HSM05561",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Mujib Sarak, Niltuli, Faridpur."
+        ],
+        [
+            19,
+            "AFTAB DIGITAL DIAGNOSTIC CENTRE.",
+            "HSM52857",
+            "Diagnostic Center",
+            "Category-A",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Mujib Sarak, Opposite Police Line Gate, Faridpur."
+        ],
+        [
+            20,
+            "Aftab Munshi Medical Center",
+            "HSM69987",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "Islam super market 1st Floor, Mohonpur bottola, Manirampur, Jashore."
+        ],
+        [
+            21,
+            "AFTARUN SHOBHAN MATERNITY HOSPITAL",
+            "HSM83130",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Gowainghat",
+            "Village: Boulgram, P.O: Towakul Bazar-3100, Upazilla: Gowainghat, Sylhet"
+        ],
+        [
+            22,
+            "AFZALIA ESTATE KIDNEY CENTER",
+            "HSM82528",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Shyamoli Lane, Dhap, Rangpur, Bangladesh."
+        ],
+        [
+            23,
+            "Afzalia Estate SBF Kidney Dialysis Center",
+            "HSM88483",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Sabujbag , Patuakhali"
+        ],
+        [
+            24,
+            "AFZALIA ESTATE-SBF KIDNEY DIALYSIS CENTER",
+            "HSM76326",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jessore Sadar",
+            "FAHIM PLAZA,BOKCHAR,KHULNA ROAD,JESSORE"
+        ],
+        [
+            25,
+            "AG BHUIYAN MEDICAL CENTER",
+            "HSM45751",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Nangalkot",
+            "Ag Miar Bazar, Nangalkot, Cumilla"
+        ],
+        [
+            26,
+            "AG GENERAL HOSPITAL",
+            "HSM57389",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Bedgram,Gopalganj Sadar,Gopalganj"
+        ],
+        [
+            27,
+            "AGAILJHARA DUSTHO MANOBATAR HOSPATAL",
+            "HSM14901",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Agailjhara",
+            "Village & Post: Fullasree, Upazila: Agailjhara, Dist: Barisal"
+        ],
+        [
+            28,
+            "AGHA YUSUF ADHUNIK HOSPITAL",
+            "HSM84653",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Trimohoni, Barkhada, Kustia"
+        ],
+        [
+            29,
+            "AGHA YUSUF ADHUNIK HOSPITAL &  DIAGNOSTIC CENTER",
+            "HSM55815",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Trimohoni,Barkhada,Kushtia"
+        ],
+        [
+            30,
+            "Agrani Diagnostic & Physiotherapy  Centre ",
+            "HSM80602",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "U-64, Nurjahan Road, Mohammadpur, Dhaka-1207."
+        ],
+        [
+            31,
+            "Agrani Medical Services Pvt. Ltd.",
+            "HSM31197",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barishal Sadar",
+            "44, Birshrestho Cap. Mohiuddin Jahangir Sarak, Barishal."
+        ],
+        [
+            32,
+            "AGRANI SECIALISED PHYSIOTHERAPHY CENTER",
+            "HSM23323",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "128/2 Rayer Bazar, East Mohammadpur, Dhaka"
+        ],
+        [
+            33,
+            "Ahad Diagnostatic Center",
+            "HSM17011",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "\u09b2\u09be\u09b9\u09c0\u09b0\u09c0 \u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0 \u09ac\u09be\u099c\u09be\u09b0,\u0989\u09b2\u09cd\u09b2\u09be\u09b9\u09aa\u09be\u09b0\u09be,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            34,
+            "Ahad Diagnostic Center",
+            "HSM23066",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Bagherpara",
+            "Chatian Tala Bazar, Bagharpara, JAshore"
+        ],
+        [
+            35,
+            "Ahamed Pvt. Hospital ",
+            "HSM06652",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital Road,Nabinagar"
+        ],
+        [
+            36,
+            "Ahamed Pvt. Hospital",
+            "HSM10386",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital road,Nabinagar"
+        ],
+        [
+            37,
+            "Ahammadiya Physiotherapy & Digital Center",
+            "HSM23536",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Char Koylash, Ward No. 05, Hatiya, Noakhali"
+        ],
+        [
+            38,
+            "AHIA NURSING HOME",
+            "HSM28112",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Sarkarpara,Thakurgaon"
+        ],
+        [
+            39,
+            "AHMAD EYE HOSPITAL",
+            "HSM46780",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Noakhali"
+        ],
+        [
+            40,
+            "Ahmed Dental Care",
+            "HSM43760",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Shamser Nagar Road, Moulvibazar Sadar, Moulvibazar."
+        ],
+        [
+            41,
+            "Ahmed Diagnostic Laboratory",
+            "HSM66701",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "105, sadar Road Barisal"
+        ],
+        [
+            42,
+            "Ahmed Health Care and Diagnostic Center",
+            "HSM30632",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Purbadhala",
+            "Shyamgonj, Purbadhala, Netrokona"
+        ],
+        [
+            43,
+            "Ahmed Medical Centre (Pvt) Ltd.",
+            "HSM29915",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "House-71/1, Road-15/A (New) Satmasjid Road, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            44,
+            "Ahmed Medical Centre(PVT)Ltd",
+            "HSM85868",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House-71/1, Road-15/A (New) Satmasjid Road, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            45,
+            "AHMED MEDICARE DIAGNOSTIC CENTER",
+            "HSM78547",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "43 west kandapara, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            46,
+            "Ahmed Specialized Hospital",
+            "HSM51044",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Bangshal",
+            "63, Majed Sardar road, Nimtoli, Dhaka-1000"
+        ],
+        [
+            47,
+            "Ahmed Specialized Hospital",
+            "HSM19400",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Bangshal",
+            "63, Majed Sardar Road, Nimtoli, Dhaka-1000"
+        ],
+        [
+            48,
+            "AHMMED DIAGNOSTIC @ CLINIC",
+            "HSM68523",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Fakirhat Hospital Main Road,Attaki,Fakirhat,Bagerhat"
+        ],
+        [
+            49,
+            "AHMMED DIAGNOSTIC@CLINIC",
+            "HSM13370",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Fakirhat",
+            "Fakirhat Hospital Main Road, Attaki,Fakirhat,Bagerhat"
+        ],
+        [
+            50,
+            "AHMODIA DIAGNO COMPLEX",
+            "HSM57111",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "170 charpara mymensingh\r\n"
+        ],
+        [
+            51,
+            "AHSAN DIAGNOSTIC COMPLEX",
+            "HSM34466",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Haluaghat",
+            "haluagat, mymensingh"
+        ],
+        [
+            52,
+            "AHSANIA CLINIC",
+            "HSM52875",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Debhata",
+            "Debhata, Satkhira"
+        ],
+        [
+            53,
+            "Ahsania Hospital And Troma Center",
+            "HSM49096",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Chatkhil",
+            "Aziz Super Market, Chatkhil, Noakhali"
+        ],
+        [
+            54,
+            "Ahsania Hospital And Troma Center",
+            "HSM70015",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Chatkhil",
+            "Aziz Super Market, Chatkhil, Noakhali"
+        ],
+        [
+            55,
+            "AHSANIA MEDICAL CENTER",
+            "HSM81527",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "Ashmankhali Bazar, Alamdanga, Chuadanga"
+        ],
+        [
+            56,
+            "AHSANIA MISSION CANCER & GENERAL HOSPITAL",
+            "HSM46889",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot # 3, Embankment Drive Way, Sector # 10,\r\nUttara Model Town, Uttara, Dhaka-1230, Bangladesh."
+        ],
+        [
+            57,
+            "AHSANIA MISSION CANCER & GENERAL HOSPITAL",
+            "HSM63099",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Polt#03, Embankment Drive Way, Sector#10, Uttara Model Town, Uttara, Dhaka-1230, Bangladesh."
+        ],
+        [
+            58,
+            "AHSANIA MISSION CANCER & GENERAL HOSPITAL",
+            "HSM80064",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Polt#03, Embankment Drive Way, Sector#10, Uttara Model Town, Uttara, Dhaka-1230, Bangladesh."
+        ],
+        [
+            59,
+            "Ahsania Mission Cancer and General Hospital",
+            "HSM22369",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kafrul",
+            "Plot No. : M-1/C, Section-14, Mirpur, Dhaka-1206"
+        ],
+        [
+            60,
+            "Ahsania Mission Cancer and General Hospital",
+            "HSM87440",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kafrul",
+            "Plot No.: M-1/C, Section-14, Mirpur, Dhaka-1206"
+        ],
+        [
+            61,
+            "Ahsania Mission Cancer and General Hospital",
+            "HSM55578",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Kafrul",
+            "Plot No. : M-1/C, Section-14, Mirpur, Dhaka-1206"
+        ],
+        [
+            62,
+            "Ahsania Mission Eye & General Hospital and Diagnostic Center",
+            "HSM83544",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Kaliganj",
+            "Nalta Sharif, Kaligonj, Satkhira"
+        ],
+        [
+            63,
+            "Ahsania Mission Eye & General Hospital and Diagnostic Center",
+            "HSM48796",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Kaliganj",
+            "Nalta Sharif, Kaligonj, Satkhira"
+        ],
+        [
+            64,
+            "Ahsanullah Clinic",
+            "HSM73333",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Kaliganj",
+            "Nalta Sharif, Kaliganj, Satkhira"
+        ],
+        [
+            65,
+            "Aichi Hospital Ltd.",
+            "HSM26649",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Purba",
+            "Plot No: 35 & 37, Sector 8, Uttara, Dhaka"
+        ],
+        [
+            66,
+            "Aichi Hospital Ltd.",
+            "HSM56028",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Purba",
+            "Plot No: 35 & 37, Sector 8, Uttara, Dhaka"
+        ],
+        [
+            67,
+            "Aichi Hospital Ltd.",
+            "HSM51664",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Uttara  Purba",
+            "Plot No: 35 & 37, Sector 8, Uttara, Dhaka"
+        ],
+        [
+            68,
+            "Aichi Medical Center",
+            "HSM61766",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Pilot School Super Market,College Gate,Tongi,Gazipur"
+        ],
+        [
+            69,
+            "Aichi Medical College & Hospital Ltd.",
+            "HSM20201",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Demra",
+            "Mendipur, Amulia,Demra,Dhaka-1360"
+        ],
+        [
+            70,
+            "Aichi Medical College & Hospital Ltd.",
+            "HSM48852",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "Mendipur,Amulia,Demra,Dhaka-1360"
+        ],
+        [
+            71,
+            "Aichi Medical College & Hospital Ltd.",
+            "HSM48112",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Demra",
+            "Mendipur, Amulia, Demra, Dhaka-1360"
+        ],
+        [
+            72,
+            "AIMS HOSPITAL LTD",
+            "HSM40889",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Badda",
+            "House 4 Road 11 DIT Project Merulbadda  Dhaka1212"
+        ],
+        [
+            73,
+            "AIMS HOSPITAL LTD",
+            "HSM96443",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Badda",
+            "House 4 Road 11 DIT Project Merulbadda  Dhaka1212"
+        ],
+        [
+            74,
+            "AITAM Hospital",
+            "HSM51416",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Adabor",
+            "H # 45, R # 2, Janata Housing Cooperative Society Ltd., Ring Road Adabor, Dhaka -1207."
+        ],
+        [
+            75,
+            "AJKER SARADESH DIAGNOSTIC ",
+            "HSM64182",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Rupsa",
+            "Kazdia (In-front Upozia Poroshod) Rupsha, Khulna "
+        ],
+        [
+            76,
+            "AJKER SARADESH HOSPITAL & DIAGNOSTIC ",
+            "HSM35447",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Rupsa",
+            "Kazdia, (In-front Upzila Porishod) Rupsha, Khulna "
+        ],
+        [
+            77,
+            "Ajmirigonj Diagnostic Center",
+            "HSM28470",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Ajmiriganj",
+            "Thana Road, Ajmirigonj Bazar, Ajmirigonj, Habigonj."
+        ],
+        [
+            78,
+            "AK HOSPITAL",
+            "HSM53666",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Nazir Super Market , Fire Service Road , Habiganj"
+        ],
+        [
+            79,
+            "AK HOSPITAL",
+            "HSM54080",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Nazir Super Market , Fire Service Road , Habiganj"
+        ],
+        [
+            80,
+            "AKANDA GENERAL HOSPITAL",
+            "HSM43039",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "RACE COURSE, COMILLA"
+        ],
+        [
+            81,
+            "AKANDA GENERAL HOSPITAL",
+            "HSM37473",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "RACE COURSE, COMILLA"
+        ],
+        [
+            82,
+            "Akanda Hormon Lab",
+            "HSM71123",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur."
+        ],
+        [
+            83,
+            "AKANDO DIAGNOSTIC CENTER",
+            "HSM44430",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Nandail",
+            "Hospital Gate, Nandail Bazar, Nandail, Mymensingh"
+        ],
+        [
+            84,
+            "AKASH CLINIC & DIAGNOSTIC CENTER",
+            "HSM29049",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "SHAPTANA BAZZAR, LALMONIRHAT, BANGLADESH"
+        ],
+        [
+            85,
+            "AKASH CLINIC & DIAGNOSTIC CENTER",
+            "HSM60496",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "SADAR HOSPITAL ROAD, SHAPTANA BAZZAR, LALMONIRHAT, BANGLADESH"
+        ],
+        [
+            86,
+            "AKATA DIAGNOSTIC CENTRE",
+            "HSM07324",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Hospital Road, Kushtia."
+        ],
+        [
+            87,
+            "AKATA GENERAL HOSPITAL",
+            "HSM64186",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "245/5A, Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            88,
+            "AKATA GENERAL HOSPITAL",
+            "HSM63200",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "245/5A, Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            89,
+            "AKATA PRIVET HOSPITAL",
+            "HSM34575",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kushtia Sadar",
+            "East Mojompur, Kushtia"
+        ],
+        [
+            90,
+            "Akbar Samsun Maa O Shishu Hospital (Pvt)",
+            "HSM32208",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Laksam",
+            "Baypas Road, Laksham, Comilla"
+        ],
+        [
+            91,
+            "Akbar Samsun Maa O Shishu Hospital (Pvt)",
+            "HSM71199",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Laksam",
+            "Baypas Road, Laksham, Comilla."
+        ],
+        [
+            92,
+            "AKBER CLINIC",
+            "HSM04075",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "84/2 M M HOSSAIN ROAD, KALISHANKORPUR, KUSHTIA."
+        ],
+        [
+            93,
+            "AKHALIA HEALTH CENTER LIMITED",
+            "HSM08619",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "hospital road, fulbaria, mymensingh"
+        ],
+        [
+            94,
+            "Akhaura Lab Aid Diagnostic & Consultation Center",
+            "HSM88099",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Radanagar,Akhaura,Brahmanbaria"
+        ],
+        [
+            95,
+            "AKHI  TARA GENERAL HOSPITAL",
+            "HSM55371",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            96,
+            "AKHI CLINIC & DIAGNOSTIC CENTER",
+            "HSM88627",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Gaurnadi",
+            "South Bijoypur, Gournadi, Barishal"
+        ],
+        [
+            97,
+            "AKHI TARA DIAGNOSTIC CENTRE",
+            "HSM03286",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            98,
+            "AKHI ULTRASONIC & DIAGNOSTIC CENTER",
+            "HSM59046",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Gaurnadi",
+            "South Bijoypur, Asokathi, Gournadi, Barisal"
+        ],
+        [
+            99,
+            "AKHTARUNNAHER MEMORIAL HOSPITAL",
+            "HSM42764",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Ulipur",
+            "Vill: Zodder Para, Post: Ulipur, UP: Ulipur, Dist: Kurigram"
+        ],
+        [
+            100,
+            "AKHTARUNNAHER MEMORIAL HOSPITAL",
+            "HSM96790",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Ulipur",
+            "Vill: Zodder Para, Post: Ulipur, UP: Ulipur, Dist: Kurigram"
+        ]
+    ]
+}

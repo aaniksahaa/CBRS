@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": 217217343,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 297767191,
+    "lat": "23.802584799999998",
+    "lon": "90.36028330261159",
+    "class": "building",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.101167315170547e-05,
+    "addresstype": "building",
+    "name": "Bangladesh Kidney Foundation Hospital and Research Institute",
+    "display_name": "Bangladesh Kidney Foundation Hospital and Research Institute, Mirpur College Road, \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e8, \u09ac\u09dc\u09ac\u09be\u0997, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0, \u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1216, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "address": {
+      "building": "Bangladesh Kidney Foundation Hospital and Research Institute",
+      "road": "Mirpur College Road",
+      "quarter": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e8",
+      "suburb": "\u09ac\u09dc\u09ac\u09be\u0997",
+      "city": "\u09a2\u09be\u0995\u09be",
+      "municipality": "\u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0",
+      "state_district": "\u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be",
+      "ISO3166-2-lvl5": "BD-13",
+      "state": "\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997",
+      "ISO3166-2-lvl4": "BD-C",
+      "postcode": "1216",
+      "country": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+      "country_code": "bd"
+    },
+    "boundingbox": [
+      "23.8023530",
+      "23.8028315",
+      "90.3600298",
+      "90.3606276"
+    ]
+  }
+]

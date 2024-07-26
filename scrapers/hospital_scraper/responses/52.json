@@ -1,0 +1,1007 @@
+{
+    "draw": 52,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "FREEDOM GENERAL HOSPITAL",
+            "HSM89526",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Airport Road, Ambarkhana, Sylhet"
+        ],
+        [
+            2,
+            "Freinds Diagnostic Center ",
+            "HSM21105",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dighalia",
+            "Senhati Dighalia "
+        ],
+        [
+            3,
+            "Fresh Health Clinic, Khulna",
+            "HSM46750",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Dighalia",
+            "Kuet Road, Fulbari Gate, Dighalia, Khulna."
+        ],
+        [
+            4,
+            "Fresh Health Diagnostic Center, Khulna",
+            "HSM27265",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dighalia",
+            "KUET Road, Fulbari Gate, Dighalia, Khulna."
+        ],
+        [
+            5,
+            "FRIEND",
+            "HSM42434",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "PHULPUR,MYMENSINGH"
+        ],
+        [
+            6,
+            "Friends   Welfare Clinic",
+            "HSM21169",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Dumuria",
+            "Raghunathpur Bazar,Dumuria,Khulna"
+        ],
+        [
+            7,
+            "Friends Apollo Diagnostic Center",
+            "HSM51292",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Bangabandhu Road, Sadar Thakurgaon."
+        ],
+        [
+            8,
+            "Friends Apollo Hospital",
+            "HSM19058",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Bangandhu Road, Sadar Thakurgaon. "
+        ],
+        [
+            9,
+            "FRIENDS CARE HOSPITAL LIMITED",
+            "HSM87939",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mugda Para",
+            "44/5, Atish Diponkor Road, North Mugda, Dhaka-1214."
+        ],
+        [
+            10,
+            "FRIENDS CARE HOSPITAL LIMITED",
+            "HSM35464",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mugda Para",
+            "44/5, Atish Diponkor Road, North Mugda, Dhaka-1214."
+        ],
+        [
+            11,
+            "Friends Diagnostic",
+            "HSM12061",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "vanga mosjid Sonlogno, Kanaikhali, Natore."
+        ],
+        [
+            12,
+            "FRIENDS DIAGNOSTIC & CONSULTANT CHAMBERS",
+            "HSM26671",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "Majid Sarani, Sonadanga, Khulna, Bangladesh "
+        ],
+        [
+            13,
+            "Friends Diagnostic & Physiotherapy Center",
+            "HSM11512",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Abdullah Bhabhan, Mangalkata Bazar, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            14,
+            "Friends Diagnostic Center",
+            "HSM59065",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Mongalkata Bazar, Sadar, Sunamganj"
+        ],
+        [
+            15,
+            "Friends Eye Hospital",
+            "HSM13955",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "A/6 Surma, Akhalia, Sylhet."
+        ],
+        [
+            16,
+            "Friends Hospital & Diagnostic Centre",
+            "HSM07982",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Domar",
+            "DB Road, Domar, Nilphamari."
+        ],
+        [
+            17,
+            "Friends Hospital & Diagnostic Centre",
+            "HSM97835",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Nilphamari",
+            "Domar",
+            "Domar,Nilphamari."
+        ],
+        [
+            18,
+            "FRIENDS HOSPITAL LIMITED",
+            "HSM73946",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chauddagram",
+            "Khan Plaza (Beside of Sub-Registry Office), Chauddagram Bazar, Comilla"
+        ],
+        [
+            19,
+            "FRIENDS HOSPITAL LIMITED",
+            "HSM44907",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Khan Plaza (Beside of Sub-Registry Office), Chauddagram Baza, Comilla"
+        ],
+        [
+            20,
+            "Friends of Bangladesh USA Saydabad Clinic",
+            "HSM42862",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "61/1/B/A, Brahmmonchioron, Saydabad Dhaka."
+        ],
+        [
+            21,
+            "Friends Pathology",
+            "HSM46913",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Alinagar, Gomastapur, Chapainawabganj"
+        ],
+        [
+            22,
+            "Friends Welfare Clinic & Diagnostic Center",
+            "HSM69156",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dumuria",
+            "Raghunathpur Bazar, Dumuria, Khulna"
+        ],
+        [
+            23,
+            "FRIENDSHIP HEALTH CLINIC CHALNA",
+            "HSM20865",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dacope",
+            "FRIENDSHIP\r\nShaheber Abad, Dacop, Thana: Dacop, Khulna."
+        ],
+        [
+            24,
+            "FRIENDSHIP HEALTH CLINIC KUTUBDIA",
+            "HSM05802",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Kutubdia",
+            "FRIENDSHIP HEALTH CLINIC KUTUBDIA, \r\nUnion : Dakshin n Dhurung, Dhurung kESA, KUTUBDIA, COXS BAZAR."
+        ],
+        [
+            25,
+            "FRIENDSHIP HEALTH CLINIC MONGLA",
+            "HSM60410",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mongla",
+            "FRIENDSHIP HEALTH CLINIC MONGLA,\r\nMACHMARA, MONGLA, BAGERHAT-9350."
+        ],
+        [
+            26,
+            "FRIENDSHIP HEALTH CLINIC UKHIYA",
+            "HSM53992",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ukhia",
+            "FEIENDSHIP HOSPITAL\r\nBALUKHALI, WARD NO- 01, \r\nPALONGKHALI, UKHIYA,\r\nCOXS BAZAR"
+        ],
+        [
+            27,
+            "FRIENDSHIP HEALTH CLINIC, HATIYA",
+            "HSM60585",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "NANDA ROAD, HATIYA, NOAKHALI"
+        ],
+        [
+            28,
+            "FRIENDSHIP HEALTH CLINIC, KUAKATA",
+            "HSM42478",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "FRIENDSHIP HEALTH CLINIC,\r\nNOYA MISHRIPARA, MOHIPUR, KALAPARA, PATUAKHALI"
+        ],
+        [
+            29,
+            "FRIENDSHIP HOSPITAL & LAB",
+            "HSM35697",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "NEAR VULAIL CENTRAL JAME MOSJID, FATULLAH NARAYANGANJ, BANGLADESH"
+        ],
+        [
+            30,
+            "FRIENDSHIP HOSPITAL & LAB",
+            "HSM20782",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "NEAR VULAIL CENTRAL JAME MOSJID, FATULLAH NARAYANGANJ, BANGLADESH"
+        ],
+        [
+            31,
+            "FRIENDSHIP HOSPITAL SHYAMNAGAR",
+            "HSM39563",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Shyamnagar",
+            "SOALIA, NOKILPUR, SHYAMNAGAR, SATKHIRA"
+        ],
+        [
+            32,
+            "FRIENDSHIP HOSPITAL SHYAMNAGAR",
+            "HSM03268",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Shyamnagar",
+            "SOALIA, NOKIPUR, SHYAMNAGAR, SATKHIRA"
+        ],
+        [
+            33,
+            "FRIENDSHIP HOSPITAL UKHIYA",
+            "HSM40846",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Ukhia",
+            "FRIENDSHIP HOSPITAL UKHIYA\r\nBALUKHALI, WARD NO-1, PALONGKHALI, UKHIA, COXS BAZAR"
+        ],
+        [
+            34,
+            "FRIENDSHIP MULADI EYE HOSPITAL",
+            "HSM02833",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Muladi",
+            "West Char Pottoni Bhanga, Muladi, Barishal"
+        ],
+        [
+            35,
+            "Friendship Specialized Hospital",
+            "HSM24768",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Old jail Road, Brahmanbaria"
+        ],
+        [
+            36,
+            "Friendship Specialized Hospitals and Digital Diagnostic Center  ",
+            "HSM27403",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "Home tower,Matuail collage road,Demra,Dhaka 1362"
+        ],
+        [
+            37,
+            "Friendship Specialized Hospitals and Digital Diagnostic Center  ",
+            "HSM93372",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Demra",
+            "Home Tower,Collage Road,Matuail,Demra,Dhaka 1363"
+        ],
+        [
+            38,
+            "FUAD DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM83781",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Bus stand, Joydebpur, Gazipur"
+        ],
+        [
+            39,
+            "Fulbaria Health Care Limited",
+            "HSM62332",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "Hazi Sabed Plaza, Main Road, Fulbaria, Mymensingh "
+        ],
+        [
+            40,
+            "FULBARIA HEALTH CARE LTD",
+            "HSM40580",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Fulbaria",
+            "Main Road, Fulbaria, Mymensingh"
+        ],
+        [
+            41,
+            "Fulbarigate Diagnostic & Consultation Center ",
+            "HSM45024",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khan Jahan Ali",
+            "Fulbarigate, Khulna, Bangladesh "
+        ],
+        [
+            42,
+            "FULGAZI DIAGNOSTIC CENTER",
+            "HSM17951",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Fulgazi",
+            "Mamataj Market, Main Road Fulgazi Bazar, Feni"
+        ],
+        [
+            43,
+            "Fulgazi Unique Lab And Diabetic Center",
+            "HSM63160",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Fulgazi",
+            "Shamim Tower (Ground Floor), Fulgazi Bazar, Fulgazi, Feni"
+        ],
+        [
+            44,
+            "FUlJURI CLINIC & PATHOLOGY,",
+            "HSM97648",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Sher-i-Bargnla Road, Barguna"
+        ],
+        [
+            45,
+            "FULTOLA DIGITAL DIAGNOSTIC CENTER",
+            "HSM38626",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "Fultola (Mamun Plaza),  Muksudpur, Dohar, Dhaka."
+        ],
+        [
+            46,
+            "G D L Hospital & Diagnostic Lab ",
+            "HSM77447",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "Medical College More, Shongkorpur, Jashore"
+        ],
+        [
+            47,
+            "G D L Hospital & Diagonstic Lab",
+            "HSM42930",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "Medical college More, Shongkorpur, jashore -7400."
+        ],
+        [
+            48,
+            "G Lab Diagonostic Centre",
+            "HSM94780",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "150, Kalibari Road, Goaplganj, Bangladesh."
+        ],
+        [
+            49,
+            "G UNIQUE DIAGNOSTIC CENTER",
+            "HSM64003",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Nandail",
+            "Hospital Road, Nandail Bazar, Nandail, Mymensingh\r\n"
+        ],
+        [
+            50,
+            "G-8 Grameen General Hospital Diagnostic Lab",
+            "HSM04500",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "G-8 Grameen Hospital, Hospital Road, Maijdee, Sadar, Noakhali "
+        ],
+        [
+            51,
+            "G-8 Grameen General Hospital Pvt Ltd",
+            "HSM38009",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road,Maijdee,Noakhali,Bangladesh."
+        ],
+        [
+            52,
+            "G.M.R. Diagnostic Center",
+            "HSM86256",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Town kalikapur, Patuakhali"
+        ],
+        [
+            53,
+            "GAFARGAGAFARGAON ISLAMIA HOSPITAL & DIAGNOSTIC CERNTERON ISLAMIA HOSPITAL & DIAGNOSTIC CERNTER",
+            "HSM51833",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gaffargaon",
+            "KHAN BAHADUR ISMAIL ROAD, 05 NO. WORD, GAFARGAON, MYMENSINGH."
+        ],
+        [
+            54,
+            "GAFARGAON DIABETIC @ DIAGNOSTIC CENTRE",
+            "HSM03438",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gaffargaon",
+            "GAFFARGAON,MYMENSIGH"
+        ],
+        [
+            55,
+            "GAFARGAON ISLAMIA HOSPITAL & DIAGNOSTIC CERNTER",
+            "HSM94737",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Gaffargaon",
+            "KHAN BAHADUR ISMAIL ROAD, 05 NO. WORD, GAFARGAON, MYMENSINGH."
+        ],
+        [
+            56,
+            "GAFARGOAN ADHUNIK HOSPITAL.",
+            "HSM89501",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Gaffargaon",
+            "mokta \u09cdgarden colleg road, gafargaon,mymensingh\r\n"
+        ],
+        [
+            57,
+            "GAFFARGAON GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM66938",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gaffargaon",
+            "GAFFARGAON, MYMENSINGH"
+        ],
+        [
+            58,
+            "GAFFARGAON GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM20373",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Gaffargaon",
+            "GAFFARGAON, MYMENSINGH"
+        ],
+        [
+            59,
+            "Gaibandha Clinic ",
+            "HSM93775",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "College Road, Gaibandha Sadar, Gaibandha."
+        ],
+        [
+            60,
+            "GAIBANDHA CLINIC PATHOLOGY & DENTAL UNIT",
+            "HSM25078",
+            "Diagnostic Center",
+            "Category-B",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "College Road, Gaibandha Sadar, Gaibandha"
+        ],
+        [
+            61,
+            "GAIBANDHA DIABETIC  SAMITY",
+            "HSM38631",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "P.K Bisha Road Gaibandha "
+        ],
+        [
+            62,
+            "Gaibandha Digital Diagnostic Center",
+            "HSM08004",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Adhunik Sadar  Hospital Road, Gaibandha"
+        ],
+        [
+            63,
+            "Gain Diagnostic  & Physiothcrapy ",
+            "HSM21663",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Jardon Road , Gain Diagnostic and Physiotherapy ,Barishal Sadar, Barishal."
+        ],
+        [
+            64,
+            "GALAXY DIAGNOSTIC CENTER.",
+            "HSM18341",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Rangunia",
+            "VILL- ICHAKHALI, P.O+P.S- RANGUNIA, DIST- CHITTAGONG"
+        ],
+        [
+            65,
+            "GALAXY DIAGNOSTIC CENTRE",
+            "HSM24298",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Trishal",
+            "BALIPARA BAZAR,TRISHAL.MYMENSINGH"
+        ],
+        [
+            66,
+            "Galaxy Healthcare & Consultation Center",
+            "HSM47520",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Manohardi",
+            "Monohordi Bus Stand, Monohardi, Narsingdi"
+        ],
+        [
+            67,
+            "Galaxy Hospital & Digital Diagnostic Lab",
+            "HSM56029",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Monipur Bazar,Bhabanipur, Sadar,Gazipur"
+        ],
+        [
+            68,
+            "Galaxy Hospital & Digital Diagnostic Lab(Phathology)",
+            "HSM51250",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Monipur Bazar,Gazipur Sadar,Gazipur."
+        ],
+        [
+            69,
+            "Galib Digital Diagnostic & Diabetics Center",
+            "HSM86920",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Lalpur",
+            "Bonpara Road, Modhubari, Gopalpur, Lalpur, Natore"
+        ],
+        [
+            70,
+            "GANA UNNAYAN KENDRA-(GUK)- DIAGNOSTIC & PHYSIOTHERAPY CENTER",
+            "HSM74599",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Curkular Road, Masterpara, Gaibandha"
+        ],
+        [
+            71,
+            "GANGACHARA DIAGNOSTIC CENTRE",
+            "HSM45291",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Gangachara",
+            "GANGACHARA, RANGPUR."
+        ],
+        [
+            72,
+            "GANGNI SONO DIAGNOSTIC CENTER",
+            "HSM13312",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Gangni",
+            "Hospital Bazar, Meherpur Road, Sonali Bank & Gangni Upazilla Porishod er Shakha Building er Ground floor, Gangni, Meherpur"
+        ],
+        [
+            73,
+            "GANI HOSPITAL LIMITED & DIAGNOSTIC CENTER",
+            "HSM54559",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Hathazari",
+            "SARKARHAT,GANI SHOPPING COMPLEX, MIRZAPUR,HATHAZARI,CHATTOGRAM."
+        ],
+        [
+            74,
+            "GANI HOSPITAL LIMITED & DIAGNOSTIC CENTER",
+            "HSM24663",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "SARKARHAT,GANI SHOPPING COMPLEX,MIRZAPUR,HATHAZARI,CHATTOGRAM."
+        ],
+        [
+            75,
+            "Ganokpara Health Center Grameen Kalyan",
+            "HSM96732",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nesarabad",
+            "Ganokpara, Nesarabad, Pirojpur"
+        ],
+        [
+            76,
+            "Gaokhali Health center, Grameen Kalyan",
+            "HSM22346",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nazirpur",
+            "Gaokhali, Nazirpur, Pirojpur"
+        ],
+        [
+            77,
+            "GAREYA CLINIC & DIAGNOSTIC CENTER",
+            "HSM96590",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "New Goreya Hat, Sadar, Thakurgaon"
+        ],
+        [
+            78,
+            "GAREYACLINIC & DIAGNOSTIC CENTER",
+            "HSM37487",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Chonga Khata, New Gareya Hat, Thakurgaon"
+        ],
+        [
+            79,
+            "GARIB SHAH CLINIC (NURSING HOME)",
+            "HSM18761",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "Hospital Para Magura sadar.Magura.Bangladesh."
+        ],
+        [
+            80,
+            "Garib Shah Diagnostic Center ",
+            "HSM96736",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "Barobazar, Kaliganj, Jhenaidah"
+        ],
+        [
+            81,
+            "GARIBEA NAWAZ NURSING HOME (CLINIC)",
+            "HSM82381",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Sapahar",
+            "Joypur, Sapahar, Naogaon, Bangladesh"
+        ],
+        [
+            82,
+            "Garjania Seba Diagnostic Center",
+            "HSM14329",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ramu",
+            "Chawal Bazar Road, Garjania Bazar "
+        ],
+        [
+            83,
+            "Gastro Aid Diagnostic and Consultation Centre",
+            "HSM68587",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "\u09ac\u09be\u09b9\u09bf\u09b0\u0997\u09cb\u09b2\u09be \u09b0\u09cb\u09a1, \u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c "
+        ],
+        [
+            84,
+            "GASTROLIVE DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM56902",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "14 NO ISHA KHAN ROAD, NARAYANGANJ"
+        ],
+        [
+            85,
+            "Gausul Azam BNSB Eye Hospital.",
+            "HSM05798",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Newtown, Sadar, Dinajpur, Bangladesh"
+        ],
+        [
+            86,
+            "GAUSUL AZAM DIAGNOSTIC & CLINIC",
+            "HSM57064",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Village: Nogua, Kodomtala, Hossainpur Road, Kishoreganj. "
+        ],
+        [
+            87,
+            "Gausul Azam Diagonostic & Clinic",
+            "HSM37221",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Nagua, Kadamtala, Hossainpur Road, Kishoreganj-2300"
+        ],
+        [
+            88,
+            "GAZARIA GENAREL HOSPITAL &  DIAGNOSTIC CENTER",
+            "HSM11903",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Gazaria",
+            "Vaterchar, Gazaria, Munshiganj"
+        ],
+        [
+            89,
+            "Gazi  Diagnostic Center",
+            "HSM10586",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Homna",
+            "Vill: Homna, P.O: Homna, U.P: Homna, Dist:Comilla."
+        ],
+        [
+            90,
+            "Gazi Cancer Care Center ",
+            "HSM08048",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Banani",
+            "89, Bir Uttam A K Khondokar Road, Mohakhali C/A, Dhaka- 1212"
+        ],
+        [
+            91,
+            "Gazi Cancer Care Center",
+            "HSM40024",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Banani",
+            "89, Bir Uttam AK Khondokar Road, Mohakhali"
+        ],
+        [
+            92,
+            "Gazi Clinic ",
+            "HSM51065",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Paikgachha",
+            "Banka, Paikgacha, Khulna"
+        ],
+        [
+            93,
+            "GAZI CLINIC",
+            "HSM08830",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Narail Sadar",
+            "Maij para Bazar Naril Sadar. Naril . Bangladesh."
+        ],
+        [
+            94,
+            "Gazi Clinic & Digital Diagnostic Centre ",
+            "HSM20313",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Chitalmari",
+            "Chitalmari Bazar,Chitalmari,Bagerhat"
+        ],
+        [
+            95,
+            "Gazi Clinic & Digital Diagnostic Centre",
+            "HSM48595",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Chitalmari",
+            "Chitalmari Bazar,Chitalmari,Bagerhat"
+        ],
+        [
+            96,
+            "Gazi Diagnostic Center",
+            "HSM39923",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "R.S Plaza, Zirani Bazar, Ashulia, Savar, Dhaka."
+        ],
+        [
+            97,
+            "Gazi Diagnostic Center . ",
+            "HSM26449",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Dashmina",
+            "Alipura Bazar, Dashmina , Patuakhali  "
+        ],
+        [
+            98,
+            "Gazi Digital Diagnostic Centre",
+            "HSM62597",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Patharghata",
+            "Nachnapara, Pathoghata, Barguna."
+        ],
+        [
+            99,
+            "Gazi Medical College & Hospital Ltd",
+            "HSM52760",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Khulna",
+            "Sonadanga",
+            "A 19-21 Majid Sarani, Sonadanga, Khulna-9100."
+        ],
+        [
+            100,
+            "Gazi Medical College & Hospital Ltd",
+            "HSM23524",
+            "Diagnostic Center",
+            "Category-A",
+            "Khulna",
+            "Sonadanga",
+            "A 19-21 Majid Sarani, Sonadanga, Khulna-9100."
+        ]
+    ]
+}

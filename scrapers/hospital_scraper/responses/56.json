@@ -1,0 +1,1007 @@
+{
+    "draw": 56,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Grameen Kalyan, Madhnagar Health Centre",
+            "HSM51241",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Naldanga",
+            "Madhnagar,Naldanga,Natore"
+        ],
+        [
+            2,
+            "Grameen Kalyan, Matikata Health Center",
+            "HSM09706",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Godagari",
+            "Pirojpur Bazar, Godagari, Rajshahi"
+        ],
+        [
+            3,
+            "Grameen Kalyan, Nimpara Health Center",
+            "HSM99012",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Charghat",
+            "Nimpara Bazar, Charghat, Rajshahi"
+        ],
+        [
+            4,
+            "Grameen kalyan, Pajorvanga Health Center",
+            "HSM31552",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Pajorvanga, Manda, Naogaon"
+        ],
+        [
+            5,
+            "Grameen Kalyan, Pakri Health Center",
+            "HSM47149",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Godagari",
+            "Kakonhat, Godagari, Rajshahi"
+        ],
+        [
+            6,
+            "Grameen Kalyan, Putiajani Health Center",
+            "HSM51006",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Delduar",
+            "Putiajani Health Center, Putiajani Bazar, Delduar, Tangail "
+        ],
+        [
+            7,
+            "Grameen Kalyan, Rajnagar Health Center",
+            "HSM47126",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Singair",
+            "Rajnagar Health Center, (Maniknagar) Singair, Manikganj."
+        ],
+        [
+            8,
+            "Grameen Kalyan, Rajnagor Health Center",
+            "HSM02069",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "Grameen Kalyan, Rajnagor Health Center, Singair, Manikganj"
+        ],
+        [
+            9,
+            "Grameen Kalyan, Rampur Health Center",
+            "HSM20769",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Rampur Health Center,Rampur Bazar,Kalihati,Tangail "
+        ],
+        [
+            10,
+            "Grameen kalyan, Saroshotipur Health Center",
+            "HSM07551",
+            "Diagnostic Center",
+            "",
+            "Naogaon",
+            "Mahadebpur",
+            "Saroshotipur, Mohadevpur, Naogaon."
+        ],
+        [
+            11,
+            "Grameen Kalyan, Shahrail Health Centre",
+            "HSM35467",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "Shahrail Singair, Manikganj"
+        ],
+        [
+            12,
+            "Grameen Kalyan, Shidlai Health Center",
+            "HSM62604",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Brahmanpara",
+            "Brahmanpara, Cumilla."
+        ],
+        [
+            13,
+            "Grameen Kalyan, Silmaria Health Center ",
+            "HSM86245",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "Mollapara Bazar, Puthia, Rajshahi."
+        ],
+        [
+            14,
+            "Grameen Kalyan, Suapur Health Center",
+            "HSM08999",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "Grameen Kalyan, Suapur Health Center, dhamrai, Dhaka"
+        ],
+        [
+            15,
+            "Grameen Kalyan, Uchakhila Health Center",
+            "HSM83485",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Ishwarganj",
+            "uskskhila, iswarganj,mymensingh"
+        ],
+        [
+            16,
+            "Grameen kalyan, Vanderpur Health Center",
+            "HSM03115",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Badalgachhi",
+            "Vanderpur, Badalgachhi, Naogaon"
+        ],
+        [
+            17,
+            "Grameen Kalyan,Atharobari  Health Center",
+            "HSM90298",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Ishwarganj",
+            "atarobari, ishwarganj,mymensingh"
+        ],
+        [
+            18,
+            "Grameen kalyan,Batazore Health center",
+            "HSM51062",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "Batazore Health center, Batazore, Bazar, Bhaluka, Mymensingh"
+        ],
+        [
+            19,
+            "Grameen Kalyan,Biska Health Center",
+            "HSM57578",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Tarakanda",
+            "kashigang bajar,tarakanda,mymensingh"
+        ],
+        [
+            20,
+            "Grameen Kalyan,Charnilixia Health Center",
+            "HSM54897",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "Charnilixia,sadar, mymensingh"
+        ],
+        [
+            21,
+            "Grameen Kalyan,Jamnagar Health Centre",
+            "HSM76104",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Bagatipara",
+            "Basbaria Bazar,Bagatipara,Natore"
+        ],
+        [
+            22,
+            "Grameen Kalyan,kalibari Health Center",
+            "HSM10447",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagachha",
+            "kalibari,Muktagachha,mymensingh"
+        ],
+        [
+            23,
+            "Grameen Kalyan,kesorgong Health Center",
+            "HSM32112",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "keshobgonj bazar,fulbaria,mymensingh"
+        ],
+        [
+            24,
+            "Grameen Kalyan,Moukhara Health Centre",
+            "HSM66814",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Baraigram",
+            "Moukhara Bazar,Baraigram"
+        ],
+        [
+            25,
+            "Grameen Kalyan,Mukhi school bazar Health Center",
+            "HSM10280",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gaffargaon",
+            "mokhi school bazar gaffargaon,mymensingh"
+        ],
+        [
+            26,
+            "Grameen kalyen biddagonj, bazar, sadar, mymensingh",
+            "HSM61071",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "Biddagonj bazar,sadar,Mymensingh"
+        ],
+        [
+            27,
+            "GRAMEEN KAYLAY ADDA HEALTH CENTER",
+            "HSM56165",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "ADDA BAZAR, BARUAR, COMILLA."
+        ],
+        [
+            28,
+            "GRAMEEN MEDICAL SERVICES",
+            "HSM07720",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Comilla Adarsha Sadar",
+            "SADAR HOSPITAL ROAD, MONOHORPUR, COMILLA"
+        ],
+        [
+            29,
+            "GRAMEEN NURSING HOME, KARPASDANGA",
+            "HSM46498",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Damurhuda",
+            "KARPASDANGA BAZAR, DAMURHUDA, CHUAANGA"
+        ],
+        [
+            30,
+            "GRAMEEN PATHOLOGY",
+            "HSM65631",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "Village : Fullasree, Post: Agailjhara, Upazila: Agailjhara, Dist: Barisal"
+        ],
+        [
+            31,
+            "Grameen Private Hospital & Diagnostic Center",
+            "HSM26024",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Senbagh",
+            "South Bazar, Babupur Road, Senbag, Noakhali"
+        ],
+        [
+            32,
+            "Grameen Private Hospital & Diagnostic Center",
+            "HSM04750",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Senbagh",
+            "South Bazar, Babupur Road, Senbag, Noakhali"
+        ],
+        [
+            33,
+            "Grameen Seba Diagnostic ",
+            "HSM94003",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09c0\u09df\u09be, \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            34,
+            "Grameen Seba Diagnostic Center",
+            "HSM33870",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "Balavadrapur,Badhal Bazar,Morrelgonj,Bagerhat"
+        ],
+        [
+            35,
+            "GRAMEEN SEBA PATHOLOGY & DIAGNOSTIC CENTER",
+            "HSM82704",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Hatibandha",
+            "Doikhowa bazar, Hatibandha, Lalmonirhat. "
+        ],
+        [
+            36,
+            "Grameen Sebe Clinic & Diagnostic Center",
+            "HSM33297",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Morrelganj",
+            "Balavadrapur,Badhal,\r\nBazar, Morelgonj, Bagerhat"
+        ],
+        [
+            37,
+            "GrameenKalyan Khaserhat Health center",
+            "HSM69664",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "khaserhat Bazar , Patuakhali sadar , Patuakhali"
+        ],
+        [
+            38,
+            "GRAMEN DIGITAL DIAGNOSTIC CENTRE",
+            "HSM95971",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Adhunik Hospital Road, Gaibanda"
+        ],
+        [
+            39,
+            "Gramen PVT. Hospital",
+            "HSM90671",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Shibpur",
+            "Shibpur Bus Stand, Near by Pubargone Bridge, Shibpur, Narsingdi"
+        ],
+        [
+            40,
+            "Gramen PVT. Hospital (Path. Lab)",
+            "HSM04961",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Shibpur",
+            "Shibpur Bus Stand, Near by Pubargone Bridge, Shibpur, Narsingdi"
+        ],
+        [
+            41,
+            "Grammeen Sheba Diagnostic Center",
+            "HSM18420",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Bera",
+            "Trimoni Bazar, Aminpur, Bera, Pabna"
+        ],
+        [
+            42,
+            "GRAND HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM89399",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "13/6 bramopolly,charpara,mymensingh"
+        ],
+        [
+            43,
+            "GRAND HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM37780",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "13/6 bramopolly,charpara,mymensingh\r\n"
+        ],
+        [
+            44,
+            "Green   Life Clinic   &   Diagnostic Center ",
+            "HSM96356",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "Kaliganj Sarak, Bakerganj, Barishal."
+        ],
+        [
+            45,
+            "Green   Life Clinic  &  Diagnostic   Center",
+            "HSM46802",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Bakerganj",
+            "Kaliganj Sarak, Bakerganj, Barishal."
+        ],
+        [
+            46,
+            "GREEN  LIFE PATHOLOGY CENTER ",
+            "HSM06528",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Baligaon Bazar,Tongibari, Munshigonj."
+        ],
+        [
+            47,
+            "Green & Green Medical Services Ltd.",
+            "HSM54600",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Adabor",
+            "28-29, Adarsha Chayaneer, Ring Road, Sayamoli, Adabor, Dhaka 1207"
+        ],
+        [
+            48,
+            "Green Apllo DiagnosticCentre",
+            "HSM07624",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Mehendiganj",
+            "Hospitel Rode ,Mehendiganj,Barishal"
+        ],
+        [
+            49,
+            "Green Care Diagnostic Center",
+            "HSM03327",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Charfession",
+            "Mosque Road, Nurabad, Hazirhat, Charfashion, Bhola."
+        ],
+        [
+            50,
+            "Green Care Dianostic Center",
+            "HSM25536",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Daulatpur",
+            "Taragunia Bazar, Daulatpur, Kushtia."
+        ],
+        [
+            51,
+            "GREEN CITY HOSPITAL",
+            "HSM54176",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "VILL- SHERSHA ROAD, LAXMIPUR, PO- GPO-6000, PS- RAJPARA, DIST- RAJSHAHI"
+        ],
+        [
+            52,
+            "Green Crescent Health Services",
+            "HSM92654",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "60, Park Road, Block-K, Baridhara Diplomatic Zone, Dhaka-1212."
+        ],
+        [
+            53,
+            "Green Crescent Health Services, Branch-2",
+            "HSM03554",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Paltan",
+            "69/1, Oriental Trade Center, 3rd Floor, Purana Paltan Line, Paltan, Dhaka-1000"
+        ],
+        [
+            54,
+            "Green Crescent Medical Diagnostic",
+            "HSM33427",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Chittagong",
+            "Khulshi",
+            "House#15/2 ,Road#4, Khulshi Hill, Chittagong"
+        ],
+        [
+            55,
+            "Green Crescent Medilab ",
+            "HSM74779",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Times Square Building, Shibgonj Point, Sonarpara, Sylhet."
+        ],
+        [
+            56,
+            "GREEN DELTA HOSPITAL & LAB",
+            "HSM50034",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "PAGLA BAZAR, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            57,
+            "GREEN DELTA HOSPITAL & LAB",
+            "HSM58869",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "PAGLA BAZAR, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            58,
+            "Green Diagnostic & Consultation centre",
+            "HSM18947",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Khulna",
+            "Khulna Sadar",
+            "24, Shamsur Rahman Road, Shantidham moar, Khulna"
+        ],
+        [
+            59,
+            "Green Diagnostic & Medical Services ",
+            "HSM33848",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "23/1, Shaymali ,Shishu Mela Opposite  Side Foot Over Breeze  Attached  Dhaka-1207"
+        ],
+        [
+            60,
+            "GREEN DIAGNOSTIC AND CONSULTATION CENTRE",
+            "HSM73888",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "485/1, 1ST FLOOR, SHAHJAHAN TOWER, TRUNK ROAD, FENI"
+        ],
+        [
+            61,
+            "GREEN DIAGNOSTIC CENTER",
+            "HSM14775",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Jora Bridge, Munshipara, Sadar Dinajpur"
+        ],
+        [
+            62,
+            "Green Diagnostic Center ",
+            "HSM59349",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 1139, Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            63,
+            "Green Diagnostic Centre",
+            "HSM03145",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "Haspatal Road, Phulbari, Dinajpur"
+        ],
+        [
+            64,
+            "GREEN DIAGNOSTIC CENTRE",
+            "HSM66221",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "SHAHID MUKTIJADDHA ROAD, CHANDPUR"
+        ],
+        [
+            65,
+            "GREEN DIAGNOSTIC CENTRE",
+            "HSM90829",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "Bagmara Bazar, Laksam Road, Comilla"
+        ],
+        [
+            66,
+            "GREEN DIAGNOSTIC CENTRE",
+            "HSM75127",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No. 1518-00; Bangabandhu Road, Thakurgaon Sadar, Thakurgaon"
+        ],
+        [
+            67,
+            "Green Diagonstic Centre",
+            "HSM42349",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "M.R Collage Mor, Tetulia Road, Panchagarh "
+        ],
+        [
+            68,
+            "GREEN EYE HOSPITAL LTD.",
+            "HSM25918",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dhanmondi",
+            "HOUSE #18, ROAD #6, DHANMONDI PLAZA, DHANMONDI, DHAKA-1205"
+        ],
+        [
+            69,
+            "GREEN EYE HOSPITAL NARAYANGANJ.",
+            "HSM40796",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "143 Bangabandhu Road, Shahnewaz Chamber(5th floor), Narayanganj"
+        ],
+        [
+            70,
+            "Green General Hospital",
+            "HSM54487",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "C.O. Colony, Main Road, Joypurhat."
+        ],
+        [
+            71,
+            "Green Health Hospital",
+            "HSM48268",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Chak Bazar",
+            "4/5 Mitford Tower, Mitford Road, Dhaka"
+        ],
+        [
+            72,
+            "Green Health Hospital",
+            "HSM70591",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Chak Bazar",
+            "4/5 Mitford Tower, Mitford Road, Dhaka"
+        ],
+        [
+            73,
+            "Green Health Malek Jobeda General Hospital Ltd",
+            "HSM51530",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Kasba",
+            "Gopinathpur ,Kasba,Brahmanbaria"
+        ],
+        [
+            74,
+            "Green Health Malek Jobeda General Hospital Ltd",
+            "HSM96303",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Gopinathpur,Kasba Brahmanbaria"
+        ],
+        [
+            75,
+            "GREEN HEART DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM81719",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jessore Sadar",
+            "73, Jail Road, Daratana, Jessore"
+        ],
+        [
+            76,
+            "Green Hospital & Diagnostic Lab",
+            "HSM17756",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "House No. 9/G, Hazipara, Shahapara Road, Gazipur."
+        ],
+        [
+            77,
+            "Green Hospital & Diagnostic Lab",
+            "HSM34750",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "House No. 9/G, Hazipara, Shahapara Road, Gazipur."
+        ],
+        [
+            78,
+            "GREEN INFERTILITY AND DIAGNOSTIC CENTER",
+            "HSM25095",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Tangail Sadar",
+            "EAST ADALAT PARA, TANGAIL SADAR, TANGAIL, BANGLADESH."
+        ],
+        [
+            79,
+            "Green Island Hospital",
+            "HSM55254",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Burhanuddin",
+            "North Bus Stand Road, Borhanuddin, Bhola."
+        ],
+        [
+            80,
+            "Green Island Hospital",
+            "HSM93755",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bhola",
+            "Burhanuddin",
+            "North Bus Stand Road, Borhanuddin, Bhola."
+        ],
+        [
+            81,
+            "Green Lab",
+            "HSM49712",
+            "Diagnostic Center",
+            "Category-B",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "BMA   Bhaban, , Main Road,Bagerhat"
+        ],
+        [
+            82,
+            "GREEN LAB (DIAGNOSTIC CENTRE)  ",
+            "HSM04154",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Sonagazi",
+            "CHUNIGAZI ROAD, SONAGAZI, FENI. "
+        ],
+        [
+            83,
+            "GREEN LAB AND HORMONE CENTRE",
+            "HSM19031",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "SHEAILKOL BAZAR, SIRAJGANJ"
+        ],
+        [
+            84,
+            "GREEN LAB DIAGNOSTIC CENTER",
+            "HSM68515",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "07 NO, WORD, HOSPITAL ROAD, BAUPHAL, PATUAKHALI. "
+        ],
+        [
+            85,
+            "GREEN LAB HOSPITAL ",
+            "HSM22233",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Daudkandi",
+            "Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            86,
+            "GREEN LAB HOSPITAL",
+            "HSM34609",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            87,
+            "GREEN LAB MEDICAL SERVICES (PVT) LTD.",
+            "HSM95305",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Maheshpur",
+            "College Stand, Hospital Road, Moheshpur, Jhenaidah."
+        ],
+        [
+            88,
+            "Green Labs Hospital",
+            "HSM43693",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Tangail Sadar",
+            "New Bus Terminal, Kodalia, Tangail"
+        ],
+        [
+            89,
+            "Green Labs Hospital",
+            "HSM77148",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "New Bus Terminal, Kodalia, Tangail"
+        ],
+        [
+            90,
+            "GREEN LIFE CLINIC",
+            "HSM15160",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "SHERPUR ROAD, KANOSGARI, BOGURA"
+        ],
+        [
+            91,
+            "Green Life Clinic",
+            "HSM77908",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur"
+        ],
+        [
+            92,
+            "Green Life Clinic ",
+            "HSM29743",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "Farazi Para Main Khulna, Bangladesh "
+        ],
+        [
+            93,
+            "Green Life Clinic & Diagnostic Center",
+            "HSM61511",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "Kaliganj Sarak, Bakerganj, Barishal."
+        ],
+        [
+            94,
+            "Green Life Clinic & Diagnostic Center",
+            "HSM09471",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Bakerganj",
+            "Kaliganj Sarak, Bakerganj, Barishal."
+        ],
+        [
+            95,
+            "GREEN LIFE CLINIC & DIAGNOSTIC CENTRE",
+            "HSM54690",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Gaurnadi",
+            "Upazila Gate, Gournadi, Barishal"
+        ],
+        [
+            96,
+            "GREEN LIFE CLINIC & DIAGNOSTIC CENTRE",
+            "HSM53674",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Gaurnadi",
+            "Upazila Gate, Gournadi, Barishal"
+        ],
+        [
+            97,
+            "GREEN LIFE CLINIC&DIAGNOSTIC CENTRE",
+            "HSM99233",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "sakhipur Tangail"
+        ],
+        [
+            98,
+            "GREEN LIFE DIAGNOSTIC",
+            "HSM69804",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "Kuichamora, Bheramara, kushtia."
+        ],
+        [
+            99,
+            "GREEN LIFE DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM95909",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "234, .B B.ROAD, CHASHARA, NARAYANGANJ"
+        ],
+        [
+            100,
+            "Green Life Diagnostic & Consultation Centre",
+            "HSM36283",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Hospital Road, Narayanpur, Sherpur Sadar,Sherpur"
+        ]
+    ]
+}

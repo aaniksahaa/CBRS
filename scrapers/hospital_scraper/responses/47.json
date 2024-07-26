@@ -1,0 +1,1007 @@
+{
+    "draw": 47,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "ELHAM HOSPITAL & MEDICAL SERVICES",
+            "HSM95006",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Daudkandi, Comilla"
+        ],
+        [
+            2,
+            "ELIAS HOSPITAL & DIAGNOSTIC LTD",
+            "HSM92399",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "KATHGORA, ZIRABO, ASHULIA, SAVAR, DHAKA-1341"
+        ],
+        [
+            3,
+            "ELIAS HOSPITAL & DIAGNOSTIC LTD.",
+            "HSM86747",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Kathgora, Zirabo, Ashulia, Savar, Dhaka-1341"
+        ],
+        [
+            4,
+            "Eliotgonj  General Hospital",
+            "HSM54813",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Daudkandi",
+            "Eliotgonj, Daudkandi, Comilla"
+        ],
+        [
+            5,
+            "Eliotgonj  General Hospital nd Diagnostic Centre",
+            "HSM14398",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Eliotgonj, Daudkandi, Comilla"
+        ],
+        [
+            6,
+            "ELIOTGONJ APOLLO HOSPITAL",
+            "HSM67760",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Daudkandi",
+            "ELIOTGONJ BAZAR, DAUDKANDI, COMILLA"
+        ],
+        [
+            7,
+            "ELIOTGONJ APOLLO HOSPITAL",
+            "HSM25625",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "ELIOTGONJ BAZAR, DAUDKANDI, COMILLA"
+        ],
+        [
+            8,
+            "Elisa Digital Diagnostic Center",
+            "HSM25742",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Daulatpur",
+            "Hospital Road, Daulatpur, Kushtia."
+        ],
+        [
+            9,
+            "Elit Clinic ",
+            "HSM71871",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "16/14, Babor Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            10,
+            "Elit Hospital",
+            "HSM30905",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Kotkipara, R.K Road, Rangpur"
+        ],
+        [
+            11,
+            "Elite Care Hospital",
+            "HSM74456",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Gazipur Sadar"
+        ],
+        [
+            12,
+            "Elite Care Hospital",
+            "HSM76490",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Gazipur Sadar"
+        ],
+        [
+            13,
+            "Elite Diagnostic Center",
+            "HSM20404",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Islambag, R.K. Road, Rangpur"
+        ],
+        [
+            14,
+            "Elite Diagnostic Centre And Doctors Chamber",
+            "HSM72307",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Tongibari Girls School Market, Hospital Raod, Tongibari, Munshigonj"
+        ],
+        [
+            15,
+            "ELITE MEDICAL CENTRE",
+            "HSM39609",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "Holding No # 451-03,Road # EPZ Road, Baccu Palace, Easin Market , Middle  Ashrafpur, Cumilla."
+        ],
+        [
+            16,
+            "ELIZA DIAGNOSTIC CENTRE",
+            "HSM05311",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Hazipara, Thakurgaon."
+        ],
+        [
+            17,
+            "ELIZA NURNING HOME",
+            "HSM78281",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Purbo Goalpara, Thakurgaon."
+        ],
+        [
+            18,
+            "ELLENGA CLINIC & NURSING HOME",
+            "HSM31382",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Kalihati",
+            "RAJABARI, ELLENGA, KALIHATI, TANGAIL."
+        ],
+        [
+            19,
+            "ELLENGA CLINIC & NURSING HOME",
+            "HSM76606",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Ellenga Bus Stand, Kalihati, Tangail"
+        ],
+        [
+            20,
+            "ELLENGA FAMILY CARE DIAGNOSTIC CENTER",
+            "HSM74056",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "ELLENGA BUSSTAND, KALIHATI, TANGAIL."
+        ],
+        [
+            21,
+            "ELLENGA FAMILY CARE DIAGNOSTIC CENTER &  HOSPITAL",
+            "HSM88251",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Kalihati",
+            "ELLENGA BUSSTAND, KALIHATI, TANGAIL."
+        ],
+        [
+            22,
+            "Elter Medical Care",
+            "HSM26085",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Joydebpur Chowrasta,Gazipur GCC"
+        ],
+        [
+            23,
+            "Emanuel Medical Center",
+            "HSM53574",
+            "Diagnostic Center",
+            "Category-C",
+            "Bandarban",
+            "Bandarban Sadar",
+            "Police Plaza, Rajar Math, PO&PS: Bandarban Sadar, District: Bandarban Hill District"
+        ],
+        [
+            24,
+            "Emanuel Medical Center",
+            "HSM38889",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bandarban",
+            "Bandarban Sadar",
+            "Police Plaza, Adjacent to Rajarmath, Bandarban Sadar, Bandarban Hill District"
+        ],
+        [
+            25,
+            "EMDAD DIAGNOSTIC CENTER",
+            "HSM78449",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Roypura",
+            "Tulatoly Hospital Road, po-Tulatoly Bazar, ps-Raipura, Dist-Narsingdi"
+        ],
+        [
+            26,
+            "EMIRATES FRIENDSHIP HOSPITAL",
+            "HSM54553",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Chilmari",
+            "FRIENDSHIP, JUBO UNNYAN LINK ROAD, SHETU PARA, KURIGRAM"
+        ],
+        [
+            27,
+            "EMIRATES FRIENDSHIP HOSPITAL",
+            "HSM87656",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Chilmari",
+            "FRIENDSHIP, JUBO UNNYAN LINK ROAD, SHETU PARA, KURIGRAM"
+        ],
+        [
+            28,
+            "Emon Surgical Clinic",
+            "HSM52060",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Narail Sadar",
+            "Aladatpur, Narail Sadar, Narail."
+        ],
+        [
+            29,
+            "EMPATHY CLINIC",
+            "HSM47840",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Uttara  Paschim",
+            "House No: 18, Road No: 6/A, Sector-5, Uttara Model Town, Dhaka-1230"
+        ],
+        [
+            30,
+            "Emu Diagnostic Center ",
+            "HSM03865",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Amtoli, Sadar Road, Joypurhat."
+        ],
+        [
+            31,
+            "Emu General Hospital",
+            "HSM68502",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Amtoli, Sadar Road, Joypurhat."
+        ],
+        [
+            32,
+            "Enam Cancer Hospital Limited",
+            "HSM43457",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "9/3 Parboti Nagar, Bir Muktijodha Abul Kashem Sandeep Sarak (Thana Road), Savar, Dhaka-1340, Bangladesh."
+        ],
+        [
+            33,
+            "ENAM CLINIC AND DIAGNOSTIC CENTER, BOGURA",
+            "HSM37697",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "Shahid Khokon Road, Jaleswaritola, Bogura"
+        ],
+        [
+            34,
+            "Enam clinic and diagnostic centre, Bogura",
+            "HSM40611",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "Shahid khokon road, Jaleswaritola, Bogura"
+        ],
+        [
+            35,
+            "Enam Medical Hospital (Pvt.) Ltd.",
+            "HSM95298",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Savar",
+            "9/3 Parboti Nagar, Bir Muktijodha Abul Kashem Sandeep Sarak (Thana Road), Savar, Dhaka-1340, Bangladesh."
+        ],
+        [
+            36,
+            "Enam Medical Hospital (Pvt.) Ltd.",
+            "HSM60543",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Savar",
+            "9/3 Parboti Nagar, Bir Muktijodha Abul Kashem Sandeep Sarak (Thana Road), Savar, Dhaka-1340, Bangladesh."
+        ],
+        [
+            37,
+            "Enam Medical Hospital (Pvt.) Ltd.",
+            "HSM19564",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Savar",
+            "9/3 Parboti Nagar, Bir Muktijodha Abul Kashem Sandeep Sarak (Thana Road), Savar, Dhaka-1340, Bangladesh."
+        ],
+        [
+            38,
+            "ENAYETNAGAR  DIABETIC  & DIAGNOSTIC CENTRE",
+            "HSM02839",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Muslimnagar, Enayetnagar, Fatullah, Narayangonj"
+        ],
+        [
+            39,
+            "ENDOSCOPY & MATERNITY  CENTER(EMC)",
+            "HSM57626",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Rajpara",
+            "MOHISBATHAN,RAJSHAHI COURT-6201, RAJPARA, RAJSHAHI."
+        ],
+        [
+            40,
+            "Enlightened manoshik o madokashokti niramoy kendro",
+            "HSM99263",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Adabor",
+            "1/1/Ga Mohonpur,Adabor,Dhaka,Bangladesh "
+        ],
+        [
+            41,
+            "ENOVA DIAGNOSTIC CENTER",
+            "HSM45452",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Sreemangal",
+            "SB plaza ,Kalighat Road Chowmuhona ,Sreemangal"
+        ],
+        [
+            42,
+            "Ensure Medi Lab",
+            "HSM60108",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Al Amin Tower, Asian Highway, Barayerhat Pourashava, Mirsarai, Chattogram"
+        ],
+        [
+            43,
+            "ENT CARE & AUDIOLOGY CENTER SAIDPUR",
+            "HSM06253",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "Shahid Samir Uddin Layen, Puraton Babupara"
+        ],
+        [
+            44,
+            "Eon Hospital & diagnostic Center",
+            "HSM45438",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "Bakila, East Bazar, Hajiganj, Chandpur."
+        ],
+        [
+            45,
+            "Epic Health Care ",
+            "HSM42243",
+            "Diagnostic Center",
+            "Category-A",
+            "Chattogram",
+            "Panchlaish",
+            "19, K B Fazlul Kader Road, Panchlaish, Chittagong. "
+        ],
+        [
+            46,
+            "Epic Health Care- 2",
+            "HSM92932",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Kotwali",
+            "Auronaloy, 06 no. Momon Road, Andarkilla, Chattogram"
+        ],
+        [
+            47,
+            "EQURIA GENERAL HOSPITAL AND DIAGONOSTIC CENTER",
+            "HSM56650",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Equria baby stand, Equria, South Keranigonj, Dhaka"
+        ],
+        [
+            48,
+            "EQURIA GENERAL HOSPITAL AND DIAGONOSTIC CENTER",
+            "HSM49288",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "EQURIA GENERAL HOSPITAL AND DIAGONOSTIC CENTER\r\nEquria Baby Stand, Equria, South Keraniganj, Dhaka"
+        ],
+        [
+            49,
+            "Era Medical Center",
+            "HSM78283",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Hoding No- 620, Shimanta Complex-1, Kasba Puratan Bazar, Brahmanbaria."
+        ],
+        [
+            50,
+            "Eram Digital Diagnostic Centre",
+            "HSM18340",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kapasia",
+            "Kapasia UHC Gate,Kapasia,Gazipur."
+        ],
+        [
+            51,
+            "Esabah  Medical Services",
+            "HSM61249",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Charmugria, Madaripur-7901"
+        ],
+        [
+            52,
+            "ESDO COMMUNITY HOSPITAL(PATHOLOGYCAL LAB)",
+            "HSM70141",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Collgegpara, Gobinda Nahar, Thakurgaon Sadar, Thakurgaon. "
+        ],
+        [
+            53,
+            "ESDO SHISHU & COMMUNITY HOSPITAL",
+            "HSM45882",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Collegepara, Thakurgaon Sadar, Thakurgaon. "
+        ],
+        [
+            54,
+            "Eseb Diagnositc Center",
+            "HSM37897",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Haspatalroad,bauphal,patuakhali"
+        ],
+        [
+            55,
+            "ESHA DIAGNOSTIC CENTER",
+            "HSM64902",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Faridpur",
+            "Demra Bazar, Faridpur, Pabna"
+        ],
+        [
+            56,
+            "ESHITA CLINIC",
+            "HSM29924",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sonatola",
+            "Thana Moor, Sonatola, bogura"
+        ],
+        [
+            57,
+            "ESQUARE HOSPITAL",
+            "HSM07642",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "porabari,sadanandopur,sirajgonj"
+        ],
+        [
+            58,
+            "ESQUARE HOSPITAL.",
+            "HSM53426",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "porabari,sadanandopur,sirajgonj"
+        ],
+        [
+            59,
+            "ESQUIRE LAB",
+            "HSM14518",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "189, Aziz Shopping Center, Shohid Shohidullha Kaise Road, Feni."
+        ],
+        [
+            60,
+            "Essence  Homoeopathy Medical Center ",
+            "HSM08306",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "7/A Sobahanbag,  Sher-E-Bangla Nagor, Dhaka-1207."
+        ],
+        [
+            61,
+            "ESTE MEDICAL BANGLADESH LIMITED",
+            "HSM43641",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Banani",
+            "Suvastu Suraiya Trade Centre (5th Floor), Plot No. 57, Block-B, Kemal Ataturk Avenue, Banani, Dhaka-1213"
+        ],
+        [
+            62,
+            "Estran Pathology",
+            "HSM76261",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Main Road, Rajbari."
+        ],
+        [
+            63,
+            "ETI DIAGNOSTIC CENTRE",
+            "HSM22318",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Dhobaura",
+            "dhobaura,mymensingh"
+        ],
+        [
+            64,
+            "Etihad Medical Center Limited",
+            "HSM66741",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "48/A-B, Baitul Khayer, 4th Floor, Purana Paltan, Dhaka-1000"
+        ],
+        [
+            65,
+            "EUREKA DIAGNOSTIC AND MEDICAL CENTRE",
+            "HSM56868",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "37/2, Zaman Tower, Purana Paltan Box Calvert Road, 1st Floor, Dhaka - 1000"
+        ],
+        [
+            66,
+            "EURO HOSPITAL",
+            "HSM16658",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Thana Road, Shalgaria, Pabna Sadar, Pabna"
+        ],
+        [
+            67,
+            "Euro Lab & Hospital",
+            "HSM71137",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Turag",
+            "House# 5/B, Block# B, Kamarpara School & College Road, Turag, Dhaka- 1230."
+        ],
+        [
+            68,
+            "Euro Lab & Hospital",
+            "HSM14151",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Turag",
+            "House# 5/B, Block# B, Kamarpara School & College Road, Turag, Dhaka- 1230."
+        ],
+        [
+            69,
+            "EURO MEDICAL CENTER",
+            "HSM60507",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 1028, Shalgaria, Thana Para, A K Khondokar Road, Pabna"
+        ],
+        [
+            70,
+            "Euro-Bangla Heart Hospital Ltd",
+            "HSM07086",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House Number:5/7, Block-D, Lalamtia, Mohammadpur, Dhaka, Bangladesh"
+        ],
+        [
+            71,
+            "Euro-Bangla Heart Hospital Ltd",
+            "HSM22120",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mohammadpur",
+            "5/7, Block-D, Lalmatia, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            72,
+            "EURO-BANGLA HEART HOSPITAL LTD.",
+            "HSM05127",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "House No. 5/7, Block-D, Lalmatia, Dhaka-1207"
+        ],
+        [
+            73,
+            "EUROASIA DIAGNOSTIC & MEDICAL CENTRE",
+            "HSM82274",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "147/3, Nasrin Vaban (1st Floor), D.I.T Extension Road, Fakirapool, Dhaka-1000"
+        ],
+        [
+            74,
+            "EUROPA  DIAGNOSTIC CENTER & HOSPITAL.",
+            "HSM18579",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "S.K PLAZA, TOMALTOLA, JAMALPUR-2000."
+        ],
+        [
+            75,
+            "EUROPA  DIAGNOSTIC CENTER & HOSPITAL.",
+            "HSM18520",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "S.K PLAZA, TOMALTOLA, JAMALPUR-2000."
+        ],
+        [
+            76,
+            "EVA  MEDICARE  HOSPITAL",
+            "HSM82459",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kotalipara",
+            "vill:-Madbari Road,Post:-Pachimpara, Kotalipara,Gopalganj"
+        ],
+        [
+            77,
+            "EVA DIAGNOSTIC CENTER",
+            "HSM19569",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "Main Road, Hospital Gate, Sakhipur, Tangail."
+        ],
+        [
+            78,
+            "Ever Care Specialized Hospital, Rangpur",
+            "HSM44101",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Sarok Bhabon Opposit, Dhap, Jail Road, Rangpur City, Rangpur"
+        ],
+        [
+            79,
+            "Ever Green Hospital",
+            "HSM64515",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Sabalia,Tangail"
+        ],
+        [
+            80,
+            "Ever Green Hospital & Diagnostic Center",
+            "HSM22325",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "Foysal Tawer, Baruakhali Bazar,Baruakhali, Nawabgonj, dhaka-1322"
+        ],
+        [
+            81,
+            "Ever Green Hospital & Diagnostic Center",
+            "HSM46068",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Nawabganj",
+            "Foysal Tower, Bruakhali Bazar, Baruakhali, Nowasbgonj, Dhaka-1322"
+        ],
+        [
+            82,
+            "Ever Green Life Diagnostic Center.",
+            "HSM25533",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Pachrastar Mor [rail crossing], Shekhervita, Jamalpur-2000"
+        ],
+        [
+            83,
+            "Ever Green Life General Hospital Ltd",
+            "HSM41500",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Pachrastar Mor [rail crossing], Shekhervita, Jamalpur-2000"
+        ],
+        [
+            84,
+            "Ever Green Medical Center",
+            "HSM09325",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Tejgaon",
+            "The Flamenco (2nd & 3rd floor), 32, Airport Road, Tejgaon, Dhaka-1215"
+        ],
+        [
+            85,
+            "Ever Health Hospital Ltd",
+            "HSM34863",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kotwali",
+            "4,5 No Mitford Road, Dhaka"
+        ],
+        [
+            86,
+            "Ever Health Hospital Ltd",
+            "HSM48688",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kotwali",
+            "4,5 No Mitford Road, Dhaka"
+        ],
+        [
+            87,
+            "EVERCARE HOSPITAL CHATTOGRAM",
+            "HSM30177",
+            "Diagnostic Center",
+            "Category-A",
+            "Chattogram",
+            "Hathazari",
+            "Plot No- H-1, Ananna Residential Area, CDA, Hathazari, chattogram "
+        ],
+        [
+            88,
+            "EVERCARE HOSPITAL CHATTOGRAM",
+            "HSM67463",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Hathazari",
+            "Plot No H-1, Ananna Residential Area , CDA, Hathazari, Chattogram "
+        ],
+        [
+            89,
+            "Evercare Hospital Dhaka ",
+            "HSM40698",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Bhatara",
+            "Plot No 81, Block-E, Bashundhara R/A , Dhaka-1229"
+        ],
+        [
+            90,
+            "Evergreen Care Limited",
+            "HSM14615",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "5/12,Block-D,Lalmatia,Mohammadpur,Dhaka - 1207."
+        ],
+        [
+            91,
+            "EVERGREEN DIAGNOSTIC CENTRE",
+            "HSM12628",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            " Sabalia, Tangail"
+        ],
+        [
+            92,
+            "Evergreen Hospital",
+            "HSM91226",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kadamtali",
+            "26, Dakkhin Rayerbag, Kadamtoli, Dhaka"
+        ],
+        [
+            93,
+            "Evergreen Hospital",
+            "HSM31591",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kadamtali",
+            "26, Dakkhin Rayerbag, Kadamtoli, Dhaka"
+        ],
+        [
+            94,
+            "EVERGREEN HOSPITAL & Diagnostic Center",
+            "HSM02622",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Vill:  Kalakandi ,  Post Office:  Abdullahpur \u2013 1311, Thana : South Keraniganj, \r\nDistrict : Dhaka.\r\n"
+        ],
+        [
+            95,
+            "EVERGREEN HOSPITAL & Diagnostic Center",
+            "HSM32577",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Vill:  Kalakandi ,  Post Office:  Abdullahpur \u2013 1311, Thana : South Keraniganj, \r\nDistrict : Dhaka.\r\n"
+        ],
+        [
+            96,
+            "EVERGREEN MEDICAL CENTER",
+            "HSM77875",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Ghior",
+            "Hospital Gate, Ghior, Manikganj"
+        ],
+        [
+            97,
+            "EW VM Health Bangladesh Ltd.",
+            "HSM92139",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Gulshan",
+            "Tower of Akash, House # 54, Gulshan Avenue, Dhaka-1212"
+        ],
+        [
+            98,
+            "EXIM Bank Hospital",
+            "HSM45147",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Kafrul",
+            "EXIM Bank Hospital, 840, Kazipara, Begum Rokeya Saroni, Mirpur, Kafrul, Dhaka-1216"
+        ],
+        [
+            99,
+            "EXIM Bank Hospital",
+            "HSM14832",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kafrul",
+            "EXIM Bank Hospital, 840, Kazip[ara, Begum Rokeya soroni, Mirpur,Dhaka-1216"
+        ],
+        [
+            100,
+            "EXIM Bank Hospital",
+            "HSM27546",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kafrul",
+            "EXIM Bank Hospital, 840,Kazipara, Mirpur, Dhaka"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 138,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Setu Bondhan Diagnostic Complex",
+            "HSM12397",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgoti Road, Mojupur, Sadar, Lakshmipur- 3700"
+        ],
+        [
+            2,
+            "SETU CLINIC AND DIAGNOSTIC CENTER",
+            "HSM78902",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Hospital Gate,Gopalganj Sadar,Gopalganj"
+        ],
+        [
+            3,
+            "SETU CLINIC AND DIAGNOSTIC CENTER",
+            "HSM55173",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "NOBIN BAG, SADAR HOSPITAL GAT, GOPALGANJ SADAR,GOPALGANJ"
+        ],
+        [
+            4,
+            "SETU DIGITAL DIAGNOSTIC CENTRE",
+            "HSM51370",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Bera",
+            "AL-Hera Nagor, Bera, Pabna"
+        ],
+        [
+            5,
+            "SETU GENERAL HOSPITAL & MEDICAL SERVICES",
+            "HSM06172",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Kutubail, Shibu Market, Fatullah, Narayanganj"
+        ],
+        [
+            6,
+            "SETU GENERAL HOSPITAL & MEDICAL SERVICES",
+            "HSM48756",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Kutubail, Shibu Market, Fatullah, Narayanganj"
+        ],
+        [
+            7,
+            "Seva Diagnostic & Consaltation Center",
+            "HSM26575",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Kulaura",
+            "Osud Ghor Market, Uttor Bazar, Kulaura, Moulvibazar."
+        ],
+        [
+            8,
+            "SEVEN DAY DIAGNOSTIC CENTRE",
+            "HSM19973",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Tatipara, Thakurgaon Sadar, Thakurgaon."
+        ],
+        [
+            9,
+            "SEVEN DAY NURSING HOME",
+            "HSM02844",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Tatipara, Thakurgaon."
+        ],
+        [
+            10,
+            "SEVEN STARS HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM07833",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Atrai",
+            "SEVEN STARS MALL, BHORTETULIA, ATRAI, NAOGAON."
+        ],
+        [
+            11,
+            "SEVEN STARS HOSPITAL & DIAGNOSTIC CENTRE.",
+            "HSM33157",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Atrai",
+            "SEVEN STARS MALL, BHORTETULIA, ATRAI, NAOGAON"
+        ],
+        [
+            12,
+            "Seyam Pharmecy & Diagnostic Center",
+            "HSM67598",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Sundarganj",
+            "Tetul Tola, Hospital Road, Sundorgonj , Gaibandha"
+        ],
+        [
+            13,
+            "SF DIAGNOSTIC CENTRE",
+            "HSM79214",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "JOLIBILA ROAD, SAROJGANJ BAZAR, CHUADANGA"
+        ],
+        [
+            14,
+            "SHABA DIAGNOSTIC CENTRE",
+            "HSM22550",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Parbotipur Rahmatpur,Gaibandha Sadar,Gaibandha"
+        ],
+        [
+            15,
+            "Shaba Digital Hospital & Diagnostic Center",
+            "HSM73118",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kapasia",
+            "Kapasia,Gazipur"
+        ],
+        [
+            16,
+            "Shaba Digital Hospital & Diagnostic Center",
+            "HSM40669",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kapasia",
+            "Amraid,Kapasia,Gazipur"
+        ],
+        [
+            17,
+            "SHABA GENEREL HOSPITAL ",
+            "HSM55849",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Phulpur",
+            "fulpur.mymensingh"
+        ],
+        [
+            18,
+            "SHABA MEDICAL CENTRE",
+            "HSM45759",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Sarker Market, Salna Bazar, Gazipur"
+        ],
+        [
+            19,
+            "Shadhin Blood Bank And Transfusion Center",
+            "HSM37826",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Bangshal",
+            "14/2, Nawab Katra, Nimtoli, Dhaka "
+        ],
+        [
+            20,
+            "SHADHIN CLINIC AND DIAGNOSTIC CENTER",
+            "HSM16131",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Baghmara",
+            "Chanpara, Bhawanigonj, Baghmara, Rajshahi"
+        ],
+        [
+            21,
+            "SHADHIN CLINIC AND DIAGNOSTIC CENTER",
+            "HSM75832",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Chanpara, Bhawanigonj, Baghmara, Rajshahi"
+        ],
+        [
+            22,
+            "SHADHIN DIAGNOSTIC CENTER",
+            "HSM72197",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Bablatola Bazar, Baliatoli, Kalapara, Patuakhali."
+        ],
+        [
+            23,
+            "SHADHIN NURSING HOME AND DIAGNOSTIC CENTER",
+            "HSM17127",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "30/2 \u200dsahora sadar,mymensingh"
+        ],
+        [
+            24,
+            "SHADHIN NURSING HOME AND DIAGNOSTIC CENTER",
+            "HSM70521",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "30/2 sahera, sadar, mymensingh"
+        ],
+        [
+            25,
+            "Shadin Bangla Eye Hospital",
+            "HSM05970",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "West Paikpara,Brahmanbaria"
+        ],
+        [
+            26,
+            "SHADMAN CLINIC & NURSING HOME",
+            "HSM91418",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Madrasha Para , Sadar Joypurhat"
+        ],
+        [
+            27,
+            "SHAERY DIAGNOSTIC CENTRE",
+            "HSM50433",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "hospital gate phulpur,mymensingh\r\n"
+        ],
+        [
+            28,
+            "SHAFA DIAGNOSTIC CENTRE ",
+            "HSM62170",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Niltuli, Mujib Road, Faridpur."
+        ],
+        [
+            29,
+            "Shafali Health Care and Diagnostic Center",
+            "HSM41204",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Turag",
+            "Turag, Dhaka"
+        ],
+        [
+            30,
+            "Shafein Diagnostic Center",
+            "HSM57789",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chakenayet .Main Road, Naogaon."
+        ],
+        [
+            31,
+            "SHAFI DIAGNOSTIC CENTRE ",
+            "HSM41930",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole.Satkhira."
+        ],
+        [
+            32,
+            "Shafin Diagnostic Center",
+            "HSM42263",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Prosadpur, Manda, Naogaon"
+        ],
+        [
+            33,
+            "Shafiq Diagnostic",
+            "HSM68239",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kashiani",
+            "Ramdia Bazar, Kashiani, Gopalganj."
+        ],
+        [
+            34,
+            "SHAFIQ HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM08114",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Zia College More, Bagerhata, Jamalpur"
+        ],
+        [
+            35,
+            "SHAFIQ HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM21473",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Zia College More, Bagerhata, Jamalpur"
+        ],
+        [
+            36,
+            "Shafique Specialized Hospital & Diagnostic Complex Ltd",
+            "HSM92474",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Kalachand Para, Pabna Sadar, Pabna"
+        ],
+        [
+            37,
+            "Shafique Specialized Hospital & Diagnostic Complex Ltd.",
+            "HSM49152",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Khairul Tower, kalachand Para, Pabna Sadar, Pabna. "
+        ],
+        [
+            38,
+            "Shafollow Diagnostic Center",
+            "HSM47177",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "H#18, Nikunjo Bhabon, Greater Road, Laxmipur, Rajshahi"
+        ],
+        [
+            39,
+            "SHAGHATA DIGITAL DIAGNOSTIC CENTRE",
+            "HSM44395",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "shaghata,gaibandha"
+        ],
+        [
+            40,
+            "SHAH AMANAT DIAGNOSTIC & PHYSIOTHERAP.Y",
+            "HSM15568",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandgaon",
+            "810,Morium Monjil, Shah Amanat Housing Society, Bahaddarhat, Chittagong."
+        ],
+        [
+            41,
+            "Shah Amanat Diagnostic Centre",
+            "HSM78761",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "Charpatherghata,Karnafully,Potiya,Chittagong"
+        ],
+        [
+            42,
+            "shah chandrapuri diaginistic  center",
+            "HSM63825",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "170 Charpara Primary School Road, Sadar, Mymensingh"
+        ],
+        [
+            43,
+            "Shah Diagnostic centre",
+            "HSM34352",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "62 Outer Bypass Road, Sonadanga , Khulna"
+        ],
+        [
+            44,
+            "Shah Farid Private Hospital & Digital Diagnostic Centre",
+            "HSM11327",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Harokandi, Faridpur"
+        ],
+        [
+            45,
+            "SHAH JALAL CLINIC & DIAGNOSTIC CENTER",
+            "HSM87607",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Pabna Sadar",
+            "Poilanpur, Sara Road, Pabna"
+        ],
+        [
+            46,
+            "Shah Jalal Digital Diagnostic Center And Medical Services",
+            "HSM57787",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Barlekha",
+            "Hospital Road, Post & Upazila : Barlekha Dist.Moulvibazar"
+        ],
+        [
+            47,
+            "Shah Madar Hospital & Diagnostic Center",
+            "HSM35413",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Madaripur Sadar",
+            "TB Clinic Road, Shakuni, Madaripur"
+        ],
+        [
+            48,
+            "Shah Madar Hospital & Diagnostic Center",
+            "HSM08449",
+            "Diagnostic Center",
+            "Category-B",
+            "Madaripur",
+            "Madaripur Sadar",
+            "TB Clinic Road, Shakuni, Madaripur"
+        ],
+        [
+            49,
+            "SHAH MIRAN HOSPITAL & DIAGNOSTIC LAB",
+            "HSM16778",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "SHAH MIRAN SUPER MARKET, HAJIGONJ EAST BAZAR, HAJIGONJ, CHANDPUR-3610"
+        ],
+        [
+            50,
+            "SHAH MIRAN HOSPITAL & DIAGNOSTIC LAB",
+            "HSM07272",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Hajiganj",
+            "SHAH MIRAN SUPER MARKET, HAJIGONJ EAST BAZAR, HAJIGONJ, CHANDPUR-3610"
+        ],
+        [
+            51,
+            "Shah Mohsen Aulia (R:) Diagnostic Centre",
+            "HSM38564",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Anowara",
+            "Bhai Bhai Market, Chatori, Chowmuhani, Anowara, Chittagong"
+        ],
+        [
+            52,
+            "SHAH SHARIF GENERAL & DIABETIC HOSPITAL",
+            "HSM41855",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Shahrasti",
+            "BERNAIYA BAZAR,SHAHRASTI,CHANDPUR"
+        ],
+        [
+            53,
+            "Shah Sultan (R) Diognostic Center and Hospital",
+            "HSM80146",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Moymonsingh Road, 94 Nagra, Netrakona."
+        ],
+        [
+            54,
+            "Shah Sultan (R) Hospital & Diagnostic Center",
+            "HSM03019",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road, Sherpur, Bogura."
+        ],
+        [
+            55,
+            "SHAH SULTAN (R) HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM83026",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road, Sherpur, Bogra."
+        ],
+        [
+            56,
+            "SHAH SULTAN DIAGNOSTIC CENTER",
+            "HSM99873",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "Mohastan Mazar Road,Shibganj,Bogura"
+        ],
+        [
+            57,
+            "Shah Sultan Diagnostic Centre",
+            "HSM86250",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Mymensingh Road, Nagra, Netrakona"
+        ],
+        [
+            58,
+            "Shahabazy Dental Care",
+            "HSM91244",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Kutibazar.Kasba"
+        ],
+        [
+            59,
+            "Shahabuddin Medical College  Hospital",
+            "HSM89729",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "House No-12, Road No-113/A, Gulshan Model Town, Gulshan-2, Dhak-1212"
+        ],
+        [
+            60,
+            "Shahabuddin Medical College Hospital",
+            "HSM39295",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Gulshan",
+            "House#15 & 16, Road#113/A, Gulshan-2, Dhaka-1212."
+        ],
+        [
+            61,
+            "Shahabuddin Medical College Hospital",
+            "HSM26388",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Gulshan",
+            "House#15 & 16, Road#113/A, Gulshan-2, Dhaka-1212."
+        ],
+        [
+            62,
+            "Shahabuddin Medical College Hospital",
+            "HSM22749",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Gulshan",
+            "House#15 & 16, Road#113/A, Gulshan-2, Dhaka-1212."
+        ],
+        [
+            63,
+            "SHAHANA CLINIC",
+            "HSM35458",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "SHUVADDA PURBO PARA, SHABAN FECTORY ROAD,   SHUVADDA,  SOUTH KERANIGANJ,  DHAKA-1310."
+        ],
+        [
+            64,
+            "SHAHANA CLINIC",
+            "HSM75420",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "SHUVADDA PURBO PARA,  SHABAN FECTORY ROAD,    SHUVADDA,  SOUTH KERANIGANJ,  DHAKA-1310."
+        ],
+        [
+            65,
+            "Shahana Clinic & Nursing Home",
+            "HSM56170",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Newtown Block No-1, Sadar, Dinajpur"
+        ],
+        [
+            66,
+            "shahana medical Services ",
+            "HSM82415",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            " Hospitals East Side, Magura Sadar, Bangladesh."
+        ],
+        [
+            67,
+            "Shahanaz diagnostic center",
+            "HSM24619",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "Golapnagor bheramara kushtia"
+        ],
+        [
+            68,
+            "SHAHARASTI POPULAR HOSPITAL (PVT)",
+            "HSM10348",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Shahrasti",
+            "THAKUR BAZAR, SHAHARASTI, CHANDPUR"
+        ],
+        [
+            69,
+            "SHAHARASTI POPULAR HOSPITAL (PVT)",
+            "HSM57965",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "KALIBARI BAZAR, SHAHARASTI, CHANDPUR"
+        ],
+        [
+            70,
+            "Shahed diagnostic center",
+            "HSM72843",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Gangni",
+            "Polli Biddut Para, Gangni, Meherpur"
+        ],
+        [
+            71,
+            "SHAHEED ANISUR RAHMAN HOSPITAL (Pvt.)",
+            "HSM98413",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No 255, Shalgaria, Pabna Sadar, Pabna"
+        ],
+        [
+            72,
+            "Shaheed Asadullah Ideal Diagnostic Center ",
+            "HSM62545",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Munshipara, Sadar, Dinajpur."
+        ],
+        [
+            73,
+            "Shaheed Asadullah Ideal Hospital (Pvt) Ltd.",
+            "HSM84302",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Munshipara, Sadar, Dinajpur."
+        ],
+        [
+            74,
+            "Shaheed Bir Muktijoddha Elahi Newaz Osmani (Pvt) Hospital",
+            "HSM75062",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Katli Sadar Hospital Road, Netrokona Sadar, Netrokona."
+        ],
+        [
+            75,
+            "Shaheed Bir Muktijoddha Elahi Newaz Osmani (Pvt) Hospital",
+            "HSM81500",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Katli Sadar Hospital Road, Netrokona Sadar, Netrokona."
+        ],
+        [
+            76,
+            "Shaheed Monsur Ali Medical College Hospital",
+            "HSM78344",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot-26 & 26A, Road-10, Sector-11, Uttara Model Town, Uttara, Dhaka-1230"
+        ],
+        [
+            77,
+            "Shaheed Monsur Ali Medical College Hospital",
+            "HSM01488",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot-26 & 26A, Road-10, Sector-11"
+        ],
+        [
+            78,
+            "Shaheed Monsur Ali Medical College Hospital",
+            "HSM93421",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot-26 &26A,Road-10,Sectot-11,Uttara,Dhaka-1230"
+        ],
+        [
+            79,
+            "Shahid Diagnostic Center.",
+            "HSM70155",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Nabila Still (2nd Floor), Ukilpara, Sunamganj"
+        ],
+        [
+            80,
+            "Shahid Eye Hospital",
+            "HSM13548",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Meg bilash 22/A, Old Hospital Road, Habiganj-3300"
+        ],
+        [
+            81,
+            "Shahid Mithun Diagnostic Center",
+            "HSM65354",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Chatmohar",
+            "Shahida Garden Bhadra, Mothurapur, Chatmohar, Pabna"
+        ],
+        [
+            82,
+            "shahid muktijoddha omar faruque clinic",
+            "HSM06230",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Kalia",
+            "Kalia.Muktijoddha complex Vhavan.kalia.Narail."
+        ],
+        [
+            83,
+            "shahid muktizoddha Sharfaraz Clinic & Center ",
+            "HSM28342",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Terokhada",
+            "Village+Post-Terokhada, Thana-Terokhada, Khulna "
+        ],
+        [
+            84,
+            "shahid muktizoddha Sharfaraz Clinic & Center ",
+            "HSM97781",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Terokhada",
+            "Village+Post-Terokhada, Terokhada, Khulna "
+        ],
+        [
+            85,
+            "SHAHIDA GENAREL HOSPITAL",
+            "HSM05583",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Baraigram",
+            "Jonail Bazar, Boraigram, Natore"
+        ],
+        [
+            86,
+            "Shahida Khatun Digital Medical Centre",
+            "HSM82958",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Mirer Bazar,Pubail,Gazipur."
+        ],
+        [
+            87,
+            "Shahin Clinic & Diagnostic Center",
+            "HSM85342",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road, Sherpur, Bogra."
+        ],
+        [
+            88,
+            "Shahin Clinic & Diagnostic Center",
+            "HSM47495",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road, Sherpur, Bogra."
+        ],
+        [
+            89,
+            "SHAHIN DIAGNOSTIC CENTER & HOSPITAL (PVT)",
+            "HSM84957",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "336.CHARPARA,MYMENSINGH"
+        ],
+        [
+            90,
+            "SHAHIN DIAGNOSTIC CENTER & HOSPITAL (PVT)",
+            "HSM97921",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "336.CHARPARA,MYMENSINGH"
+        ],
+        [
+            91,
+            "Shahin Eye Care Center",
+            "HSM68839",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Shahin Eye Care Center, PTI mor,\r\nJamal Talukder Lane, Tetultola,\r\nBogura."
+        ],
+        [
+            92,
+            "SHAHIN GENERAL HOSPITAL",
+            "HSM67630",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "27, mojid khanpur, main road, narayanganj"
+        ],
+        [
+            93,
+            "Shahin General Hospital",
+            "HSM54592",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Roypura",
+            "SREERAMPUR, RAIPURA-NARSINGDI"
+        ],
+        [
+            94,
+            "SHAHITUNNESA LIONS EYE HOSPITAL",
+            "HSM37611",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "61/1 Bangabandhu Road, J.S. Super Market(1st floor), DIT, Narayanganj"
+        ],
+        [
+            95,
+            "Shahjadpur Eye Hospital",
+            "HSM76540",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "Shahjadpur, Sirajgonj"
+        ],
+        [
+            96,
+            "SHAHJAHAN GENERAL HOSPITAL ",
+            "HSM13194",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Mirzaganj",
+            "College Road, Subidkhali, Mirzagonj, Patuakhali"
+        ],
+        [
+            97,
+            "SHAHJAHAN GENERAL HOSPITAL  (Pathology Lab) ",
+            "HSM46302",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Mirzaganj",
+            "College Road, Subidkhali, Mirzaganj, Patuakhali."
+        ],
+        [
+            98,
+            "SHAHJAHAN MEMORIAL HOSPITAL & TRAUMA CENTER",
+            "HSM50484",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "Shahjahan Complex, Hajiganj, Chandpur."
+        ],
+        [
+            99,
+            "SHAHJAHAN MEMORIAL HOSPITAL & TRAUMA CENTER",
+            "HSM93393",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Hajiganj",
+            "Shahjahan Complex, Hajiganj, Chandpur."
+        ],
+        [
+            100,
+            "Shahjalal (pvt.) Hospital",
+            "HSM15983",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Roby Plaza,Shah Mostafa Road,Moulvibazar"
+        ]
+    ]
+}

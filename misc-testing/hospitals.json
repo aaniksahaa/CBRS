@@ -1,0 +1,1006 @@
+[
+  {
+    "core_name": "Anwer Khan Modern Medical College",
+    "name": "Anwer Khan Modern Medical College Dhanmondi, Dhaka [2]",
+    "coord": {
+      "latitude": 23.745654,
+      "lat_direction": "N",
+      "longitude": 90.382433,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Dhanmondi",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Ad-din Akij Medical College Hospital",
+    "name": "Ad-din Akij Medical College Hospital, Khulna",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Ad-din Sakina Medical College Hospital",
+    "name": "Ad-din Sakina Medical College Hospital, Jessore",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Ad-din Women's Medical College Hospital",
+    "name": "Ad-din Women's Medical College Hospital, Dhaka",
+    "coord": {
+      "latitude": 23.7485,
+      "lat_direction": "N",
+      "longitude": 90.4052,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Moghbazar",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Aichi Hospital, Dhaka",
+    "coord": {},
+    "location_names": [
+      "Moghbazar",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Arif Memorial Hospital, Barishal",
+    "coord": {},
+    "location_names": [
+      "Moghbazar",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Al Haramain Hospital",
+    "name": "Al Haramain Hospital, Sylhet[3]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Ambia Memorial Hospital, Barisal",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "AMZ Hospital Ltd. Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Anwer Khan Modern Hospital Ltd",
+    "name": "Anwer Khan Modern Hospital Ltd, Dhaka",
+    "coord": {
+      "latitude": 23.745654,
+      "lat_direction": "N",
+      "longitude": 90.382433,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Dhanmondi",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Aysha Memorial Specialised Hospital",
+    "name": "Aysha Memorial Specialised Hospital, Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Bangladesh Assisted Conception Center, Women\u2019s & Children Hospital Pvt Limited (BACC)",
+    "name": "Bangladesh Assisted Conception Center, Women\u2019s & Children Hospital Pvt Limited (BACC) Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Bangladesh Neonatal Hospital, Signboard Mor, Narayanganj",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Bangabandhu Memorial Hospital",
+    "name": "Bangabandhu Memorial Hospital (BBMH), Chittagong",
+    "coord": {
+      "latitude": 22.3614,
+      "lat_direction": "N",
+      "longitude": 91.7974,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Bangabandhu Sheikh Mujib Medical University",
+    "name": "Bangabandhu Sheikh Mujib Medical University",
+    "coord": {
+      "latitude": 23.7389,
+      "lat_direction": "N",
+      "longitude": 90.3948,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Bangladesh College of Nursing",
+    "name": "Bangladesh College of Nursing",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Bangladesh Eye Hospital Limited",
+    "name": "Bangladesh Eye Hospital Limited, Dhaka[4]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Bangladesh Medical College Hospital",
+    "name": "Bangladesh Medical College Hospital, Dhaka",
+    "coord": {
+      "latitude": 23.7503,
+      "lat_direction": "N",
+      "longitude": 90.3699,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Dhanmondi"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Bangladesh Specialized Hospital",
+    "coord": {},
+    "location_names": [
+      "Dhanmondi"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Bangladesh Spine & Orthopaedic General Hospital Ltd, Panthapath, Dhaka.",
+    "coord": {},
+    "location_names": [
+      "Dhanmondi"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Basundhura Hospital (Pvt.) Ltd.",
+    "coord": {},
+    "location_names": [
+      "Dhanmondi"
+    ]
+  },
+  {
+    "core_name": "Bangladesh Institute of Research and Rehabilitation for Diabetes, Endocrine and Metabolic Disorders (BIRDEM)",
+    "name": "Bangladesh Institute of Research and Rehabilitation for Diabetes, Endocrine and Metabolic Disorders (BIRDEM)",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "BRB Hospital",
+    "name": "BRB Hospital- Panthapath Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Cardio Care Specialized and General Hospital Ltd, Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "[5]",
+    "name": "Care Hospital, Dhaka[5]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Care Zone Hospital, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Catharsis Medical Centre Limited, Gazipur",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Central Hospital, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Chander Hasi Hospital Limited, Habiganj, Sylhet.",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Chittagong Eye Infirmary and Training Hospital",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Chittagong Maa-O-Shishu Hospital",
+    "name": "Chittagong Maa-O-Shishu Hospital, Chittagong",
+    "coord": {
+      "latitude": 22.3227,
+      "lat_direction": "N",
+      "longitude": 91.8063,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Chattogram",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Chittagong Diabetic General Hospital",
+    "coord": {},
+    "location_names": [
+      "Chattogram",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Chittagong Medical College Hospital",
+    "name": "Chittagong Medical College Hospital",
+    "coord": {
+      "latitude": 22.3593,
+      "lat_direction": "N",
+      "longitude": 91.8308,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Chittagong",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "CMH",
+    "name": "CMH (Combined Military Hospital)",
+    "coord": {
+      "latitude": 23.8144598,
+      "lat_direction": "N",
+      "longitude": 90.3988756,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Comilla Medical College",
+    "name": "Comilla Medical College Hospital, Comilla",
+    "coord": {
+      "latitude": 23.4511,
+      "lat_direction": "N",
+      "longitude": 91.2022,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Comilla",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Continental Hospital Ltd.",
+    "coord": {},
+    "location_names": [
+      "Comilla",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "[6]",
+    "name": "Cox's Bazar Hospital for Women & Children, Chittagong[6]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Dhaka Central International Medical College",
+    "name": "Dhaka Central International Medical College Hospital, Adabor, Dhaka",
+    "coord": {
+      "latitude": 23.7736,
+      "lat_direction": "N",
+      "longitude": 90.3615,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Dhaka Community Hospital",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Dhaka Dental College and Hospital",
+    "name": "Dhaka Dental College and Hospital",
+    "coord": {
+      "latitude": 23.7991,
+      "lat_direction": "N",
+      "longitude": 90.3879,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Dhaka"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Dhaka Hospital, Dhaka",
+    "coord": {},
+    "location_names": [
+      "Dhaka"
+    ]
+  },
+  {
+    "core_name": "Dhaka Medical College",
+    "name": "Dhaka Medical College & Hospital",
+    "coord": {
+      "latitude": 23.7257,
+      "lat_direction": "N",
+      "longitude": 90.3971,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Shahbagh, Dhaka"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Dhaka National Medical College And Hospital Institute",
+    "coord": {},
+    "location_names": [
+      "Shahbagh, Dhaka"
+    ]
+  },
+  {
+    "core_name": "Dhaka Shishu Hospital",
+    "name": "Dhaka Shishu Hospital",
+    "coord": {
+      "latitude": 23.7732,
+      "lat_direction": "N",
+      "longitude": 90.3689,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Dinajpur Medical College Hospital",
+    "name": "Dinajpur Medical College Hospital",
+    "coord": {
+      "latitude": 25.6106,
+      "lat_direction": "N",
+      "longitude": 88.6551,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Dinajpur"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Dr. Alauddin Ahmed Clinic, Jhalakati",
+    "coord": {},
+    "location_names": [
+      "Dinajpur"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Eastern Hospital & Medical Research Centre",
+    "coord": {},
+    "location_names": [
+      "Dinajpur"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Esperto Health Care & Research Center, Dhaka",
+    "coord": {},
+    "location_names": [
+      "Dinajpur"
+    ]
+  },
+  {
+    "core_name": "[7]",
+    "name": "Farazy Hospital Ltd, Dhaka[7]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "[8]",
+    "name": "Farazy Dental Hospital & Research Center, Dhaka[8]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Gazi Medical College",
+    "name": "Gazi Medical College Hospital, Khulna",
+    "coord": {
+      "latitude": 22.8175,
+      "lat_direction": "N",
+      "longitude": 89.5455,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Sonadanga",
+      "Khulna",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Genuine Cancer Hospital Limited, Chittagong",
+    "coord": {},
+    "location_names": [
+      "Sonadanga",
+      "Khulna",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Gonoshasthaya Nagar Hospital",
+    "name": "Gonoshasthaya Nagar Hospital",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Government Homeopathic Medical College Hospital",
+    "name": "Government Homeopathic Medical College Hospital",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Greenland Hospital Limited, Sector - 10, Uttara, Dhaka.",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Holy Family Red Crescent Medical College Hospital, Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Ibn Sina Hospital Sylhet Ltd",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "[9]",
+    "name": "Ibn Sina Hospitals, Dhaka[9]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Institute of Child and Mother Health",
+    "name": "Institute of Child and Mother Health, Dhaka",
+    "coord": {
+      "latitude": 23.6937,
+      "lat_direction": "N",
+      "longitude": 90.4664,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "[10]",
+    "name": "Institute of Laser Surgery & Hospital, Dhaka[10]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Ispahani Islamia Eye Institute and Hospital",
+    "name": "Ispahani Islamia Eye Institute and Hospital (IIEI&H)[11]",
+    "coord": {
+      "latitude": 23.7586,
+      "lat_direction": "N",
+      "longitude": 90.385,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Japan East West Medical College Hospital",
+    "name": "Japan East West Medical College Hospital, Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Khwaja Yunus Ali Medical College and Hospital",
+    "name": "Khwaja Yunus Ali Medical College and Hospital",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Khulna Medical College",
+    "name": "Khulna Medical College Hospital, Khulna",
+    "coord": {
+      "latitude": 22.829087,
+      "lat_direction": "N",
+      "longitude": 89.53704,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Khulna",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Kumudini Hospital",
+    "name": "Kumudini Hospital, Tangail",
+    "coord": {
+      "latitude": 24.098,
+      "lat_direction": "N",
+      "longitude": 90.0948,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Kuwait Bangladesh Friendship Govt. Hospital",
+    "name": "Kuwait Bangladesh Friendship Govt. Hospital, Uttara, Dhaka",
+    "coord": {
+      "latitude": 23.870432,
+      "lat_direction": "N",
+      "longitude": 90.403647,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Labaid Cardiac Hospital",
+    "name": "Labaid Cardiac Hospital, Dhaka[12]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Labaid Specialized Hospital], Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Maa Nursing Home & Diagnostic Centre, Tangail",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "[13]",
+    "name": "Medinova Medical Services Ltd.[13]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "MH Samorita Hospital & Medical College, love Road, Tejgaon, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Mikrani Dental Banasree Dhaka (Dental Hospital)",
+    "name": "Mikrani Dental Banasree Dhaka (Dental Hospital) Dhaka[14]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Mojibunnessa Eye Hospital",
+    "name": "Mojibunnessa Eye Hospital, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Moulana Bhasani Medical College Hospital, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Mount Adora Hospital, Sylhet.",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Mental Hospital, Pabna",
+    "name": "Mental Hospital, Pabna",
+    "coord": {
+      "latitude": 24.0022,
+      "lat_direction": "N",
+      "longitude": 89.2062,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Mymensingh Medical College Hospital",
+    "name": "Mymensingh Medical College Hospital",
+    "coord": {
+      "latitude": 24.7416,
+      "lat_direction": "N",
+      "longitude": 90.4093,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Charpara",
+      "Mymensingh"
+    ]
+  },
+  {
+    "core_name": "National Hospital Chattagram",
+    "name": "National Hospital Chattagram, Chattagram",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "National Heart Foundation, Sylhet.",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "National Institute of Cardiovascular Diseases",
+    "name": "National Institute of Cardiovascular Diseases[15]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "National Institute of Ear, Nose and Throat",
+    "name": "National Institute of Ear, Nose and Throat[16]",
+    "coord": {
+      "latitude": 23.7633,
+      "lat_direction": "N",
+      "longitude": 90.4055,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "National Institute of Kidney Disease & Urology",
+    "name": "National Institute of Kidney Disease & Urology[15]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "National Institute of Mental Health",
+    "name": "National Institute of Mental Health[15]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "National Institute of Mental Health and Hospital",
+    "name": "National Institute of Mental Health and Hospital",
+    "coord": {
+      "latitude": 23.7721,
+      "lat_direction": "N",
+      "longitude": 90.368,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "National Institute of Neuroscience",
+    "name": "National Institute of Neuroscience",
+    "coord": {},
+    "location_names": [
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "National Institute of Opthalmology and Hospital",
+    "name": "National Institute of Opthalmology and Hospital",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "National Institute of Preventive and Social Medicine",
+    "name": "National Institute of Preventive and Social Medicine[15]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "North East Medical College and Hospital",
+    "name": "North East Medical College and Hospital",
+    "coord": {
+      "latitude": 24.865,
+      "lat_direction": "N",
+      "longitude": 91.857,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Nurjahan Hospital Ltd, Sylhet.",
+    "coord": {},
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Oasis Hospital (Pvt) Ltd, Sylhet",
+    "coord": {},
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Sylhet, M.A.G Osmani Medical College and Hospital",
+    "name": "Sylhet, M.A.G Osmani Medical College and Hospital",
+    "coord": {
+      "latitude": 24.9005,
+      "lat_direction": "N",
+      "longitude": 91.8532,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Pongu Hospital Jessore (Railget, Mujib Sarak, Jessore, Bangladesh)",
+    "coord": {},
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Popular Specialized Hospital Ltd.",
+    "coord": {},
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Rajshahi Medical College Hospital",
+    "name": "Rajshahi Medical College Hospital",
+    "coord": {
+      "latitude": 24.3723,
+      "lat_direction": "N",
+      "longitude": 88.5857,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Rajshahi",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Rangpur Medical College",
+    "name": "Rangpur Medical College Hospital, Rangpur",
+    "coord": {
+      "latitude": 25.7667,
+      "lat_direction": "N",
+      "longitude": 89.2342,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Rashmono General Hospital, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Royal Hospital and research Center Ltd., Chittagong",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Royal Hospital And Research Center Ltd., Chittagong",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Saint Martin Hospital",
+    "name": "Saint Martin Hospital[17]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Samorita Hospital Ltd.",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "[18]",
+    "name": "Saphena Women's Dental College & Hospital[18]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Shaheed Monsur Ali Medical College Hospital, Dhaka",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Shaheed Ziaur Rahman Medical College Hospital",
+    "name": "Shaheed Ziaur Rahman Medical College Hospital, Bogra",
+    "coord": {
+      "latitude": 24.828,
+      "lat_direction": "N",
+      "longitude": 89.3531,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Bogra",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "Shalahuddin Hospital",
+    "coord": {},
+    "location_names": [
+      "Bogra",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Sheikh Fazilatunnessa Mujib Memorial KPJ Specialized Hospital & Nursing College",
+    "name": "Sheikh Fazilatunnessa Mujib Memorial KPJ Specialized Hospital & Nursing College",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Sher-e-Bangla Medical College",
+    "name": "Sher-e-Bangla Medical College Hospital, Barisal",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Siddiqia Eye Foundation, Mymensingh",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Sir Salimullah Medical College",
+    "name": "Sir Salimullah Medical College & Mitford Hospital, Dhaka",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Square Hospital Ltd.",
+    "name": "Square Hospital Ltd., Dhaka[19]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": null,
+    "name": "Sylhet Eye Hospital & Laser Centre",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Sylhet Maa O Shishu Hospital",
+    "name": "Sylhet Maa O Shishu Hospital[20]",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Sylhet Medical College Hospital",
+    "name": "Sylhet Medical College Hospital",
+    "coord": {
+      "latitude": 24.9005,
+      "lat_direction": "N",
+      "longitude": 91.8532,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Sylhet Women's Medical College",
+    "name": "Sylhet Women's Medical College",
+    "coord": {
+      "latitude": 24.8986,
+      "lat_direction": "N",
+      "longitude": 91.8725,
+      "long_direction": "E"
+    },
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": null,
+    "name": "The Medical College for Women and Hospital",
+    "coord": {},
+    "location_names": [
+      "Sylhet",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "[21]",
+    "name": "Union Specialized Hospital Limited, Aftabnagor, Dhaka[21]",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": null,
+    "name": "Z.H. Sikder Women's Medical College and Hospital (Pvt.) Ltd.",
+    "coord": {},
+    "location_names": []
+  },
+  {
+    "core_name": "Shaheed Ahsan Ullah Master General Hospital",
+    "name": "Shaheed Ahsan Ullah Master General Hospital",
+    "coord": {
+      "latitude": 23.8933902,
+      "lat_direction": "N",
+      "longitude": 90.4022109,
+      "long_direction": "E"
+    },
+    "location_names": []
+  },
+  {
+    "core_name": "Shaheed Suhrawardy Medical College & Hospital",
+    "name": "Shaheed Suhrawardy Medical College & Hospital",
+    "coord": {},
+    "location_names": [
+      "Sher-e-Bangla Nagor",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  },
+  {
+    "core_name": "Ayesha Haque Hospital, Beanibazar, Sylhet",
+    "name": "Ayesha Haque Hospital, Beanibazar, Sylhet",
+    "coord": {},
+    "location_names": null
+  },
+  {
+    "core_name": "Charkhai Multicare Hospital, Beanibazar, Sylhet",
+    "name": "Charkhai Multicare Hospital, Beanibazar, Sylhet",
+    "coord": {},
+    "location_names": null
+  }
+]

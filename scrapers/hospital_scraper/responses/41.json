@@ -1,0 +1,1007 @@
+{
+    "draw": 41,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "DIGILAB MEDICAL SERVICES LTD.",
+            "HSM65223",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Pallabi",
+            " House #02, Road # 06, Block #A, Section -10, Mirpur, Dhaka"
+        ],
+        [
+            2,
+            "DIGILAB MEDICAL SERVICES LTD. (RAMPURA BRANCH)",
+            "HSM13479",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "464/H, DIT ROAD, WEST RAMPURA, DHAKA-1217"
+        ],
+        [
+            3,
+            "DIGINALA DIAGNOSTIC CENTER",
+            "HSM17611",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachhari",
+            "Dighinala",
+            "VILL- LARMA SQUARE, COLLEGE GATE, DIGHINALA, KHAGRACHARI."
+        ],
+        [
+            4,
+            "DIGIPATH MEDICAL SERVICES",
+            "HSM56752",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "SHROMIC  BHABON, SHER-E- BANGLA SARAK, HAMDAH, JHENAIDAH"
+        ],
+        [
+            5,
+            "DIGITAL  DIAGNOSTIC COMPLEX ",
+            "HSM28938",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Sreepur",
+            "Sreepur  Bazar, Sreepur Magura.Bangladesh. "
+        ],
+        [
+            6,
+            "Digital  X - Ray Centre",
+            "HSM15438",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Sadar Hospital Road, Gaibandha"
+        ],
+        [
+            7,
+            "Digital Akanda Pathology",
+            "HSM33546",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Haluaghat",
+            "\u09b9\u09be\u09b2\u09c1\u09df\u09be\u0998\u09be\u099f, \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            8,
+            "Digital Apollo Diagnostic Center",
+            "HSM57961",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Sadar Road, Mahipur, Kolapara, Patuakhali"
+        ],
+        [
+            9,
+            "Digital Blood Bank & Transfusion Centre",
+            "HSM97308",
+            "Blood Bank",
+            "",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College Road,Kodalia,Tangail"
+        ],
+        [
+            10,
+            "Digital Clinic  & Nursing Home",
+            "HSM54675",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Ghatail",
+            " Ghatail, Tangail"
+        ],
+        [
+            11,
+            "Digital Clinic & Diagnostic  Center",
+            "HSM11629",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "upazila Moor,Fakirhat,Bagerhat"
+        ],
+        [
+            12,
+            "Digital Clinic & Diagnostic Center",
+            "HSM07548",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Fakirhat",
+            "Upazila Moor,Fakirhat,Bagerhat"
+        ],
+        [
+            13,
+            "Digital Clinic & Nursing Home",
+            "HSM90461",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "Ghatail, Tangail"
+        ],
+        [
+            14,
+            "Digital Clinic Rajbari",
+            "HSM25092",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Village- Sajjankanda, Rajbari."
+        ],
+        [
+            15,
+            "Digital Clinic Rajbari",
+            "HSM67944",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Village- Sajjankanda, Rajbari."
+        ],
+        [
+            16,
+            "DIGITAL DENTAL SURGERY",
+            "HSM36014",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Coxs Bazar",
+            "Chakaria",
+            "Madrasah Market, Hospital Road, Chiringa, Chakaria, Coxs Bazar."
+        ],
+        [
+            17,
+            "Digital Diagnostatic centre.",
+            "HSM57922",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Belkuchi",
+            "Mukundogatnti, Belkuchi, Sirajganj."
+        ],
+        [
+            18,
+            "Digital Diagnostic  Centre",
+            "HSM57131",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "College road, Agailjhara, Barisal."
+        ],
+        [
+            19,
+            "Digital Diagnostic & Consultation Center",
+            "HSM65646",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhalokati",
+            "Nalchity",
+            "364, Hospital Road, Nalchity, Jhalokathi."
+        ],
+        [
+            20,
+            "Digital Diagnostic & Consultation Center",
+            "HSM39258",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "64,Islampur Road, Shantidham More, Khulna"
+        ],
+        [
+            21,
+            "Digital Diagnostic & Consultation Centre",
+            "HSM98388",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Shyamnagar",
+            "Hospital Road (Hazi Arshad Ali Super Market) Shyamnagar. Satkhira."
+        ],
+        [
+            22,
+            "Digital Diagnostic & Consultation Centre",
+            "HSM43111",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Tungipara",
+            "Hospital Road, Tongipara, Gopalgonj."
+        ],
+        [
+            23,
+            "Digital Diagnostic & CT Scan Center",
+            "HSM50680",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "In-front of Sadar Hospital Satkhira. Khulna Road more Polashpole, Satkhira. "
+        ],
+        [
+            24,
+            "DIGITAL DIAGNOSTIC CENTE",
+            "HSM04319",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jessore Sadar",
+            "ghop Jail Road,kotwail,Jessore"
+        ],
+        [
+            25,
+            "Digital Diagnostic Center",
+            "HSM98911",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "\u09ad\u09ac\u09be\u09a8\u09c0\u0997\u09cd\u099e\u09cd\u099c \u09a1\u09bf\u0997\u09cd\u09b0\u09bf \u0995\u09b2\u09c7\u099c \u09ae\u09cb\u09dc, \u09a5\u09be\u09a8\u09be: \u09ac\u09be\u0997\u09ae\u09be\u09b0\u09be, \u099c\u09c7\u09b2\u09be: \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0"
+        ],
+        [
+            26,
+            "Digital Diagnostic Center",
+            "HSM34443",
+            "Diagnostic Center",
+            "Category-A",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Adjoins of  chief judicial magistrate Building.  Polashpole. Satkhira  "
+        ],
+        [
+            27,
+            "Digital Diagnostic Center",
+            "HSM62863",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "Village: West Shanuhar, Post: Bamrail, Thana: Wazirpur, Dist: Barisal."
+        ],
+        [
+            28,
+            "Digital Diagnostic Center",
+            "HSM96778",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Damudya",
+            "Hospital Gait, Damudya, Shariatpur"
+        ],
+        [
+            29,
+            "DIGITAL DIAGNOSTIC CENTER",
+            "HSM56886",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Madhabpur",
+            "MADHABPUR BAZAR, MADHABPUR, HABIGANJ."
+        ],
+        [
+            30,
+            "DIGITAL DIAGNOSTIC CENTER",
+            "HSM28567",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "infront of shadar thana gate shalgaria, Pabna."
+        ],
+        [
+            31,
+            "Digital Diagnostic Center",
+            "HSM03051",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Village : Balasur, Post : Bhaggayakul, Upazilla : Sreenagar, District : Munshiganj Post Code : 1556"
+        ],
+        [
+            32,
+            "Digital Diagnostic Center",
+            "HSM17981",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Companiganj",
+            "Thana Bazar,(uhc main gait).Company gonj,Sylhet."
+        ],
+        [
+            33,
+            "Digital Diagnostic Center",
+            "HSM17845",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Madhupur",
+            "Jamalpur Road,Modhupur,Tangail"
+        ],
+        [
+            34,
+            "Digital Diagnostic Center",
+            "HSM18873",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Lalmohan",
+            "Hospital Gate,Lalmohan,Bhola."
+        ],
+        [
+            35,
+            "DIGITAL DIAGNOSTIC CENTER & DOCTOR CARE ",
+            "HSM59726",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Nalitabari",
+            "Gorkanda, Nalitabari, Sherpur"
+        ],
+        [
+            36,
+            "Digital Diagnostic Center, ",
+            "HSM57159",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Hospital Road, Banaripara, Barisal"
+        ],
+        [
+            37,
+            "DIGITAL DIAGNOSTIC CENTER.",
+            "HSM50620",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dakshinkhan",
+            "325/1, SHAH KABIR MAZAR ROAD, DAKSHIN KHAN, DHAKA-1230"
+        ],
+        [
+            38,
+            "DIGITAL DIAGNOSTIC CENTRE",
+            "HSM34047",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Medical College Road, Dinajpur Sadar, Dinajpur."
+        ],
+        [
+            39,
+            "Digital Diagnostic Centre",
+            "HSM93303",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Holding No. 782, Master Bhaban, Sadar Hospital Road"
+        ],
+        [
+            40,
+            "DIGITAL DIAGNOSTIC CENTRE",
+            "HSM62159",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "Hardi, Alamdanga, Chuadanga"
+        ],
+        [
+            41,
+            "Digital Diagnostic Centre",
+            "HSM63655",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khalishpur",
+            "B.I.D.C Road, Alamnagar, Khalishpur, Khulna "
+        ],
+        [
+            42,
+            "Digital Diagnostic Centre, Gopalganj.",
+            "HSM54877",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "144, Post Office More, Gopalganj."
+        ],
+        [
+            43,
+            "Digital Diagnostic Complex",
+            "HSM01160",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Boda",
+            "Thana Road, Boda, Panchagarh."
+        ],
+        [
+            44,
+            "Digital Diagnostic Lab",
+            "HSM99617",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "In Front of Sher-E-Bangla Medical Collage & Hospital, Band Road, Barisal."
+        ],
+        [
+            45,
+            "DIGITAL DIAGNSOTIC CENTRE",
+            "HSM34450",
+            "Diagnostic Center",
+            "Category-B",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Puratan Court,Main Road,Bagerhat"
+        ],
+        [
+            46,
+            "Digital Diagonostic Center",
+            "HSM52388",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "Hospital Road Durgapur"
+        ],
+        [
+            47,
+            "Digital Family Care Diagnostic & Consultation Centre",
+            "HSM13897",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kamrangir Char",
+            "46, Borogram, Kamranghirchor, Dhaka"
+        ],
+        [
+            48,
+            "Digital Fast Aid Diagnostic Center",
+            "HSM85821",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kamrangir Char",
+            "Dhaka"
+        ],
+        [
+            49,
+            "Digital Fast Aid Hospital Limited",
+            "HSM50420",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kamrangir Char",
+            "Dhaka"
+        ],
+        [
+            50,
+            "DIGITAL HEALTH CARE CLINIC",
+            "HSM62907",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Sohag Hotel Bhaban(2nd Floor) 144 Post office More, Gopalganj."
+        ],
+        [
+            51,
+            "DIGITAL HOSPITAL",
+            "HSM56376",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Baghmara",
+            "Bhabaniganj, Bagmara, Rajshahi"
+        ],
+        [
+            52,
+            "DIGITAL HOSPITAL",
+            "HSM11586",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Gopalpur, Lahiri Para, Pabna Sadar, Pabna"
+        ],
+        [
+            53,
+            "DIGITAL HOSPITAL",
+            "HSM07574",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Sreepur",
+            "Sreepur Bazar, Sreepur , Magura.Bangladesh."
+        ],
+        [
+            54,
+            "Digital Hospital & Diagnostic Center",
+            "HSM50460",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Station Road, Shohid Minar, Purbadhala, Netrokona."
+        ],
+        [
+            55,
+            "DIGITAL lAB",
+            "HSM19619",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "Vill;-:-Chaltabari,Post:-Vangerhat,Thana:-kotalipara,Dist:-Gopalganj."
+        ],
+        [
+            56,
+            "DIGITAL LAB",
+            "HSM39033",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Sonagazi",
+            "Dagbangla, Sonagazi, Feni."
+        ],
+        [
+            57,
+            "DIGITAL LAB & IMAGING CENTER",
+            "HSM25848",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Dakshin",
+            "NARAYONPUR BAZAR, MATLAB SOUTH,  CHANDPUR."
+        ],
+        [
+            58,
+            "DIGITAL LAB AND ASTHMA CARE CENTER",
+            "HSM53176",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Ulipur",
+            "\u09aa\u09c2\u09b0\u09cd\u09ac\u09ac\u09be\u099c\u09be\u09b0, \u0989\u09b2\u09bf\u09aa\u09c1\u09b0, \u0995\u09c1\u09dc\u09bf\u0997\u09cd\u09b0\u09be\u09ae\u0964"
+        ],
+        [
+            59,
+            "DIGITAL LAB AND CONSULTATION CENTER",
+            "HSM89759",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Ulipur",
+            "\u0997\u09cd\u09b0\u09be\u09ae\u0983 \u09a5\u09be\u09a8\u09be \u09ae\u09cb\u09dc (\u09ae\u09c1\u09a8\u09cd\u09b8\u09bf\u09aa\u09be\u09dc\u09be), \u09aa\u09cb\u09b7\u09cd\u099f\u0983 \u0989\u09b2\u09bf\u09aa\u09c1\u09b0,  \u0989\u09b2\u09bf\u09aa\u09c1\u09b0, \u099c\u09c7\u09b2\u09be\u0983 \u0995\u09c1\u09dc\u09bf\u0997\u09cd\u09b0\u09be\u09ae\u0964"
+        ],
+        [
+            60,
+            "DIGITAL LAB HOSPITAL",
+            "HSM46975",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "BISIC ROAD, RAMBARI, SHAHJADPUR, SIRAJGANJ"
+        ],
+        [
+            61,
+            "DIGITAL LAB HOSPITAL",
+            "HSM35549",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "BISIC ROAD, RAMBARI, SHAHJADPUR, SIRAJGANJ"
+        ],
+        [
+            62,
+            "DIGITAL LIFE CARE MEDICAL SERVICES",
+            "HSM63398",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barisal Sadar",
+            "07, Zila Parishad  Market , Band Road, Barisal."
+        ],
+        [
+            63,
+            "DIGITAL MEDI LAB ",
+            "HSM43493",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "Hospital Road, Paschimpara, kotalipara, Gopalganj."
+        ],
+        [
+            64,
+            "Digital Medical Services",
+            "HSM81486",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Joydevpur Road ,Chandana Chowrasta,Gazipur."
+        ],
+        [
+            65,
+            "DIGITAL MEDICAL SERVICES & HOSPITAL",
+            "HSM91732",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Hazi Afser Plaza ,Noljani,Chowrasta,Joydebpur Road,Gazipur."
+        ],
+        [
+            66,
+            "DIGITAL MEMORY DIAGNOSTIC CENTER",
+            "HSM38118",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "245/3, Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            67,
+            "Digital Modarn Daiagnostic Center",
+            "HSM98344",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Sadar Hospital Road, Chuadanga"
+        ],
+        [
+            68,
+            "Digital Modern Diagnostic Center",
+            "HSM36386",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Earshad Hossain Road, Pat Bazar, Ramgonj, Lakshmipur"
+        ],
+        [
+            69,
+            "Digital Pias Diagnostic Center",
+            "HSM49476",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "Lohagara,Narail,Bangladesh."
+        ],
+        [
+            70,
+            "DIGITAL PRIVATE HOSPITAL ",
+            "HSM87074",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "Hazi Abdul  Hamid Shorok  , Magura Sadar, Magura. Bangladesh."
+        ],
+        [
+            71,
+            "Digital Seba Hospital (Pvt) Netrokona",
+            "HSM56092",
+            "Diagnostic Center",
+            "Category-B",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Madan Basttend, Bonoyapara, Netrakona, Mymensingh."
+        ],
+        [
+            72,
+            "Digital Seba Hospital (Pvt) Netrokona",
+            "HSM99819",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Madan Basttend, Bonoyapara, Netrakona,Mymensingh."
+        ],
+        [
+            73,
+            "digital semanta pathology and  diagnostic center",
+            "HSM12921",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Haluaghat",
+            "old busstand, haluaghat,mymensingh"
+        ],
+        [
+            74,
+            "DIGITAL SQUARE HOSPITAL",
+            "HSM10462",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Chunkutia Chowrasta, South Keranigonj, Dhaka"
+        ],
+        [
+            75,
+            "DIGITAL SQUARE HOSPITAL",
+            "HSM38477",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Chunkutia Chowrasta, South Keranigonj, Dhaka"
+        ],
+        [
+            76,
+            "DIGONTO DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM26495",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "IN FRONT OF S Z M C H, SILIMPUR, BOGURA."
+        ],
+        [
+            77,
+            "DIGONTO HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM05531",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chapainawabganj",
+            "Gomastapur",
+            "Dhakbanglapara Mor, Rohanpur, Gomastapur, Chapainawabganj."
+        ],
+        [
+            78,
+            "DIGONTO HOSPITAL & DIAGNOSTIC CENTER (LAB)",
+            "HSM27622",
+            "Diagnostic Center",
+            "Category-B",
+            "Chapainawabganj",
+            "Gomastapur",
+            "Dhakbanglapara Mor, Rohanpur, Gomastapur, Chapainawabganj."
+        ],
+        [
+            79,
+            "DILOWARA MEDICAL & DIAGNOSTIC CENTRE",
+            "HSM25635",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bajitpur",
+            "SARARACHAR BAZAR, BAJITPUR, KISHOREGANJ"
+        ],
+        [
+            80,
+            "DIN HOSPITAL",
+            "HSM47522",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Kadomtali golchattar,golambazar road keranigonj model.dhaka."
+        ],
+        [
+            81,
+            "DIN HOSPITAL",
+            "HSM34619",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Kadomtoly Goll Chattar, Golambazar Road, Keraniganj model. Dhaka 1310."
+        ],
+        [
+            82,
+            "DINA DIAGNOSTIC CENTRE",
+            "HSM82411",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Durgapur",
+            "Durgapur Medical gate, Durgapur, Rajshahi."
+        ],
+        [
+            83,
+            "DINAJPUR PARALYSIS O PROTIBONDHIDHER PUNORBASHON KANDRO HOSPITAL",
+            "HSM34261",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Noyonpur, Dinajpur Sadar, Dinajpur"
+        ],
+        [
+            84,
+            "DINAR DIAGNOSTIC",
+            "HSM91059",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "Thana Road, Shatmatha, Bogura Sadar, Bogura."
+        ],
+        [
+            85,
+            "DIP DIAGNOSITC CENTER",
+            "HSM86905",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Burhanuddin",
+            "Saha Road, West Bazar, Kunjerhat, Borhanuddin, Bhola."
+        ],
+        [
+            86,
+            "DIP JELE JAI BHUAPUR EYE HOSPITAL",
+            "HSM39904",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Bhuapur",
+            "BHUAPUR BAZAR, DHUAPUR, TANGAIL"
+        ],
+        [
+            87,
+            "Dip Medical Services",
+            "HSM14221",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Singra",
+            "College Road,Busstand,Singra,Natore"
+        ],
+        [
+            88,
+            "Dip Pathological Lab",
+            "HSM77270",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "Hospital Get, Laxmipasha, Lohagara, Narail."
+        ],
+        [
+            89,
+            "Dip Pathology Centre",
+            "HSM50730",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Main Road, Rajbari."
+        ],
+        [
+            90,
+            "Diploma Pathology \u200d",
+            "HSM09320",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Dakbanglapara, Rohanpur, Gomastapur, Chapanawabganj."
+        ],
+        [
+            91,
+            "DIPON IUI LAB",
+            "HSM70068",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "4s tower,bagura road,sadar,barisal"
+        ],
+        [
+            92,
+            "Dipshikha infertility Care  & counseling center",
+            "HSM98975",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Sreemangal",
+            "College Road, Sreemangal, Mouvibazar"
+        ],
+        [
+            93,
+            "Dipshikha Infertility Care & Counseling Center",
+            "HSM09480",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Sreemangal",
+            "College Road, Sreemangal, Molvibazar"
+        ],
+        [
+            94,
+            "Disha Diagnostic Center & Doctors Cember",
+            "HSM56807",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "Upozila Road, Agailjhara, Barisal"
+        ],
+        [
+            95,
+            "Disha Eye and Mother Care Centre  ",
+            "HSM55315",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            ""
+        ],
+        [
+            96,
+            "Disha Eye Care",
+            "HSM03614",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "201, Coustoms More Road, Chourhash, Kushtia Sadar, Kushtia."
+        ],
+        [
+            97,
+            "DISHA HEALTH CENTRE",
+            "HSM29225",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "28/C, Sehra Dhaka Road, Mymensingh"
+        ],
+        [
+            98,
+            "Dishari Eye Hospital",
+            "HSM56495",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Chandgaon",
+            "3045, Chowdhury Villa, Shah Amanat Bridge Link Road, 17 No. Bakalia Ward, Rahatterphul, Bakalia, Chattogram."
+        ],
+        [
+            99,
+            "Dishary degital Diagnostic & Clinic",
+            "HSM41096",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "shaya dangra kazipur sirajgonj"
+        ],
+        [
+            100,
+            "Dishary Digital Diagonostic & Clinic",
+            "HSM49630",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "Shaya dangra kazipur sirajgonj "
+        ]
+    ]
+}

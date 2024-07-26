@@ -1,0 +1,1007 @@
+{
+    "draw": 70,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Janani Clinic",
+            "HSM29055",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Akkelpur, Gomastapur, Chapainawabganj"
+        ],
+        [
+            2,
+            "JANANI CLINIC & DIAGNASTIC CENTRE",
+            "HSM17285",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullah Para",
+            "KOYRA CHAKPARA, ULLAPARA"
+        ],
+        [
+            3,
+            "JANANI CLINIC & NURSING HOME",
+            "HSM19416",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            4,
+            "JANANI CLINIC & NURSING HOME (DIAGNOSTIC)",
+            "HSM73040",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            5,
+            "Janani Clinic(Lab)",
+            "HSM73695",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Akkelpur, Gomastapur, Chapainawabganj"
+        ],
+        [
+            6,
+            "Janani Clinical Lab",
+            "HSM52701",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Jamalpur Super Marker, Bariyerhat Pouroshava, Chattogram."
+        ],
+        [
+            7,
+            "Janani Computerized Lab",
+            "HSM22312",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            8,
+            "Janani Computerized Lab and Doctors Chamber ",
+            "HSM66893",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Kabirhat",
+            "Hospital Road, Kabirhat, Noakhali"
+        ],
+        [
+            9,
+            "Janani Diagnostic & Nursing Home ",
+            "HSM41556",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Bhatara",
+            "Ka-61/3, Kuril, Vatara, Dhaka-1229."
+        ],
+        [
+            10,
+            "JANANI DIAGNOSTIC CENTER",
+            "HSM94735",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Singra",
+            "H NO:70, Hospital Gate, Kantapukuria, PO: Singra, PS: Singra, Dist: Natore"
+        ],
+        [
+            11,
+            "Janani Diagnostic Center",
+            "HSM29753",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Panchuria,Gopalganj."
+        ],
+        [
+            12,
+            "JANANI DIAGNOSTIC CENTER",
+            "HSM78735",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Zilla Hospital Road, Narayanpur, Sherpur Town, Sherpur."
+        ],
+        [
+            13,
+            "Janani Diagnostic Center & General Hospital",
+            "HSM94589",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Mahadebpur",
+            "Litchu Bagan, Mohadevpur, Naogaon"
+        ],
+        [
+            14,
+            "Janani Diagnostic Center & General Hospital",
+            "HSM44122",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Mahadebpur",
+            "Litchu Bagan, Mohadevpur, Naogaon"
+        ],
+        [
+            15,
+            "JANANI DIAGNOSTIC CENTER.",
+            "HSM43741",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Madhukhali",
+            "MORTOJA COMPLEX, MADHUKHALI, FARIDPUR."
+        ],
+        [
+            16,
+            "JANANI DIAGNOSTIC CENTRE ",
+            "HSM25672",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Bagha",
+            "Uttor melic bagha, Po -Bagha(6280), Thana- Bagha, Rajshahi "
+        ],
+        [
+            17,
+            "Janani Diagnostic Centre",
+            "HSM97036",
+            "Diagnostic Center",
+            "Category-B",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Front Of Post Office,Mainroad,Bagerhat"
+        ],
+        [
+            18,
+            "Janani Diagnostic Centre",
+            "HSM35281",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Fenchuganj",
+            "Faridpur, Noyabazar, Sharkarkhana, Fenchugonj, Sylhet"
+        ],
+        [
+            19,
+            "Janani Diagnostic Centre",
+            "HSM28200",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Amin Tower, 2nd Floor, Trunk Road, Feni"
+        ],
+        [
+            20,
+            "JANANI DIAGNOSTIC LAB",
+            "HSM93293",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "Abul Hossain Market (Near by Post Office). D.T. Road, Sitakund Pourasadar, Sitakund, Chattogram."
+        ],
+        [
+            21,
+            "Janani Diagonostic Center",
+            "HSM98978",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Jawtala, Cumilla"
+        ],
+        [
+            22,
+            "Janani Digital Diagnostic Centre",
+            "HSM87801",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Madhupur",
+            "Hospital Gate modhupur,Tangail"
+        ],
+        [
+            23,
+            "JANANI GENERAL (PVT.) HOSPITAL",
+            "HSM90483",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Zilla Hospital Road, Narayanpur, Sherpur Town, Sherpur. "
+        ],
+        [
+            24,
+            "Janani General Hospital",
+            "HSM85606",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding: 228, Hospital Road, Maijdee Court, Sadar, Noakhali"
+        ],
+        [
+            25,
+            "Janani General Hospital & Normal Delivery Center ",
+            "HSM72059",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Kabirhat",
+            "Hospital Road, Kabirhat, Noakhali"
+        ],
+        [
+            26,
+            "JANANI LAB & DIAGNOSTIC CENTER",
+            "HSM52635",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Charfession",
+            "HOSPITAL ROAD, CHARFASSION, BHOLA."
+        ],
+        [
+            27,
+            "JANANI MEDICAL CENTRE",
+            "HSM17200",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Chandina",
+            "Chandina Bazar, Chandina, Comilla"
+        ],
+        [
+            28,
+            "JANANI MEDICAL CENTRE",
+            "HSM10979",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Chandina Bazar, Chandina, Comilla"
+        ],
+        [
+            29,
+            "JANANI MEDICAL SERVICES",
+            "HSM82039",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Sucher Bazar, Kachua, Chandpur"
+        ],
+        [
+            30,
+            "Janani Nursing Home",
+            "HSM41558",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Taragunia Bazar, Daulatpur, Kushtia."
+        ],
+        [
+            31,
+            "janani nursing home",
+            "HSM58231",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "17/a charpara, sadar, mymesingh"
+        ],
+        [
+            32,
+            "JANANI PATHOLOGY & DIATBAIC CENTER.",
+            "HSM49454",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jhikargacha",
+            "Hospital Gate, Jhikargacha, Jashore-7420"
+        ],
+        [
+            33,
+            "Janani Rog Nirnay O Chikitsa Kendro",
+            "HSM89890",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "Bonarpara, Shaghata, Gaibandha"
+        ],
+        [
+            34,
+            "Janani Surgi Care Clinic",
+            "HSM74968",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "129, Panchuria, Gopalganj Sadar,Gopalganj"
+        ],
+        [
+            35,
+            "Janani Surgical Clinic",
+            "HSM64996",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kotalipara",
+            "Bagan uttarapara, Kotalipara, Gopalganj."
+        ],
+        [
+            36,
+            "Jananni Dental Care",
+            "HSM06802",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Sunamganj",
+            "Tahirpur",
+            "Badaghat Bazar, Tahirpur, Sunamganj"
+        ],
+        [
+            37,
+            "janany Diagnostic Centre ",
+            "HSM97679",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Fatikchari",
+            "Nazirhat Fatickchori Chittagong "
+        ],
+        [
+            38,
+            "Janany Maa Shisu O General Hospital",
+            "HSM41784",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Fatikchari",
+            "Nazirhat,Fatickchari,Ctg"
+        ],
+        [
+            39,
+            "JANAPRIYA DIAGNOSTIC CENTRE",
+            "HSM28226",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            " Mathbaria, Pirojpur Bangladesh"
+        ],
+        [
+            40,
+            "Janaseba Clinic",
+            "HSM55233",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Budhata, Assasuni, Satkhira"
+        ],
+        [
+            41,
+            "Janaseba Clinic & Diagnostic Center",
+            "HSM90666",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Sharsha",
+            "Baguri (Bagachra), Shrsha, Jessore"
+        ],
+        [
+            42,
+            "Janaseba Clinic & Diagnostic Centre.",
+            "HSM47434",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Rupsa",
+            "JoypurPurbo Rupsa,Rupsa,khulna."
+        ],
+        [
+            43,
+            "Janaseba Clinic& Diagnostic Centre.",
+            "HSM37987",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Rupsa",
+            "Joypur,Purbo Rupsa,Rupsa,Khulna."
+        ],
+        [
+            44,
+            "Janaseba Diagnostic Center",
+            "HSM09507",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur Upazila",
+            "Azizar Rahman Street, Saidpur, Nilphamari"
+        ],
+        [
+            45,
+            "Janaseba Diagnostic Center ",
+            "HSM46675",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Assasuni",
+            "Budhata, Assasuni, Satkhira"
+        ],
+        [
+            46,
+            "Janaseba Diagnostic Center",
+            "HSM05651",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachhari",
+            "Manikchhari",
+            "VILL- MANIKCHARI BAZAR, MANIKCHARI, KHAGRACHARI."
+        ],
+        [
+            47,
+            "Janaseba Diagnostic Center",
+            "HSM66247",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Sharsha",
+            "Baguri (Bagachra), sharsha, Jashore"
+        ],
+        [
+            48,
+            "Janaseba Diagnostic Centre",
+            "HSM51886",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Pangsha",
+            "Pangsha, Rajbari."
+        ],
+        [
+            49,
+            "JANASEBA DIAGNOSTIC CENTRE",
+            "HSM23304",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "Station Road, Bheramara, Kushtia."
+        ],
+        [
+            50,
+            "Janaseba Diagnostic Centre",
+            "HSM47773",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Narayanhat, Bhujpur, Fatikchhari, Chittagong"
+        ],
+        [
+            51,
+            "Janaseba Digital Diagnostic Centre",
+            "HSM60249",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Bahubal",
+            "Hospital Area.Bahubol.Habiganj"
+        ],
+        [
+            52,
+            "JANASEBA GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM63672",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Serajdikhan",
+            "Awlad Hossen Super Market (1st Floor), Shikarpur-Nimtala-1540 Bazar, Sirajdikhan, Munshiganj"
+        ],
+        [
+            53,
+            "JANASEBA GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM85643",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Awlad Hossen Super Market (1st Floor), Shikarpur-Nimtala-1540 Bazar, Sirajdikhan, Munshiganj"
+        ],
+        [
+            54,
+            "Janaseba Hospital & Diagnostic Center",
+            "HSM31613",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Moulovir Dokan"
+        ],
+        [
+            55,
+            "JANASEBA HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM04052",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "BHUIYAN MEDICINE MARKET, SABALIA ROAD, TANGAIL."
+        ],
+        [
+            56,
+            "JANASEBA HOSPITAL & LAB    ",
+            "HSM11999",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Araihazar",
+            "ESHAN CHAYABITHI PARA, ARAIHAZAR, NARAYANGANJ"
+        ],
+        [
+            57,
+            "JANASEBA HOSPITAL & LAB   ",
+            "HSM09421",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Araihazar",
+            "ESHAN CHAYABITHI PARA, ARAIHAZAR, NARAYANGANJ"
+        ],
+        [
+            58,
+            "Janaseba Hospital and Digital Diagnostic Center",
+            "HSM13395",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Homna",
+            "Govt. Hospital Road, Homna, Cumilla"
+        ],
+        [
+            59,
+            "Janaseba Medical Center",
+            "HSM10231",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Ghior",
+            "Upazila Hospital Gate, Ghior, Manikgonj."
+        ],
+        [
+            60,
+            "Janaseba Pathology Center",
+            "HSM08361",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Kalia",
+            "Hospital Gate, Kalia, Narail"
+        ],
+        [
+            61,
+            "JANASHABA MEDICAL HALL & DIAGNOSTIC CENTER",
+            "HSM38405",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "RAMPUR BAZAR, HAJIGANJ, CHANDPUR."
+        ],
+        [
+            62,
+            "JANASHEBA CLINIC",
+            "HSM04369",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            63,
+            "JANASHEBA CLINIC (PATHOLOGY)",
+            "HSM89670",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            64,
+            "JANASHEBA DIAGNOSIS",
+            "HSM08398",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Central Bus Terminal, R.K Road, Rangpur."
+        ],
+        [
+            65,
+            "Janasheba Diagnostic Center",
+            "HSM17295",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Juri",
+            "Juri Maulvibazar"
+        ],
+        [
+            66,
+            "Janasheba Diagnostic Center",
+            "HSM15840",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Austagram",
+            "Austagram Boro Bazar, Austagram, Kishoreganj."
+        ],
+        [
+            67,
+            "Janasheba General Hospital (PVT)",
+            "HSM70368",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Lakshmipur",
+            "Roypur",
+            "Janasheba General Hospital (PVT), Raipur, Lakshmipur"
+        ],
+        [
+            68,
+            "Janasheba General Hospital (PVT)",
+            "HSM63998",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Raipur",
+            "Janasheba General Hospital (PVT),  Near at hospital Gate, Roypur, Lakshmipur"
+        ],
+        [
+            69,
+            "Janasheba Health Centre",
+            "HSM86999",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "259/1 POURO MOHILA COLLEGE ROAD BOTRISH, KISHOREGANJ"
+        ],
+        [
+            70,
+            "JANASHEBA NURSING HOME  AND DIAGNOSTIC CENTER",
+            "HSM24794",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "16/19C, Block-B, Babor Raod, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            71,
+            "JANASHEBA NURSING HOME  AND DIAGNOSTIC CENTER",
+            "HSM02050",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "16/19C, Block-B, Babor Raod, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            72,
+            "JANASHEBA PATHOLOGY CLINIC KALIHATI",
+            "HSM73597",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Baghutia, Kalihati, Tangail"
+        ],
+        [
+            73,
+            "Janata  Clinice and Nursing center",
+            "HSM25894",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Sagarpara Dhap Rangpur(\u09b8\u09cd\u09a5\u09be\u09a8 \u09aa\u09b0\u09bf\u09ac\u09b0\u09cd\u09a4\u09a8) Islambag RK Road Rangpur"
+        ],
+        [
+            74,
+            "JANATA  DIAGNOSTIC CENTER",
+            "HSM39112",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Emran Complax Emran Farmasi Ait Bazar Karanigonj Model Dhaka 1312"
+        ],
+        [
+            75,
+            "JANATA CLINIC",
+            "HSM26119",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Chauhali",
+            "K,G More,Enayetpur,chowhali,Sirajgonj"
+        ],
+        [
+            76,
+            "JANATA CLINIC",
+            "HSM15455",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Kotchandpur",
+            "Hospital Road, Kotchandpur, Jhenaidah"
+        ],
+        [
+            77,
+            "Janata Clinic",
+            "HSM32299",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Baghmara",
+            "Surjopara,Bhawanigonj, Baghmara, Rajshahi"
+        ],
+        [
+            78,
+            "Janata Clinic",
+            "HSM20909",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Nageshwari",
+            "Bus Stand, Nageshwari, Kurigram"
+        ],
+        [
+            79,
+            "Janata Clinic",
+            "HSM31877",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Hospital Road, Baro Bazar, Meherpur"
+        ],
+        [
+            80,
+            "JANATA CLINIC & DIAGNOSTIC CENTER",
+            "HSM67750",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "College Road, Chatmohor, Pabna"
+        ],
+        [
+            81,
+            "JANATA CLINIC & DIAGNOSTIC CENTER",
+            "HSM18872",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "BARO BAZAR, NILPHAMARI"
+        ],
+        [
+            82,
+            "JANATA CLINIC & DIAGNOSTIC CENTER",
+            "HSM85033",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "BARO BAZAR, NILPHAMARI"
+        ],
+        [
+            83,
+            "Janata Clinic & Diagnostic Centre",
+            "HSM04808",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Mistripara, Sadar Hospital Road, Chapai Nawabgonj"
+        ],
+        [
+            84,
+            "JANATA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM16203",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Chatmohar",
+            "College Road, Chatmohor, Pabna"
+        ],
+        [
+            85,
+            "JANATA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM95227",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapainawabganj",
+            "Chapainawabganj Sadar",
+            "Mistripara, Sadar Hospital Road, Chapainawabganj."
+        ],
+        [
+            86,
+            "Janata Clinic & Nursing Home",
+            "HSM70520",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Main Road, Tangail Sadar, Tangail"
+        ],
+        [
+            87,
+            "Janata Clinic & Nursing Home",
+            "HSM95795",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Main Road, Tangail Sadar, Tangail"
+        ],
+        [
+            88,
+            "JANATA CLINIC & NURSING HOME",
+            "HSM37945",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Mohazonepara, Newtown, Sadar, Dinajpur"
+        ],
+        [
+            89,
+            "Janata Diagnostic & Consultation Center,",
+            "HSM63209",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Jhotala, Comilla"
+        ],
+        [
+            90,
+            "Janata Diagnostic & Consultation Centre ",
+            "HSM02902",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "New Bus Terminal Road, Mohonpur, Habiganj."
+        ],
+        [
+            91,
+            "JANATA DIAGNOSTIC CENTER",
+            "HSM80613",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Chauhali",
+            "KEZIMORE,ENAYETPUR,CHWHALI,SIRAJGONJ"
+        ],
+        [
+            92,
+            "Janata Diagnostic Center  ",
+            "HSM09262",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Harinakunda",
+            "Hospital Moor, Harinakunda, Jhenaidah"
+        ],
+        [
+            93,
+            "JANATA DIAGNOSTIC CENTER",
+            "HSM85836",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "FULBARIA, MUNSHIPARA, JAMALPUR"
+        ],
+        [
+            94,
+            "JANATA DIAGNOSTIC CENTER",
+            "HSM53164",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Burichang",
+            "Burichang, Cumilla."
+        ],
+        [
+            95,
+            "Janata Diagnostic Center",
+            "HSM89199",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Nageshwari",
+            "Bus Stand, Nageshwari, Kurigram"
+        ],
+        [
+            96,
+            "JANATA DIAGNOSTIC CENTER",
+            "HSM13845",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u0997\u09c7\u099f, \u09a4\u09be\u09dc\u09be\u09b6, \u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c\u0964 "
+        ],
+        [
+            97,
+            "JANATA DIAGNOSTIC CENTER",
+            "HSM76049",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Muladi",
+            "Boalia, Sonamuddin Bandar, Muladi, Barishal."
+        ],
+        [
+            98,
+            "Janata Diagnostic Center.",
+            "HSM80556",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Minumoti Nibash, Barisal Road, Faridpur."
+        ],
+        [
+            99,
+            "Janata Diagnostic Centre",
+            "HSM43783",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhupchanchia",
+            "C O Office, Bus Stand, Dupchianchia, Bogra."
+        ],
+        [
+            100,
+            "JANATA DIAGNOSTIC CENTRE",
+            "HSM30303",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "DAUDKANDI, COMILLA"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 67,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Islami Bank Community Hospital Naogaon Ltd",
+            "HSM21129",
+            "Diagnostic Center",
+            "Category-B",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chalkenyet, Doyaler More, Naogaon Sadar, Naogaon"
+        ],
+        [
+            2,
+            "Islami Bank Community Hospital Rangpur Ltd",
+            "HSM10677",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "House No.20, Road No.01, Jail Road, Dhap, Rangpur. "
+        ],
+        [
+            3,
+            "Islami Bank Community Hospital Rangpur Ltd.",
+            "HSM08635",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "House No-20, Road No-01, Jail Road, Dhap, Rangpur."
+        ],
+        [
+            4,
+            "Islami Bank Community Hospital Satkhira Ltd.",
+            "HSM66632",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Narkeltala, Polashpole, Satkhira."
+        ],
+        [
+            5,
+            "Islami Bank Community Hospital Satkhira Ltd.",
+            "HSM26799",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole, Narkeltala, Satkhira."
+        ],
+        [
+            6,
+            "ISLAMI BANK HOSPITAL ",
+            "HSM49848",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Double Mooring",
+            "3, Sheikh Mujib, Road ,Agrabad, Chattoagram."
+        ],
+        [
+            7,
+            "Islami Bank Hospital ",
+            "HSM88270",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Double Mooring",
+            "3, Sheikh Mujib Road, Agrabad, Chattogram. "
+        ],
+        [
+            8,
+            "ISLAMI BANK HOSPITAL AND CARDIAC CENTRE MIRPUR",
+            "HSM60106",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Pallabi",
+            "19-22, Main Road-03, Section-07,Mirpur,Dhaka."
+        ],
+        [
+            9,
+            "ISLAMI BANK HOSPITAL AND CARDIAC CENTRE MIRPUR",
+            "HSM36535",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Pallabi",
+            "Plot : 19-22, Main Road-03, Section-07, Mirpur, Dhaka."
+        ],
+        [
+            10,
+            "ISLAMI BANK HOSPITAL BARISHAL",
+            "HSM68984",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barisal",
+            "Barisal Sadar (kotwali)",
+            "chandmary, band road, barishal"
+        ],
+        [
+            11,
+            "ISLAMI BANK HOSPITAL BARISHAL",
+            "HSM99644",
+            "Diagnostic Center",
+            "Category-A",
+            "Barisal",
+            "Barisal Sadar (kotwali)",
+            "CHANDMARY, BAND ROAD, BARISHAL"
+        ],
+        [
+            12,
+            "ISLAMI BANK HOSPITAL KHULNA",
+            "HSM94142",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "42 Khanjahan Ali Road (Santidham More), GPO-9100, Khulna Sadar, Khulna"
+        ],
+        [
+            13,
+            "Islami Bank Hospital Khulna (Dental Clinic)",
+            "HSM04950",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "42, Khan Jahan Ali Road (Santidham More), Khulna Sadar, Khulna."
+        ],
+        [
+            14,
+            "ISLAMI BANK HOSPITAL MIRPUR",
+            "HSM36881",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Pallabi",
+            "Plot-31, Main Road-3, Block-D, Section-11, \r\nMirpur, Dhaka-1216"
+        ],
+        [
+            15,
+            "ISLAMI BANK HOSPITAL MIRPUR",
+            "HSM16322",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Pallabi",
+            "Plot-31, Main Road-3, Block-D, Section-11, Mirpur, Dhaka-1216"
+        ],
+        [
+            16,
+            "ISLAMI BANK HOSPITAL MIRPUR",
+            "HSM86816",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Pallabi",
+            "Plot-31, Main Road-3, Block-D, Section-11, Mirpur, Dhaka-1216"
+        ],
+        [
+            17,
+            "ISLAMI BANK HOSPITAL MIRPUR",
+            "HSM61569",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Pallabi",
+            "Plot-31, Main Road-3, Block-D, Section-11, Mirpur, Dhaka-1216"
+        ],
+        [
+            18,
+            "Islami Bank Hospital Motijheel",
+            "HSM47433",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Motijheel",
+            "24/B, Outer Circular Road, Motijheel, Dhaka-1217."
+        ],
+        [
+            19,
+            "Islami Bank Hospital Motijheel",
+            "HSM67415",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Motijheel",
+            "24/1, Outer Circula Road, Motijheel, Dhaka-1217"
+        ],
+        [
+            20,
+            "Islami Bank Hospital Motijheel",
+            "HSM59843",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Motijheel",
+            "873, Outer Circular Road, Halim Manson, South Shahjahanpur, Motijheel, Dhaka-1217"
+        ],
+        [
+            21,
+            "Islami Bank Hospital Motijheel, Bhabon-4",
+            "HSM36674",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Motijheel",
+            "Holding # 873, Outer Circular Road, Halim Manson, South Shahjahanpur, Motijheel, Dhaka-1217"
+        ],
+        [
+            22,
+            "Islami Bank Hospital Mugda",
+            "HSM51031",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mugda Para",
+            "1/24/B, South Mugdapara, Dhaka-1214"
+        ],
+        [
+            23,
+            "Islami Bank Hospital Rajshahi",
+            "HSM80559",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, GPO-6000, Rajpara, Rajshahi"
+        ],
+        [
+            24,
+            "Islami Bank Hospital Rajshahi",
+            "HSM22159",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, GPO-6000, Rajpara, Rajshahi"
+        ],
+        [
+            25,
+            "Islami Bank Hospital, Mugda",
+            "HSM77951",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mugda Para",
+            "1/24/B, South Mugdapara, Mugda, 1214"
+        ],
+        [
+            26,
+            "Islami Bank Hospital, Mugda",
+            "HSM02999",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mugda Para",
+            "1/24/B, South Mugdapara, Dhaka-1214 "
+        ],
+        [
+            27,
+            "Islami Bank Hospital, Mugda.",
+            "HSM45310",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Mugda Para",
+            "1/24/B, South mugdapara, Dhaka-1214"
+        ],
+        [
+            28,
+            "Islami Bank Medical College Hospital Blood Bank, Rajshahi",
+            "HSM68928",
+            "Blood Bank",
+            "",
+            "Rajshahi",
+            "Shah Makhdum",
+            "AIRPORT ROAD,  NAWDAPARA, SUPORA, SHAH MAKDUM, RAJSHAHI"
+        ],
+        [
+            29,
+            "Islami Bank Medical College Hospital, Diagnostic Center, Rajshahi",
+            "HSM01320",
+            "Diagnostic Center",
+            "Category-A",
+            "Rajshahi",
+            "Shah Makhdum",
+            "Airport Road, Nawdapara, Supora, Shahmokdam, Rajshahi"
+        ],
+        [
+            30,
+            "Islami Bank Medical College Hospital, Rajshahihi",
+            "HSM81979",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Shah Makhdum",
+            "AIRPORT ROAD, NAWDAPARA, SUPORA, SHAH MUKDAM, RAJSHAHI"
+        ],
+        [
+            31,
+            "ISLAMI BANK SPECIALISED  GENERAL HOSPITAL NAYAPALTAN",
+            "HSM50860",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Paltan",
+            "71/72, VIP Road, Nayapaltan, Dhaka-1000"
+        ],
+        [
+            32,
+            "ISLAMI BANK SPECIALISED  GENERAL HOSPITAL NAYAPALTAN",
+            "HSM90267",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Paltan",
+            "71/72 VIP Road, Nayapaltan, Dhaka - 1000"
+        ],
+        [
+            33,
+            "ISLAMI BANK SPECIALISED  GENERAL HOSPITAL NAYAPALTAN",
+            "HSM11642",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Paltan",
+            "71/72 VIP Road, Nayapaltan, Dhaka-1000"
+        ],
+        [
+            34,
+            "ISLAMI BANK SPECIALISED GENERAL HOSPITAL NAYAPALTAN",
+            "HSM34894",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Paltan",
+            "71,72 VIP Road, Nayapaltan, Dhaka-1000"
+        ],
+        [
+            35,
+            "Islami Community Hospital Limited",
+            "HSM30920",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Airport Road, Babupara More, Ishwardi, Pabna."
+        ],
+        [
+            36,
+            "Islami Community Pathology",
+            "HSM47187",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "Airport Road, Babupara More, Ishwardi, Pabna."
+        ],
+        [
+            37,
+            "ISLAMI DIAGNOSTIC CENTCR",
+            "HSM69473",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "MOSHANG BAZAR, WAZIRPUR, BARISHAL"
+        ],
+        [
+            38,
+            "Islami Diagnostic Center",
+            "HSM78340",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "Hospital Road, Noadapara, Bheramara, Kushtia"
+        ],
+        [
+            39,
+            "ISLAMI DIAGNOSTIC CENTRE",
+            "HSM01973",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            40,
+            "ISLAMI EYE HASPATIAL",
+            "HSM55230",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "MASIMPUR,NEW BASSTAND "
+        ],
+        [
+            41,
+            "Islami Eye Hospital",
+            "HSM45209",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barguna",
+            "Barguna Sadar",
+            "Bhutmara, Barguna Sadar, Barguna."
+        ],
+        [
+            42,
+            "ISLAMI EYE HOSPITAL",
+            "HSM31628",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "Near Pourashava, Sadar Road, Shariatpur"
+        ],
+        [
+            43,
+            "ISLAMI EYE HOSPITAL",
+            "HSM62707",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "42/5, Bosila Road, Al Hermain Complex Market(2nd Floor), Mohammadpur, Dhaka"
+        ],
+        [
+            44,
+            "ISLAMI GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM56395",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Lohajang",
+            "\u09ae\u09be\u09b2\u09bf\u09b0 \u0985\u0982\u0995 \u09ac\u09be\u099c\u09be\u09b0, \u09b2\u09cc\u09b9\u099c\u0982, \u09ae\u09c1\u09a8\u09cd\u09b8\u09c0\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            45,
+            "ISLAMI GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM11392",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Lohajang",
+            "\u09ae\u09be\u09b2\u09bf\u09b0 \u0985\u0982\u0995 \u09ac\u09be\u099c\u09be\u09b0, \u09b2\u09cc\u09b9\u099c\u0982, \u09ae\u09c1\u09a8\u09cd\u09b8\u09c0\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            46,
+            "Islami General Hospital Pvt. Ltd",
+            "HSM37861",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "25 North Jatrabari, Dhaka 1204"
+        ],
+        [
+            47,
+            "Islami hospital",
+            "HSM34606",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Chuadanga sadar, Chuadanga"
+        ],
+        [
+            48,
+            "ISLAMI HOSPITAL",
+            "HSM00167",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Natore Sadar",
+            "Chalkrampur, Natore Sadar, Natore."
+        ],
+        [
+            49,
+            "ISLAMI hOSPITAL",
+            "HSM07650",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "T B Hospital Road,  Chapai Nawabganj"
+        ],
+        [
+            50,
+            "ISLAMI HOSPITAL (LAB)",
+            "HSM11605",
+            "Diagnostic Center",
+            "Category-B",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "T.B. Hospital Road, Chapainawabganj."
+        ],
+        [
+            51,
+            "Islami Hospital and Diagnostic Center Bogra",
+            "HSM48816",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogura",
+            "Bogra Sadar",
+            "Mofiz Paglar Mor, Sherpur Road, Sutrapur, Bogra"
+        ],
+        [
+            52,
+            "Islami Hospital and Diagnostic Center Bogra",
+            "HSM80422",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "Mofiz Paglar Mor, Sherpur Road, Sutrapur, Bogra"
+        ],
+        [
+            53,
+            "ISLAMI HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM13191",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Hospital Road, Chuadanga"
+        ],
+        [
+            54,
+            "ISLAMI PRIVATE HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM63444",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Uttar Narayonpur (Trimohoni) Dak Bangla Bazar Sadar, Jhenaidah."
+        ],
+        [
+            55,
+            "ISLAMI PRIVATE HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM17695",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Uttar Narayonpur (Trimohoni) Dak Bangla Bazar Sadar, Jhenaidah."
+        ],
+        [
+            56,
+            "ISLAMIA  DIAGONOSTIC CENTER",
+            "HSM47620",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Sonargaon",
+            "Hazi mostofa manson, Habib pur ,Thana Road , sonargon ,Narayanganj"
+        ],
+        [
+            57,
+            "Islamia Central  Diagnostic Center",
+            "HSM76280",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "\u09ae\u09be\u09b9\u09a4\u09be\u09ac  \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f (\u09e8\u09df \u09a4\u09b2\u09be),\u09a5\u09be\u09a8\u09be \u09b0\u09cb\u09a1 \u0989\u09b2\u09cd\u09b2\u09be\u09aa\u09be\u09b0\u09be,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c \u0964"
+        ],
+        [
+            58,
+            "Islamia Central Hospital and   Diagnostic Center",
+            "HSM91012",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Ullahpara",
+            "Bakhuwa,Ullapara,Sirajgonj"
+        ],
+        [
+            59,
+            "Islamia Chokku Hospital",
+            "HSM68246",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Comercial Area, Habiganj pourashova ,Habiganj"
+        ],
+        [
+            60,
+            "ISLAMIA CLINIC & DIAGNOSTIC CENTER",
+            "HSM68163",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "KHEJURTALA BOALIA, BAKERGANJ, BARISHAL"
+        ],
+        [
+            61,
+            "ISLAMIA CLINIC & DIAGNOSTIC CENTER",
+            "HSM97733",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Bakerganj",
+            "KHEJURTALA BOALIA, BAKERGANJ, BARISHAL"
+        ],
+        [
+            62,
+            "Islamia Clinic & Diagnostic Center ",
+            "HSM09663",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Galachipa",
+            "Sher -E- Bangla Road, Galachipa, Patuakhali "
+        ],
+        [
+            63,
+            "Islamia Clinic & Diagnostic Center ",
+            "HSM10612",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Sher -E- Bangla Road, Galachipa, Patuakhali "
+        ],
+        [
+            64,
+            "Islamia Diabetes Center",
+            "HSM57206",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Chatkhil",
+            "Dokkhin Bazar, Chatkhil, Noakhali"
+        ],
+        [
+            65,
+            "Islamia Diabetic & Diagnostic Centre",
+            "HSM04020",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Bhogra Maleker Bari, Ward No-15, Gazipur City Corporation."
+        ],
+        [
+            66,
+            "Islamia Diagnostic & Consultation Center",
+            "HSM41188",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Lalpur",
+            "Gopalpur Bazar, Lalpur, Natore."
+        ],
+        [
+            67,
+            "Islamia Diagnostic And Consultation Centre",
+            "HSM17994",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Khilgaon",
+            "733/1/C, Taltola, Khilgaon, Dhaka - 1219"
+        ],
+        [
+            68,
+            "Islamia Diagnostic Center",
+            "HSM47702",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Patnitala",
+            "Palsha, Nazipur, Patnitala, Naogaon, Bangladesh"
+        ],
+        [
+            69,
+            "Islamia Diagnostic Center",
+            "HSM35694",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Hospital Road, Mathbaria, Pirojpur"
+        ],
+        [
+            70,
+            "ISLAMIA DIAGNOSTIC CENTER",
+            "HSM83058",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "\u09ae\u09b9\u09b2\u09cd\u09b2\u09be\u0983 \u0998\u09cb\u09a8\u09be\u09aa\u09be\u09dc\u09be, \u0993\u09df\u09be\u09b0\u09cd\u09a1 \u09a8\u0982-\u09e6\u09ee, \u09b8\u09bf\u0982\u0997\u09be\u0987\u09b0 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be, \u09aa\u09cb: \u0993 \u0989\u09aa\u099c\u09c7\u09b2\u09be: \u09b8\u09bf\u0982\u0997\u09be\u0987\u09b0, \u099c\u09c7\u09b2\u09be: \u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c\u0964 "
+        ],
+        [
+            71,
+            "ISLAMIA DIAGNOSTIC CENTRE",
+            "HSM58264",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "H/N# 0238, SHOP NO# 00, DISHA OFFICE SONGLOGNO, BELASHOR; CHANDINA,  COMILLA-3531, BANGLADESH"
+        ],
+        [
+            72,
+            "ISLAMIA DIAGNOSTIE CENTRE",
+            "HSM89899",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Upazila Road,Sador,Kushtia."
+        ],
+        [
+            73,
+            "Islamia Diagnostric Centre",
+            "HSM96783",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Rail Road,Bagerhat"
+        ],
+        [
+            74,
+            "ISLAMIA DIAGONOSTIC CENTER",
+            "HSM07185",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Beside Masuma Khanom School, Sadar Road, Bhola"
+        ],
+        [
+            75,
+            "Islamia Digital Diagnostic",
+            "HSM53287",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "\u09b8\u09a6\u09b0 \u09b0\u09cb\u09a1, \u0986\u09b2\u09c0\u09aa\u09c1\u09b0 \u09ac\u09be\u099c\u09be\u09b0, \u0995\u09b2\u09be\u09aa\u09be\u09dc\u09be, \u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0\u0964 "
+        ],
+        [
+            76,
+            "ISLAMIA DIGITAL DIAGNOSTIC & HORMUN LAB",
+            "HSM83553",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Sreepur",
+            "Mawna Chawraster. Sreepur, Gazipur"
+        ],
+        [
+            77,
+            "ISLAMIA DIGITAL DIAGNOSTIC CENTER",
+            "HSM81142",
+            "Diagnostic Center",
+            "Category-C",
+            "Barisal",
+            "Barisal Sadar (kotwali)",
+            "Band Road, Barisal."
+        ],
+        [
+            78,
+            "Islamia Digital Diagnostic Center",
+            "HSM03723",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Uttar",
+            "Islamia Market, Natun Bazar, P.O: Farajikandi, P.S: Matlab North, Dist: Chandpur."
+        ],
+        [
+            79,
+            "ISLAMIA DIGITAL DIAGNOSTIC CENTRE",
+            "HSM57336",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "Hostishunda, Wazirpur, Barishal"
+        ],
+        [
+            80,
+            "ISLAMIA DIGITAL EYE HOSPITAL AND FECO CENTER TANGAIL",
+            "HSM94400",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "\u09a2\u09be\u0995\u09be \u09b0\u09cb\u09a1, \u0986\u09b6\u09c7\u0995\u09aa\u09c1\u09b0, \u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2\u0964"
+        ],
+        [
+            81,
+            "Islamia Digital Lab & Hospital",
+            "HSM37076",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "A-30/6, Majidpur, Aricha Road, Savar, Dhaka"
+        ],
+        [
+            82,
+            "Islamia Digital Lab & Hospital",
+            "HSM15421",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "A-30/6, Majidpur, Aricha Road, Savar, Dhaka"
+        ],
+        [
+            83,
+            "Islamia Eye & laser centre",
+            "HSM68179",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "New Market",
+            "No-17/3, Zigatola, Dhaka"
+        ],
+        [
+            84,
+            "ISLAMIA EYE HOSPITAL PHACO & LASER CENTRE",
+            "HSM68322",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "SIGNBOARD, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            85,
+            "ISLAMIA GENARAL HOSPITAL AND DIGITAL DIAGNOSTIC COMPLEX",
+            "HSM43919",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Meghna",
+            "Manikarchar Bazar, Meghna, Comilla"
+        ],
+        [
+            86,
+            "ISLAMIA GENARAL HOSPITAL AND DIGITAL DIAGNOSTIC COMPLEX",
+            "HSM48306",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Meghna",
+            "Manikarchar Bazar, Meghna, Comilla"
+        ],
+        [
+            87,
+            "Islamia General Hospital",
+            "HSM60566",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Mohanpur",
+            "\u0995\u09c7\u09b6\u09b0\u09b9\u09be\u099f \u09aa\u09cc\u09b0\u09b8\u09ad\u09be, \u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0"
+        ],
+        [
+            88,
+            "Islamia General Hospital",
+            "HSM11386",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pirojpur",
+            "Mathbaria",
+            "Hospital Road, Mathbaria, Pirojpur"
+        ],
+        [
+            89,
+            "Islamia General Hospital (Lab)",
+            "HSM11521",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "Keshorhat Pourosava, Mohanpur, Rajshahi"
+        ],
+        [
+            90,
+            "Islamia General Hospital Demra",
+            "HSM77411",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Demra",
+            "64, Dollar Mansion, Farmer More, Demra, Dhaka"
+        ],
+        [
+            91,
+            "Islamia General Hospital Demra",
+            "HSM80600",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "64, Dollar Mansion, Farmer More, Demra, Dhaka"
+        ],
+        [
+            92,
+            "Islamia General Hospital Pvt. Ltd.",
+            "HSM06522",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Jatrabari",
+            "25, North Jatrabari, Dhaka-1204"
+        ],
+        [
+            93,
+            "Islamia General- Hospital  ",
+            "HSM26398",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Mahadebpur",
+            "Lichu Bagan , Mohadebpur , Naogaon "
+        ],
+        [
+            94,
+            "ISLAMIA HOSPITAL",
+            "HSM10603",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Upazila Road Kushtia, Kushtia"
+        ],
+        [
+            95,
+            "Islamia Hospital & Diagnostic Center",
+            "HSM73985",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Muksudpur",
+            "Tangrakhola Bazar,Muksudpur, Gopalganj"
+        ],
+        [
+            96,
+            "Islamia Hospital & Diagnostic Center ",
+            "HSM29142",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Shapleza, Mathbaria, Pirojpur"
+        ],
+        [
+            97,
+            "Islamia Hospital & Diagnostic Center",
+            "HSM96397",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Mathbaria",
+            "Shapleza, Mathbaria, Pirojpur"
+        ],
+        [
+            98,
+            "ISLAMIA HOSPITAL (PVT)",
+            "HSM82533",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Faridganj",
+            "FARIDGONJ BAZAR, FARIGONJ, CHANDPUR"
+        ],
+        [
+            99,
+            "Islamia Hospital and Diagnostic Center",
+            "HSM56468",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Dumki",
+            "Paglar Mor, Labukhali, Dumki, Patuakhali."
+        ],
+        [
+            100,
+            "Islamia Hospital and Diagnostic Center",
+            "HSM90803",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Dumki",
+            "Paglar Mor, Labukhali, Dumki, Patuakhali."
+        ]
+    ]
+}

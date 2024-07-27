@@ -1,0 +1,1007 @@
+{
+    "draw": 31,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Central Laboratory",
+            "HSM23196",
+            "Diagnostic Center",
+            "Category-A",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur"
+        ],
+        [
+            2,
+            "CENTRAL MEDICAL CENTRE",
+            "HSM49716",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Sadar Hospital Road, Chuadanga"
+        ],
+        [
+            3,
+            "CENTRAL MEDICAL COLLEGE HOSPITAL",
+            "HSM49687",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Cumilla",
+            "Comilla Sadar Dakshin",
+            "PADUAR BAZAR, BISHWA ROAD, COMILLA"
+        ],
+        [
+            4,
+            "CENTRAL MEDICAL COLLEGE HOSPITAL",
+            "HSM84171",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Comilla Sadar Dakshin",
+            "PADUAR BAZAR, BISHWA ROAD, COMILLA"
+        ],
+        [
+            5,
+            "CENTRAL MEDICAL SERVICES (Unit-1)",
+            "HSM96853",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "41/2 NAWAB SALIMULLAH ROAD, CHASHARA, NARAYANGANJ"
+        ],
+        [
+            6,
+            "CENTRAL MEDICAL SERVICES (Unit-2)",
+            "HSM25755",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "34 NO. BANGABONDHU ROAD, MONDOLPARA, NARAYANGANJ"
+        ],
+        [
+            7,
+            "Central Medicare Services",
+            "HSM55709",
+            "Diagnostic Center",
+            "Category-A",
+            "Sylhet",
+            "Beanibazar",
+            "Hospital Road,Beanibazar"
+        ],
+        [
+            8,
+            "Central Micro Biolab",
+            "HSM84522",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Charfession",
+            "Hospital Road, Charfession, Bhola"
+        ],
+        [
+            9,
+            "CENTRAL MUCTA HOSPITAL",
+            "HSM25236",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "BINDUBASINI GIRLS SCHOOL ROAD, TANGAIL, BANGLADESH."
+        ],
+        [
+            10,
+            "CENTRAL MUCTA HOSPITAL",
+            "HSM85340",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "BINDUBASINI GIRLS SCHOOL ROAD, TANGAIL, BANGLADESH."
+        ],
+        [
+            11,
+            "central park hospital & diagnostic center",
+            "HSM81327",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "hospital gate,nazirhat municipality,fatikchari,chittagong,bangladesh "
+        ],
+        [
+            12,
+            "Central Park Hospital and Diagnostic Center",
+            "HSM01939",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Fatikchari",
+            "Hospital Road Nazirhat, Fatickchari, Chittagong."
+        ],
+        [
+            13,
+            "Central Pathological Centre",
+            "HSM72117",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Bazir Moor, Narsingdi."
+        ],
+        [
+            14,
+            "Central Point Diagnostic Centre",
+            "HSM47243",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Raozan",
+            "Raozan post office road, Alam Center, Raozan, Chittagong "
+        ],
+        [
+            15,
+            "Central United Hospital",
+            "HSM94798",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bhola",
+            "Charfession",
+            "Hospital Road, Charfashion, Bhola"
+        ],
+        [
+            16,
+            "CENTRE FOR KIDNEY DISEASES & UROLOGY HOSPITAL (CKDU)",
+            "HSM69168",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "H:32, R:3, Shaymoli, Dhaka-1207"
+        ],
+        [
+            17,
+            "Centre For Surgery & Diabetes Consultation & Diagnostic Centre",
+            "HSM69084",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Purnota Holding N-626, Jowtola Road, Comilla"
+        ],
+        [
+            18,
+            "Centre For the Rehabilitation of the Paralysed",
+            "HSM30406",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Bhasan Tek",
+            "CRP-Mirpur\r\nPlot # A/5, Block-A,\r\nSection-14, Mirpur, Dhaka, Bangladesh\r\nE-mail: dgm.crpmirpur@gmail.com"
+        ],
+        [
+            19,
+            "Centre For the Rehabilitation of the Paralysed",
+            "HSM51942",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Bhasan Tek",
+            "CRP-Mirpur\r\nPlot#A/5, Block#A\r\nMirpur-14, Dhaka"
+        ],
+        [
+            20,
+            "Centre for the Rehabilitation of the Paralysed (CRP)",
+            "HSM05187",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Chapain, Valerie Taylor Road, Savar, Dhaka-1343"
+        ],
+        [
+            21,
+            "Centre for the Rehabilitation of the Paralysed (CRP)",
+            "HSM76289",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Valerie Taylor Road, Chapain, Savar, Dhaka-1343"
+        ],
+        [
+            22,
+            "Centre for Woman and Child Health",
+            "HSM75137",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Beron, Jamgora, Sharkarmarket, Ashulia,  Dhaka"
+        ],
+        [
+            23,
+            "Centre for Woman and Child Health",
+            "HSM54095",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Centre for Woman and Child Health\r\nBeron, Jamgora, Ashulia, Dhaka- 1349"
+        ],
+        [
+            24,
+            "Century Clinic and Diagnostic Center  ",
+            "HSM83051",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Uttara  Purba",
+            "House No-1,(3rd Floor),Road No-5,Sector No-1 ,Uttara, Dhaka-1230"
+        ],
+        [
+            25,
+            "CHADAGAON DIABETIC & DIAGNOSTIC CENTER",
+            "HSM69939",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandgaon",
+            "HOUSE NO-7,ROAD NO-1D,BLOEK NO-A,CHANDGAON R/A, CHITTATONG"
+        ],
+        [
+            26,
+            "CHADER HASHI MA O SHISHU GENERAL HOSPITAL & LAB",
+            "HSM74425",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Roghunathpur, Fatullah, Narayanganj"
+        ],
+        [
+            27,
+            "CHADER HASHI MA O SHISHU GENERAL HOSPITAL & LAB",
+            "HSM87297",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Roghunathpur, Fatullah, Narayanganj"
+        ],
+        [
+            28,
+            "CHAIRMAN DIAGNOSTIC  CENTER",
+            "HSM24951",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Fulbaria",
+            "SUAITPUR,FULBAIRIA,MYMENSINGH"
+        ],
+        [
+            29,
+            "Chakaria Ann Nur Hospital And Diagnostic Center",
+            "HSM67145",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            "Notun Raster Matha,North Baraitali,Chakaria,Coxs Bazar,Po,4741."
+        ],
+        [
+            30,
+            "CHAKARIA CITY HOSPITAL",
+            "HSM88789",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Chakaria",
+            "Chakaria Paurashava Bus Terminal, Chakaria Paurashava , Coxs Bazar. ."
+        ],
+        [
+            31,
+            "CHAKARIA CITY HOSPITAL",
+            "HSM63735",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            "Chakaria Pouro Bus Terminal, Chakaria, Coxs Bazar."
+        ],
+        [
+            32,
+            "Chakaria Digital Diagnostic Center ",
+            "HSM54399",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            "Girls School Road, Chiringa, Chakaria, Coxs Bazar"
+        ],
+        [
+            33,
+            "Chakaria Digital Hospital (Pvt.) Ltd",
+            "HSM05156",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Chakaria",
+            "N.G Plaza, Chiringa, Chakaria Pourashava, Coxs Bazar."
+        ],
+        [
+            34,
+            "Chakaria Medical Center",
+            "HSM41132",
+            "Diagnostic Center",
+            "Category-B",
+            "Coxs Bazar",
+            "Chakaria",
+            "Dulal Center, Hospital Road, 04 No word, Chiringa, Chakaria Pourashava, Coxs Bazar. "
+        ],
+        [
+            35,
+            "Chakaria Unique Hospital (Pvt) Ltd Pathology Lab",
+            "HSM38955",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            " Janata Market,Chakaria Powrashava,Coxsbazar"
+        ],
+        [
+            36,
+            "Chakaria Unique Hospital (PVT.) LTD.",
+            "HSM00829",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Chakaria",
+            "Chiringa Janata Market, Chakaria, CoxsBazar"
+        ],
+        [
+            37,
+            "Chakhar Diagnostic Centre ",
+            "HSM82921",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Chakhar, Banaripara, Barishal"
+        ],
+        [
+            38,
+            "Chalakchar Diagnostic Center",
+            "HSM86993",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Chalakchar Barzar, Chalakchar, Monohardi, Narsingdi"
+        ],
+        [
+            39,
+            "CHALANBEEL DIGITAL DIAGNOSTIC CENTER",
+            "HSM20185",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Singra",
+            "Sagor Super Market (1st Floor), Singra Bus Stand, Singra, Natore."
+        ],
+        [
+            40,
+            "chalanbil clinic and daigonostic center",
+            "HSM90619",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Gurudaspur",
+            "Vill- Chanchkoir Bazar, P.o- Chanchkoir, P.s-Gurudaspur, Dist-Natore"
+        ],
+        [
+            41,
+            "chalanbilclinic and daigonostic center",
+            "HSM48538",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Gurudaspur",
+            "Vill- Chanchkoir Bazar, P.o- Chanchkoir, P.s-Gurudaspur, Dist- Natore"
+        ],
+        [
+            42,
+            "Chalna Clinic & Diagnostic Complex",
+            "HSM44846",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Dacope",
+            "Chalna Hospital Road, Chalna, Khulna"
+        ],
+        [
+            43,
+            "Chalna Clinic & Diagnostic Complex",
+            "HSM10767",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dacope",
+            "Chalna Hospital Road,  Chalna,  Khulna "
+        ],
+        [
+            44,
+            "CHALNA DIGITAL DIAGNOSTIC CENTER",
+            "HSM90672",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dacope",
+            "CHALNA BAZAR, DACPE, KHULNA."
+        ],
+        [
+            45,
+            "Chalon Bil Nirapod Blood Parisanchalon Centre",
+            "HSM16103",
+            "Blood Bank",
+            "",
+            "Natore",
+            "Natore Sadar",
+            "Ward-4, Dakkhin Patuara.Madrasha Rood,Nafore"
+        ],
+        [
+            46,
+            "CHALONBIL DIAGNOSTIC CENTER",
+            "HSM16925",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "HASPATAL GET, TARASH, SIRAJGANJ, BANGLADESH"
+        ],
+        [
+            47,
+            "CHAMELY DIAGNOSTIC & Clinic",
+            "HSM73197",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Hospital Road, Nicha Bazar, Natore Sadar, Natore"
+        ],
+        [
+            48,
+            "CHAMELY DIAGNOSTIC CENTER",
+            "HSM93776",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            " Hospital Road, Nichabazar, Natore,Bangladesh"
+        ],
+        [
+            49,
+            "CHAMPA PATHOLOGICAL LABORATORY",
+            "HSM69731",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "Hospital Road, Morelgonj, Bagerhat"
+        ],
+        [
+            50,
+            "Chanchkoir Diagnostic Center",
+            "HSM97801",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Gurudaspur",
+            "Chanchkoir Bazar, Gurudaspur, Natore"
+        ],
+        [
+            51,
+            "Chanda Diagnostic Centre. ",
+            "HSM70577",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Arappur Bus Stand, Dhaka Road, Jhenaidah."
+        ],
+        [
+            52,
+            "Chandaikona Islamia eye Hospital",
+            "HSM23225",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Royganj",
+            "Shaliyagari,Raiganj,Sirajganj"
+        ],
+        [
+            53,
+            "Chander Alo Digital Diagnostic Center",
+            "HSM02735",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Bahubal",
+            "College Road,Bahubol,Habiganj."
+        ],
+        [
+            54,
+            "Chander Alo Digital Diagnostic Center lakhai",
+            "HSM29869",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Lakhai",
+            "Bamoi, Lakhai, Habiganj"
+        ],
+        [
+            55,
+            "CHANDER HASI DIAGNOSTIC CENTER",
+            "HSM34577",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Bhurungamari",
+            "puraton college More, Bhurungamari,Kurigram"
+        ],
+        [
+            56,
+            "CHANDER HASI HOSPITAL LIMITED",
+            "HSM41365",
+            "Diagnostic Center",
+            "Category-B",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Muktijuddha Complex Bhawan, Court Moshjid Road, Habiganj"
+        ],
+        [
+            57,
+            "CHANDER HASI HOSPITAL LIMITED",
+            "HSM28526",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Muktijuddha Complex Bhawan, Court Moshjid, Habiganj"
+        ],
+        [
+            58,
+            "CHANDER HASI HOSPITAL LIMITED (SABUJBAGH BRANCH))",
+            "HSM69908",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Old Hospital Road, Habiganj Sadar, Habiganj"
+        ],
+        [
+            59,
+            "CHANDER HASI HOSPITAL LIMITED (SABUJBAGH BRANCH))",
+            "HSM30570",
+            "Diagnostic Center",
+            "Category-A",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Old Hospital Road, Habiganj Sadar, Habiganj"
+        ],
+        [
+            60,
+            "CHANDINA CENTRAL HOSPITAL",
+            "HSM83853",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla"
+        ],
+        [
+            61,
+            "CHANDINA CENTRAL HOSPITAL",
+            "HSM98524",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla"
+        ],
+        [
+            62,
+            "CHANDINA DIAGNOSTIC CENTRE",
+            "HSM47228",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Chandina Grand Trunk Rd, Chandina 3510"
+        ],
+        [
+            63,
+            "CHANDINA KHIDMAH GENERAL HOSPITAL",
+            "HSM95426",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Village: Chandina, Post Office: Chandina-3510, Upazilla: Chandina, District: Cumilla."
+        ],
+        [
+            64,
+            "CHANDINA KHIDMAH GENERAL HOSPITAL",
+            "HSM72430",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chandina",
+            "Village: Chandina, Post Office: Chandina-3510, Upazilla: Chandina, District: Cumilla."
+        ],
+        [
+            65,
+            "CHANDINA MEDICAL CENTRE",
+            "HSM88062",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Chandina",
+            "Chandina, Comilla"
+        ],
+        [
+            66,
+            "CHANDINA MEDICAL CENTRE",
+            "HSM97072",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla"
+        ],
+        [
+            67,
+            "CHANDINA MEDINOVA HOSPITAL",
+            "HSM17485",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Bagur Bazar, Debidwar, Comilla"
+        ],
+        [
+            68,
+            "CHANDINA MEDINOVA HOSPITAL",
+            "HSM08770",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Bagur Bazar, Debidwar, Comilla"
+        ],
+        [
+            69,
+            "Chandina Mim Hospital",
+            "HSM18631",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chandina",
+            "Barera Road, Chandina, Comilla"
+        ],
+        [
+            70,
+            "Chandina Mim Hospital",
+            "HSM34761",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Barera Road, Chandina, Comilla"
+        ],
+        [
+            71,
+            "Chandla Medical Center",
+            "HSM69929",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Brahmanpara",
+            "South Chandla Bazar, Brahmanpara, Cumilla"
+        ],
+        [
+            72,
+            "CHANDNI DIAGNOSTIC CENTRE & X-RAY",
+            "HSM99576",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Khagrachari Sadar",
+            "Masterpara Sarak,Giribitan Market,Khagrachari"
+        ],
+        [
+            73,
+            "Chandona Diagnostic Center",
+            "HSM37772",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Baliakandi",
+            "Hospital Road, Baliakandi, Rajbari."
+        ],
+        [
+            74,
+            "CHANDPUR ADHUNIK CHOKKHU HOSPITAL     ",
+            "HSM72955",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Saudia City (1st Floor), Chairmanghat, Cumilla Road"
+        ],
+        [
+            75,
+            "Chandpur Al-Amin Hospital (Pvt.) Ltd. ",
+            "HSM08676",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Natun Bazar, West of C.S.D Godown, Chandpur"
+        ],
+        [
+            76,
+            "Chandpur Al-Amin Hospital (Pvt.) Ltd. ",
+            "HSM11264",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Natun Bazar, West of C.S.D Godown, Chandpur"
+        ],
+        [
+            77,
+            "CHANDPUR AL-MANAR HOSPITAL(PVT)",
+            "HSM05604",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "MISSION ROAD, CHANDPUR"
+        ],
+        [
+            78,
+            "CHANDPUR AL-MANAR HOSPITAL(PVT)",
+            "HSM62972",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "MISSION ROAD ,CHANDPUR"
+        ],
+        [
+            79,
+            "CHANDPUR AYESHA MEMORIAL DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM91187",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "STADIAM ROAD,CHANDPUR"
+        ],
+        [
+            80,
+            "CHANDPUR BOILGAON HOSPITAL (CBH)",
+            "HSM62474",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Banshkhali",
+            "Mohammmadia Shopping Center, Chandpur Bazar, Belgaon, Banshkhali, Chattogram"
+        ],
+        [
+            81,
+            "CHANDPUR BOILGAON HOSPITAL (CBH)",
+            "HSM47274",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "Mohammmadia Shopping Center, Chandpur Bazar, Belgaon, Banshkhali, Chattogram"
+        ],
+        [
+            82,
+            "Chandpur Central Hospital (Pvt.) Ltd.",
+            "HSM58519",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Shahid Muktijoddha Sarak, Laker Par, Chandpur. "
+        ],
+        [
+            83,
+            "CHANDPUR CITY HOSPITAL (Pvt)",
+            "HSM52092",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "STADIAM ROAD, CHANDPUR"
+        ],
+        [
+            84,
+            "Chandpur Diabetic Hospital",
+            "HSM54572",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Comilla Road, Chandpur Sadar Chandpur-3600"
+        ],
+        [
+            85,
+            "Chandpur Diabetic Hospital",
+            "HSM82442",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Cumilla Road, Chandpur Sadar, Chandpur-3600"
+        ],
+        [
+            86,
+            "Chandpur Diagnostic Centre",
+            "HSM06069",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Lalpur",
+            "Chandpur Bypass Moor, Shorkar Super Market, Codimochilan, Lalpur, Natore"
+        ],
+        [
+            87,
+            "CHANDPUR DIGITAL DIAGNOSTIC CENTER",
+            "HSM32497",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "STADIAM ROAD, CHANDPUR"
+        ],
+        [
+            88,
+            "Chandpur General Hospital (Pvt.)",
+            "HSM12967",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Taltola, Chandpur Sadar,Chandpur. "
+        ],
+        [
+            89,
+            "CHANDPUR HEALTHCARE",
+            "HSM95678",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Chandpur  Sadar, Chandpur"
+        ],
+        [
+            90,
+            "CHANDPUR MEDICAL CENTER",
+            "HSM85425",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "SHOLOGHAR, CHARMANGHAT, CHANDPUR"
+        ],
+        [
+            91,
+            "CHANDPUR ORTHOPAEDIC & TRAUMA CENTRE",
+            "HSM13730",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            " SHIAHEED MUKTIJODDAH SARAK,LEKER PAR,CHANDPUR"
+        ],
+        [
+            92,
+            "Chandpur Specialized Hospital  (Pvt.)  Ltd.",
+            "HSM62823",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Dhali plaza, Stadium road, Chandpur -3600"
+        ],
+        [
+            93,
+            "Chandpur Specialized Hospital  (pvt.) Ltd.",
+            "HSM93740",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Dhali plaza , Stadium Road, Chandpur - 3600"
+        ],
+        [
+            94,
+            "CHANDPUR VACINETION AND DIAGNOSTIC CENTER",
+            "HSM87084",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "MISSION ROAD, CHANDPUR SADAR, CHANDPUR"
+        ],
+        [
+            95,
+            "Chandra Shekhar Memorial Diagnostic and Consultation Clinic",
+            "HSM48765",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Maizpara Bazar, Moddyapolly, Narail Sadar, Narail."
+        ],
+        [
+            96,
+            "CHANDRAGHONA GENERAL HOSPITAL(PVT)",
+            "HSM99999",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Rangunia",
+            "DOVASHI BAZAR CHANDRAGHONA,RANGUNIA CHITTAGONG "
+        ],
+        [
+            97,
+            "Chandragonj General Diagnostic & Diabetes Center",
+            "HSM84388",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Chandragonj West Bazar, Sadar Lakshmipur."
+        ],
+        [
+            98,
+            "Chandshi Medical Centre Ltd",
+            "HSM82211",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Banani",
+            "House # 16, Road # 28, Block # K, Banani, Dhaka - 1213, Bangladesh"
+        ],
+        [
+            99,
+            "CHANGAR CHOR ISLAMIA EYE HOSPITAL AND DIABETIC CENTRE",
+            "HSM06923",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Matlab Uttar",
+            "Chengarchor Bazar, Matlab Uttar, Chandpur"
+        ],
+        [
+            100,
+            "Chapai Apollo Hospital",
+            "HSM35548",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapainawabganj",
+            "Chapainawabganj Sadar",
+            "Arambagmore, Sadar, Chapainawabganj"
+        ]
+    ]
+}

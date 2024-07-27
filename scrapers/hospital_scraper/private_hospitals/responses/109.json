@@ -1,0 +1,1007 @@
+{
+    "draw": 109,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "NEW LAB ONE DIGITAL DIAGNOSTIC CENTER",
+            "HSM36626",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "STADIUM ROAD, CHANDPUR SADAR,CHANDPUR"
+        ],
+        [
+            2,
+            "NEW LABAID DIAGNOSTIC & HOSPITAL",
+            "HSM88391",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kaliganj",
+            "BASAIR DHAKSHINBAGH, KALIGANJ, GAZIPUR"
+        ],
+        [
+            3,
+            "New Labaid Diagnostic Center",
+            "HSM78629",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari"
+        ],
+        [
+            4,
+            "NEW LABAID DIAGNOTIC & HOSPITAL",
+            "HSM22405",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kaliganj",
+            "BASAIA DHAKSHINBAGH, KALIGANJ, GAZIPUR"
+        ],
+        [
+            5,
+            "NEW LANGALBADH (PVT) HOSPITAL",
+            "HSM79748",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Shailkupa",
+            "LANGALBADH BAZAR, SHAYLOKUPA, JHENAIDAH."
+        ],
+        [
+            6,
+            "NEW LIFE (PVT) HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM72790",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Ramganj",
+            "Islami Bank Bhobon, Ramgonj, Lakshmipur."
+        ],
+        [
+            7,
+            "NEW LIFE (PVT) HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM75240",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Islami Bank Bhobon, Ramgonj, Lakshmipur."
+        ],
+        [
+            8,
+            "NEW LIFE CARE CLINIC & DIAGNOSTIC CENTRE",
+            "HSM78425",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Bauphal",
+            "KAKLISURI,BAUPHAL,PATUAKHALI"
+        ],
+        [
+            9,
+            "New Life Care Diagnostic Center",
+            "HSM22725",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "Daibagnahati,Morrelganj,Bagerhat"
+        ],
+        [
+            10,
+            "New Life Care Diagnostic Center",
+            "HSM18708",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital Road,Nabinagar,Brahmanbaria"
+        ],
+        [
+            11,
+            "NEW LIFE CARE DIAGNOSTIC CENTRE",
+            "HSM53364",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "KAKLISURI BAUPHAL PATUAKHALI"
+        ],
+        [
+            12,
+            "New Life Care Diagnostic Centre",
+            "HSM03756",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Ghoraghat",
+            "HIli Bus Stand,Osmanpur,Ghoraghat,Dianjpur"
+        ],
+        [
+            13,
+            "NEW LIFE CARE DIAGONGSTIC CENTER",
+            "HSM52524",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "bhaluka,mymensingh"
+        ],
+        [
+            14,
+            "New Life Care Hospital & Diagnostic Center",
+            "HSM13781",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "B-8/8, Taramia Road, Ganda, Savar, Dhaka"
+        ],
+        [
+            15,
+            "NEW LIFE CARE HOSPITAL & DIAGNOSTIC CENTER. (CLINIC)",
+            "HSM59572",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Bhanga",
+            "Maligram Bazar, Bhanga, Faridpur."
+        ],
+        [
+            16,
+            "NEW LIFE CARE HOSPITAL & DIAGNOSTIC CENTER. (PATHOLOGY)",
+            "HSM96924",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Bhanga",
+            "Maligram Bazar, Bhanga, Faridpur."
+        ],
+        [
+            17,
+            "New Life Care Hospital & Diagnostics",
+            "HSM25963",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "B-8/8, Taramia Road, Ganda, Savar, Dhaka"
+        ],
+        [
+            18,
+            "NEW LIFE CARE MEDICAL CENTRE.",
+            "HSM45997",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Titas",
+            "KARIKANDI BAZAR, TITAS, COMILLA"
+        ],
+        [
+            19,
+            "new life care medical service",
+            "HSM01485",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgati Diversion Road, Lakshmipur Sadar Ps: Lakshmipur-3700"
+        ],
+        [
+            20,
+            "NEW LIFE CARE MEDICAL SERVICES",
+            "HSM23739",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "13 Parara Road, Barishal Sadar, Barishal."
+        ],
+        [
+            21,
+            "New Life Clinic",
+            "HSM42054",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Docro Para M.R College Road, Panchagarh"
+        ],
+        [
+            22,
+            "NEW LIFE CLINIC ",
+            "HSM12251",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Mirzaganj",
+            "VILL : EAST SUBIDKHALI (LAUNCH GAT ROAD), POST : SUBIDKHALI, UPAZILA : MIRZAGONJ. DIST : PATUAKHALI "
+        ],
+        [
+            23,
+            "New Life Clinic ",
+            "HSM49119",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Palashbari",
+            "Rangpur Road, Palashbari, Gaibandha "
+        ],
+        [
+            24,
+            "NEW LIFE CLINIC & DIAGNOSTIC CENTER",
+            "HSM86038",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Gowainghat",
+            "UPAZILA HEALTH COMPLEX ROAD, GOWAINGHAT, SYLHET."
+        ],
+        [
+            25,
+            "NEW LIFE CLINIC AND HOSPITAL",
+            "HSM08985",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Mymensingh Road, Tangail"
+        ],
+        [
+            26,
+            "NEW LIFE CLINIC AND HOSPITAL",
+            "HSM17996",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Mymensingh Road, Tangail"
+        ],
+        [
+            27,
+            "New Life Diagnostic  & Consultation Center",
+            "HSM71931",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sreemangal Road, Moulvibazar"
+        ],
+        [
+            28,
+            "NEW LIFE DIAGNOSTIC &  PHYSIOTHERAPY CENTER",
+            "HSM90744",
+            "Diagnostic Center",
+            "Category-B",
+            "Shariatpur",
+            "Shariatpur Sadar",
+            "Chowrangi Super Market,2nd floor,Sadar,Shariatpur."
+        ],
+        [
+            29,
+            "New Life Diagnostic & Ashulia Diabetic Shomity",
+            "HSM80895",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Ashulia New Market, (1st Floor), Ashulia."
+        ],
+        [
+            30,
+            "New Life Diagnostic & Consultation Centre",
+            "HSM15032",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Sadar Road, Bhola."
+        ],
+        [
+            31,
+            "New life diagnostic & consultation centre    ",
+            "HSM20230",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "Islam super market, mohonpur bottola , main Road,Monirampur, jashore, Khulna , Bangladesh.  "
+        ],
+        [
+            32,
+            "New Life Diagnostic And Asthma Care Center",
+            "HSM33982",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "E.B Road"
+        ],
+        [
+            33,
+            "New Life Diagnostic Center",
+            "HSM38322",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Madrasha Mor, Notun Thanar Purbo Pasa, Kanaikhali, Natore"
+        ],
+        [
+            34,
+            "New Life Diagnostic Center",
+            "HSM10723",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Zail Road, Lalmonirhat"
+        ],
+        [
+            35,
+            "New life Diagnostic Center",
+            "HSM75777",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "\u0995\u09cb\u09b0\u09c7\u09b6 \u09a8\u0997\u09b0 \u0986/\u098f, \u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            36,
+            "New Life Diagnostic Center",
+            "HSM67177",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "511/2,Pachuria,Gopalganj Sadar,Gopalganj."
+        ],
+        [
+            37,
+            "New Life Diagnostic Center",
+            "HSM63995",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "Mainroad, Ghatail, Tangail"
+        ],
+        [
+            38,
+            "NEW LIFE DIAGNOSTIC CENTER",
+            "HSM84595",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kotchandpur",
+            "Hospital Road, Kotchandpur, Jhenaidah"
+        ],
+        [
+            39,
+            "New Life Diagnostic Center",
+            "HSM43858",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "206/1 Town Masimpur, Pirojpur"
+        ],
+        [
+            40,
+            "New Life Diagnostic Center",
+            "HSM79219",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Kathuli Sorok, Meherpur"
+        ],
+        [
+            41,
+            "NEW LIFE DIAGNOSTIC CENTER",
+            "HSM71763",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Palashbari",
+            "Rangpur Raod, Gridharipur, palashbari,gaibandha"
+        ],
+        [
+            42,
+            "New Life Diagnostic Center",
+            "HSM26912",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "404/2 West Kanda Para, Lokman Hossain Road, Narsingdi"
+        ],
+        [
+            43,
+            "New Life Diagnostic Center",
+            "HSM76036",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "\u09b6\u09cd\u09b0\u09c0\u09a8\u0997\u09b0 \u09a5\u09be\u09a8\u09be \u09b8\u0982\u09b2\u0997\u09cd\u09a8, \u09b6\u09cd\u09b0\u09c0\u09a8\u0997\u09b0, \u09b6\u09cd\u09b0\u09c0\u09a8\u0997\u09b0, \u09ae\u09c1\u09a8\u09cd\u09b8\u09c0\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            44,
+            "New Life Diagnostic Center",
+            "HSM47365",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            45,
+            "NEW LIFE DIAGNOSTIC CENTER ",
+            "HSM65033",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Tongibari Bazar , Tongibari, Munshigonj. "
+        ],
+        [
+            46,
+            "NEW LIFE DIAGNOSTIC CENTRE",
+            "HSM78753",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "SRAVONI VILLA, 1ST FLOOR, COMILLA ROAD, CHANDPUR"
+        ],
+        [
+            47,
+            "NEW LIFE DIAGNOSTIC CENTRE",
+            "HSM95514",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "YAJUDDIN MOLLAH SUPER MARKET, SHIKARPUR NIMTOLA, SIRAJDIKAHN, MUNSHIGANJ"
+        ],
+        [
+            48,
+            "New Life Digital Diagnostic Centre",
+            "HSM68627",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Alihi Newas Khan Road, Joynagar, Netrakona."
+        ],
+        [
+            49,
+            "New Life General (PVT) Hospital",
+            "HSM16768",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur "
+        ],
+        [
+            50,
+            "New Life General Hospital",
+            "HSM54781",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Beanibazar",
+            "Hospital Road, Beanibazar, Sylhet. "
+        ],
+        [
+            51,
+            "NEW LIFE GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM79447",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabashpur, Faridpur."
+        ],
+        [
+            52,
+            "NEW LIFE GENERAL HOSPITAL & DIAGNOSTIC CENTER.",
+            "HSM38349",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabashpur, Faridpur."
+        ],
+        [
+            53,
+            "NEW LIFE GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM80223",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Rupganj",
+            "Hazi Aziz Super Market, Bhulta, Rupganj, Narayanganj"
+        ],
+        [
+            54,
+            "NEW LIFE GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM38277",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Rupganj",
+            "Hazi Aziz Super Market, Bhulta, Rupganj, Narayanganj"
+        ],
+        [
+            55,
+            "New Life General Hospital & Diagnostic Centre",
+            "HSM12544",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Abullapur,South Keraniganj,Dhaka"
+        ],
+        [
+            56,
+            "New Life General Hospital & Diagnostic Centre",
+            "HSM89804",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Abdullapur, South keraniganj,dhaka"
+        ],
+        [
+            57,
+            "New Life General Hospital And Diagnostic Centre",
+            "HSM79397",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Serajdikhan",
+            "Shontosh Para, Sirajdikhan, Munshigonj"
+        ],
+        [
+            58,
+            "New Life General Hospital And Diagnostic Centre",
+            "HSM78495",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Shontosh Para, Sirajdikhan, Munshigonj"
+        ],
+        [
+            59,
+            "New Life Hospital",
+            "HSM88152",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Sreepur",
+            "Bormi Bazar,Sreepur,Gazipur"
+        ],
+        [
+            60,
+            "New Life Hospital",
+            "HSM24199",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chandina",
+            "Chandina, Comilla"
+        ],
+        [
+            61,
+            "New Life Hospital",
+            "HSM72532",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Ullahpara",
+            "Hatikumrul Bazzar, Salonga Sirajganj"
+        ],
+        [
+            62,
+            "NEW LIFE HOSPITAL",
+            "HSM48424",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sariakandi",
+            "HINDUKANDI, SARIAKANDHI, BOGURA"
+        ],
+        [
+            63,
+            "NEW LIFE HOSPITAL",
+            "HSM33856",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sariakandi",
+            "HINDUKANDI, SARIAKANDI, BOGURA."
+        ],
+        [
+            64,
+            "New Life Hospital",
+            "HSM85228",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Laxmipur, Rajpara, Rajshahi"
+        ],
+        [
+            65,
+            "New Life Hospital",
+            "HSM27414",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No-1127/15, Qutar Complex, Raghobpur, Pabna Sadar, Pabna. "
+        ],
+        [
+            66,
+            "New Life Hospital & Diagnostatic center.",
+            "HSM16124",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Hatikumrul Bazzar, Salonga Sirajganj"
+        ],
+        [
+            67,
+            "New Life Hospital & Diagnostic Center",
+            "HSM93368",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Banchharampur",
+            "Police Mongal Plaja,Sonarampur Bazar,Bancharampur"
+        ],
+        [
+            68,
+            "New Life Hospital & Diagnostic Center",
+            "HSM02423",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Banchharampur",
+            "Police Mongol Plaza,Sonarampur Bazar,Bancharampur"
+        ],
+        [
+            69,
+            "NEW LIFE HOSPITAL & DIAGONSTIC CENTER ",
+            "HSM29893",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jhenaidah",
+            "Kotchandpur",
+            "Hospital Road, Kotchandpur, Jhenaidah"
+        ],
+        [
+            70,
+            "New Life Hospital & Trauma Center",
+            "HSM03986",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "118 A R Plaza,Masimpur,Tongi,Gazipur."
+        ],
+        [
+            71,
+            "New Life Hospital & Trauma Center",
+            "HSM92185",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "118 A R Plaza,Masimpur,Tongi,Gazipur"
+        ],
+        [
+            72,
+            "New Life Hospital (pvt) Ltd",
+            "HSM86530",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dhanmondi",
+            "25/A & B, Bir Uttam KM Shafiullah Sorak, Green Road,  Dhanmondi, Dhaka, 1205"
+        ],
+        [
+            73,
+            "New Life Hospital (pvt) Ltd",
+            "HSM18447",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "25/A & B, Bir Uttam KM Shafiullah Sorak, Green Road,  Dhanmondi, Dhaka, 1205"
+        ],
+        [
+            74,
+            "New Life Hospital, Tarail",
+            "HSM21994",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishoreganj",
+            "Tarail",
+            "Khan Brothers Commercial Complex, 2nd Floor, Hospital Road, Tarail, Kishoreganj"
+        ],
+        [
+            75,
+            "New Life Hospital, Tarail ",
+            "HSM30341",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Tarail",
+            "Khan Brothers Commercial Complex (2nd Floor), Hospital Road, Tarail, Kishoregonj."
+        ],
+        [
+            76,
+            "NEW LIFE MEDICAL & CONSULTATION CENTER",
+            "HSM57411",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Khadimnagar, Shahporan Gate, Sylhet "
+        ],
+        [
+            77,
+            "New Life Medical Center",
+            "HSM14000",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Tankerpar,Brahmanbaria"
+        ],
+        [
+            78,
+            "New Life Medical Center",
+            "HSM75360",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Tanker par,Brahmanbaria"
+        ],
+        [
+            79,
+            "NEW LIFE MEDICAL SERVICES",
+            "HSM15833",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "TAMIM PLAZA, KASHIMPUR, NAWABGANJ, DHAKA-1320"
+        ],
+        [
+            80,
+            "NEW LIFE MEDICAL SERVICES",
+            "HSM97209",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Nawabganj",
+            "TAMIM PLAZA, KASHIMPUR, NAWABGANJ, DHAKA-1320"
+        ],
+        [
+            81,
+            "New Life Nursing Home ",
+            "HSM31908",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "191/2, Sher-E-Bangla Road, Agrani Bank Town, Gollamari, Khulna "
+        ],
+        [
+            82,
+            "New Life Pathology and Consultation Center",
+            "HSM99105",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dighalia",
+            "Fulbarhigate, Post-kuite-9203, Dighalia, Khulna."
+        ],
+        [
+            83,
+            "NEW LIFE PATHOLOGY CENTRE ",
+            "HSM83838",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Mirzaganj",
+            "SUBIDKHALI, MIRZAGONJ, PATUAKHALI. "
+        ],
+        [
+            84,
+            "New Life Surgical Clinic  & Diagnostic Centre (Pathology)",
+            "HSM04037",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "High Road, Alamdanga, Chuadanga"
+        ],
+        [
+            85,
+            "New Life X-Ray Clinic & Pathology",
+            "HSM63461",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Tongibari bazar, Tongibari Munshiganj."
+        ],
+        [
+            86,
+            "New Light Eye Hospital",
+            "HSM59574",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "36/1, South Central Road, Khulna"
+        ],
+        [
+            87,
+            "New Madhumati Diagnostic Centre,",
+            "HSM69450",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Tungipara",
+            "Patgati Bus Stand, Patgati, Tungipara, Gopalgonj."
+        ],
+        [
+            88,
+            "NEW MADICARE PATHLOGY LAB",
+            "HSM52151",
+            "Diagnostic Center",
+            "Category-A",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            " 01 no, Hospital Gate, Charpara, Mymensingh"
+        ],
+        [
+            89,
+            "NEW MADINA CLINIC",
+            "HSM73292",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Thana Council Para, Hospital Road, Chuadanga"
+        ],
+        [
+            90,
+            "New Mahanagor Hospital",
+            "HSM84072",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            91,
+            "New Mahi Clinic and Diagnostic center.",
+            "HSM68285",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Meherpur",
+            "Gangni",
+            "Bamundi Busstand, Bamundi, Gangni."
+        ],
+        [
+            92,
+            "NEW MAMATAJ DIAGONSTIC CENTRE",
+            "HSM62079",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhalokati",
+            "Jhalokati Sadar",
+            "Kalibari Road, Jhalakathi"
+        ],
+        [
+            93,
+            "NEW MARIA MOTHER GENAREL HOSPITAL",
+            "HSM46615",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Agailjhara",
+            "Rajihar , Agailjhara, Barishal. "
+        ],
+        [
+            94,
+            "New Maria Mother General Hospital",
+            "HSM61668",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "Rajihar, Agailjhara, Barisal."
+        ],
+        [
+            95,
+            "New Market Chest Disease & Asthma Center",
+            "HSM02448",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jessore Sadar",
+            "New Market Chest Disease & Asthma Center, Block-B, House No.48, New Market, Jessore."
+        ],
+        [
+            96,
+            "New Market Chest Disease & Asthma Center",
+            "HSM53524",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jessore Sadar",
+            "New Market Chest Disease & Asthma Center, 48 B-Block Bazar, New Town, Sadar Jessore"
+        ],
+        [
+            97,
+            "New Mayerdoya Private Hospital & Diagnostic Centre ",
+            "HSM10103",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Maheshpur",
+            "Shamkur, Moheshpur, Jhenaidah"
+        ],
+        [
+            98,
+            "NEW MEDI AID DIGITAL DIAGNOSTIC LAB",
+            "HSM29927",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Band Road, Barishal."
+        ],
+        [
+            99,
+            "NEW MEDI COMPLEX",
+            "HSM40792",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "HOSPITAL ROAD, SADAR LAKSHMIPUR"
+        ],
+        [
+            100,
+            "New Medi Fair Diagnostic Center.",
+            "HSM55644",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Cantonment",
+            "CB-211/7, Jasmin Tower,Kachukhet Main Road, Mirpur-14,  Dhaka."
+        ]
+    ]
+}

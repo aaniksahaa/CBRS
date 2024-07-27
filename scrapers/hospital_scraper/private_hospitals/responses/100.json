@@ -1,0 +1,1007 @@
+{
+    "draw": 100,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Monowara Hospital (Pvt.) Ltd.",
+            "HSM39740",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Paltan",
+            "54, Siddeshwari Road, Ramna, Dhaka-1217"
+        ],
+        [
+            2,
+            "Monowara Hospital diagnostic center",
+            "HSM48897",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Paltan",
+            "54, Siddeshwari Road, Ramna, Dhaka-1217."
+        ],
+        [
+            3,
+            "MONOWARA MEDICAL SERVICES",
+            "HSM41224",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "Alamdanga Station Road, Alamdanga, Chuadanga"
+        ],
+        [
+            4,
+            "Monowara Memorial Diagnostic Centre",
+            "HSM40560",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Palash Bazar, Palash, Narsingdi."
+        ],
+        [
+            5,
+            "MONOWARA ORTHOPAEDIC AND GENERAL HOSPITAL",
+            "HSM30551",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Jatrabari",
+            "35/7/1,GOLAPBAG BISWA ROAD, DHAKA-1203"
+        ],
+        [
+            6,
+            "MONOWARA ORTHOPEDIC AND GENERAL HOSPITAL",
+            "HSM16964",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Jatrabari",
+            "35/7/1, GOLAPBAG BISWA ROAD, DHAKA-1203"
+        ],
+        [
+            7,
+            "MONOWARA ORTHOPEDIC AND GENERAL HOSPITAL",
+            "HSM75179",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "35/7/4, GOLAPBAG, BISWA ROAD, DHAKA-1203"
+        ],
+        [
+            8,
+            "MONOWARA SIKDER MEDICAL COLLEGE AND HOSPITAL",
+            "HSM20339",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Shariatpur",
+            "Bhedarganj",
+            "Vill: Madhupur, P.O. Kartikpur, PS : Bhedergonj, Dist. Shariatpur"
+        ],
+        [
+            9,
+            "MONOWARA SIKDER MEDICAL COLLEGE AND HOSPITAL",
+            "HSM50002",
+            "Diagnostic Center",
+            "Category-B",
+            "Shariatpur",
+            "Bhedarganj",
+            "Vill : Madhupur, PO: Kartikpur, PS: Bhedergonj, Dist: Shariatpur"
+        ],
+        [
+            10,
+            "MONOWARA SONO CENTER",
+            "HSM49922",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jiban Nagar",
+            "HOSPITAL ROAD, JIBAN NAGAR. CHUADANGA"
+        ],
+        [
+            11,
+            "MONOWARA SONO CENTER AND NURSING HOME",
+            "HSM83718",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Jiban Nagar",
+            "HOSPITAL ROAD, JIBAN NAGAR. CHUADANGA"
+        ],
+        [
+            12,
+            "Monowara Specilized Hospital",
+            "HSM52183",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar, Cumilla."
+        ],
+        [
+            13,
+            "Monowara Specilized Hospital",
+            "HSM85170",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar, Cumilla."
+        ],
+        [
+            14,
+            "Monowra Hospital & Diagnostic Center",
+            "HSM51885",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Sarail",
+            "Badda,Sarial,brahmanbaria"
+        ],
+        [
+            15,
+            "Monowra Hospital & Diagnostic Center",
+            "HSM09540",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Sarail",
+            "Badda,Sarial,Brahmanbaria"
+        ],
+        [
+            16,
+            "Monpura Diagnostic Center",
+            "HSM90863",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Manpura",
+            "Hazir Hat, Monpura, Bhola"
+        ],
+        [
+            17,
+            "MONTALA DIGITAL DIAGNOSTIC CENTER",
+            "HSM81208",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Madhabpur",
+            "\u09aa\u09c2\u09b0\u09cd\u09ac \u09ac\u09be\u099c\u09be\u09b0 \u09ae\u09a8\u09a4\u09b2\u09be \u09ae\u09be\u09a7\u09ac\u09aa\u09c1\u09b0 \u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            18,
+            "Monu Diagnostic Center",
+            "HSM23532",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Santhia",
+            "Santhia Bazar, Santhia, Pabna"
+        ],
+        [
+            19,
+            "Moon Check-up opc",
+            "HSM95931",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "Rupayan Millennium Square (2nd Floor),Cha-70,70/A Pragati Sarani,Uttar Badda,Dhaka-1212."
+        ],
+        [
+            20,
+            "Moon Clinic",
+            "HSM96631",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Maya Moyi Sarak, Kamal Kachana, Sadar, Rangpur."
+        ],
+        [
+            21,
+            "MOON DIAGNOSTIC  CENTRE",
+            "HSM08737",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "NARAYANPUR, SHERPUR TOWN, SHERPUR. "
+        ],
+        [
+            22,
+            "MOON DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM37528",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR KACHABAZAR, RAJPARA, RAJSHAHI."
+        ],
+        [
+            23,
+            "Moon Diagnostic Center",
+            "HSM40568",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Paikgachha",
+            "Hospital Road, Paikgacha, Khulna."
+        ],
+        [
+            24,
+            "MOON DIAGNOSTIC CENTER",
+            "HSM93809",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "22/20B KHILJEE ROAD, BLOCK - B, MOHAMMADPUR, \r\nDHAKA 1207"
+        ],
+        [
+            25,
+            "MOON DIAGNOSTIC CENTER",
+            "HSM99930",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "A. GAFUR SUPER COMPLEX, PONCHOBOTI, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            26,
+            "Moon Diagnostic Center",
+            "HSM26624",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Maya Moyi Sarak, Kamal Kachana, Sadar, Rangpur."
+        ],
+        [
+            27,
+            "MOON DIAGNOSTIC CENTRE",
+            "HSM82049",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "66/c Baghmara Road"
+        ],
+        [
+            28,
+            "Moon Diagnostic Centre",
+            "HSM59245",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Chandana Chowrasta, Gazipur"
+        ],
+        [
+            29,
+            "Moon Diagnostic Lab and Consultation Centre",
+            "HSM07922",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Adhunik Hospital Road, Gaibandha sadar, Gaibandha"
+        ],
+        [
+            30,
+            "Moon Digital Diagnostic Centre",
+            "HSM35232",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Hospital Gate, Joynagar, Netrakona."
+        ],
+        [
+            31,
+            "Moon Doctors Chamber And Diagnostic",
+            "HSM37073",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "OLD HOSPITAL ROAD, HABIGONJ"
+        ],
+        [
+            32,
+            "Moon General Hospital",
+            "HSM53408",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Shayestanagar, Habigonj"
+        ],
+        [
+            33,
+            "Moon General Hospital",
+            "HSM78034",
+            "Diagnostic Center",
+            "Category-B",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Shayestanagar, Habigonj"
+        ],
+        [
+            34,
+            "Moon Hospital & Diagnostic Centre",
+            "HSM03944",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Monirampur",
+            "Infront of Moniramur Hospital,Manirampur,Jessore"
+        ],
+        [
+            35,
+            "Moon Hospital (Pvt.)",
+            "HSM68360",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali"
+        ],
+        [
+            36,
+            "Moon Hospital (Pvt.) Unite-2",
+            "HSM86119",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramgati",
+            "College Road, Alexander, Ramgati, Lakshmipur"
+        ],
+        [
+            37,
+            "Moon Hospital (Pvt.) Unite-2",
+            "HSM87806",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Ramgati",
+            "College Road, Alexander, Ramgati, Lakshmipur"
+        ],
+        [
+            38,
+            "Moon Hospital Diagnostic Services ",
+            "HSM44111",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali"
+        ],
+        [
+            39,
+            "Moon Hospital Ltd",
+            "HSM94111",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Jhawtala,Cumilla."
+        ],
+        [
+            40,
+            "Moon Hospital Ltd",
+            "HSM69576",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Jhawtala,Cumilla"
+        ],
+        [
+            41,
+            "MOON HOSPITAL PVT.",
+            "HSM39713",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Chandpur Sadar",
+            "38,STADIUM ROAD, CHANDPUR"
+        ],
+        [
+            42,
+            "MOON LIGHT CLINIC & HOSPITAL",
+            "HSM76856",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kotwali",
+            "9,Mitford Road, Dhaka -1100."
+        ],
+        [
+            43,
+            "MOON LIGHT CLINIC & HOSPITAL",
+            "HSM00116",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kotwali",
+            "9,Mitford Road, Dhaka -1100."
+        ],
+        [
+            44,
+            "Moon Madical Service",
+            "HSM25397",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Jatrabari",
+            "Mitaly super Market.Shonir Akhra.Jatrabari Dhaka."
+        ],
+        [
+            45,
+            "Moon Medical Center",
+            "HSM57993",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Uttar",
+            "Chhangerchar Bazar, Matlab Uttar, Chandpur."
+        ],
+        [
+            46,
+            "Moon Medical Services",
+            "HSM61817",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "98, R.C.R.C Street, Courtpara, Kushtia-7000."
+        ],
+        [
+            47,
+            "Moon Nursing Home",
+            "HSM75236",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Noyapara, Pach Rasta More, Jamalpur-2000, Jamalpur"
+        ],
+        [
+            48,
+            "Moon Nursing Home",
+            "HSM35419",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Noyapara, Pach Rasta More, Jamalpur-2000, Jamalpur"
+        ],
+        [
+            49,
+            "Moon Nursing Home & Diagnostic Center ",
+            "HSM22905",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Ghatail",
+            "Collegeroad, Ghatail, Tangail"
+        ],
+        [
+            50,
+            "MOON PATHOLOGY",
+            "HSM78755",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Gate , Daulatpur , Mohanganj, Netrakona."
+        ],
+        [
+            51,
+            "Moon Xray Clinic & Pathology Centre",
+            "HSM91630",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Super Market, Faridpur"
+        ],
+        [
+            52,
+            "Mordern Clinic & Diagnostic Centre",
+            "HSM97632",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road, Sherpur, Bogra. "
+        ],
+        [
+            53,
+            "Mordern Clinic & Diagnostic Centre",
+            "HSM20977",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road, Sherpur, Bogura."
+        ],
+        [
+            54,
+            "Moricha Diagnostic Center",
+            "HSM68432",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Sarkar mantion, moricha bazar, Serajdikhan, Munsigonj-1544"
+        ],
+        [
+            55,
+            "MORIOM GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM72881",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Amzad Tower (2nd Floor), Rahman Nagar, Near by Sherpur Road, Bogura."
+        ],
+        [
+            56,
+            "MORIOM GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM43600",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Bogura Sadar",
+            "Amzad Tower (2nd Floor), Rahman Nagar, Near by Sherpur Road, Bogura."
+        ],
+        [
+            57,
+            "Morium Begum Memorial Clinic & Diagonostic Centre",
+            "HSM21589",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Rampal",
+            "Gilatala,Rampal,bagerhat"
+        ],
+        [
+            58,
+            "Morium Begum Memorial Clinic & Diagonostic Centre",
+            "HSM59559",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Rampal",
+            "Gilatala,Rampal,Bagerhat"
+        ],
+        [
+            59,
+            "MORIUM DIAGNOSTIC CENTER",
+            "HSM37224",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Bagherpara",
+            "Hospital Gate, Bagherpara, Jashore."
+        ],
+        [
+            60,
+            "MORIUM DIGITAL DIAGNOSTIC CENTRE",
+            "HSM51859",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "Bonar Para Saghata, Gaibandha"
+        ],
+        [
+            61,
+            "MORIUM ZANNAT DENTAL CARE",
+            "HSM05196",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Tangail",
+            "Ghatail",
+            "GAROBAZAR, GHATAIL, TANGAIL"
+        ],
+        [
+            62,
+            "Morning Bird Diagonstic Center",
+            "HSM28928",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Fenchuganj",
+            "Poshim Bazar Fenchuganj, Sylhet."
+        ],
+        [
+            63,
+            "Morrelgonj Modern Diagnostic & Consultation Center",
+            "HSM61910",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "\u09a8\u09ac\u09cd\u09ac\u0987\u09b0\u09b6\u09bf \u09ac\u09be\u09b8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u09a1,\u09ac\u09be\u099c\u09be\u09b0 \u09b0\u09cb\u09a1,\u09ae\u09ae\u09a4\u09be\u099c \u09ae\u09b9\u09b2, \u09ae\u09cb\u09dc\u09c7\u09b0\u0997\u099e\u09cd\u099c,\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f"
+        ],
+        [
+            64,
+            "MORSHED MEDICAL CENTER-(MMC) HOSPITAL & DIAGNOSTIC",
+            "HSM91701",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "90/4 West Chandkati. Jhalokathi."
+        ],
+        [
+            65,
+            "MORSHED MEDICAL CENTER-(MMC) HOSPITAL & DIAGNOSTIC",
+            "HSM08260",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "90/4 West Chandkati. Jhalokathi."
+        ],
+        [
+            66,
+            "Morsheda Surgical Clinic",
+            "HSM13962",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Lohagara",
+            "C&B Chowrashta, Lohagora, Narail,\r\nPO : 7510"
+        ],
+        [
+            67,
+            "Morsheda Surgical Clinic 2",
+            "HSM68132",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narail",
+            "Lohagara",
+            "Lahuria, Lohagara, Narail"
+        ],
+        [
+            68,
+            "MOSTACK DIAGNOSTIC CENTER ",
+            "HSM76185",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Ghoraghat",
+            "RANIGONJ BAZAR, GHORAGHAT, DINAJPUR"
+        ],
+        [
+            69,
+            "Mostafa Health Care",
+            "HSM67837",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "2-3 Joypurhat Tower, Main Road, 2nd Floor, Block - F, Banashree, Rampura, Dhaka - 1219"
+        ],
+        [
+            70,
+            "MOSTAFAPUR DIAGNOSTIC CENTERE",
+            "HSM77870",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Mostofapur Bazar Bus Stand, P.O: Mostofapur, P.S: Madaripur Sadar, Dist: Madaripur."
+        ],
+        [
+            71,
+            "Mostak Dental Home",
+            "HSM90197",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Jatrabari",
+            "Syanir Super Market Paradogur, Konapara, Jatrabari, Dhaka"
+        ],
+        [
+            72,
+            "Mostakim Digital Lab",
+            "HSM35917",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Road, Mohongonj, Netrokona"
+        ],
+        [
+            73,
+            "MOSTOFAPUR  EYE HOSPITAL",
+            "HSM50440",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Mostofapur Bus Stand-RTZ Tower"
+        ],
+        [
+            74,
+            "Mother & Child Care Diagnostic Center  ",
+            "HSM31491",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Kalisuri Bandar,Sadar Road, Bauphal, Patuakhali "
+        ],
+        [
+            75,
+            "Mother & Child Care Hospital",
+            "HSM19103",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Double Mooring",
+            "Zevco M.K. Plaza, Plot # 3& 6, Block # L, Halishahar H/E, Agrabad Access Road, Chittagong"
+        ],
+        [
+            76,
+            "Mother & Child Care Lab",
+            "HSM34675",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Double Mooring",
+            "Zevco M.K. Plaza, Plot # 3 & 6, Block-L, Halishahar H/E, Agrabad Access Road, Chittagong"
+        ],
+        [
+            77,
+            "Mother & child diagnostic center",
+            "HSM03622",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "Sonabaju bazar, saiful plaza, joykrisnopur, nawabgonj, dhaka-1322"
+        ],
+        [
+            78,
+            "Mother and Child Care Normal Delevery Center and Hospital.",
+            "HSM69722",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "\u09a1\u09be\u0995\u09ac\u09be\u0982\u09b2\u09be \u09aa\u09be\u09b0\u09be,\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c \u0964"
+        ],
+        [
+            79,
+            "Mother and Child Care Normal Delevery Center and Hospital.",
+            "HSM02749",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "\u09a1\u09be\u0995\u09ac\u09be\u0982\u09b2\u09be \u09aa\u09be\u09b0\u09be,\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            80,
+            "MOTHER CARE CENTRE",
+            "HSM56404",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "523, Govt. Womens College Road, Monoharpur, Comilla"
+        ],
+        [
+            81,
+            "MOTHER CARE CENTRE",
+            "HSM09489",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "523, Govt. Womens College Road, Monoharpur, Comilla"
+        ],
+        [
+            82,
+            "Mother Care Clinic",
+            "HSM11105",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Old Medical Road, Sylhet"
+        ],
+        [
+            83,
+            "Mother Care Consultation Center",
+            "HSM47836",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bhairab",
+            "Kamalpur, Bhairab, Kishoreganj"
+        ],
+        [
+            84,
+            "MOTHER CARE DIAGNOSTIC CENTER",
+            "HSM46990",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Berir Par, Sreemangal Road, Moulvibazar Sadar, Moulvibazar."
+        ],
+        [
+            85,
+            "Mother Care Diagnostic Center",
+            "HSM39889",
+            "Diagnostic Center",
+            "Category-B",
+            "Habiganj",
+            "Habiganj Sadar",
+            "RNT Tower, New Pouroshova Road, Habiganj."
+        ],
+        [
+            86,
+            "MOTHER CARE GENERAL  HOSPITAL",
+            "HSM30503",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Paba",
+            "HAQUE SUPER MARKET, NOWHATA BAZAR, PABA, RAJSHAHI."
+        ],
+        [
+            87,
+            "MOTHER CARE GENERAL (PVT) HOSPITAL",
+            "HSM70163",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Valanagar, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            88,
+            "MOTHER CARE GENERAL (PVT) HOSPITAL",
+            "HSM07961",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Valanagar, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            89,
+            "Mother Care Hospital ",
+            "HSM76116",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "DB Road, Bus Stand, Gaibanda"
+        ],
+        [
+            90,
+            "Mother Care Hospital",
+            "HSM66183",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar, Comilla."
+        ],
+        [
+            91,
+            "Mother Care Hospital",
+            "HSM66471",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar, Comilla. "
+        ],
+        [
+            92,
+            "Mother Care Hospital (Pathology)",
+            "HSM69897",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "DB Road, Bus Stand, Gaibanda"
+        ],
+        [
+            93,
+            "Mother Care Hospital Pvt. Ltd.",
+            "HSM97389",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "3/10, Lalmatia, Block-A, Mohammadpur, Dhaka"
+        ],
+        [
+            94,
+            "Mother Care Hospital PVT.Ltd.",
+            "HSM57670",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "3/10 Lal Matia BlockA, Mohammad pur Dhaka."
+        ],
+        [
+            95,
+            "MOTHER CHILD & HEALTH CARE CENTER",
+            "HSM55571",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "Dakbangla Para, Shahzadpur, Sirajganj"
+        ],
+        [
+            96,
+            "MOTHER CHILD & HEALTH CARE CENTER",
+            "HSM99487",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "Dakbangla Para, Shahzadpur, Sirajganj"
+        ],
+        [
+            97,
+            "Mother Hood Fertility Bangladesh Private Ltd.",
+            "HSM02665",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "44/9west panthopath Haque Tower"
+        ],
+        [
+            98,
+            "MOTHER LAND HOSPITAL PVT (PATHOLOGICAL LABORATORY",
+            "HSM89484",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Hospital Road, Lakshmipur."
+        ],
+        [
+            99,
+            "Mother Mission  Diagnostic Center",
+            "HSM49289",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Bhawanigonj, Bagmara, Rajshahi"
+        ],
+        [
+            100,
+            "Mother Mission Hospital and Diagnostic Center",
+            "HSM99851",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Baghmara",
+            "Bhawaniganj Pourasava, Bagmara, Rajshahi"
+        ]
+    ]
+}

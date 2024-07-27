@@ -1,0 +1,1007 @@
+{
+    "draw": 61,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Health Care Diagnostic Center, Ishwardi.",
+            "HSM99678",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Ishwardi",
+            "Post office more, Hospital Road, Ishwardi, Pabna."
+        ],
+        [
+            2,
+            "HEALTH CARE DIAGNOSTIC CENTER.",
+            "HSM41177",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "HEALTH CARE DIAGNOSTIC CENTER, DIDAR MARKET (2ND FLOOR) D.T.ROAD,  SITAKUND, CHATTOGRAM, BANGLADESH."
+        ],
+        [
+            3,
+            "Health Care Diagnostic Centre",
+            "HSM45449",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Madhukhali",
+            "In front of Madhukhali Hospital"
+        ],
+        [
+            4,
+            "HEALTH CARE DIAGNOSTIC CENTRE",
+            "HSM26669",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "POLLI BIDUT ROAD, SHIALKOL, SIRAJGANJ"
+        ],
+        [
+            5,
+            "Health Care Diagnostic Centre ",
+            "HSM15156",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Nabiganj",
+            "Khaleque Monjil,Hospital Road,Nabiganj,Habiganj"
+        ],
+        [
+            6,
+            "Health Care Diagnostic Centre",
+            "HSM76178",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Golapganj",
+            "Shahjalal Market, 2nd Floor (Near of the Post Office) Dhaka Dakshin Bazar, Golapganj, Sylhet."
+        ],
+        [
+            7,
+            "Health Care Diagnostic Centre",
+            "HSM54516",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            8,
+            "HEALTH CARE DIAGNOSTIC CENTRE (PATHOLOGY)",
+            "HSM35262",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Sadar Hospital Road Chuadanga"
+        ],
+        [
+            9,
+            "Health Care Diagnostic Centre.",
+            "HSM24209",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Saltha",
+            "Balia Gutti Bazar, Shalta, Faridpur."
+        ],
+        [
+            10,
+            "health care diagonostic centre",
+            "HSM01504",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "4/1 chopara sadar mymensingh"
+        ],
+        [
+            11,
+            "HEALTH CARE DIGITAL  DIAGNOSTIC CENTER ",
+            "HSM57365",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "103/12,Medical College Road,Hospital Road Nearst,Gopalganj sadar,Gopalganj"
+        ],
+        [
+            12,
+            "Health Care Digital Diagnostic & Hospital",
+            "HSM71948",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhupchanchia",
+            "Dupchanchia, Bogura."
+        ],
+        [
+            13,
+            "Health Care Digital Diagnostic & Hospital",
+            "HSM93882",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Dhupchanchia",
+            "Dupchanchia, Bogura."
+        ],
+        [
+            14,
+            "Health Care Digital Diagnostic Center",
+            "HSM06283",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "Mokamtola, Shibganj, Bogura."
+        ],
+        [
+            15,
+            "Health Care Digital Diagnostic Center",
+            "HSM68899",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Burichang",
+            "Vhorasar Bazar, Burichang, Cumilla"
+        ],
+        [
+            16,
+            "Health Care Digital Diagnostic Center (Pvt.) Ltd.",
+            "HSM00638",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Hazi Yusuf Ali Market(02),Beximco Road,Cherag Ali,Tongi,Gazipur."
+        ],
+        [
+            17,
+            "HEALTH CARE DIGITAL DIAGNOSTIC CENTER.",
+            "HSM94509",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur Upazila",
+            "S.R. PLAZA (2ND FLOOR), SAIDPUR, NILPHAMARI."
+        ],
+        [
+            18,
+            "HEALTH CARE GENERAL HOSPITAL",
+            "HSM63898",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Kazipur",
+            "SONAMUKHI BAZAR,KAZIPUR,SIRAJGONJ"
+        ],
+        [
+            19,
+            "Health Care General Hospital & Diagnostic Center",
+            "HSM68101",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Katnarpara, Bogura Sodor, Bogura."
+        ],
+        [
+            20,
+            "Health Care General Hospital & Diagnostic Center",
+            "HSM37966",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Katnarpara, Bogura Sadar, Bogura."
+        ],
+        [
+            21,
+            "Health Care Hospital",
+            "HSM13603",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Dewanpara, College Road, Jamalpur-2000"
+        ],
+        [
+            22,
+            "Health Care Hospital",
+            "HSM88874",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Dewanpara, College Road, Jamalpur-2000"
+        ],
+        [
+            23,
+            "HEALTH CARE HOSPITAL",
+            "HSM92415",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Ullahpara",
+            "HATIOKUMRUL, SALANGA, SIRAJGANJ"
+        ],
+        [
+            24,
+            "HEALTH CARE HOSPITAL",
+            "HSM59094",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khagrachari",
+            "Khagrachari Sadar",
+            "Narikel Bagan,College Road, Khagrachari"
+        ],
+        [
+            25,
+            "Health Care Hospital",
+            "HSM83906",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Afzal Road, Chandragonj, Lakshmipur"
+        ],
+        [
+            26,
+            "HEALTH CARE HOSPITAL & DIAGNASTIC UNIT-2",
+            "HSM10571",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "TARASH HOSPITAL GET, TARASH, SIRAJGANJ"
+        ],
+        [
+            27,
+            "HEALTH CARE HOSPITAL & DIAGNASTIC UNIT-2",
+            "HSM53050",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Tarash",
+            "\u09a4\u09be\u09dc\u09be\u09b6 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u0997\u09c7\u099f, \u09a4\u09be\u09dc\u09be\u09b6, \u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            28,
+            "Health Care Hospital & Diagnostic",
+            "HSM24379",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Naria",
+            "Ghariasar, Naria, Shariatpur"
+        ],
+        [
+            29,
+            "HEALTH CARE HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM85871",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Kacha Bazar, Keranihat, Satkania, Chittagong."
+        ],
+        [
+            30,
+            "Health Care Hospital & Diagnostic Center",
+            "HSM57178",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Satkania",
+            "Keranihat,Satkania,Chittagong"
+        ],
+        [
+            31,
+            "Health Care Hospital & Diagnostic Center, Ishwardi",
+            "HSM69925",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Shersha Road, Beltola, Ishwardi, Pabna"
+        ],
+        [
+            32,
+            "Health Care Hospital & DIAGNOSTIC CENTRE",
+            "HSM79608",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Ala Uddin Complex, Shirajdikhan, Munshiganj"
+        ],
+        [
+            33,
+            "Health Care Hospital & DIAGNOSTIC CENTRE",
+            "HSM46246",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Serajdikhan",
+            "Ala Uddin Complex, Shirajdikhan, Munshiganj"
+        ],
+        [
+            34,
+            "Health Care Hospital & diagnostic centre",
+            "HSM04798",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Afzal Road, Chandragonj, Lakshmipur"
+        ],
+        [
+            35,
+            "HEALTH CARE HOSPITAL & EYE CENTER",
+            "HSM03878",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Ullahpara",
+            "HATIOKUMRUL, SALANGA, SIRAJGANJ"
+        ],
+        [
+            36,
+            "Health Care Hospital & Trauma Centre",
+            "HSM03959",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "98, Kajolshah, Sadar, Sylhet"
+        ],
+        [
+            37,
+            "HEALTH CARE HOSPITAL (PVT)",
+            "HSM55648",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Keshabpur",
+            "MULGRAM ROAD, KASHABPUR, JESSORE"
+        ],
+        [
+            38,
+            "Health Care Hospital Ltd.",
+            "HSM58330",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Cinema Hall Road, Habiganj. "
+        ],
+        [
+            39,
+            "Health Care Hospital Ltd.",
+            "HSM58829",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Cinema Hall Road, Habigan. "
+        ],
+        [
+            40,
+            "HEALTH CARE LAB",
+            "HSM78777",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "Yeakub Ali Market, Darshana, Damurhuda, Chuadanga"
+        ],
+        [
+            41,
+            "HEALTH CARE LAB",
+            "HSM10390",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Taz Prodhan Market, Shibu Market, Fatullah, , Narayanganj"
+        ],
+        [
+            42,
+            "HEALTH CARE LAB AND HOSPITAL",
+            "HSM29306",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Adamdighi",
+            "SANTAHAR BAZAR, ADAMDIGHI, BOGURA."
+        ],
+        [
+            43,
+            "HEALTH CARE LAB AND HOSPITAL",
+            "HSM67744",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Adamdighi",
+            "SANTAHAR BAZAR, ADAMDIGHI, BOGURA."
+        ],
+        [
+            44,
+            "HEALTH CARE MEDICAL & DIAGNOSIS CENTER",
+            "HSM25036",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "MOLLICK PARA, MEHERPUR"
+        ],
+        [
+            45,
+            "Health Care Medical Center ",
+            "HSM80759",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "23,shahid sharoni sharak,Manikgonj"
+        ],
+        [
+            46,
+            "Health Care Medical Center ",
+            "HSM83139",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Manikganj",
+            "Manikganj Sadar",
+            "23 Sahid Shoroni Sharak Manikganj"
+        ],
+        [
+            47,
+            "Health Care Medical Center",
+            "HSM07214",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangura Bazar, Nabinagar, Brahmanbaria"
+        ],
+        [
+            48,
+            "Health Care Medical Center ",
+            "HSM67665",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Gomastapur",
+            "Hospital Gate, Dakbanglapara, Rohanpur-6320, Gomastapur, Chapainawabganj"
+        ],
+        [
+            49,
+            "Health Care Medical Centre",
+            "HSM91314",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "P.O:Miah Bazar, P.S: Chauddagram, Dist: Comilla"
+        ],
+        [
+            50,
+            "Health Care Medical Services",
+            "HSM89514",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Mandari Bazar, Sadar, Lakshmipur."
+        ],
+        [
+            51,
+            "Health Care Medical Services, Lakshmipur",
+            "HSM94005",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Hospital Road (Near Matrimongol), Lakshmipur Sadar, Lakshmipur"
+        ],
+        [
+            52,
+            "HEALTH CARE NURSING HOME",
+            "HSM23852",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, G.P.O-6000. RAJPARA, RAJSHAHI."
+        ],
+        [
+            53,
+            "HEALTH CARE PATHOLOGY CENTRE (PVT)",
+            "HSM26272",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Keshabpur",
+            "MULGRAM ROAD, KASHABPUR, JESSORE"
+        ],
+        [
+            54,
+            "HEALTH CARE POLY CLINIC",
+            "HSM27162",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Hasannagar (Sadar Hospital Road ), Sunamganj"
+        ],
+        [
+            55,
+            "Health Care Pvt. Hospital",
+            "HSM49735",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Newtown, Sadar, Dinajpur. "
+        ],
+        [
+            56,
+            "Health Care Pvt. Hospital",
+            "HSM01622",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            57,
+            "Health Care Shishu O  General Hospital & Diagnostic Center",
+            "HSM33023",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "West Paik Para,Brahmanbaria"
+        ],
+        [
+            58,
+            "Health care shishu o jeneral hosptal & diagnostic center",
+            "HSM75778",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "\u099f\u09c7\u0982\u0995\u09c7\u09b0 \u09aa\u09be\u09dc"
+        ],
+        [
+            59,
+            "Health Care Specialized Hospital",
+            "HSM40736",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Tatulia Road Panchagarh"
+        ],
+        [
+            60,
+            "Health Center Dhaka",
+            "HSM43790",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "H: 1/19, Road: 11, Block: A, Chandrima Model Town, Mohammadpur, Dhaka 1207"
+        ],
+        [
+            61,
+            "HEALTH CHECK DIAGNOSTIC CENTRE",
+            "HSM16160",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "STADIUMPARA, WARD NO-09, MEHERPUR"
+        ],
+        [
+            62,
+            "Health City Diagnostic & Consultation Center",
+            "HSM31209",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Hirok mor, Gobindaganj, Gaibandha"
+        ],
+        [
+            63,
+            "Health City Diagnostic and Consultation Center",
+            "HSM60027",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Babuganj",
+            "Rahmatpur Bazar, Babuganj, Barishal"
+        ],
+        [
+            64,
+            "Health City Diagnostic Center",
+            "HSM42082",
+            "Diagnostic Center",
+            "Category-A",
+            "Bogura",
+            "Bogra Sadar",
+            "Lotifpur,Colony Sherpur road, Bogura."
+        ],
+        [
+            65,
+            "Health City Diagnostic Center ",
+            "HSM49019",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Bangabari Sadar Hospital Road, Naogaon Sadar, Naogaon"
+        ],
+        [
+            66,
+            "Health City Specialized Hospital & Diagnostic Center ",
+            "HSM61400",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Bogra Sadar",
+            "Latifpur ,Colony ,Sherpur road Bogra."
+        ],
+        [
+            67,
+            "Health Cottage Diagnostic Center",
+            "HSM07600",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabashpur, Khan monzil, Road No: 02"
+        ],
+        [
+            68,
+            "Health cure diagnostic & Hospital",
+            "HSM86919",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bagerhat",
+            "Fakirhat",
+            "Upazila Moor,Attaka,Fakirhat,Bagerhat"
+        ],
+        [
+            69,
+            "Health Cure Diagnostic & Hospital",
+            "HSM37954",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Upazila Moor,Attaka,Fakirhat,Bagerhat"
+        ],
+        [
+            70,
+            "Health Diagnostic Center",
+            "HSM05679",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Khagrachari Sadar",
+            "Vaibon Chara Bazar, Panchari road, Khagrachari sadar, Khagrachari."
+        ],
+        [
+            71,
+            "Health Diagnostic Centre.",
+            "HSM53191",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Super Market, Faridpur"
+        ],
+        [
+            72,
+            "Health First Medical Centre",
+            "HSM66415",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Sylhet",
+            "Sylhet Sadar",
+            "102 Jhornarpar, Kumarpara, Sylhet"
+        ],
+        [
+            73,
+            "Health Garden Diagnostic & Consultation Centre",
+            "HSM40134",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "F.R SHOPING COMPLEX, HIGH ROAD, BHERAMARA, KUSHTIA."
+        ],
+        [
+            74,
+            "HEALTH HAVEN DIGITAL DIAGONOSTIC CENTER",
+            "HSM59432",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "FONT OF GENERAL HOSPITAL, AMRITA LAL DAY ROAD, BARISHAL."
+        ],
+        [
+            75,
+            "Health Haven Private Hospital",
+            "HSM80451",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "149,TB Hospital Road Moulvibazar-3200"
+        ],
+        [
+            76,
+            "HEALTH LABS LIMITED",
+            "HSM50102",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kafrul",
+            "1041/2A East Shewrapara, Begum Rokeya Shawaroni, Mirpur, Dhaka"
+        ],
+        [
+            77,
+            "Health Line Diagnostic Center",
+            "HSM13022",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Sreemangal",
+            "Station Road,Sreemangal,Moulvibazar."
+        ],
+        [
+            78,
+            "Health Link General Diagnostic Center",
+            "HSM46706",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Gazaria",
+            "Ananda Mela Super Market (1st Floor), Bhaberchar, Gazaria, Munshiganj."
+        ],
+        [
+            79,
+            "Health Park Ltd",
+            "HSM93532",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gulshan",
+            "Z- Tower (1st Floor), Road-132, House-4, Gulshan-1, Dhaka-1212."
+        ],
+        [
+            80,
+            "Health Plus Diagnostic",
+            "HSM01330",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            " Dhap, Jail Road, Medical More, Rangpur-5400, Bangladesh."
+        ],
+        [
+            81,
+            "Health plus diagnostic and consultation centre.",
+            "HSM50130",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "M.rahman Center (South Side Of Shahajahan Hotel)86/87, Sadarghat Road, Chattogram,Bangladesh."
+        ],
+        [
+            82,
+            "Health Plus Diagnostic Center",
+            "HSM47364",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Abdul Kader Plaza (1st Floor), Silimpur, Bogura Sadar, Bogura."
+        ],
+        [
+            83,
+            "HEALTH PLUS DIAGNOSTIC CENTRE",
+            "HSM69189",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "S.A TOWER, GHAT GHAR, BARAKUMRA, SITAKUNDA, CHATTOGRAM. "
+        ],
+        [
+            84,
+            "HEALTH POINT DIAGNOSTIC",
+            "HSM99268",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "JORA BRIDGE, MUNSHI PARA, SADAR, DINAJPUR"
+        ],
+        [
+            85,
+            "Health Point Diagnostic & Consulation Center.",
+            "HSM16083",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Daganbhuiyan",
+            "Motin villa, Hospital road, Dagonbhuiyan, Feni.  "
+        ],
+        [
+            86,
+            "HEALTH POINT DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM26176",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Boalkhali",
+            "Jote Pukur.Wares Mohsena Shopping Complex(1st Floor).Next to Global Islami Bank.Kanongopara Road.Saroatoli.Boalkhali.Chottogram."
+        ],
+        [
+            87,
+            "Health Point Diagnostic Services",
+            "HSM77887",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Cantonment",
+            "Adept Moitree Complex (2nd Floor), 571 South Manikdi, ECB Chattor, Dhaka Cantonment, Dhaka - 1206"
+        ],
+        [
+            88,
+            "Health Ramu, Medical & Diagnostic Center",
+            "HSM00497",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ramu",
+            "Chowmuhani, Ramu, Coxs Bazar"
+        ],
+        [
+            89,
+            "HEALTH RESORT  HOSPITAL",
+            "HSM58715",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "231/3, Banga Bandhu Road, Hasnat Plaza, Chashara, Narayanganj"
+        ],
+        [
+            90,
+            "HEALTH RESORT  HOSPITAL",
+            "HSM65140",
+            "Diagnostic Center",
+            "Category-B",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "231/3, Banga Bandhu Road, Hasnat Plaza, Chashara, Narayanganj"
+        ],
+        [
+            91,
+            "HEALTH RESORT  HOSPITAL",
+            "HSM97192",
+            "Blood Bank",
+            "",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "231/3, Banga Bandhu Road, Hasnat Plaza, Chashara, Narayanganj"
+        ],
+        [
+            92,
+            "HEALTH VIEW CT SCAN & MEDICAL SERVICE`S",
+            "HSM75945",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Kuchaitoli, Adarsha Sadar, Cumilla"
+        ],
+        [
+            93,
+            "Health View Diagnostic Centre",
+            "HSM32769",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "Nazir Ahmed Sowdagor Market (1st floor), DT Road, Bhatiarty, Sitakund, Chittagong-4315."
+        ],
+        [
+            94,
+            "Health View Genaral Hospital and Diagnostic Center",
+            "HSM35593",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Nabinagar",
+            "\u09b6\u09bf\u09ac\u09aa\u09c1\u09b0 \u09ac\u09be\u099c\u09be\u09b0, \u09a8\u09ac\u09c0\u09a8\u0997\u09b0, \u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09ac\u09be\u09dc\u09bf\u09df\u09be\u0964"
+        ],
+        [
+            95,
+            "HEALTH VIEW MATERNITY & CHILD HOSPITAL",
+            "HSM36868",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "ATURAR DIPU,HATHAZARI ROAD,PANCHLAISH,CHITTAGONG."
+        ],
+        [
+            96,
+            "HEALTH VILLAGE DIGNOSTIC HONE",
+            "HSM77049",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogra",
+            "Bogra Sadar",
+            "BIMAN MOR, MATIDALI, BOGRA"
+        ],
+        [
+            97,
+            "Health Village Nursing Home",
+            "HSM33570",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogra",
+            "Bogra Sadar",
+            "BIMAN MOR, MATIDALI, BOGRA"
+        ],
+        [
+            98,
+            "Health Zone Diagnostic Center ",
+            "HSM58887",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "13, KDA Avenue, Sonadanga, Khulna "
+        ],
+        [
+            99,
+            "HEALTHAID DIAGNOSTIC AND CONSULTATION CENTER",
+            "HSM14057",
+            "Diagnostic Center",
+            "Category-B",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "MUJIB SAROK, SIRAJGANJ"
+        ],
+        [
+            100,
+            "Healthcare Diagnostic center",
+            "HSM85957",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Karimganj",
+            "Nyamatpur Bazar, karimganj, kishoreganj"
+        ]
+    ]
+}

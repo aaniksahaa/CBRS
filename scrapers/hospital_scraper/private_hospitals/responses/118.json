@@ -1,0 +1,1007 @@
+{
+    "draw": 118,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Padma Clinic & Diagnostic Centre",
+            "HSM64294",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Mohammadpur",
+            "Mohammadpur East Girls College, Upazila-Mohammadpur, District-Magura.Bangladesh."
+        ],
+        [
+            2,
+            "Padma Clinic & Diagnostic Centre",
+            "HSM62457",
+            "Diagnostic Center",
+            "Category-C",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "C .O Coloni ,Sadar Road ,Joypurhat"
+        ],
+        [
+            3,
+            "Padma Clinic & Diagnostic Centre",
+            "HSM18771",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Mohammadpur",
+            "Mohammadpur East Girls College, Upazila-Mohammadpur, District-Magura.Bangladesh."
+        ],
+        [
+            4,
+            "Padma Clinic & Nursing Home",
+            "HSM35659",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Sadar Road, Joypurhat."
+        ],
+        [
+            5,
+            "Padma Clinical Lab",
+            "HSM88701",
+            "Diagnostic Center",
+            "Category-A",
+            "Chattogram",
+            "Sitakunda",
+            "Padma Clinical Lab,Aliya Madrasha Market,Shitakund Pouroshaba,DT Road,Shitakund,Chittagong."
+        ],
+        [
+            6,
+            "Padma Community Hospital.",
+            "HSM47258",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Peyaratala, Kushtia sadar, Kushtia"
+        ],
+        [
+            7,
+            "PADMA COMPUTERIZED DIAGNOSTIC CENTRE",
+            "HSM37710",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "Hospital Road,kotalipara,Gopalganj"
+        ],
+        [
+            8,
+            "PADMA DIAGNOSTIC AND CLINIC",
+            "HSM58791",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Madrashamore, Natore, Bangladesh"
+        ],
+        [
+            9,
+            "PADMA DIAGNOSTIC AND CLINIC",
+            "HSM42116",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Madrasa More, Natore, Bangladesh"
+        ],
+        [
+            10,
+            "PADMA DIAGNOSTIC CENTER",
+            "HSM97051",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Goripur Bazar, Daudkandi, Comilla"
+        ],
+        [
+            11,
+            "Padma Diagnostic Center",
+            "HSM28777",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "24 KDA Avenue Moylapota, Khulna"
+        ],
+        [
+            12,
+            "PADMA DIAGNOSTIC CENTER",
+            "HSM54333",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Porsha",
+            "HOSPITAL GATE, NITHPUR, PORSHA, NAOGAON"
+        ],
+        [
+            13,
+            "Padma Diagnostic Center",
+            "HSM87501",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Dhigirpar Bazar Tongibari, Munshiganj "
+        ],
+        [
+            14,
+            "PADMA DIAGNOSTIC CENTER",
+            "HSM39590",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jessore Sadar",
+            "Ghope, Jail Road, Jashore"
+        ],
+        [
+            15,
+            "Padma Diagnostic Center",
+            "HSM21816",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "245/16, Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            16,
+            "PADMA DIAGNOSTIC CENTER ",
+            "HSM35010",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Shailkupa",
+            "kabirpur, shailkupa, jhenaidah. "
+        ],
+        [
+            17,
+            "Padma Diagnostic Center",
+            "HSM27177",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Ullapara, Sirajganj"
+        ],
+        [
+            18,
+            "PADMA DIAGNOSTIC CENTER",
+            "HSM94517",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Sarankhola",
+            "Rayenda Bazar, Sarankhola, Bagerhat."
+        ],
+        [
+            19,
+            "Padma Diagnostic Center",
+            "HSM56592",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Alfadanga",
+            "Hospital Road, Alfadanga Bazar, Faridpur"
+        ],
+        [
+            20,
+            "PADMA DIAGNOSTIC CENTER.",
+            "HSM51047",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Madhukhali",
+            "East Gondardia Near of Hospital, Madhukhali, Faridpur."
+        ],
+        [
+            21,
+            "PADMA DIAGNOSTIC CENTRE",
+            "HSM13989",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "Hospital Road, Barishal Sadar, Barishal."
+        ],
+        [
+            22,
+            "Padma Diagnostic Centre ",
+            "HSM86068",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Main Road, Rajbari."
+        ],
+        [
+            23,
+            "Padma diagnostic centre  ",
+            "HSM64121",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Shalgaria,Pabna Sadar, Pabna"
+        ],
+        [
+            24,
+            "Padma Diagnostic Centre",
+            "HSM29630",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Swarna Tower(2nd Floor),82 DC Road,Gopalganj Sadar,Gopalganj."
+        ],
+        [
+            25,
+            "PADMA DIAGNOSTIC CENTRE",
+            "HSM82229",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "RAGOTI ROAD, LAKSHMIPUR"
+        ],
+        [
+            26,
+            "Padma Diagnostic Centre Ltd. ",
+            "HSM35923",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Motijheel",
+            "245/2, New Circular Road, Malibagh, Dhaka-1217 "
+        ],
+        [
+            27,
+            "Padma Diagnostic Centre.",
+            "HSM26667",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Sadarpur",
+            "Hospital More, Sadarpur, Faridpur."
+        ],
+        [
+            28,
+            "PADMA DIGIAL LAB",
+            "HSM52717",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Daganbhuiyan",
+            "Daganbhuiyan"
+        ],
+        [
+            29,
+            "PADMA DIGITAL CLINIC & HOSPITAL",
+            "HSM06900",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "DIABETIC HOSPITAL ROAD, SABALIA, TANGAIL."
+        ],
+        [
+            30,
+            "PADMA DIGITAL CLINIC & HOSPITAL",
+            "HSM42656",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Tangail Sadar",
+            "DIABETIC HOSPITAL ROAD, SABALIA, TANGAIL."
+        ],
+        [
+            31,
+            "PADMA DIGITAL DIAGNOSTIC &  HOSPITAL",
+            "HSM06376",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Sreepur",
+            "Hazi Malek Master Super Market, Mawna Chowrasta, Sripur, Gazipur"
+        ],
+        [
+            32,
+            "PADMA DIGITAL DIAGNOSTIC & HOSPITAL",
+            "HSM44119",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Sreepur",
+            "Mawna Chowrasta Sripur Gazipur"
+        ],
+        [
+            33,
+            "Padma Digital Diagnostic Center",
+            "HSM80063",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Zanjira",
+            "Sonali Bank Moor, Thana Road, Jajira, Shariatpur"
+        ],
+        [
+            34,
+            "Padma Digital Diagnostic Center",
+            "HSM92462",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Bijoynagar",
+            "Amtolibazar,Bijoynagar,Brahmanbaria"
+        ],
+        [
+            35,
+            "Padma Digital Diagnostic Centre",
+            "HSM39669",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "331/1, Hospital Road, Galachipa, Patuakhali"
+        ],
+        [
+            36,
+            "Padma Digital Diagnostic Centre",
+            "HSM86548",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole (Chourongi More), Satkhira."
+        ],
+        [
+            37,
+            "PADMA DIOGNOSTIC CENTER",
+            "HSM67867",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramgati",
+            "Ramdoyal Bazar, Ramgoti, Lakshmipur."
+        ],
+        [
+            38,
+            "PADMA DIOGNOSTIC CENTRE",
+            "HSM74888",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "I I COLLEGE ROAD, SIRAJGANJ"
+        ],
+        [
+            39,
+            "Padma General  Hospital &  Diagnostic Center",
+            "HSM51058",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Bhedarganj",
+            "Bhederganj,  Shariatpur."
+        ],
+        [
+            40,
+            "Padma General  Hospital &  Diagnostic Center",
+            "HSM12364",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Shariatpur",
+            "Bhedarganj",
+            "Bhederganj,  Shariatpur."
+        ],
+        [
+            41,
+            "PADMA GENERAL HOSPITAL ",
+            "HSM64768",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Haji Razzab Ali Super Market, Chittagang Road, Siddirganj, Narayanganj"
+        ],
+        [
+            42,
+            "PADMA GENERAL HOSPITAL ",
+            "HSM20196",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Haji Razzab Ali Super Market, Chittagang Road, Siddirganj, Narayanganj"
+        ],
+        [
+            43,
+            "PADMA GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM67987",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Bera",
+            "Horidevpur, Kashinathpur, Bera, Pabna"
+        ],
+        [
+            44,
+            "PADMA GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM47509",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Bera",
+            "Horidevpur, Kashinathpur, Bera, Pabna"
+        ],
+        [
+            45,
+            "PADMA GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM06844",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Lalpur",
+            "Hospital Gate, Lalpur, Natore. "
+        ],
+        [
+            46,
+            "Padma General Hospital & Diagnostic Centre",
+            "HSM92253",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "Kalampur Bazar, Dhamrai, Dhaka"
+        ],
+        [
+            47,
+            "Padma General Hospital & Diagnostic Centre",
+            "HSM82907",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dhamrai",
+            "Kalampur Bazar, Dhamrai, Dhaka"
+        ],
+        [
+            48,
+            "PADMA GENERAL HOSPITAL (PVT)",
+            "HSM34663",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Khan Plaza, Puranthana, Kishoreganj."
+        ],
+        [
+            49,
+            "PADMA GENERAL HOSPITAL (PVT)",
+            "HSM28365",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Khan Plaza, Puranthana, Kishoreganj."
+        ],
+        [
+            50,
+            "Padma General Hospital Bhairab",
+            "HSM83073",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishorgonj",
+            "Bhairab",
+            "New town, Kamalpur, Bhairab"
+        ],
+        [
+            51,
+            "Padma General Hospital Bhairab",
+            "HSM91895",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Bhairab",
+            "New Town, Kamalpur, Bhairab"
+        ],
+        [
+            52,
+            "Padma General Hospital Ltd.",
+            "HSM70091",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "103, Birr Uttam, CR Datta Road, Dhaka-1205"
+        ],
+        [
+            53,
+            "Padma Health Care",
+            "HSM35740",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Paltan",
+            "40 Bijoy Nagar (Ally\u2019s Center), Kakrail, Paltan, Dhaka-1000, Bangladesh."
+        ],
+        [
+            54,
+            "PADMA HEALTH CARE  DIAGNOSTIC HOSPITAL & TROMA CENTER",
+            "HSM65945",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Sreepur",
+            "MAWNA CHOWRASTA, SREEPUR,GAZIPUR"
+        ],
+        [
+            55,
+            "PADMA HEALTH CARE  DIAGNOSTIC HOSPITAL & TROMA CENTER",
+            "HSM50370",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Sreepur",
+            "MAWNA CHOWRASTA, SREEPUR,GAZIPUR"
+        ],
+        [
+            56,
+            "PADMA HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM73244",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "ALISHA BHABAN, ACADEMY ROAD, FENI"
+        ],
+        [
+            57,
+            "PADMA HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM35473",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "ALISHA BHABAN, ACADEMY ROAD, FENI"
+        ],
+        [
+            58,
+            "PADMA HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM66622",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabaspur, Faridpur sadar, Faridpur."
+        ],
+        [
+            59,
+            "PADMA HOSPITAL & DIAGNOSTIC CENTER.",
+            "HSM20120",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabaspur, Faridpur sadar, Faridpur."
+        ],
+        [
+            60,
+            "Padma Hospital & Diagnostic Centre",
+            "HSM09959",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Biponibag, Chandpur Sadar, Chandpur."
+        ],
+        [
+            61,
+            "Padma Hospital & Digital Diagonistic Center.",
+            "HSM39684",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Nangalkot",
+            "Maulvi Ali Ahmed Plaza, Bypass Road, Nangalkot, Cumilla"
+        ],
+        [
+            62,
+            "Padma Hospital & Digital Diagonistic Center.",
+            "HSM55179",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Nangalkot",
+            "Maulvi Ali Ahmed Plaza, Bypass Road, Nangalkot, Cumilla"
+        ],
+        [
+            63,
+            "Padma Lab & Consultation Centre",
+            "HSM09847",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Sadar Road, Joypurhat."
+        ],
+        [
+            64,
+            "PADMA LAB AND DIAGNOSTIC CENTER ",
+            "HSM66243",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Maheshpur",
+            "College Bus Stand, Hospital Road. Maheshpur, Jhenaidah"
+        ],
+        [
+            65,
+            "Padma Medical Center",
+            "HSM63102",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Goalanda",
+            "Goalanda, Rajbari."
+        ],
+        [
+            66,
+            "Padma Medical Center Ltd.",
+            "HSM82740",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "103, Bir Uttam, CR Datta Road, 290,Sonargoun Road, Kathalbagan Dhal, Kalabagan, Dhaka-1205"
+        ],
+        [
+            67,
+            "Padma Medical Services",
+            "HSM92004",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "198bongobondhuroadchasara.Narayanganj"
+        ],
+        [
+            68,
+            "Padma Memorial Hospital & Diagnostic Center",
+            "HSM32856",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat, Rajoir, Madaripur"
+        ],
+        [
+            69,
+            "Padma Memorial Hospital & Diagnostic Center",
+            "HSM65471",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat, Rajoir, Madaripur"
+        ],
+        [
+            70,
+            "Padma Nursing Home",
+            "HSM01510",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bhola",
+            "Bhola Sadar",
+            "Mom Vila, Muslim Para, Bhola"
+        ],
+        [
+            71,
+            "PADMA PATH LAB",
+            "HSM52390",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "7 No Darussalam Road, Mirpur-1, Dhaka-1216. "
+        ],
+        [
+            72,
+            "Padma Pathology ",
+            "HSM15297",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Boro Kalibari Road, Adalot Para, Tangail."
+        ],
+        [
+            73,
+            "PADMA PATHOLOGY & DIAGNOSTIC CENTRE",
+            "HSM51522",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Hospital Gate, Chatmohar, Pabna"
+        ],
+        [
+            74,
+            "Padma Sono Diagnostic Center",
+            "HSM09780",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Daulatpur",
+            "Taragunia Thanamor, Daulatpur, Kushtia."
+        ],
+        [
+            75,
+            "PADMA SPECIALIZED HOSPITAL",
+            "HSM71085",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Bhanga",
+            "WEST HASAMDIA, BHANGA, FARIDPUR."
+        ],
+        [
+            76,
+            "PADMA SPECIALIZED HOSPITAL.",
+            "HSM40975",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Bhanga",
+            "WEST HASAMDIA, BHANGA, FARIDPUR."
+        ],
+        [
+            77,
+            "Padma Therapy & Medical Services",
+            "HSM90314",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Sadar Hospital Road, Monoharpur, Comilla"
+        ],
+        [
+            78,
+            "PADMA X-RAY AND PATHOLOGY CLINIC",
+            "HSM08129",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "Pabna Road(Allobag), Ishwardi, Pabna"
+        ],
+        [
+            79,
+            "Padmadiagnosticcenter manikganj.",
+            "HSM99798",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Sheba Helth Complex Bus stand Manikganj"
+        ],
+        [
+            80,
+            "padmadiagnosticcentre",
+            "HSM44396",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Lalpur",
+            "Hospital Gate, Lalpur, Natore."
+        ],
+        [
+            81,
+            "Padmo Diagnostic & Coosultation Centre",
+            "HSM63521",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Barhatta, Upazilla Health Complex Gait, Barhatta, Netrakona."
+        ],
+        [
+            82,
+            "Padua Asian Hospital & Diagnostic Center Ltd.",
+            "HSM32098",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "N.K.City Shopping Complex 2nd Floor,Main Road,Padua,Lohagara,Chattogram"
+        ],
+        [
+            83,
+            "Padua Asian Hospital & Diagnostic Center Ltd.",
+            "HSM57386",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "N.K.City Shopping Complex 2nd Floor,Main Road,Padua,Lohagara,Chattogram"
+        ],
+        [
+            84,
+            "PADUA DIAGNOSTIC CENTER",
+            "HSM87211",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Padua, Lohagara, chattogram."
+        ],
+        [
+            85,
+            "paikgacha  surgical  clinic",
+            "HSM38888",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Paikgachha",
+            "batikhali, paikgacha, khulna"
+        ],
+        [
+            86,
+            "Paikgacha Diabetis Somity",
+            "HSM65690",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Paikgacha",
+            "307, Main Road, Batikhali, Paikgacha, Khulna"
+        ],
+        [
+            87,
+            "Pain & Palliative Care Center & Diagnostic",
+            "HSM66456",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "125, Dighirpar, 1/3, Chota Bakshanagar, Nawabganj, Dhaka"
+        ],
+        [
+            88,
+            "Pain-Paralysis Specialised & General Hospital",
+            "HSM46894",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "36/1 Sohid Soroni Road, Manikganj"
+        ],
+        [
+            89,
+            "Pain-Paralysis Specialised & General Hospital",
+            "HSM85999",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "36/1 Sohid Soroni Road, Manikganj"
+        ],
+        [
+            90,
+            "Pakundia Digital Diagnostic Centre",
+            "HSM07825",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Pakundia",
+            "Hossainpur Road, Pakundia, Kishoreganj"
+        ],
+        [
+            91,
+            "Pakundia Eye Hospital",
+            "HSM66055",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Pakundia",
+            "Besides Pakundia to Hossenpur road, Pakundia, Kishoreganj"
+        ],
+        [
+            92,
+            "Palash Clinic & Diagnostic Center",
+            "HSM88338",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Palashbari",
+            "Gridaripur palashbari gaibandha"
+        ],
+        [
+            93,
+            "PALASH DIAGNOSTIC CENTRE",
+            "HSM56379",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Prosadpur , Manda, Naogaon"
+        ],
+        [
+            94,
+            "Palash Hospital & Diagnostic (Pvt.) Ltd.",
+            "HSM07240",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "C-21, Anandapur, Thana Stand, Savar, Dhaka."
+        ],
+        [
+            95,
+            "Palash Hospital & Diagnostic (Pvt.) Ltd.",
+            "HSM10045",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "C-21, Anandapur, Thana Stand, Savar, Dhaka."
+        ],
+        [
+            96,
+            "PalashMedical Laboratory",
+            "HSM66837",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Banani",
+            "33, Wireless Gate, Mohakhali, Gulshan, Dhaka-1212"
+        ],
+        [
+            97,
+            "PALLABI CLINIC",
+            "HSM60505",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Chaugacha",
+            "JASHORE ROAD, CHAUGACHHA"
+        ],
+        [
+            98,
+            "PALLABI CLINIC AND DIAGNOSTICS CENTER ",
+            "HSM89838",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Chaugacha",
+            "JASHORE ROAD, CHAUGACHHA"
+        ],
+        [
+            99,
+            "PALLI DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM96119",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Bakorit Bazar, Chandina, Comilla"
+        ],
+        [
+            100,
+            "Palli Diagnostic & Doctor Chamber ",
+            "HSM16328",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Koromullah Bazar, Sadar, Noakhali"
+        ]
+    ]
+}

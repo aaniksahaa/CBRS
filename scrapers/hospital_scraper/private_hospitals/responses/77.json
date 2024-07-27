@@ -1,0 +1,1007 @@
+{
+    "draw": 77,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Khulna Medico Lab (Pvt.) Ltd. ",
+            "HSM90914",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "18/2, Amir Ali Road, Choto Boyra, Sonadanga, Khulna-9000"
+        ],
+        [
+            2,
+            "Khulna Pathology",
+            "HSM24881",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "99/2, South Central Road, Khulna"
+        ],
+        [
+            3,
+            "Khulna Pongu & General Hospital",
+            "HSM45824",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "3/2,Haji Mohsin Road,Khulna"
+        ],
+        [
+            4,
+            "Khulna Regional Cancer Hospital and Diagnostic ",
+            "HSM90024",
+            "Diagnostic Center",
+            "Category-A",
+            "Khulna",
+            "Dumuria",
+            "Lota, Arangata, Dumuria, Khulna "
+        ],
+        [
+            5,
+            "Khulna Regional Cancer Hospital and Diagnostic Consultation Research Institute",
+            "HSM35952",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Dumuria",
+            "Lota, Arangata, Dumuria, Khulna "
+        ],
+        [
+            6,
+            "Khulna Thyroid Center and Diagnostic ",
+            "HSM18216",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "Babu Khan Road, Khulna, Bangladesh "
+        ],
+        [
+            7,
+            "Khurshida Memorial Diagnostic Centre",
+            "HSM00539",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Shailkupa",
+            "Garaganj Road, Kobirpur, Shailkupa, Jhenaidah"
+        ],
+        [
+            8,
+            "Khurshida Memorial Hospital & Diagnostic Centre",
+            "HSM11832",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jhenaidah",
+            "Shailkupa",
+            "Garaganj Road, Kobirpur, Shailkupa, Jhenaidah"
+        ],
+        [
+            9,
+            "Khushi Sono Diagnostic Center",
+            "HSM85268",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Dakbangla Bazar, Magurapara, Shaduhati, Sadar, Jhenaidah"
+        ],
+        [
+            10,
+            "KHWAJA  GORIBE NEWAZ PATHOLOGICAL CENTER",
+            "HSM14393",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Uttar",
+            "MOHONPUR, MATLAB UTTAR, CHANDPUR"
+        ],
+        [
+            11,
+            "Khwaja Badrudduja Modern Hospital",
+            "HSM43557",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kaliakair",
+            " Aziz Mansion ,Shafipur ,Kaliakair ,Gazipur "
+        ],
+        [
+            12,
+            "khwaja Badrudduja Modern Hospital",
+            "HSM82401",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kaliakair",
+            "Aziz mansion Shafipur Kaliakair,Gazipur"
+        ],
+        [
+            13,
+            "Khwaja Yunus Ali Medical College & Hospital ",
+            "HSM95229",
+            "Diagnostic Center",
+            "Category-A",
+            "Sirajganj",
+            "Chauhali",
+            "Vill: Enayetpur, P/O: Enayetpur - 6751, Upazila - Chauhali, P/S: Enayetpur, District: Sirajganj"
+        ],
+        [
+            14,
+            "Khwaja Yunus Ali Medical College & Hospital",
+            "HSM92835",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Chauhali",
+            "Village - Enayetpur, Post Office - Enayetpur - 6751, Upazila - Chauhali, \r\nPolice Station - Enayetpur, District - Sirajganj"
+        ],
+        [
+            15,
+            "Khwaja Yunus Ali Medical College & Hospital",
+            "HSM07172",
+            "Blood Bank",
+            "",
+            "Sirajganj",
+            "Chauhali",
+            "Village- Enayetpur, Upazila- Chauhali, P.O- Enayetpur, Dis.- Sirajganj"
+        ],
+        [
+            16,
+            "Kidney Awareness Monitoring & Prevention Society (KAMPS)",
+            "HSM03506",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 21, Road #03, Block # B, Nonoudoy R/A, Mohammadpur, Dhaka-1207."
+        ],
+        [
+            17,
+            "Kidney Awareness Monitoring & Prevention Society (KAMPS)",
+            "HSM01118",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 21, Road # 03, Block # B, Noboudoy Residential Area,\u00a0Mohammadpur, Dhaka-1207, Bangladesh."
+        ],
+        [
+            18,
+            "Kidney Care & General Hospital",
+            "HSM34471",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Nandina Road (Bozrapur), Jamalpur"
+        ],
+        [
+            19,
+            "Kidney Care and Diagnostic Center",
+            "HSM13637",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Nandina Road (Bozrapur), Jamalpur"
+        ],
+        [
+            20,
+            "Kidney Foundation",
+            "HSM09010",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "Plot No.-5/2, Road No.-1(Main Road),Section-2, Mirpur, Dhaka-1216."
+        ],
+        [
+            21,
+            "Kidney Foundation",
+            "HSM92786",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "Plot No.-5/2, Road No.-1(Main Road),Section-2, Mirpur, Dhaka-1216."
+        ],
+        [
+            22,
+            "Kidney Foundation",
+            "HSM92830",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "Plot No.-5/2, Road No.-1(Main Road),Section-2, Mirpur, Dhaka-1216."
+        ],
+        [
+            23,
+            "Kidney Foundation Hospital",
+            "HSM67180",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Santhia",
+            "Gangohati, Bongram, Ataikula, Santhia, Pabna"
+        ],
+        [
+            24,
+            "Kidney Foundation Hospital",
+            "HSM08278",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Santhia",
+            "Gangohati, Bongram, Ataikula, Santhia, Pabna"
+        ],
+        [
+            25,
+            "Kidney Foundation Sylhet",
+            "HSM44719",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Syed Plaza (Level-4), Multi-plan Shahjalal City Plot-D/1, Block-D, Shahjalal Uposhahar, Sylhet-3100, Bangladesh. "
+        ],
+        [
+            26,
+            "KIDNEY LAPAROSCOPY SPECIALIZED HOSPITAL",
+            "HSM60223",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "225/04, SAHID SHAMSUL HAQUE ROAD, JHAWTALA, COMILLA"
+        ],
+        [
+            27,
+            "KIDNEY LAPAROSCOPY SPECIALIZED HOSPITAL",
+            "HSM94518",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "225/04, SAHID SHAMSUL HAQUE ROAD, JHAWTALA, COMILLA"
+        ],
+        [
+            28,
+            "KIMIA BISHESOGGO CENTRE",
+            "HSM30407",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Kimia Bishesoggo Center, Pabna Sadar, Pabna"
+        ],
+        [
+            29,
+            "kinder clinic",
+            "HSM99821",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "10,dhormosova cross road ,khulna."
+        ],
+        [
+            30,
+            "Kings Diagnostic Center",
+            "HSM75942",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Subarnachar",
+            "Char Bata Khaserhat Raster Matha, Subarnachar, Noakhali"
+        ],
+        [
+            31,
+            "Kings Diagnostic Center",
+            "HSM58218",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Golapganj",
+            "Dhaka Dakshim,Golapganj. SyLhet. Bangladesh."
+        ],
+        [
+            32,
+            "Kings Hospital Rangpur",
+            "HSM01904",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "House#84, Road#2, Islambag, R K Road, Rangpur"
+        ],
+        [
+            33,
+            "Kings Medical Services & Hospital",
+            "HSM46199",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "264, Nowapara Road, Ghope, Jessore"
+        ],
+        [
+            34,
+            "Kings Medical Servicse & Hospital",
+            "HSM97519",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "264, Nowapara Road, Ghope, Jashore"
+        ],
+        [
+            35,
+            "Kingston Blood Bank",
+            "HSM41052",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Pallabi",
+            "House: 51-54, Road: 1 and 2, Block-D, Shahidbag, Mirpur-12, Dhaka-1216."
+        ],
+        [
+            36,
+            "KINGSTON HOSPITAL LIMITED",
+            "HSM19739",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Pallabi",
+            "House # 51-54, Road #  2, Block- D, Shahidbag, Mirpur-12, Dhaka-1216"
+        ],
+        [
+            37,
+            "KINGSTON HOSPITAL LIMITED",
+            "HSM45138",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Pallabi",
+            "House # 51-54, Road # 1 & 2, Block # D, Shahidbag, Mirpur-12, Pallabi, Dhaka-1216."
+        ],
+        [
+            38,
+            "Kingston Medical Center",
+            "HSM94041",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Pallabi",
+            "House 51-54, Road 1 and 2, Block D, Shahidbag, Pallabi, Mirpur 12, Dhaka 1216"
+        ],
+        [
+            39,
+            "KIRTONKHALA DIAGNOSTIC CENTER",
+            "HSM19656",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "19 KB HEMAYETUDDIN GIRZAMAHOLLA, ROAD,BARISHAL"
+        ],
+        [
+            40,
+            "KISHOREGANJ CLINIC",
+            "HSM06551",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Mymensingh Road Gaital Kishoreganj"
+        ],
+        [
+            41,
+            "KISHOREGANJ DIGITAL DIAGNOSTIC CENTER.",
+            "HSM32205",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Kishoreganj",
+            " Medical More, Kishorganj, Nilphamari."
+        ],
+        [
+            42,
+            "KISHOREGANJ MODERN EYE HOSPITAL AND MEDICAL SERVICE",
+            "HSM86177",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "MUKSHEDPUR, SADAR, KISHOREGANJ."
+        ],
+        [
+            43,
+            "KISHOREGONJ CLINIC",
+            "HSM90411",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Mymensingh Road Gaital Kishoreganj"
+        ],
+        [
+            44,
+            "Kishoregonj Eye Hospital",
+            "HSM30343",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "latibabad, Kishoregonj"
+        ],
+        [
+            45,
+            "KKA DIAGNOSTIC AND CONSULTATION CENTRE",
+            "HSM87574",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Phultala",
+            "Khan Villa, House No. 873, Village: Gilatola, Post: Jahanabad Cantonment; Khanjahan Ali PS; Khulna- 9205; Bangladesh "
+        ],
+        [
+            46,
+            "KMSS HEALTH CENTER",
+            "HSM53465",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "31, Roy Para Road, Khulna."
+        ],
+        [
+            47,
+            "KOBITA CLINIC",
+            "HSM73896",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Madhukhali",
+            "Hospital of South Side, Madhukhali, Faridpur"
+        ],
+        [
+            48,
+            "KOBITA DIAGNOSTIC CENTRE",
+            "HSM61203",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Madhukhali",
+            "Hospital of South Side, Madhukhali, Faridpur"
+        ],
+        [
+            49,
+            "KOHINOOR DIAGNOSTIC & GENERAL HOSPITAL",
+            "HSM58105",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Boalmari",
+            "KHAN PLAZA, CHAURASTA, BOALMARI BAZAR, BOALMARI"
+        ],
+        [
+            50,
+            "KOHINOOR DIAGNOSTIC & GENERAL HOSPITAL (PATHOLOGY)",
+            "HSM31933",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Boalmari",
+            "KHAN PLAZA, CHAURASTA, BOALMARI BAZAR, BOALMARI"
+        ],
+        [
+            51,
+            "Kohinoor General Hospital",
+            "HSM86521",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Kahaloo",
+            "Village+Post: Durgapur, Upazila: Kahaloo, District: Bogura."
+        ],
+        [
+            52,
+            "Kohinoor General Hospital",
+            "HSM12065",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Kahaloo",
+            "Durgapur, Kahaloo, Bogura."
+        ],
+        [
+            53,
+            "KOHINUR DIAGNOSTIC CENTER",
+            "HSM13803",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Purobi--49, Hasannagar,   Sunamganj"
+        ],
+        [
+            54,
+            "Kohinur Nursing Home",
+            "HSM33875",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Mothurapur,Daulatpur,Kushtia."
+        ],
+        [
+            55,
+            "Kohinur Nursing Home (Diagnostic Center)",
+            "HSM49464",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Daulatpur",
+            "Mothurapur, Daulatpur, Kushtia."
+        ],
+        [
+            56,
+            "Koliya Adhunik eye Hospital ",
+            "HSM51869",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Daulatpur",
+            "Koliya  Bazar, Daulatpur, Manikganj"
+        ],
+        [
+            57,
+            "KOLOMKOTHA  HEALTH CARE",
+            "HSM65224",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "main road,monirampur,jessore"
+        ],
+        [
+            58,
+            "kolpotoru Care and Cure Hospital and diagnostic center",
+            "HSM53650",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "\u09ae\u09a8\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0,\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0,"
+        ],
+        [
+            59,
+            "kolpotoru Care and Cure Hospital and diagnostic center",
+            "HSM33151",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "\u09ae\u09a8\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0,\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09be\u099d "
+        ],
+        [
+            60,
+            "KOMOLNAGOR DIGITAL LAB & DIAGNOSTIC CENTER",
+            "HSM87238",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Kamalnagar",
+            "KORAITOLA KOMOL NAGOR, LAKSHMIPUR."
+        ],
+        [
+            61,
+            "Kona Pathological Centre",
+            "HSM32219",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "puraton bus stand, high road, alamdanga, chuadanga"
+        ],
+        [
+            62,
+            "KONABARI CENTAL HOSPITAL & DIAGNOSTIC",
+            "HSM04990",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "KONABARI,GAZIPUR"
+        ],
+        [
+            63,
+            "KONABARI CENTAL HOSPITAL & DIAGNOSTIC",
+            "HSM52992",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "KONABARI,GAZIPUR"
+        ],
+        [
+            64,
+            "Konabari Clinic & Diagnostic Centre",
+            "HSM60600",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Kashimpur Road,Konabari ,Gazipur"
+        ],
+        [
+            65,
+            "Konabari Clinic & Diagnostic Centre",
+            "HSM39803",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Kaskhimpur Road, Konabari ,Gazipur Sadar,Gazipur."
+        ],
+        [
+            66,
+            "Konabari Eye Hospital",
+            "HSM37809",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Dhaka Tangail Road,Konabari ,GCC,Gazipur."
+        ],
+        [
+            67,
+            "Konabari Ibne Sina (Pvt.) Hospital and Diagnostic Center",
+            "HSM28953",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Ajmeri bus counter, Konabari, Gazipur Mohanagar."
+        ],
+        [
+            68,
+            "Konabari Ibne Sina (Pvt.) Hospital and Diagnostic Center",
+            "HSM25136",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Ajmeri bus counter, Konabari, Gazipur Mohanagar."
+        ],
+        [
+            69,
+            "Konabari Labaid Hospital",
+            "HSM85189",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Besid Ajmeri Bus Counter,konabari,Gazipur"
+        ],
+        [
+            70,
+            "Konabari Labaid Hospital",
+            "HSM77976",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Besid Ajmeri Bus Counter,konabari.Gazipur"
+        ],
+        [
+            71,
+            "KONABARI POPULAR HOSPITAL",
+            "HSM93903",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "R.S Tower Konabari Gazipur"
+        ],
+        [
+            72,
+            "KONABARI POPULAR HOSPITAL",
+            "HSM15823",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "R.S Tower,  Konabari, Gazipur"
+        ],
+        [
+            73,
+            "KONAPARA DIABETICS CENTER",
+            "HSM68425",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "277 Mujumder Road, Konapara, Demra, Dhaka-1362"
+        ],
+        [
+            74,
+            "KONICA DIAGNOSTIC CENTRE",
+            "HSM93950",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barishal Sadar",
+            "116/b sadar road, barisal"
+        ],
+        [
+            75,
+            "Konica X-Ray & Pathology Clinic",
+            "HSM93869",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "Band road, Barisal. "
+        ],
+        [
+            76,
+            "Kopotakkho Diagnostic Center",
+            "HSM66767",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Paikgachha",
+            "Urmilka Complex, Paikgacha, Khulna"
+        ],
+        [
+            77,
+            "KOROTOA MEDICAL SERVICES ",
+            "HSM24489",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "37, BANGABANDHU ROAD, NARAYANGANJ"
+        ],
+        [
+            78,
+            "Kotchandpur Diabetic Association (Mukul Khaleda Diabetic Hospital):",
+            "HSM91427",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Kotchandpur",
+            "Boluhor Bus Stand, Kotchandpur, Jhenaidah"
+        ],
+        [
+            79,
+            "Kotiadi Diagnostic Center",
+            "HSM62696",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Katiadi",
+            "HOSPITAL ROAD KATIADI KISHOREGANJ"
+        ],
+        [
+            80,
+            "Kowtalipara Diagnostic Centre",
+            "HSM67993",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "Ghagor Main Road, Kowtalipara, Gopalgonj."
+        ],
+        [
+            81,
+            "Koyra Diagnostic Center",
+            "HSM83429",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Koyra",
+            "House No-160, Modinabad, Koyra Main Road, Koyra, Khulna"
+        ],
+        [
+            82,
+            "Koyra Hospital",
+            "HSM19358",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Koyra",
+            "House No-160, Modinabad, Koyra Main Road, Koyra, Khulna"
+        ],
+        [
+            83,
+            "KR Hospital",
+            "HSM88860",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Barura",
+            "Lognosher, Barura, Comilla"
+        ],
+        [
+            84,
+            "KR Hospital & Diagnostic Center ",
+            "HSM55188",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "Lognosher, Barura, Comilla"
+        ],
+        [
+            85,
+            "KRISHNANAGAR POPULAR HOSPITAL",
+            "HSM58950",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Krishnanagar (Sagar Plaza), Sorokazar, Nabinagar, Brahmanbaria."
+        ],
+        [
+            86,
+            "KUAKATA DIAGNOSTIC CENTER",
+            "HSM79893",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Kalapara",
+            "Vill: Tulatoli, P.O: Kuakata, P.S: Mohipur"
+        ],
+        [
+            87,
+            "KUASHA DIAGONOSTIC ",
+            "HSM46088",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "BAHIR GOLA ROAD, SIRAJGANJ"
+        ],
+        [
+            88,
+            "Kulaura Diagnostic  Center",
+            "HSM17687",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Kulaura",
+            "Mum Center, Uslapara, Kulaura, Moulvibazar."
+        ],
+        [
+            89,
+            "Kulaura Eye Hospital",
+            "HSM54310",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Kulaura",
+            "Kulaura, Moulvibazar."
+        ],
+        [
+            90,
+            "Kulaura Poly  Clinic ",
+            "HSM05203",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Kulaura",
+            "Mum Center, Uslapara, Kulaura, Moulvibazar"
+        ],
+        [
+            91,
+            "Kuliarchar General Hospital",
+            "HSM20733",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishoreganj",
+            "Kuliarchar",
+            "Dariakandi, kandigram, choysuti"
+        ],
+        [
+            92,
+            "Kuliarchar General Hospital ",
+            "HSM48809",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishoreganj",
+            "Kuliarchar",
+            "Dariakandi, kandigram, choysuti"
+        ],
+        [
+            93,
+            "Kumarkhali Diabetic Somity",
+            "HSM45862",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kumarkhali",
+            "Vill- Batikamara, Po- Kumarkhali, Ps- Kumarkhali, Dist- Kushtia."
+        ],
+        [
+            94,
+            "Kumudini Hospital",
+            "HSM10808",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Tangail",
+            "Mirzapur",
+            "Mirzapur, Tangail, Bangladesh"
+        ],
+        [
+            95,
+            "Kumudini Hospital Blood Bank",
+            "HSM34357",
+            "Blood Bank",
+            "",
+            "Tangail",
+            "Mirzapur",
+            "Mirzapur, Tangail"
+        ],
+        [
+            96,
+            "Kumudini Pathology Laboratory",
+            "HSM41857",
+            "Diagnostic Center",
+            "Category-A",
+            "Tangail",
+            "Mirzapur",
+            "Mirzapur, Tangail, Bangladesh."
+        ],
+        [
+            97,
+            "kundu pathology",
+            "HSM96341",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "30/2 sahora, mymensingh"
+        ],
+        [
+            98,
+            "Kunjerhat Diagnostic Center",
+            "HSM02389",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Burhanuddin",
+            "Sadar Road, Kunjerhat, Burhanuddin, Bhola."
+        ],
+        [
+            99,
+            "Kuriana Health Center Grameen Kalyan",
+            "HSM36749",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nesarabad",
+            "Kuriana, Nesarabad, Pirojpur"
+        ],
+        [
+            100,
+            "Kurigram Diabetic Association Diagnostic Center",
+            "HSM51218",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Old Hospital Para, Kurigram Sadar, Kurigram. "
+        ]
+    ]
+}

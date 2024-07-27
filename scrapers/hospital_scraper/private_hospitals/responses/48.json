@@ -1,0 +1,1007 @@
+{
+    "draw": 48,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Expert Diagnostic Center",
+            "HSM14343",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Juri",
+            "Kaminiganj Bazar, Juri, Moulvibazar"
+        ],
+        [
+            2,
+            "Expert Hospital",
+            "HSM52113",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Juri",
+            "Kaminiganj Bazar, Juri, Moulvibazar"
+        ],
+        [
+            3,
+            "Eye Care Hospital.",
+            "HSM91936",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Mollikpur, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            4,
+            "Eye Health Bangladesh Ltd.",
+            "HSM07557",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "23 Sonargon Janapath, Sector-12, Uttara Model town, Dhaka-1230."
+        ],
+        [
+            5,
+            "Eye Hospital & Training Center",
+            "HSM54499",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Shankarpur, P.O. Durgapur, Adarsha Sadar, Comilla"
+        ],
+        [
+            6,
+            "Eye Hospital & Training Center",
+            "HSM54646",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Shankarpur, P.O. Durgapur, Adarsha Sadar, Comilla"
+        ],
+        [
+            7,
+            "EYE PAVILION & PHACO CENTRE",
+            "HSM46809",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "KDA Avunue, Sheikh Para, Khulna, Bangladesh "
+        ],
+        [
+            8,
+            "F,M,C,H Diagnostic Centre",
+            "HSM17489",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "Holding: 01232-00, Cout Chandpur Road, Arpara, Kaligonj, Jhinaidah"
+        ],
+        [
+            9,
+            "F.  A.  Memorial  Hospital",
+            "HSM56640",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "41/3 B, Road No : 01, Chan Mia Housing, Bashbari, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            10,
+            "F. A. Memorial Pathology Lab",
+            "HSM80687",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "41/3B, Road:01, Chan Mia Housing, Bashbari, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            11,
+            "Fahad-Rahad Diagnostic Centre",
+            "HSM63522",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Meghna",
+            "Mogarchar, Meghna, Comilla"
+        ],
+        [
+            12,
+            "Fahim Arman Clinic and diagnostic center ",
+            "HSM36602",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "Shibgong, Bogura."
+        ],
+        [
+            13,
+            "Fahim Arman Clinic and diagnostic center ",
+            "HSM73854",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Shibganj",
+            "Shibganj, Bogura "
+        ],
+        [
+            14,
+            "FAHIM CLINIC AND DIAGNOSTIC CENTER",
+            "HSM32584",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Baghmara",
+            "Bagmara,Rajshahi"
+        ],
+        [
+            15,
+            "FAHIM CLINIC AND DIAGNOSTIC CENTER",
+            "HSM74004",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Bagmara,Rajshahi"
+        ],
+        [
+            16,
+            "Fahim Diagnostic Centre",
+            "HSM54700",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole.Satkhira."
+        ],
+        [
+            17,
+            "FAHIM GENARAL HOSPITAL (PVT)",
+            "HSM48723",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "bhaluka,mymensingh"
+        ],
+        [
+            18,
+            "FAHIM GENARAL HOSPITAL (PVT)",
+            "HSM41517",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Bhaluka",
+            "BHALUKA,MYMENSINGH"
+        ],
+        [
+            19,
+            "Fair & Care Diagnostic Center",
+            "HSM68350",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Old Bus Stand Road,Patuakhali."
+        ],
+        [
+            20,
+            "FAIR BELL DIAGNOSTIC COMPLEX",
+            "HSM86217",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "Fancy Super Market, Madrasa Road, Hathazari, Chittagong "
+        ],
+        [
+            21,
+            "FAIR CARE HOSPITAL",
+            "HSM21008",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Rupganj",
+            "Murapara Bazar (Rafiz Uddin Complex), Rupganj, Narayanganj"
+        ],
+        [
+            22,
+            "FAIR CARE HOSPITAL",
+            "HSM59766",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Rupganj",
+            "Murapara Bazar (Rafiz Uddin Complex), Rupganj, Narayanganj"
+        ],
+        [
+            23,
+            "Fair clinic and nursing  home",
+            "HSM32619",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "New Bus terminal Tangail"
+        ],
+        [
+            24,
+            "Fair clinic and nursing  home",
+            "HSM85776",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Tangail Sadar",
+            "New Bus terminal, Tangail"
+        ],
+        [
+            25,
+            "Fair Computerized Diagnostic & Consultation Center",
+            "HSM34937",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Rajnagar R/A, Habiganj. "
+        ],
+        [
+            26,
+            "Fair Diagnostic & Consultation Center",
+            "HSM27353",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Chandana Chowrasta,Joydebpur Road,Gazipur,1700"
+        ],
+        [
+            27,
+            "Fair diagnostic center",
+            "HSM30578",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Botu Chowdhury Bari, College road, Lakshmipur, Bangladesh."
+        ],
+        [
+            28,
+            "FAIR DIAGNOSTIC CENTER",
+            "HSM46734",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "AHSAN VILA, 190-DHAKHIN MITHAKHALI, ATHBARIA, PIROJPUR."
+        ],
+        [
+            29,
+            "Fair Diagnostic Center",
+            "HSM51752",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Patnitala",
+            " Nazipur Busstand, Patnitala, Naogaon"
+        ],
+        [
+            30,
+            "Fair diagnostic center",
+            "HSM69182",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Bhola Sadar",
+            "Kazi Super Market (2nd Floor), Bangla Bazar, Bhola."
+        ],
+        [
+            31,
+            "FAIR DIAGNOSTIC CENTRE",
+            "HSM85103",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Arambag,Chapainawabganj"
+        ],
+        [
+            32,
+            "Fair Dignostic Center",
+            "HSM37869",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Ma Monzil, Tamukhi Point, Sunamgonj Road, Sadar, Sylhet. "
+        ],
+        [
+            33,
+            "FAIR HEALTH CLINIC",
+            "HSM76081",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barishal Sadar",
+            "Kali Bari Road< Barisal"
+        ],
+        [
+            34,
+            "Fair Health Clinic",
+            "HSM82923",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khalishpur",
+            "Housing State,Khalishpur,Khulna"
+        ],
+        [
+            35,
+            "FAIR HEALTH CLINIC & DIAGNOSTIC COMPLEX",
+            "HSM81882",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khalishpur",
+            "Housing State, Khalishpur, Khulna"
+        ],
+        [
+            36,
+            "Fair Health Diagnostic & Consultation Center",
+            "HSM00290",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Mithapukur",
+            "Mithapukur Bus Stand, Mithapukur, Rangpur"
+        ],
+        [
+            37,
+            "FAIR HEALTH DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM35759",
+            "Diagnostic Center",
+            "Category-C",
+            "Khagrachari",
+            "Khagrachari Sadar",
+            "Hospital Gate,Khagrachari Sadar, Khagrachari"
+        ],
+        [
+            38,
+            "Fair Health Diagnostic Center",
+            "HSM43559",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Norshinghpur Bus Stand, Rajia Plaza, Zirabo, Ashulia, Dhaka"
+        ],
+        [
+            39,
+            "FAIR HEALTH DIAGNOSTIC CENTRE",
+            "HSM64985",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Badura Bazar, Galachipa, Patuakhali."
+        ],
+        [
+            40,
+            "Fair Health Diagnostic Lab",
+            "HSM63986",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar (kotwali)",
+            "Kali Bari Road, Barisal."
+        ],
+        [
+            41,
+            "Fair Health Hospital",
+            "HSM99682",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "74/3, Ornob Mirer Moydan, PS: Sylhet Sadar, PO: Sylhet-3100"
+        ],
+        [
+            42,
+            "Fair Health Specialist & Diagnostic Center",
+            "HSM61130",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Ansar Ali Complex, Sadar Road, Joypurhat"
+        ],
+        [
+            43,
+            "Fair Hospital",
+            "HSM51862",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "Barura Moulovi Bazar, Barura, Comilla"
+        ],
+        [
+            44,
+            "Fair Hospital",
+            "HSM00038",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Barura",
+            "Barura Moulovi Bazar, Barura, Comilla."
+        ],
+        [
+            45,
+            "Fair Hospital",
+            "HSM39272",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "zamzam Tower, Ramgoti road"
+        ],
+        [
+            46,
+            "Fair Hospital",
+            "HSM87797",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "New Bus Stand, Tangail"
+        ],
+        [
+            47,
+            "Fair Hospital",
+            "HSM48030",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "New Bus Stand,Tangail Sadar,Tangail"
+        ],
+        [
+            48,
+            "Fair Hospital & CT MRI Center",
+            "HSM51074",
+            "Diagnostic Center",
+            "Category-A",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "zamzam Tower, Ramgoti road"
+        ],
+        [
+            49,
+            "FAIR HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM51277",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA,PABNA SADAR,PABNA"
+        ],
+        [
+            50,
+            "FAIR HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM76545",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA,PABNA SADAR,PABNA"
+        ],
+        [
+            51,
+            "FAIR HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM32105",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 0571-00; Hazipara, Thakurgaon"
+        ],
+        [
+            52,
+            "Fair Investigations",
+            "HSM21755",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            53,
+            "FAIR LAB DIAGONSTIC CENTER",
+            "HSM07667",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, GPO-6000, RAJPARA, RAJSHAHI."
+        ],
+        [
+            54,
+            "Fair Lab Limited",
+            "HSM74810",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 20/5, Block-B, Babor Road, "
+        ],
+        [
+            55,
+            "fair life (pvt) hospital",
+            "HSM25008",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "sadar,mymensingh"
+        ],
+        [
+            56,
+            "Fair Medical Center",
+            "HSM64581",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Old Bus Station, "
+        ],
+        [
+            57,
+            "Fair Medical Center.",
+            "HSM47180",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Sadar Dakshin",
+            "EPZ Road,Opposite of Fire Service, Middle Ashrafpur, Sadar Dakshin, Cumilla"
+        ],
+        [
+            58,
+            "FAIR MEDICAL SERVICES (LAB) ",
+            "HSM19375",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Kalisuri ,Bauphal ,Patuakhali "
+        ],
+        [
+            59,
+            "FAIR PATHOLOGY",
+            "HSM41492",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "GAFUR MANSION, RACE COURSE, COMILLA"
+        ],
+        [
+            60,
+            "Fair X-ray & Pathology",
+            "HSM38131",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 1374-00; Clinic Lane, Hazipara, Thakurgaon."
+        ],
+        [
+            61,
+            "FAIRLAB DIAGNOSTIC CENTRE",
+            "HSM49697",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Chhatak",
+            "Chhatak, Sunamgonj"
+        ],
+        [
+            62,
+            "FAIRWAYS MEDICAL CENTRE",
+            "HSM03180",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "SW(I), 25(1st Floor), Gulshan Avenue, Gulshan-1, Dhaka-1212, Bangladesh."
+        ],
+        [
+            63,
+            "Faisal Diagnostic & Consultation Center",
+            "HSM62768",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Abhaynagar",
+            "\u09a8\u09c1\u09b0\u09ac\u09be\u0997 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u09a8\u0993\u09df\u09be\u09aa\u09be\u09dc\u09be-\u09ed\u09ea\u09ec\u09e6, \u0985\u09ad\u09df\u09a8\u0997\u09b0, \u09af\u09b6\u09cb\u09b0 "
+        ],
+        [
+            64,
+            "FAISAL HEALTH EXPRESS SERVICE LIMITED",
+            "HSM45605",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "SECTION#6, BLOCK-B, AVENUE#5, PLOT#9/2 ,  (2ND FLOOR) MIRPUR, DHAKA-1216                                 "
+        ],
+        [
+            65,
+            "FAISAL HOSPITAL ",
+            "HSM41274",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Araihazar",
+            "SHAHJALAL  BHABAN,  ARAIHAZAR,  NARAYANGANJ, BANGLADESH"
+        ],
+        [
+            66,
+            "FAISAL HOSPITAL",
+            "HSM03805",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Araihazar",
+            "SHAHJALAL  BHABAN,  ARAIHAZAR,  NARAYANGANJ, BANGLADESH"
+        ],
+        [
+            67,
+            "FAISAL HOSPITAL",
+            "HSM19142",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Ayub Mansion, Chawkbazar, Cumilla"
+        ],
+        [
+            68,
+            "FAISAL HOSPITAL",
+            "HSM26393",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Ayub Mansion, Chawkbazar, Cumilla"
+        ],
+        [
+            69,
+            "FAISAL MEDI COMPLEX",
+            "HSM44155",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "Ramchandrapur, Muradnagar, Comilla"
+        ],
+        [
+            70,
+            "FAITH MEDICAL SERVICES",
+            "HSM32886",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "SWAPNIL, BHABAN, HOLDING NO- 1039/, KANDIRPAR, COMILLA"
+        ],
+        [
+            71,
+            "Faith Point Diagnostic and consultation  Center ",
+            "HSM22953",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "Munsi plaza House 65 Road no 04 hazi Badsha Miah Road New Town R/A Matuail Demra Dhaka."
+        ],
+        [
+            72,
+            "Faizunnessa Datobbya Chikitsa Kendra & Hospital",
+            "HSM31543",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Kachua",
+            "Vill: Hashimpur, Post: Kailain, Thana: Kachua, Dist: Chandpur"
+        ],
+        [
+            73,
+            "Faizunnessa Datobbya Chikitsa Kendra & Hospital",
+            "HSM36119",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Kachua",
+            "Vill: Hashimpur, Post: Kailain, Thana: Kachua, Dist: Chandpur"
+        ],
+        [
+            74,
+            "Fajilatunnessa Kuddus Hospital & Diagnostic Center",
+            "HSM07280",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "387, Purbopara, Ward:05, Rikabi Bazar, Munshigonj"
+        ],
+        [
+            75,
+            "Fajilatunnessa Kuddus Hospital & Diagnostic Center",
+            "HSM55553",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "387, Purbopara, Ward:05, Rikabi Bazar, Munshigonj"
+        ],
+        [
+            76,
+            "Fakirhat Sisu Clinic",
+            "HSM00612",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Fakirhat",
+            "Pagla,Fakirhat,Bagerhat"
+        ],
+        [
+            77,
+            "Fakrul islam General Hospital Ltd.",
+            "HSM24281",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Subah Hosna Humayun Castle House #G-87,Haji Para ,Joydebpur Gazipur "
+        ],
+        [
+            78,
+            "Fakrul islam General Hospital Ltd..",
+            "HSM15351",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Subah Hosna Humayun Castle House #G-87,Haji Para ,Joydebpur Gazipur "
+        ],
+        [
+            79,
+            "FALAQ DIAGNOSTIC & HOSPITAL",
+            "HSM24879",
+            "Diagnostic Center",
+            "Category-A",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "55/5, CHARPARA MEDICAL COLLEGE ROAD GATE, Mymensingh"
+        ],
+        [
+            80,
+            "FALAQ DIAGNOSTIC & HOSPITAL",
+            "HSM96515",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "55/5, Charpara Medical college Gate, Mymensingh"
+        ],
+        [
+            81,
+            "Family Care Clinic & Diagnostic Center",
+            "HSM49154",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Kachua",
+            "Badhal Bazar,Kachua,Bagerhat"
+        ],
+        [
+            82,
+            "Family Care Diagnostic & Consultation Center",
+            "HSM71732",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Kachua",
+            "Badhal Bazar,Kachua,Bagerhat"
+        ],
+        [
+            83,
+            "FAMILY CARE DIAGNOSTIC CENTER",
+            "HSM69098",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Dharandi Brige, Khan Market, Patuakhali Sador, Patuakhali."
+        ],
+        [
+            84,
+            "Family Care Diagnostic Center ",
+            "HSM14990",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bhairab",
+            "Chondiber, Moddopara, Hospital road, Bhairab , Kishoregonj"
+        ],
+        [
+            85,
+            "Family Care Diagnostic Center & Doctors Point",
+            "HSM21947",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Daulatpur",
+            "Thanar More, Taragunia, Daulatpur, Kushtia"
+        ],
+        [
+            86,
+            "Family Care Diagnostic Centre ",
+            "HSM62683",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kumarkhali",
+            "Kumarkhali Hospital Road, Kumarkhali, Kushtia. "
+        ],
+        [
+            87,
+            "Family Care Diagnostic Complex",
+            "HSM09119",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Chandanpat, Kachua, Saghata, Gaibanda"
+        ],
+        [
+            88,
+            "Family Care Hospital",
+            "HSM09282",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kumarkhali",
+            "Kumarkhali Hospital Road, Kumarkhali, Kushtia."
+        ],
+        [
+            89,
+            "Family Care Hospital & Diagnostic ",
+            "HSM02098",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chakdev, Naogaon Sadar, Naogaon"
+        ],
+        [
+            90,
+            "Family Care Hospital & Diagnostic Center",
+            "HSM83486",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chakdev, Naogaon Sadar, Naogaon"
+        ],
+        [
+            91,
+            "Family Care Hospital Pvt.",
+            "HSM25561",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Hazi Mohsin Road, Chandpur."
+        ],
+        [
+            92,
+            "Family Care Hospital Pvt. & Diagnostic Center",
+            "HSM31070",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Hazi Mohsin Road, Chandpur. "
+        ],
+        [
+            93,
+            "Family Care Lab",
+            "HSM25398",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "C O Colony ,Sadar Road .Joypurhat"
+        ],
+        [
+            94,
+            "Family Care Medical Center ",
+            "HSM79404",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Jamiderhat, Begumgonj, Noakhali"
+        ],
+        [
+            95,
+            "FAMILY CARE METERNITY CENTER",
+            "HSM32920",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Faridganj",
+            "FARIDGONJ BAZAR, FARIDGONJ, CHANDPUR"
+        ],
+        [
+            96,
+            "FAMILY CARE METERNITY CENTER",
+            "HSM48639",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "FARIDGONJ BAZAR, FARIDGONJ, CHANDPUR"
+        ],
+        [
+            97,
+            "Family Diagnostic Center ",
+            "HSM52921",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Munshe Bazar, Sherpur Town, Sherpur"
+        ],
+        [
+            98,
+            "FAMILY DIAGNOSTIC CENTER",
+            "HSM09796",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "JHILTULY, FARIDPUR SADAR, FARIDPUR."
+        ],
+        [
+            99,
+            "Family Health and Lab Services",
+            "HSM19496",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Madhabpur, Sherpur town. Sherpur."
+        ],
+        [
+            100,
+            "FAMILY HEALTH CARE",
+            "HSM75739",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Panchlaish",
+            "60, KB FAZLUL KADER ROAD, OPPOSIT EAST GATE OF CHATTOGRAM MEDICAL COLLEGE HOSPITAL, PANCHLAISH, CHOTTOGRAM"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 49,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "FAMILY HOSPITAL",
+            "HSM78830",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Daudkandi",
+            "Sarker Plaza, Daudkandi, Comilla"
+        ],
+        [
+            2,
+            "FAMILY HOSPITAL",
+            "HSM60366",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Sarker Plaza Daudkandi, Comilla"
+        ],
+        [
+            3,
+            "Family Hospital & Diagnostic Center",
+            "HSM59158",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Madrasa Mor (Bus station Area) Natore Sadar, Natore"
+        ],
+        [
+            4,
+            "Family Hospital & Diagnostic Center",
+            "HSM19716",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Madrasa Mor (Bus station Area) Natore Sadar, Natore"
+        ],
+        [
+            5,
+            "Family Hospital & Diagnostic Center.",
+            "HSM73754",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Chauddagram",
+            "Old Agricultural Bank (2nd Floor), Training Center, Chauddagram, Comilla."
+        ],
+        [
+            6,
+            "Family Hospital & Diagnostic Center.",
+            "HSM05605",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Old Agricultural Bank (2nd Floor), Training Center, Chauddagram, Comilla"
+        ],
+        [
+            7,
+            "FAMILY LAB HOSPITAL LTD.",
+            "HSM17007",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "SAMAD BANU TOWER, SIDDIRGANJ, NARAYANGANJ"
+        ],
+        [
+            8,
+            "FAMILY LAB HOSPITAL LTD. ",
+            "HSM65086",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "SAMAD BANU TOWER, SIDDIRGANJ, NARAYANGANJ"
+        ],
+        [
+            9,
+            "Family Nursing Home",
+            "HSM22908",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sherpur",
+            "Sherpur Sadar",
+            "madhabpur, sherpur town 2100."
+        ],
+        [
+            10,
+            "family planning association of bangladesh (FPAB)",
+            "HSM45275",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "College Road,  Patuakhali"
+        ],
+        [
+            11,
+            "family planning association of bangladesh (FPAB)",
+            "HSM22332",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "college road patuakhali"
+        ],
+        [
+            12,
+            "Family Planning Association of Bangladesh (FPAB)",
+            "HSM34802",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Tangail Sadar",
+            "Taltulla Mur, Akur Takur, Tangail"
+        ],
+        [
+            13,
+            "Famous  Specialized Hospital",
+            "HSM10285",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Rampura",
+            "House#05, Main Road, Block#H, Meradia Bazar, Banasree, Dhaka"
+        ],
+        [
+            14,
+            "Famous Blood Bank",
+            "HSM95890",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mohammadpur",
+            "1/9, Bir Uttam, A.N.M Nuruzzaman Sarak, College Gate, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            15,
+            "Famous Clinic",
+            "HSM71964",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Adamdighi",
+            " Adamdighi,  Santahar, Bogura"
+        ],
+        [
+            16,
+            "Famous Clinic",
+            "HSM81929",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Sabuznagar, Sadar Road, Joypurhat."
+        ],
+        [
+            17,
+            "FAMOUS CLINIC & DIAGNOSTIC CENTER",
+            "HSM67070",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Nagarpur",
+            "HOSPITAL ROAD, NAGARPUR, TANGAIL."
+        ],
+        [
+            18,
+            "Famous Daignostic Center ",
+            "HSM96319",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Sreenagar Upzila Road, Sreenagar, Munshiganj."
+        ],
+        [
+            19,
+            "Famous Daignostic Center & Famous General Hospital",
+            "HSM22048",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Sreenagar",
+            "Sreenagar Upzila Road, Sreenagar, Munshiganj."
+        ],
+        [
+            20,
+            "FAMOUS DIAGNOSTIC CENTER",
+            "HSM72311",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "B-267,KAZIHATA, GRATER ROAD, LAXMIPUR, RAJSHAHI-6000"
+        ],
+        [
+            21,
+            "FAMOUS DIAGNOSTIC CENTER",
+            "HSM12830",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "2NO BAR LIBRARY BHABAN,STAND ROAD,CHANDPUR"
+        ],
+        [
+            22,
+            "Famous Diagnostic Center",
+            "HSM09767",
+            "Diagnostic Center",
+            "Category-A",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "6 No Kobir Mansion C & B Road, Narsingdi."
+        ],
+        [
+            23,
+            "Famous Diagnostic Center",
+            "HSM77932",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Kazipara, Patuakhali sadar"
+        ],
+        [
+            24,
+            "Famous Diagnostic Center",
+            "HSM52264",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Solimgonj Bazar, Nabinagar, Brahmanbaria"
+        ],
+        [
+            25,
+            "FAMOUS DIAGNOSTIC CENTER",
+            "HSM62854",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Gouranga Bazar More, Kishoreganj"
+        ],
+        [
+            26,
+            "Famous Diagnostic Centre",
+            "HSM63786",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            "Hospital Road, Sharishabari, Jamalpur"
+        ],
+        [
+            27,
+            "FAMOUS DIAGONSTIC & DIABETEC CENTER",
+            "HSM17545",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gaffargaon",
+            "Gaffargaon.mymensingh"
+        ],
+        [
+            28,
+            "Famous Genaral Hospital",
+            "HSM91447",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Solimgonj Bazar,Nabinagar,Brahmanbaria"
+        ],
+        [
+            29,
+            "Famous Health Care",
+            "HSM48405",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Near by Central Shaheed Minar, Panchur More, Joypurhat."
+        ],
+        [
+            30,
+            "Famous Hospital",
+            "HSM58120",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Ramganj",
+            "Bypass Road, Ramgonj, Lakshmipur"
+        ],
+        [
+            31,
+            "Famous Hospital & Diagnostic Center Ltd.",
+            "HSM57959",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "Konapara Main Road, Matuail, Jatrabari, Dhaka-1362"
+        ],
+        [
+            32,
+            "Famous Hospital & Diagnostic Center Ltd.",
+            "HSM57781",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Jatrabari",
+            "Konapara Main Road, Matuail, Jatrabari, Dhaka-1362"
+        ],
+        [
+            33,
+            "Famous Hospital Diagnostic",
+            "HSM72624",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Bypass Road, Ramgonj, Lakshmipur"
+        ],
+        [
+            34,
+            "Famous Medical Service ",
+            "HSM33192",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding Ho. 436, Near of the Pourashava office, Hospital Road, Maijdee, Sadar, Noakhali"
+        ],
+        [
+            35,
+            "FAMOUS MEDICAL SERVICES",
+            "HSM74754",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramgati",
+            "Alekjender, Ramgoti, Lakshmipur."
+        ],
+        [
+            36,
+            "Famous Medical Services & Hospital",
+            "HSM37676",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali "
+        ],
+        [
+            37,
+            "Famous Specialized Hospital",
+            "HSM80604",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Rampura",
+            "House#05, Main Road, Block#H,Meradia Bazar, Banasree,Dhaka"
+        ],
+        [
+            38,
+            "Famous Specialized Hospital",
+            "HSM18232",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "House#05, Main Road, Block#H, Meradia Bazar, Banasree, Dhaka"
+        ],
+        [
+            39,
+            "Famous Specialized Hospital",
+            "HSM70302",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Ishwardi",
+            "Diar Shapur, Paksey, Ishwardi, Pabna"
+        ],
+        [
+            40,
+            "Famous Specialized Hospital",
+            "HSM68630",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Diar Baghail, Diar Shapur, Paksey, Ishwardi, Pabna"
+        ],
+        [
+            41,
+            "FAMOUS SPECIALIZED HOSPITAL & TRUMA CENTRE",
+            "HSM50804",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Comilla Road, Chandpur."
+        ],
+        [
+            42,
+            "FAMOUS SPECIALIZED HOSPITAL & TRUMA CENTRE",
+            "HSM32046",
+            "Diagnostic Center",
+            "Category-B",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Comilla Road, Chandpur"
+        ],
+        [
+            43,
+            "Farabi General Hospital",
+            "HSM19287",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "House:8/3, Road:14(New), Dhanmondi, Dhaka 1209."
+        ],
+        [
+            44,
+            "Farabi General Hospital",
+            "HSM95734",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "House-8/3,Road-14(New), Dhanmondi ,\r\nDhaka 1209."
+        ],
+        [
+            45,
+            "FARAJI DIAGNOSTIC CENTER",
+            "HSM35785",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Haspatal road, Mathbaria, Pirojpur."
+        ],
+        [
+            46,
+            "Farazi Diagnostic Center",
+            "HSM17984",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Betagi",
+            "Basanda, Betagi, Barguna."
+        ],
+        [
+            47,
+            "FARAZY  DIAGNOSTIC & HOSPITAL  LTD",
+            "HSM14008",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "Plot # 15-19, Block # E, Main Road, Banasree, Rampur, Dhaka-1219"
+        ],
+        [
+            48,
+            "FARAZY  HOSPITAL LIMITED",
+            "HSM07941",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "Plot # 15-19, Block # E, Main Road, Banasree, Rampur, Dhaka-1219"
+        ],
+        [
+            49,
+            "FARAZY DIAGNOSTIC & HOSPITAL  LTD",
+            "HSM94630",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Bhatara",
+            "1204, Madani Avenue, Natun Bazar, Bhatara, Dhaka "
+        ],
+        [
+            50,
+            "Farazy Diagnostic & Hospital Ltd",
+            "HSM58477",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Bhatara",
+            "1204, Madani Avenue, 100 Feet, Notun Bazar, Dhaka-1219"
+        ],
+        [
+            51,
+            "Farazy Hospital Ltd",
+            "HSM82741",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Rampura",
+            "House- 15-19, Block-E, Rampura, Dhaka-1219 "
+        ],
+        [
+            52,
+            "FARAZY MEDICAL CENTER",
+            "HSM84326",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Rampura",
+            "18-19, Block-E, Main Road, Banasree, Rampura, Dhaka-1219"
+        ],
+        [
+            53,
+            "FARAZY MEDICAL CHECK-UP UNIT",
+            "HSM09840",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "1204, Madani Avenue, Natun Bazar, Bhatara, Dhaka "
+        ],
+        [
+            54,
+            "Farhan Clinic",
+            "HSM18339",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Itagasha, Satkhira-Kaligonj main road, Satkhira."
+        ],
+        [
+            55,
+            "FARHAN DIAGNOSTIC CENTER",
+            "HSM50748",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Kaliganj Road, Itagacha, Satkhira. "
+        ],
+        [
+            56,
+            "FARIA DIGITAL DIAGNOSTIC CENTER",
+            "HSM14896",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Harinakunda",
+            "Hospital Mor,Harinakundu,Jhenaidah."
+        ],
+        [
+            57,
+            "FARID DIAGNOSTIC CENTER",
+            "HSM36599",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Bakshiganj",
+            "Bakshiganj Hospital Gate, Bakshiganj, Jamalpur"
+        ],
+        [
+            58,
+            "Farid Diagnostic Centre",
+            "HSM74879",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Roypur",
+            "Tajmahal Cinema Hall Bhaban, Raipur, Lakshmipur."
+        ],
+        [
+            59,
+            "FARIDA CLINIC & Infertility Management Center Limited",
+            "HSM64899",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Paltan",
+            "163/4, Shantinagar, Dhaka-1217"
+        ],
+        [
+            60,
+            "FARIDA EYE CARE",
+            "HSM20518",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Santhia",
+            "Kashinathpur Bazar, Santhia, Pabna"
+        ],
+        [
+            61,
+            "FARIDGONJ  ISLAMIA  HOSPITAL ( PVT ) & DIAGNOSTIC CENTER",
+            "HSM20019",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Faridganj",
+            "BUSSTAND, FARIDGONJ,CHANDPUR"
+        ],
+        [
+            62,
+            "FARIDGONJ DIABETIC CENTRE & GENERAL HOSPITAL",
+            "HSM87556",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Faridganj",
+            "KACIARA, FARIDGONJ, CHANDPUR"
+        ],
+        [
+            63,
+            "FARIDGONJ DIABETIC CENTRE & GENERAL HOSPITAL",
+            "HSM57291",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "KACIARA, FARIDGONJ, CHANDPUR"
+        ],
+        [
+            64,
+            "FARIDPUR AD-DIN HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM31189",
+            "Diagnostic Center",
+            "Category-A",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Habeli Rajapur, Faridpur Sadar, Faridpur."
+        ],
+        [
+            65,
+            "FARIDPUR AD-DIN HOSPITAL & DIAGNOSTIC CENTER.",
+            "HSM52253",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Habeli Rajapur, Faridpur Sadar, Faridpur."
+        ],
+        [
+            66,
+            "FARIDPUR APOLLO DIAGNOSTIC CENTRE  LTD",
+            "HSM77882",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "35 Rafique Manson, Niltuly, Mujib Sarak , Faridpur Sadar, Faridpur"
+        ],
+        [
+            67,
+            "Faridpur Apollo Specialized Hospital",
+            "HSM21642",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Faridpur Sadar",
+            " Apollo Tower, 10/3 Alipur C/A, Alipur, Faridpur"
+        ],
+        [
+            68,
+            "Faridpur Apollo Specialized Hospital",
+            "HSM99844",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Apollo Tower, 10/03 Alipur C/A, Alipur, Faridpur"
+        ],
+        [
+            69,
+            "FARIDPUR BARAKA DIAGNOSTIC CENTER.",
+            "HSM71966",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabaspur, Faridpur sadar, Faridpur."
+        ],
+        [
+            70,
+            "FARIDPUR CENTRAL HOSPITAL",
+            "HSM52506",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Mosjid Bari Sarak, Jhiltuli, Faridpur."
+        ],
+        [
+            71,
+            "Faridpur Desh Clinic (Pvt) Ltd",
+            "HSM44350",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "19 Kobi Jasimuddin Road Alipur, Faridpur"
+        ],
+        [
+            72,
+            "Faridpur Desh Clinic(Diagnostic)",
+            "HSM30386",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "19 Kobi Jasimuddin Road Alipur, Faridpur"
+        ],
+        [
+            73,
+            "Faridpur Diagnostic Centre",
+            "HSM85769",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Golden Plaza, Niltully, Mujibsarak, Faridpur."
+        ],
+        [
+            74,
+            "FARIDPUR GASTROLIVER & PAEDIATRIC CARE CENTER.",
+            "HSM08679",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "19/6, JHILTULI, FARIDSHAH ROAD, FARIDPUR SADAR, FARIDPUR."
+        ],
+        [
+            75,
+            "FARIDPUR GREEN HOSPITAL LTD (PATHOLOGY)",
+            "HSM34917",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Kobi Jashimuddin Sarak, Alipur, Faridpur."
+        ],
+        [
+            76,
+            "FARIDPUR GREEN HOSPITAL LTD.",
+            "HSM14070",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Kobi Jashimuddin Sarak, Alipur, Faridpur."
+        ],
+        [
+            77,
+            "Faridpur Holy Family Diagnostic Centre",
+            "HSM26930",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Madhukhali",
+            "Madhukhali, Faridpur."
+        ],
+        [
+            78,
+            "Faridpur Holy Family Private Clinic",
+            "HSM02415",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Madhukhali",
+            "Madhukhali, Faridpur."
+        ],
+        [
+            79,
+            "Faridpur Ibn Sina Diagnostic Centre",
+            "HSM89600",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "R.K. Plaza, Hajratala Moor, Faridpur"
+        ],
+        [
+            80,
+            "Faridpur Maa O Shishu General Hospital Ltd.",
+            "HSM99942",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Faridpur Sadar",
+            "23, Shahid Sufi Sarak Jhultully, Faridpur."
+        ],
+        [
+            81,
+            "Faridpur Maa O Shishu General Hospital Ltd.",
+            "HSM11120",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "23, Shahid Sufi Sarak Jhultully, Faridpur."
+        ],
+        [
+            82,
+            "Faridpur Mukti Hospital and Diagnostic Center Limited",
+            "HSM94223",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Niltuli, Faridpur"
+        ],
+        [
+            83,
+            "FARIDPUR MUSLIM MISSION  HOSPITAL",
+            "HSM09109",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Raghunandanpur, Komorpur, Faridpur."
+        ],
+        [
+            84,
+            "FARIDPUR MUSLIM MISSION DIAGNOSTIC CENTER",
+            "HSM73677",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Raghunandanpur, Komorpur, Faridpur."
+        ],
+        [
+            85,
+            "Faridpur Peearless  Diagnostic Centre",
+            "HSM18915",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Goalchamot Old Bus Stand, Faridpur"
+        ],
+        [
+            86,
+            "Faridpur Peearless Pvt. Hospital & Diagnostic Centre",
+            "HSM82120",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Goalchamot Old Bus Stand, Faridpur"
+        ],
+        [
+            87,
+            "Faridpur Shamorita General Hospital Ltd.",
+            "HSM40138",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Faridpur Sadar",
+            "18, Niltuli, Mujib Sarak, Faridpur."
+        ],
+        [
+            88,
+            "Faridpur Shamorita General Hospital Ltd.",
+            "HSM54224",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "18, Niltuli, Mujib Sarak, Faridpur."
+        ],
+        [
+            89,
+            "Faridpur Shapla Digital Diagnostic Centre",
+            "HSM57484",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Nilltuni, Faridpur"
+        ],
+        [
+            90,
+            "Faridpur Shapla Digital Privet Hospital & Diagnostic Centre",
+            "HSM89853",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Nilltuni, Faridpur"
+        ],
+        [
+            91,
+            "Faridpur Square Diagnostic Centre",
+            "HSM80513",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Masjid Bari Sarak, Chowrangir Moor, Jhiltuli, Faridpur."
+        ],
+        [
+            92,
+            "Faridpur Trauma Centre & General Hospital",
+            "HSM11703",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Barishal Road, Goalchamot, Faridpur."
+        ],
+        [
+            93,
+            "Faridpur Trauma Centre & General Hospital  (Lab)",
+            "HSM74054",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Barishal Road, Goalchamot, Faridpur."
+        ],
+        [
+            94,
+            "FARIDPUR UNITED DIAGNOSTIC CENTRE",
+            "HSM62270",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "NILTULI, FARIDPUR."
+        ],
+        [
+            95,
+            "Fariha Clinic",
+            "HSM97396",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Tanore",
+            "Chowbaria Bazar, Tanore, Rajshahi"
+        ],
+        [
+            96,
+            "Fariha Diagnosti Center",
+            "HSM00156",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "Hospital Gate, Susang, Durgapur, Netrokona"
+        ],
+        [
+            97,
+            "Fariha Hospital & Diagnostic Centre",
+            "HSM28811",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kadamtali",
+            "3623, Merajnagar,  Madinabag, Kodamtali, Dhaka-1236."
+        ],
+        [
+            98,
+            "Fariha Hospital & Diagnostic Centre",
+            "HSM19167",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kadamtali",
+            "3623, Merajnagar,  Madinabag, Kadamtali, Dhaka-1236."
+        ],
+        [
+            99,
+            "Fariha Private Hospital & Diagnostic Centre",
+            "HSM75608",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "Address: Khajura Bazar Busstand, High School Road, Sadar, Jessore."
+        ],
+        [
+            100,
+            "Fariha Private Hospital & Diagnostic Centre",
+            "HSM79880",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "Address: Khajura Bazar Busstand, High School Road, Sadar, Jessore."
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 149,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Surjer Hashi Clinic (Surjer Hashi Network)",
+            "HSM09575",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jashore Sadar",
+            "Chanchra, Dalmil, Jashore Sadar, Jashore."
+        ],
+        [
+            2,
+            "Surjer Hashi Clinic (Surjer Hashi Network)",
+            "HSM76471",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "Chanchra, Dalmill, Jashore Sadar, Jashore."
+        ],
+        [
+            3,
+            "Surjer Hashi Clinic Pallabi",
+            "HSM60808",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Pallabi",
+            "Section-12 Ward-02 Zone-02 Road-34 House-01Mirpur Pallabi"
+        ],
+        [
+            4,
+            "Surjer Hashi Clinic Surjer Hashi Network ",
+            "HSM21284",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Dewanganj",
+            "North Kalikapur,Dewanganj,Jamalpur."
+        ],
+        [
+            5,
+            "Surjer Hashi Clinic, Aftabnagar",
+            "HSM57908",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Badda",
+            "House#45, Road#02, Block#A, Aftabnagar, Dhaka-1212"
+        ],
+        [
+            6,
+            "Surjer Hashi Clinic, Aftabnagar",
+            "HSM93645",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Badda",
+            "House#45, Road#02, Block#A, Aftabnagar, Dhaka-1212"
+        ],
+        [
+            7,
+            "Surjer Hashi Clinic, Ahammed Nagar",
+            "HSM85997",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mirpur",
+            "26/A, Ahammednagar, Mirpur-1, Dhaka-1216"
+        ],
+        [
+            8,
+            "Surjer Hashi Clinic, Chhatak, Sunamganj",
+            "HSM87423",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Chhatak",
+            "638, Court Road, chhatak, Sunamganj"
+        ],
+        [
+            9,
+            "Surjer Hashi Clinic, Gopalganj",
+            "HSM12456",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "214 DC Road,Thanapara, Gopaganj"
+        ],
+        [
+            10,
+            "Surjer Hashi Clinic, Green Road",
+            "HSM44182",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kalabagan",
+            "183,Green Road, Kalabagan, Dhaka-1205"
+        ],
+        [
+            11,
+            "Surjer Hashi Clinic, Moulvibazar",
+            "HSM16850",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sylhet Road, Borhat, Moulvibazar"
+        ],
+        [
+            12,
+            "Surjer Hashi Clinic, Razabazar",
+            "HSM94685",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "47/11,  West Razabazar , Indira road , Sher -e-Bangla Nagar , Dhaka 1215"
+        ],
+        [
+            13,
+            "Surjer Hashi Clinic, Sherpur-111",
+            "HSM57613",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Kharampur, SherpurTawon, Sherpur"
+        ],
+        [
+            14,
+            "Surjer Hashi Clinic, Sunamganj",
+            "HSM72055",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Anabil-58, Kazirpoint, Sunamganj"
+        ],
+        [
+            15,
+            "SURJER HASHI CLINIC, SURJER HASHI NETWORK",
+            "HSM00765",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Melandaha",
+            "Nagerpara,Melandah,Jamalpur"
+        ],
+        [
+            16,
+            "Surjer Hashi Clinic, Surjer Hashi Network",
+            "HSM98735",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "36/JC GOHO  Road,Mymensingh"
+        ],
+        [
+            17,
+            "Surjer Hashi Clinic, Surjer Hashi Network, Adabor",
+            "HSM34958",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Adabor",
+            "House#9, Road#8, PC Culture Housing, Adabor, Dhaka 1207."
+        ],
+        [
+            18,
+            "Surjer Hashi Clinic, Surjer Hashi Network, Adabor",
+            "HSM74489",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Adabor",
+            "House# 9, Road# 8, Block#B, PC culture housing, Adabor"
+        ],
+        [
+            19,
+            "Surjer Hashi Clinic,Manikdi.",
+            "HSM18220",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Cantonment",
+            "640,East Manikdi,Dhaka Cantonment,Dhaka-1213."
+        ],
+        [
+            20,
+            "surjer hashi clinic,Shahjadpur,",
+            "HSM03915",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Bhatara",
+            "Ga 1076 Shahjadpur ,vatara Dhaka 1212"
+        ],
+        [
+            21,
+            "Surjer Hashi Diagnostic Center",
+            "HSM58314",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Uposhoher Road, Hakirmor, Bogura Bangladesh."
+        ],
+        [
+            22,
+            "Surjer Hashi Network",
+            "HSM65419",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "Surjer Hashi Clinic MA jalil Sarok, (Nabogram Road),Barishal."
+        ],
+        [
+            23,
+            "Surjer Hashi Network",
+            "HSM25188",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "Hosheara Complex,College Road Nearest  of Municipality,Barura-Cumilla ."
+        ],
+        [
+            24,
+            "Surjer Hashi Network",
+            "HSM31824",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "186 Main road, Nixon Market, Bagerhat"
+        ],
+        [
+            25,
+            "Surjer Hashi Network",
+            "HSM95521",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Hazipara, Thakurgaon sadar, Thakurgaon"
+        ],
+        [
+            26,
+            "Surjer Hashi Network",
+            "HSM02521",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No. 0394-01, Hazipara, Thakrugaon-5100, Thakurgaon Sadar, Thakurgaon."
+        ],
+        [
+            27,
+            "Surjer Hashi Network",
+            "HSM54152",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Baluadanga, Sadar, Dinajpur"
+        ],
+        [
+            28,
+            "Surjer Hashi Network",
+            "HSM25749",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "kazitula, sylhet"
+        ],
+        [
+            29,
+            "Surjer Hashi Network",
+            "HSM65396",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Vobanigong More, Bolaripara, Natore Sadar, Natore."
+        ],
+        [
+            30,
+            "Surjer Hashi Network",
+            "HSM20622",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Nagarpur",
+            "Duajani Road,Nagarpur,tangail."
+        ],
+        [
+            31,
+            "Surjer Hashi Network (Karnafuli)",
+            "HSM05188",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "Shikolbaha, Karnafully, Chattogram."
+        ],
+        [
+            32,
+            "Surjer Hashi Network (Karnafuli)",
+            "HSM92420",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chattogram",
+            "Patiya",
+            "Shikolbaha, Karnafully, Chattogram."
+        ],
+        [
+            33,
+            "SURJER HASHI NETWORK (SHN)",
+            "HSM59392",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Bakshiganj",
+            "Tinani Para, Bakshigonj, Jamalpur "
+        ],
+        [
+            34,
+            "Surjer Hashi Network (SHN)",
+            "HSM81932",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mirpur",
+            "277/1, Middle Pirerbag, Mirpur, Dhaka-1216"
+        ],
+        [
+            35,
+            "Surjer Hashi Network , Surjer Hashi Clinic , Bagmara, Rajshahi",
+            "HSM07712",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Baghmara",
+            "Achenghat,Bagmara, Rajshahi"
+        ],
+        [
+            36,
+            "Surjer Hashi Network , Surjer Hashi Diagnostic  , Bagmara, Rajshahi",
+            "HSM75374",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Achenghat, Chanderaria,Bagmara,Rajshahi"
+        ],
+        [
+            37,
+            "Surjer Hashi Network Bagerhat Pathology & Diagnostic Center",
+            "HSM74415",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "186, Main Road, Nixon Market Bagerhat."
+        ],
+        [
+            38,
+            "Surjer Hashi Network Diagnostic Center",
+            "HSM11599",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Asahi Mansion, College Road, Barguna."
+        ],
+        [
+            39,
+            "Surjer Hashi Network Diagnostic Center, Kushtia",
+            "HSM52678",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "38/5,Sir Iqbal Road,Narkeltola, Courtpara,Kushtia"
+        ],
+        [
+            40,
+            "Surjer Hashi Network Pathological Laboratory",
+            "HSM83324",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Rangamati Sadar",
+            "Tabalchari Bazar , Sadar, Rangamati Hill District"
+        ],
+        [
+            41,
+            "Surjer Hashi Network SHN",
+            "HSM98883",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Hazi Abdul alam building Keranihat Satkania Chattogram"
+        ],
+        [
+            42,
+            "SURJER HASHI NETWORK(Surjer Hashi Clinic)",
+            "HSM52162",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Laksam",
+            "Baccho Tower,Nashratpur,Bypus Road,Laksam,Cumilla"
+        ],
+        [
+            43,
+            "Surjer Hashi Network, Bhairab Urban-179",
+            "HSM25110",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bhairab",
+            "Bangabandhu Sarani, Bhairab, kishoreganj"
+        ],
+        [
+            44,
+            "Surjer Hashi Network, Bhairab Urban-179",
+            "HSM35696",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishoreganj",
+            "Bhairab",
+            "Bangabandhu Sarani, Bhairab, kishoreganj"
+        ],
+        [
+            45,
+            "Surjer Hashi Network, Haragach, Kaunia, Rangpur",
+            "HSM03404",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Kaunia",
+            "Haragach, Kaunia, Rangpur"
+        ],
+        [
+            46,
+            "SURJER HASHI NETWORK, JHENAIDAH CLINIC PATHOLOGY & DIAGNOSTIC CENTER                         ",
+            "HSM46137",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "41, Sher-E- Bangla Sharok, Jhenaidah."
+        ],
+        [
+            47,
+            "SURJER HASHI NETWORK, JHENAIDAH CLINIC.",
+            "HSM79711",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "41, Sher-E-Bangla Sharok, Jhenaidah."
+        ],
+        [
+            48,
+            "Surjer Hashi Network, Kurigram",
+            "HSM92172",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Modhur Mor, Dacbangla Para, Kurigram"
+        ],
+        [
+            49,
+            "Surjer Hashi Network, Kurigram",
+            "HSM62375",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Modhur Mor, Dacbangla Para"
+        ],
+        [
+            50,
+            "Surjer Hashi Network, Meherpur Clinic",
+            "HSM26742",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Meherpur",
+            "Meherpur Sadar",
+            "216, Shaheed Hamid Sarak, Kasharipara, Meherpur"
+        ],
+        [
+            51,
+            "Surjer Hashi Network, Meherpur Clinic Pathology",
+            "HSM69466",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "216, Shaheed Hamid Sarak, Kasharipara, Meherpur"
+        ],
+        [
+            52,
+            "Surjer Hashi Network, Mulatole, Rangpur",
+            "HSM99325",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Moletol, Sadar, Rangpur"
+        ],
+        [
+            53,
+            "Surjer Hashi Network, Mulatole, Rangpur",
+            "HSM59490",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Moletole, Sadar, Rangpur "
+        ],
+        [
+            54,
+            "SURJER HASHI NETWORK, PURAN BAZAR",
+            "HSM56725",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "DASPARA, PURAN BAZAR,CHANDPUR SADR, CHANDPUR"
+        ],
+        [
+            55,
+            "Surjer Hashi Network, Ramu",
+            "HSM10389",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Coxs Bazar",
+            "Ramu",
+            "Zam Zam Tower, Chawmuhony, Ramu, Coxsbazar"
+        ],
+        [
+            56,
+            "Surjer Hashi Network, Surjer Hashi Clinic Joypurhat",
+            "HSM82954",
+            "Diagnostic Center",
+            "Category-C",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Joypurhat Professorpara"
+        ],
+        [
+            57,
+            "Surjer Hashi Network, Surjer Hashi Clinic Joypurhat",
+            "HSM88497",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Joypurhat Professorpara"
+        ],
+        [
+            58,
+            "Surjer Hashi Network, Surjer Hashi Clinic, Panchbibi",
+            "HSM24557",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Panchbibi",
+            "Village:- Nakorgachhi (Hili Road),  Panchbibi, Joypurhat. Mohakhali, Dhaka, Bangladesh."
+        ],
+        [
+            59,
+            "Surjer Hashi Network, Surjer Hashi Clinic, Saidpur",
+            "HSM60046",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Nilphamari",
+            "Saidpur",
+            "Bangabandhu Road, Saidpur, Nilphamari"
+        ],
+        [
+            60,
+            "Surjer Hashi Network, Tajhat, Rangpur",
+            "HSM06507",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Tajhat, Sadra, Rangpur"
+        ],
+        [
+            61,
+            "Surjer Hashi Network, Tajhat, Rangpur",
+            "HSM36614",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Tajhat, Sadar, Rangpur"
+        ],
+        [
+            62,
+            "Surjer Hashi Network, Taltala.",
+            "HSM28891",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "Surjer Hashi Clinic, Taltala Hospital Cross Road, Tootpara, Khulna."
+        ],
+        [
+            63,
+            "SURJER HASHI NETWORK,CHANDPUR",
+            "HSM50060",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "JARA HOUSE,MISSION ROAD,CHANDPUR SADAR CHANDPUR"
+        ],
+        [
+            64,
+            "SURJER HASHI NETWORK,HAZIGONJ",
+            "HSM75649",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "SARKER BHABAN,RAMGANJ ROAD, HAZIGANJ ,CHANDPUR"
+        ],
+        [
+            65,
+            "Surjer hashi Network,Madarbari Clinic-127",
+            "HSM83795",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Double Mooring",
+            "234,patantuli,chowmuhoni,chattogram."
+        ],
+        [
+            66,
+            "Surjer Hashi Network,Surjer Hashi Clinic, Shibgonj,Bogura",
+            "HSM27707",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "Village: Amtoli, Post: Shibgonj, Upazila: Shibgonj,District: Bogura"
+        ],
+        [
+            67,
+            "Surjer Hashi Netwrok",
+            "HSM80588",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "Hazi Abdul Jobbar Sowdaghor Building, Bus Station, Boiltoli Road, Patiya Pouroshova, Chittagong"
+        ],
+        [
+            68,
+            "Surjer Hashi Pathological Lab  Center",
+            "HSM28549",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Sylhet Road, Borhat, Maulvibazar-3200"
+        ],
+        [
+            69,
+            "Surjer Hasi Clinic,Habiganj",
+            "HSM04834",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Town Hall Road, Habiganj."
+        ],
+        [
+            70,
+            "Surjer Hasi Network",
+            "HSM44433",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Baluadanga Sadar, Dinajpur."
+        ],
+        [
+            71,
+            "Surjer Hasi Network ( Banskhali )",
+            "HSM84906",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Banshkhali",
+            "Boilchari,KB.Bazar,Checuriya,Banskhali,Chattogram"
+        ],
+        [
+            72,
+            "Surjhomukhi General Hospital",
+            "HSM75630",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Holding No :5705,New Pourasava Road,Habiganj Sadar,Habiganj"
+        ],
+        [
+            73,
+            "Surjhomukhi General Hospital",
+            "HSM35237",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Holding No :5705,New Pourasava Road,Habiganj Sadar,Habiganj"
+        ],
+        [
+            74,
+            "Surjo Diagnostic Center",
+            "HSM81795",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Batiaghata",
+            "Batiaghata Bazer,Batiaghata,Khulna"
+        ],
+        [
+            75,
+            "Surjomukhi Eye Hospital & Phaco Center",
+            "HSM72007",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Monoroma Super Market Joyra College Road , Busstand, Manikganj"
+        ],
+        [
+            76,
+            "Surjomukhi Eye Hospital & Phaco Center",
+            "HSM47685",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Monoroma Super Sarket Joyra college road, Busstand, Manikganj"
+        ],
+        [
+            77,
+            "Surjomukhi General Hospital ( Branch-2)",
+            "HSM74901",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Roushan Ali Tawor,Fire service Road,Habiganj"
+        ],
+        [
+            78,
+            "Surjomukhi General Hospital (Branch-2)",
+            "HSM54461",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Roushan Ali Tawor,Fire Service Road,Habiganj"
+        ],
+        [
+            79,
+            "SURJOMUKHI OUTDOOR SASTHOKANDRO ",
+            "HSM75929",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Fulchhari",
+            "Hosenpur, Fulchari, Gaibandha"
+        ],
+        [
+            80,
+            "SURMA CLINIC & DIAGNOSTIC CENTER",
+            "HSM87372",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Chamber Bhaban, Ukilpara, Sunamganj"
+        ],
+        [
+            81,
+            "Surma Clinic and Diagonostic Centre",
+            "HSM34481",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Adamdighi",
+            "Adamdighi (Hospital Gate Len), Adamdighi, Bogura"
+        ],
+        [
+            82,
+            "Surma Clinic and Diagonostic Centre",
+            "HSM13713",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Adamdighi",
+            "Adamdighi (Hospital Gate Len), Adamdighi, Bogura"
+        ],
+        [
+            83,
+            "SURMA DIAGNOSTIC CENTER",
+            "HSM23728",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Chamber Bhaban, Ukilpara, Sunamganj"
+        ],
+        [
+            84,
+            "Surma Diagnostic Center",
+            "HSM79076",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Barlekha",
+            "All-Amin Market(2nd Floor), Barlekha, Moulvibazar"
+        ],
+        [
+            85,
+            "Surma Diagnostic Centre.",
+            "HSM69281",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Chhatak",
+            "Chhatak Bazar ,  Chhatak , Sunamganj"
+        ],
+        [
+            86,
+            "Surma Genarel Hospital & Diagnostic Center",
+            "HSM37175",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Panchagarh",
+            "Boda",
+            "Boda Nogarkumari, Boda, Panchagarh"
+        ],
+        [
+            87,
+            "Surma Mental Clinic (Pvt.)",
+            "HSM94931",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Pabna Sadar",
+            "Hemayetpur, Budherhat, Pabna"
+        ],
+        [
+            88,
+            "Surokkha Diagnostic & Diabetes Center",
+            "HSM36948",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Bijoynagar",
+            "Awoliya Bazar,Mukundhapur,Bijoynagar,Brahmanbaria"
+        ],
+        [
+            89,
+            "SUROKKHA DIAGNOSTIC & GENERAL HOSPITAL ",
+            "HSM72622",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Dumki",
+            "\u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0 \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u0993 \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u09ae\u09c7\u0987\u09a8 \u0997\u09c7\u099f\u09c7\u09b0 \u09ac\u09bf\u09aa\u09b0\u09c0\u09a4 \u09aa\u09be\u09b6\u09c7,  \u09a6\u09c1\u09ae\u0995\u09bf, \u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0 "
+        ],
+        [
+            90,
+            "SUROKKHA DIAGNOSTIC & PHYSIOTHERAPY CENTER",
+            "HSM07429",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            " Chandora, Dhigi, Sodor, Manikganj"
+        ],
+        [
+            91,
+            "SUROKKHA DIAGNOSTIC CENTRE",
+            "HSM53573",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Bangabandhu Road, Thakurgaon. "
+        ],
+        [
+            92,
+            "Surokkha Diagnostic Complex",
+            "HSM60080",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Kaharole",
+            "Dosmile More, Kaharole, Dinajpur-5200"
+        ],
+        [
+            93,
+            "Surokkha Hospital And Diagnostic",
+            "HSM79168",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "368,Sher-e-Bangla Road,Khylna."
+        ],
+        [
+            94,
+            "Surokkha Hospital And Diagnostic",
+            "HSM25739",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Sonadanga",
+            "368,Sher-e-Bangla Road,Khulna"
+        ],
+        [
+            95,
+            "SUROVI DIAGNOSTIC CENTER",
+            "HSM42500",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Hospital Road, Monohardi, Narsingdi. "
+        ],
+        [
+            96,
+            "SUROVI MATERNITY & GENERAL HOSPITAL & DIAGNOSTIC CENTER ",
+            "HSM19749",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Cantonment",
+            "223/2, Manikdi, Balughat Bazar Road,  Dhaka Cantonment, Dhaka"
+        ],
+        [
+            97,
+            "SUROVI MATERNITY & GENERAL HOSPITAL & DIAGNOSTIC CENTER ",
+            "HSM39770",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Cantonment",
+            "223/2, Manikdi, Balughat Bazar Road,  Dhaka Cantonment, Dhaka"
+        ],
+        [
+            98,
+            "SUROVI PATHOLOGY CENTER",
+            "HSM73215",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Dewanganj",
+            "UPOZILLA HOSPITAL ROAD, DEWANGANJ, JAMALPUR."
+        ],
+        [
+            99,
+            "SUROVI PATHOLOGY CENTER &DIGITAL HOSPITAL",
+            "HSM78416",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Dewanganj",
+            "MADRASA ROAD, BAZARIPARA, DEWANGANJ, JAMALPUR."
+        ],
+        [
+            100,
+            "Susang Diagonostic Center",
+            "HSM23790",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "Vill: Sadhupara (Hospital Road), P.O: Susang, Upazila: Durgapur, Dist.: Netrokona, Division- Mymensingh."
+        ]
+    ]
+}

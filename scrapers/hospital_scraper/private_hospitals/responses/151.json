@@ -1,0 +1,1007 @@
+{
+    "draw": 151,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Tajman Hospital",
+            "HSM70012",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "Ukhia",
+            "Palong Khali, Ukhiya, Coxs Bazar."
+        ],
+        [
+            2,
+            "Tajman Hospital",
+            "HSM60107",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Ukhia",
+            "Palong Khali, Ukhiya, Coxs Bazar"
+        ],
+        [
+            3,
+            "Tajul Islam Diagnostic & Doctors Chembar",
+            "HSM79645",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Sadar Road, Amtoli, Jpypurhat"
+        ],
+        [
+            4,
+            "TAKBIR  DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM98925",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "215 charpara,mymensingh"
+        ],
+        [
+            5,
+            "TAKBIR  DIAGNOSTIC CENTER & HOSPITAL",
+            "HSM66508",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "215 charpara,mymensingh"
+        ],
+        [
+            6,
+            "Take Care Digital Diagnostic & Consultation Centre",
+            "HSM55384",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Fakirhat",
+            "Katakhali,Fakirhat,Bagerhat"
+        ],
+        [
+            7,
+            "TAKE CARE HOSPITAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM61000",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "27/1-B (2ND FLOOR) , SHAMOLI, MIRPUR, DHAKA"
+        ],
+        [
+            8,
+            "TAKE CARE HOSPITAL & DIGITAL DIAGNOSTIC CENTER",
+            "HSM64807",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mirpur",
+            "27/1-B (2ND FLOOR) , SHAMOLI, MIRPUR, DHAKA"
+        ],
+        [
+            9,
+            "Take Care Lab",
+            "HSM74300",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur. "
+        ],
+        [
+            10,
+            "Take-Care General Hospital",
+            "HSM21123",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "128/06 Akota Vobon, Begum Jorina College Road, Manikganj"
+        ],
+        [
+            11,
+            "Take-Care General Hospital ",
+            "HSM90459",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "128/06 Akota Vobon, Begum Jorina College Road, Manikganj"
+        ],
+        [
+            12,
+            "Takerhat Central Hospital Pvt. Ltd",
+            "HSM18922",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat U.P Road, Rajoir, Madaripur"
+        ],
+        [
+            13,
+            "Takerhat Central Hospital Pvt. Ltd",
+            "HSM13293",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat U.P Road, Rajoir, Madaripur"
+        ],
+        [
+            14,
+            "Takerhat General Hospital Pvt.",
+            "HSM05777",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat, Khalia, Rajoir, Madaripur"
+        ],
+        [
+            15,
+            "Takerhat General Hospital Pvt.",
+            "HSM20381",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Takerhat, Khalia, Rajoir, Madaripur"
+        ],
+        [
+            16,
+            "Takerhat Lab Aid Diagnostic Center",
+            "HSM56054",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Rajoir",
+            "Abasik Road, Takerhat, Rajoir, Madaripur"
+        ],
+        [
+            17,
+            "TAKWA DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM70931",
+            "Diagnostic Center",
+            "Category-B",
+            "Pabna",
+            "Bera",
+            "Aminpur Bazar, Aminpur, Bera, Pabna"
+        ],
+        [
+            18,
+            "Tala Surgical Clinic",
+            "HSM14347",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Tala",
+            "Mela Bazar, Tala, Satkhira"
+        ],
+        [
+            19,
+            "Tala Surgical Diagnostic Center",
+            "HSM64794",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Tala",
+            "Mela Bazar, Tala, Satkhira"
+        ],
+        [
+            20,
+            "Talha Diagnostic Center",
+            "HSM92267",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Road, Mohongonj, Netrakona."
+        ],
+        [
+            21,
+            "TALHA HEALTH CARE LTD",
+            "HSM55012",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Bhatara",
+            "Ka-7/2 Bashundhara Road,Bhatara,Dhaka-1229.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+        ],
+        [
+            22,
+            "Talora Swasthoseba Kendra",
+            "HSM39463",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogura",
+            "Dhupchanchia",
+            "Lafapara, Talora Bazar, Dhupchancia, Bogura, Bangladesh"
+        ],
+        [
+            23,
+            "Taltali Apollo Hospital",
+            "HSM48684",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Taltali",
+            "Sadar Road, Taltali, Barguna."
+        ],
+        [
+            24,
+            "Taltali Apollo Hospital",
+            "HSM49306",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barguna",
+            "Taltali",
+            "Sadar Road, Taltali, Barguna."
+        ],
+        [
+            25,
+            "Taltali Islami Hospital & Diagnostic Centre",
+            "HSM67278",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Taltali",
+            "Taltali Upazila Sarak, Muktijodda Complex, Taltali, Barguna."
+        ],
+        [
+            26,
+            "Taltali Islami Hospital & Diagnostic Centre",
+            "HSM44407",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barguna",
+            "Taltali",
+            "Taltali Upazila Sarak, Muktijodda Complex, Taltali, Barguna."
+        ],
+        [
+            27,
+            "Taltoli Lab Aid Diagnostic Center",
+            "HSM90923",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Taltali",
+            "Taltoli Bazar, Taltoli, Barguna."
+        ],
+        [
+            28,
+            "Talukdar Diagnostic Centre and Medicine",
+            "HSM55206",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Sarosi Bazar, Lakudiya Sarok, Kashipur, Barishal"
+        ],
+        [
+            29,
+            "Talukder Diagnostic & Health Complex",
+            "HSM71621",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Station Road, Nandina, Sadar, Jamalpur"
+        ],
+        [
+            30,
+            "Talukder Diagnostic & Health Complex",
+            "HSM07678",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Station Road, Nandina, Sadar, Jamalpur"
+        ],
+        [
+            31,
+            "TALUKDER DIAGNOSTIC CENTRE & DOCTORS CHAMBER",
+            "HSM48446",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "Hospital Road, Goila, Agailjhara, Barishal"
+        ],
+        [
+            32,
+            "TALUKDER EYE CARE ",
+            "HSM18555",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "HOSSAINPUR,SIRAJGONJ"
+        ],
+        [
+            33,
+            "TALUKDER PATHOLOGY LAB",
+            "HSM06018",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "Talukder Pathology Lab, 201, Charpara, Mymensingh"
+        ],
+        [
+            34,
+            "Tamanna Diagnostic Centre",
+            "HSM97939",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Amtali",
+            "Hospital Road, Amtoli, Barguna."
+        ],
+        [
+            35,
+            "Tamanna Digital Diagnostic Centre",
+            "HSM11339",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "ward-7,North Borgcha,Half Rasta,Natore sadar,Natore"
+        ],
+        [
+            36,
+            "TAMIM DIAGNOSTIC CENTRE",
+            "HSM29840",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Faridpur",
+            "Gopalnagar, Faridpur Upazila, Pabna"
+        ],
+        [
+            37,
+            "TAMIMA CLINIC AND DIAGNOSTIC CENTER",
+            "HSM54934",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Mollahat",
+            " Garfa, Bissho Road, Mollahat, Bagherhat"
+        ],
+        [
+            38,
+            "Tamima Diagnostic Centre",
+            "HSM92258",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Harekhali Bottala,Bagerhat"
+        ],
+        [
+            39,
+            "Taneim Lab,",
+            "HSM63014",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Paikgachha",
+            "Baka Bazar Hospital Road, Paikgacha, Khulna."
+        ],
+        [
+            40,
+            "TANGAIL BLOOD BANK",
+            "HSM02310",
+            "Blood Bank",
+            "",
+            "Tangail",
+            "Tangail Sadar",
+            "Sheikh Hasina Medical College Hospital Road, Sabalia, Tangail."
+        ],
+        [
+            41,
+            "Tangail Clinic & Hospital",
+            "HSM46859",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Mymensingh Road, Tangail"
+        ],
+        [
+            42,
+            "Tangail Clinic & Hospital",
+            "HSM65786",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Mymensingh Road, Tangail"
+        ],
+        [
+            43,
+            "Tangail Eye Care And One Lab",
+            "HSM47826",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "DISTRIC GATE, SABALIA, TANGAIL."
+        ],
+        [
+            44,
+            "TANGINA CLINIC &  DIAGNOSTIC CENTRE",
+            "HSM96673",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Jibannagar Hospital Road, Jibannagar, Chuadanga."
+        ],
+        [
+            45,
+            "Tanha Health Care Hospital ",
+            "HSM00230",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Shafipur Bazar,Kaliakair,Gazipur."
+        ],
+        [
+            46,
+            "TANIA MEDICAL & DIAGNOSTIC CENTRE",
+            "HSM02737",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Sreepur",
+            "Tania Medical & Diagnostic,NAYANPUR BAZAR, SREEPUR, GAZIPUR"
+        ],
+        [
+            47,
+            "TANIA MEDICAL & DIAGNOSTIC CENTRE",
+            "HSM85531",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "Tania Medical & Diagnostic Center,NAYANPIUR BAZAR, SHREEPUR, GAZIPUR"
+        ],
+        [
+            48,
+            "Tania Private Hospital",
+            "HSM76127",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Vill: Dukkin Tangab Sordarer Bari, Post: Tangab, P.S: Goforgonj, Dist: Mymensingh"
+        ],
+        [
+            49,
+            "Tania Taj Pathology and Diagnostic Center",
+            "HSM92592",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Hatibandha",
+            "Moshojid More, Doikhaowa Bazar, Hatibandha,Lalmonirhat"
+        ],
+        [
+            50,
+            "Tanim Private Hospital",
+            "HSM24972",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Mohishkundi Bazar, Daulatpur, Kushtia."
+        ],
+        [
+            51,
+            "Tanim Private Hospital",
+            "HSM80392",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Daulatpur",
+            "\u09ae\u09b9\u09bf\u09b7\u0995\u09c1\u09a8\u09cd\u09a1\u09bf \u09ac\u09be\u099c\u09be\u09b0, \u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0, \u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09df\u09be\u0964"
+        ],
+        [
+            52,
+            "Tanima Dental  Care",
+            "HSM78021",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Salna Bazar,Gazipur Sadar,Gazipur"
+        ],
+        [
+            53,
+            "Taniza Digital Hospital",
+            "HSM25139",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Haspatalroad, Kalihati, Tangail"
+        ],
+        [
+            54,
+            "Taniza Digital Hospital",
+            "HSM28272",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Kalihati",
+            "Haspatal road, Kalihati, Tangail"
+        ],
+        [
+            55,
+            "Tanore Diabetic Consutation & Diagnostic Center ",
+            "HSM51669",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Tanore",
+            "Amsho, Medical Mor, Tanore, Rajshahi."
+        ],
+        [
+            56,
+            "Tapos Digital Diagonistic  Center",
+            "HSM23687",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Madan",
+            "Jahangirpur, hospital Road, Madan , Netrokona, Mymmeningh."
+        ],
+        [
+            57,
+            "Taqwa Lab and Consultation Centre",
+            "HSM36502",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Dhamoirhat",
+            "Jahanpur ,Dhamoirhat,Naogaon"
+        ],
+        [
+            58,
+            "TAQWA SPECIALIZED HOSPITAL",
+            "HSM77935",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "15 New Eskaton Road ( 2nd , 3rd & 7th Floor), Dhaka-1000"
+        ],
+        [
+            59,
+            "TAQWA SPECIALIZED HOSPITAL",
+            "HSM19296",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "15 New Eskaton Road ( 2nd , 3rd & 7th Floor), Dhaka-1000"
+        ],
+        [
+            60,
+            "Tara Miah Memorial Diagnostic Center",
+            "HSM53503",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Thana Sadar Road, Palash, Narsingdi."
+        ],
+        [
+            61,
+            "Tara Miah Memorial Hospital",
+            "HSM83810",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Palash",
+            "Thana Sadar Road, Palash, Narsingdi."
+        ],
+        [
+            62,
+            "TARAFDER CLINIC & DIAGNOSTIC CENTRE",
+            "HSM59187",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Damurhuda",
+            "Puratonbazar, Darsana, Damurhuda, Chuadanga"
+        ],
+        [
+            63,
+            "TARAFDER CLINIC & DIAGNOSTIC CENTRE",
+            "HSM40344",
+            "Diagnostic Center",
+            "Category-B",
+            "Chuadanga",
+            "Damurhuda",
+            "Puratonbazar, Darsana, Damurhuda, Chuadanga"
+        ],
+        [
+            64,
+            "TARAGANJ DIAGNOSTIC CENTER",
+            "HSM91153",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Taraganj",
+            "Agroni Bank More, Taraganj Bazer, Rangpur"
+        ],
+        [
+            65,
+            "TARAGUNIA CLINIC",
+            "HSM84514",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Daulatpur",
+            "Taragunia Hall Bazar, Daulatpur, Kushtia."
+        ],
+        [
+            66,
+            "TARAPADA MEMORIAL DIAGNOSTIC CENTER",
+            "HSM03570",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Puratan Bazar,Main Road, Bagerhat"
+        ],
+        [
+            67,
+            "TARAS DIAGNOSTIC LAB AND DOCTORS CHAMBER",
+            "HSM05671",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Naieem Plaza, Oskhali, Hatiya, Noakhali"
+        ],
+        [
+            68,
+            "Tarash Vision & Diagnostatic Center.",
+            "HSM62903",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Tarash",
+            "Tarash Sirajgonj"
+        ],
+        [
+            69,
+            "Tareque Memorial-Ibrahim General Hospital",
+            "HSM79826",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Chhagalnaiya",
+            "Vill- Bashpara, P.O.- Chhagalnaiya, Chhagalnaiya, Feni"
+        ],
+        [
+            70,
+            "Tareque Memorial-Ibrahim General Hospital",
+            "HSM33619",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Chhagalnaiya",
+            "Banshpara ,Chhagalnaiya ,Feni"
+        ],
+        [
+            71,
+            "Tarik Medical & Diagnostic Center",
+            "HSM36585",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dakshinkhan",
+            "848/1, Irish Plaza, Prembagan, Ashkona, Dakshin Khan, Dhaka-1230"
+        ],
+        [
+            72,
+            "TASLIM CLINIC",
+            "HSM81856",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "5, kabi golam mostafa road jhenaidah"
+        ],
+        [
+            73,
+            "TASLIM DIAGNOSTIC CENTER",
+            "HSM37880",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "5, kabi golam mostafa road jhenaidah"
+        ],
+        [
+            74,
+            "Tasor Uddin Hospital & Diagnostic Center.",
+            "HSM85057",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Jaldhaka",
+            "Village:Mathavanga ,Post:Jaldhaka, Upazilla: Jaldhaka. District:Nilphamari"
+        ],
+        [
+            75,
+            "Tata Digital Diagnostic Center",
+            "HSM72581",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "West Paikpara, Brahmanbaria"
+        ],
+        [
+            76,
+            "Tata Digital diagnostic Consultation & Clinic",
+            "HSM10455",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Sonatola",
+            "Agroni Bank Building, Pourosova Road, Sonatola, Bogra"
+        ],
+        [
+            77,
+            "Tata Digital diagnostic Consultation & Clinic",
+            "HSM91919",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Sonatola",
+            "Agroni Bank Bilding, Pourosova Road, Sonatola, Bogura"
+        ],
+        [
+            78,
+            "TATKLORY SOMOBAI DIAGONOSTIC CENTER & HOSPITAL COMPLEX",
+            "HSM80985",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Shahjadpur",
+            "BAGHABARI GHAT, SHAHJADPUR, SIRAJGANJ"
+        ],
+        [
+            79,
+            "TATKLORY SOMOBAI DIAGONOSTIC CENTER & HOSPITAL COMPLEX",
+            "HSM48362",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "BAGHABARI GHAT, SHAHJADPUR, SIRAJGANJ"
+        ],
+        [
+            80,
+            "Tawhid Diagnostic Center ",
+            "HSM42341",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "Chonkhola Bazar, Ghatail, Tangail"
+        ],
+        [
+            81,
+            "Taz (Pvt.) Hospital, Monohardi",
+            "HSM82271",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Manohardi",
+            "Monohardi Bus Stand, Monohardi, Narsingdi. "
+        ],
+        [
+            82,
+            "TAZ DIAGNOSTIC CENTER",
+            "HSM88376",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Monohardi Bus Stand, Monohardi, Narsingdi. "
+        ],
+        [
+            83,
+            "tazim digital lab",
+            "HSM96941",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "\u09ad\u09be\u09b2\u09c1\u0995\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be, \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            84,
+            "TAZKIA AROGYA NIKETAN &  E.N.T CENTRE",
+            "HSM13001",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kotwali",
+            "8/1, Basabari Lane, Nayabazar, Dhaka."
+        ],
+        [
+            85,
+            "TAZKIA AROGYA NIKETAN &  E.N.T CENTRE",
+            "HSM89397",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Kotwali",
+            "8/1, Basabari Lane, Nayabazar, Dhaka."
+        ],
+        [
+            86,
+            "TAZUMUDDIN  DIGITAL DIAGNOSTIC CENTER",
+            "HSM13007",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Tazumuddin",
+            "Hospital Road,Tazumuddin,Bhola."
+        ],
+        [
+            87,
+            "Teachers Medical Center ",
+            "HSM34278",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "\u09b2\u09a8\u09cd\u09a1\u09a8 \u09ae\u09cd\u09af\u09be\u09a8\u09b6\u09a8, \u0995\u09b2\u09be\u09ac\u09be\u0997\u09be\u09a8, \u09b0\u09be\u09ae\u0997\u099e\u09cd\u099c, \u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u09aa\u09c1\u09b0\u0964"
+        ],
+        [
+            88,
+            "TEBUNIA GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM29533",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Sakawat Plaza, Tebunia Bazar, Pabna"
+        ],
+        [
+            89,
+            "TEBUNIA GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM64013",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Sakawat Plaza, Tebunia Bazar, Pabna"
+        ],
+        [
+            90,
+            "TECHNO DIAGNOSTIC CENTRE",
+            "HSM99235",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Wapda Road, Meherpur"
+        ],
+        [
+            91,
+            "Technologist Diagnostic Centre",
+            "HSM52685",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road Rangpur"
+        ],
+        [
+            92,
+            "Teesta Pathology and Diagnostic Center ",
+            "HSM02059",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Hatibandha",
+            "Medical More, Hatibandha"
+        ],
+        [
+            93,
+            "TEKERHAT DIAGNOSTIC CENTER",
+            "HSM09506",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Hizla",
+            "Tekerhat Bazar, Memaniya, Hizla, Barisal."
+        ],
+        [
+            94,
+            "TEN ROSE HEALTH CARE",
+            "HSM22887",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Gurudaspur",
+            "Gurudaspur, Natore, Rajshahi"
+        ],
+        [
+            95,
+            "TEN ROSE HEALTH CARE",
+            "HSM41095",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Gurudaspur",
+            "Gurudaspur, Natore, Rajshahi"
+        ],
+        [
+            96,
+            "TEROKHADA DIAGNOSTIC CENTER",
+            "HSM77154",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Terokhada",
+            "KATENGA BAZAR,  TEROKHADA, KHULNA"
+        ],
+        [
+            97,
+            "Terokhada Surgical & Diagnostic Centre ",
+            "HSM32565",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Terokhada",
+            "Terokhada, Infront of BRAC Office, Khulna"
+        ],
+        [
+            98,
+            "Terokhadha Surgical & Diagnostic Centre ",
+            "HSM44865",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Terokhada",
+            "Terokhada, Infront of BRAC Office, Khulna, Bangladesh  "
+        ],
+        [
+            99,
+            "Tesla Neuroscience & General Hospital And Diagnostic Center",
+            "HSM53611",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "Moyej Meyar Bagan Bari, Kanasgari, Sherpur Road, Bogura."
+        ],
+        [
+            100,
+            "Tesla Neuroscience & General Hospital And Diagnostic Center",
+            "HSM75776",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "Moyej Meyar Bagan Bari, Kanasgari, Sherpur Road, Bogura."
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 72,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "JHALOKATHI DIAGNOSTIC LAB AND CLINIC",
+            "HSM93671",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "61.NEW COLLEGE ROAD.JHALOKATHI"
+        ],
+        [
+            2,
+            "JHALOKATHI ISLAMIA CLINIC",
+            "HSM18777",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "\u09aa\u09c2\u09b0\u09cd\u09ac \u099a\u09be\u09a6\u0995\u09be\u09a0\u09bf \u099d\u09be\u09b2\u0995\u09be\u09a0\u09bf "
+        ],
+        [
+            3,
+            "JHALOKATHI MODEL CLINIC&DIAGNOSITIC CENTER",
+            "HSM62750",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "PURBO CHANDKATHI.JHALOKATHI"
+        ],
+        [
+            4,
+            "JHARANA HOSPITAL AND DIGITAL DIAGONSTIC CENTER",
+            "HSM77905",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Daudkandi",
+            "Angaura, Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            5,
+            "JHARANA HOSPITAL AND DIGITAL DIAGONSTIC CENTER",
+            "HSM86486",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Angaura, Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            6,
+            "Jharna Clinic",
+            "HSM58857",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jessore Sadar",
+            "12, Gurudas Babu Lane, Pipepotty, Jessore."
+        ],
+        [
+            7,
+            "JHARNA CLINIC",
+            "HSM14132",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Kaliganj",
+            "Kaliganj, Satkhira"
+        ],
+        [
+            8,
+            "JHARNA HOSPITAL (Pvt.)",
+            "HSM64896",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Hospital Road, Faridgonj Bazar, Faridgonj, Chandpur-3650"
+        ],
+        [
+            9,
+            "JHARNA HOSPITAL (Pvt.)",
+            "HSM66315",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Faridganj",
+            "Hospital Road, Faridgonj Bazar, Faridgonj,Chandpur-3650"
+        ],
+        [
+            10,
+            "Jhaudanga Piles and Surgical Clinic ",
+            "HSM58610",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Satkhira Sadar",
+            "High school road,Jhaudanga bazer,Satkhira"
+        ],
+        [
+            11,
+            "Jhaudanga Piles and Surgical Clinic and Digital Lab",
+            "HSM74595",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "High School Road,Jhaudanga Bazer,Satkhira"
+        ],
+        [
+            12,
+            "JHENAIDAH DIABETIC ASSOCIATION (Diagnostic)",
+            "HSM12969",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Lawdia, Jessore Road, Sadar, Jhenaidah"
+        ],
+        [
+            13,
+            "JHENAIDAH DIABETIC ASSOCIATION (HOSPITAL)",
+            "HSM18783",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Lawdia, Jessore Road Sadar, Jhenaidah"
+        ],
+        [
+            14,
+            "JHENAIDAH PRINCE DIAGNOSTIC CENTER",
+            "HSM51820",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Hamdah,Jhenaidah."
+        ],
+        [
+            15,
+            "JHENAIDAH PRINCE HOSPITAL",
+            "HSM48468",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Hamdah,Jhenaidah."
+        ],
+        [
+            16,
+            "Jheneda City Diagnostic Centre",
+            "HSM26662",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Ghosh Para More, Hamdah Jhenaidah"
+        ],
+        [
+            17,
+            "Jheneda City Hospital ",
+            "HSM93856",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Ghosh Para More, Hamdah, Jhenaidah"
+        ],
+        [
+            18,
+            "JHIKARGACHA PRIVET CLINIC",
+            "HSM63627",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Jhikargachha",
+            "Upazalia More, Main Road, Jhikargacha, Jessore"
+        ],
+        [
+            19,
+            "Jhilmil Hospital  (Pvt.) Ltd",
+            "HSM21208",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "Chunkutia Chowrasta, Keranigonj, Dhaka."
+        ],
+        [
+            20,
+            "Jhilmil Hospital  (Pvt.) Ltd",
+            "HSM96563",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Chunkutia Chowrasta, Keranigonj, Dhaka."
+        ],
+        [
+            21,
+            "JHOHORA DIAGNOSTIC CENTRE",
+            "HSM01390",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "SADAR HOSPITAL ROAD, CHUADANGA"
+        ],
+        [
+            22,
+            "Jhorna Clinic & Lopa Digital Lab",
+            "HSM13501",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Kaliganj",
+            "Fultala More, Kaligonj, Satkhira."
+        ],
+        [
+            23,
+            "JHUMUR DIAGNOSTIC & CLINIC",
+            "HSM36988",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "HOSPITAL ROAD, NICHABAZZAR, NATORE."
+        ],
+        [
+            24,
+            "JHUMUR DIAGNOSTIC CENTER",
+            "HSM84181",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "HOSPITAL ROAD, NICHABAZZAR, NATORE."
+        ],
+        [
+            25,
+            "Jhuri Adhunik (PVT) Hospital",
+            "HSM89421",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Juri",
+            "Borolekha Road, Jhuri, Maulvibazar"
+        ],
+        [
+            26,
+            "Jiban Blood Bank And Transfusion Medicine Centre",
+            "HSM41211",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Satkania",
+            "Bandarban Rastar Matha, kerani Haat (Opposite UCB Bank)"
+        ],
+        [
+            27,
+            "Jibannagar Diabetes Centre Clinic & Diagnostic Service",
+            "HSM76794",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            28,
+            "Jibannagar Diabetes Centre Clinic & Diagnostic Service",
+            "HSM43393",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            29,
+            "JIBANNAGAR IBNSINA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM72780",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga"
+        ],
+        [
+            30,
+            "Jibon Alo Diagnostic Center",
+            "HSM48782",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 245/9, Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            31,
+            "Jibon Alo Hospital (Pvt.)",
+            "HSM06436",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 245/9, Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            32,
+            "Jihad Pathology",
+            "HSM23994",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Uttar Doulotpur, Mohongonj, Netrokona."
+        ],
+        [
+            33,
+            "Jim Digital Diagnostic Centre",
+            "HSM90980",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Muksudpur",
+            "\u099c\u09bf\u09ae \u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u09a1\u09be\u09df\u09be\u0997\u09a8\u09cb\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0, \u09ae\u09c2\u0995\u09b8\u09c1\u09a6\u09aa\u09c1\u09b0\u0964\r\n"
+        ],
+        [
+            34,
+            "JIMCH HEALTH CENTRE",
+            "HSM72707",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Katiadi",
+            "Hospital Road,Reaz Bhabon(1st Floor), ward No-03, Holding No-2832,Katiadi,Kishoreganj"
+        ],
+        [
+            35,
+            "Jinia General (pvt.) Hospital",
+            "HSM53551",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur."
+        ],
+        [
+            36,
+            "Jinia pathological laboratory ",
+            "HSM06214",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "Hospital get, Monirampur, Jessore."
+        ],
+        [
+            37,
+            "jinnat Hospital &  Diagnostic Center",
+            "HSM73891",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "129,Bk Roy Road,Dalmil More,Sondanga,Khulna"
+        ],
+        [
+            38,
+            "Jinnat Hospital & Diagnostic Center",
+            "HSM54494",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "129,BK Roy Road,Dalmil More,Sonadanga,Khulna"
+        ],
+        [
+            39,
+            "JOARDDER DIAGNOSTIC AND HOSPITAL",
+            "HSM96835",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Shahjadpur",
+            "KAIJURI HAT,SHAHJADPUR,SIRAJGANJ"
+        ],
+        [
+            40,
+            "Jobaida memorial Hospital ",
+            "HSM91757",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kapasia",
+            "Kapasia bazar ,Kapasia, gazipur "
+        ],
+        [
+            41,
+            "Jobaida memorial Hospital & Diagnostic ",
+            "HSM88716",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kapasia",
+            "Kapasia Bazar , Gazipur"
+        ],
+        [
+            42,
+            "Jobayer Continental hospital ",
+            "HSM04271",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Belabo",
+            "Baroicha bazar,Raipura road,belabo,Narsingdi "
+        ],
+        [
+            43,
+            "Johora Medical  Center ",
+            "HSM90000",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Sharsha",
+            "Baganchara,Sharsha,Jessore"
+        ],
+        [
+            44,
+            "Johora Medical & Diagnostic Center ",
+            "HSM81696",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Sharsha",
+            "Baganchara,Sharsha,Jessore"
+        ],
+        [
+            45,
+            "JOHORA MEDICAL HAL AND PATHOLOGY",
+            "HSM39108",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Mohammadpur",
+            "Mohammadpur, Magura"
+        ],
+        [
+            46,
+            "Joly Diagnostic & Consultation Center",
+            "HSM13212",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhunat",
+            "Hospital Get, Dhunat, Bogura."
+        ],
+        [
+            47,
+            "Joly Memorial Diagnostic Centre",
+            "HSM32507",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Swarupnagar CCDB More, Sadar, Chapainawabganj"
+        ],
+        [
+            48,
+            "JOM JOM HOSPITAL",
+            "HSM97342",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Madrasa More, Natore, Bangladesh"
+        ],
+        [
+            49,
+            "JOM JOM HOSPITAL",
+            "HSM84114",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Madrasa More, Natore, Bangladesh"
+        ],
+        [
+            50,
+            "jom jom Hospital and Diagnostic Center",
+            "HSM82753",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Kasba",
+            "New Market, Kasba. Brahmanbaria"
+        ],
+        [
+            51,
+            "jom jom Hospital and Diagnostic Center",
+            "HSM32812",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "New Bazar, Kasba, Brahmanbaria"
+        ],
+        [
+            52,
+            "JOM JOM NURSING HOME (DIAGNOSTIC CENTRE)",
+            "HSM82125",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Khoar More Road, Rohanpur, Gomastapur, Chapainawabganj"
+        ],
+        [
+            53,
+            "JOM JOM NURSING HOME (HOSPITAL)",
+            "HSM21024",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Khoar More Road, Rohanpur, Gomastapur, Chapainawabganj"
+        ],
+        [
+            54,
+            "Jomila Hospital And Diagnostic Centre",
+            "HSM10500",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapainawabganj",
+            "Nachole",
+            "Dokkhin Shakopara, Nachole, Chapainawabganj."
+        ],
+        [
+            55,
+            "Jomila Hospital And Diagnostic Centre (LAB)",
+            "HSM53016",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Nachole",
+            "Dokkhin Shakopara, Nachole, Chapainawabganj."
+        ],
+        [
+            56,
+            "Jomjom Hospital and Diagnostic Centre",
+            "HSM60715",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Patnitala",
+            "Nazipur, Patnitala, Naogaon."
+        ],
+        [
+            57,
+            "JomJomGeneral Hospital",
+            "HSM05841",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Seba Health Complex,Bus Stand,Manikganj-1800"
+        ],
+        [
+            58,
+            "JOMUNA DIAGNOSTICE CENTRE ",
+            "HSM13287",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Hospital Para, Magura Sadar, Magura. Bangladesh."
+        ],
+        [
+            59,
+            "JOMUNA DIGITAL DIGNOSTIC CENTER",
+            "HSM22403",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Gopalpur",
+            "Maine Road, Gopalpur, Tangail."
+        ],
+        [
+            60,
+            "JOMUNA DIGITAL HOSPITAL",
+            "HSM39729",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Gopalpur",
+            "Maine Road, Gopalpur, Tangail."
+        ],
+        [
+            61,
+            "jonaed hospital (pvt)",
+            "HSM26499",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "319/3 \u099a\u09b0\u09aa\u09be\u09dc\u09be, \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            62,
+            "Jonaki X-Ray & Pathology",
+            "HSM03247",
+            "Diagnostic Center",
+            "Category-C",
+            "Barisal",
+            "Barisal Sadar (kotwali)",
+            "12, Sador Road, Barisal."
+        ],
+        [
+            63,
+            "Jonata Clinic  Diagnostic Center",
+            "HSM53999",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Boro Horishpur Bypass Mor Natore"
+        ],
+        [
+            64,
+            "Jonata Clinic  Diagnostic Center",
+            "HSM84687",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Boro Horishpur Bypass More Natore"
+        ],
+        [
+            65,
+            "Jonata Clinic and Nursing Home",
+            "HSM98660",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "Magura  Sadar , Magura.Bangladesh."
+        ],
+        [
+            66,
+            "Jonokollan Pathology Center",
+            "HSM18928",
+            "Diagnostic Center",
+            "Category-B",
+            "Maulvibazar",
+            "Rajnagar",
+            "Village & Post: Karimpur P.O: Munshibazar P.S: Rajnagar Dist: Moulvibazar,"
+        ],
+        [
+            67,
+            "JONONI  CLINIC",
+            "HSM01482",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Delduar",
+            "PATHRAIL BAZAR, DELDUAR, TANGAIL."
+        ],
+        [
+            68,
+            "Jononi Diagnostic Center",
+            "HSM61868",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Bochaganj",
+            "Mushidhat (Boraomath Para), Setabganj,  Dinajpur."
+        ],
+        [
+            69,
+            "JONONI DIAGNOSTIC CENTER",
+            "HSM73335",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Boalmari",
+            "Hospital Road, Boalmari, Faridpur."
+        ],
+        [
+            70,
+            "JONONI DIAGNOSTIC CENTER",
+            "HSM55712",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Nageshwari",
+            "KOCHAKATA COLLEGE MORE, NAGESWARI, KURIGRAM"
+        ],
+        [
+            71,
+            "Jononi Hospital",
+            "HSM10199",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Mohanpur",
+            "Keshorhat Pourosova,Rajshahi"
+        ],
+        [
+            72,
+            "JONONI LAB CARE MEDICAL CENTER",
+            "HSM95499",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Hospital Para Bisho road, Magura sadar,Magura.Bangladesh."
+        ],
+        [
+            73,
+            "JONONI LAB CARE MEDICAL CENTER AND (Pvt) HOSPITAL.",
+            "HSM25658",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "Asaduzzaman Road Magura sadar, Magura, Bangladesh."
+        ],
+        [
+            74,
+            "JONOSEBA ADHUNIK HOSPITAL ",
+            "HSM30783",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Gurudaspur",
+            "Rokeya Girls School and College More, Gurudaspur, Natore. "
+        ],
+        [
+            75,
+            "Jonoseba Diagnostic Center",
+            "HSM56956",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogura",
+            "Bogura Sadar",
+            "Matidali 2nd Bypass, Biman More, Bogura Sadar, Bogura"
+        ],
+        [
+            76,
+            "Jonoseba Diagnostic Center",
+            "HSM25193",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "Main Road, Ghatail, Tangail"
+        ],
+        [
+            77,
+            "Jonoseba Diagnostic Center",
+            "HSM97041",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Muladi",
+            "Joy Bangla Bazar, Banimordhon, Najirpur, Muladi,Barisal"
+        ],
+        [
+            78,
+            "JONOSEBA DIAGNOSTIC CENTER",
+            "HSM77815",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Shibganj",
+            "HOSPITAL ROAD, SHIBGANJ, CHAPAINAWABGANJ"
+        ],
+        [
+            79,
+            "Jonoseba Diagnostic Center",
+            "HSM38032",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Shibpur",
+            "College Gate, Shibpur, Narsingdi"
+        ],
+        [
+            80,
+            "JONOSEBA DIAGNOSTIC CENTRE",
+            "HSM97584",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Bholahat",
+            "Medical More, Bholahat, Chapainawabganj"
+        ],
+        [
+            81,
+            "Jonoseba Hospital",
+            "HSM58902",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Matidali, 2nd Bypass, Biman More"
+        ],
+        [
+            82,
+            "JONOSEBA HOSPITAL (PATHOLOGY))",
+            "HSM89784",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Gurudaspur",
+            "ROKEYA GIRLS SCHOOL AND COLLEGE MORE, GURUDASPUR, NATORE"
+        ],
+        [
+            83,
+            "Jonoseba Hospital And Diagnostic Center ",
+            "HSM20790",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "P T I Road, Patuakhali "
+        ],
+        [
+            84,
+            "Jonoseba Hospital And Diagnostic Center ",
+            "HSM84045",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "P T I Road, Patuakhali "
+        ],
+        [
+            85,
+            "JONOSEBA MEDICAL CENTER",
+            "HSM42870",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Agailjhara",
+            "Paisharhat, Agailjhara, Barishal"
+        ],
+        [
+            86,
+            "JONOSHASTHO GENERAL HOSPITAL",
+            "HSM49976",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "988/1 Nagua, Kodomotal Hossainpur Road, Kishoreganj."
+        ],
+        [
+            87,
+            "JONOSHASTHO GENERAL HOSPITAL",
+            "HSM74885",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "988/1 Nagua, Kodomotal Hossainpur Road, Kishoreganj"
+        ],
+        [
+            88,
+            "Jonosheba Clinic ",
+            "HSM04814",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Sapahar",
+            "JOYPUR, SAPAHAR,  NAOGAON. "
+        ],
+        [
+            89,
+            "Jonosheba clinic & Diagnostic center",
+            "HSM29078",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhunat",
+            "\u0995\u09b2\u09c7\u099c \u09b0\u09cb\u09a1,\u09a7\u09a8\u09c1\u099f,\u09ac\u0997\u09c1\u09dc\u09be\u0964"
+        ],
+        [
+            90,
+            "Jonosheba clinic & Diagnostic center",
+            "HSM47682",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Dhunat",
+            "Hospital Road, Dhunat, Bogura"
+        ],
+        [
+            91,
+            "JONOSHEBA DIAGNOSTIC CENTER",
+            "HSM45027",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Ulipur",
+            "JODDAR PARA, ULIPUR, KURIGRAM."
+        ],
+        [
+            92,
+            "Jonosheba Digital Diagnostic Center",
+            "HSM75932",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Pirganj",
+            "Johora Market, Hospital Gate, Pirganj, Rangpur."
+        ],
+        [
+            93,
+            "JONOSHEBA DIGITAL HOSPITAL (PVT)",
+            "HSM74827",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Pachrasta more, Nayapara, Jamalpur-2000, Jamalpur."
+        ],
+        [
+            94,
+            "JONOSHEBA DIGITAL HOSPITAL (PVT)",
+            "HSM64873",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "Pachrasta more, Nayapara, Jamalpur-2000, Jamalpur."
+        ],
+        [
+            95,
+            "jonosheba pathology And diagonostic center",
+            "HSM90857",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "hospital Road, sadar Lakshmipur ."
+        ],
+        [
+            96,
+            "Jonosheba Private Clinic",
+            "HSM22298",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Baby Bhabon, Harinarayanpur Bazar, IB Thana, Kushtia. "
+        ],
+        [
+            97,
+            "Joty Chakkhu Hospital and Phaco Centre",
+            "HSM84636",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 2627/01, Thana Para, Kazi Office Road, Shalgaria, Pabna"
+        ],
+        [
+            98,
+            "JOY BANGLA DIAGNOSTIC",
+            "HSM17341",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 884, Dilalpur, Pabna"
+        ],
+        [
+            99,
+            "JOY CLINIC AND HOSPITAL",
+            "HSM79874",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "THANA PARA, TANGAIL"
+        ],
+        [
+            100,
+            "JOY CLINIC AND HOSPITAL",
+            "HSM07110",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "THANA PARA, TANGAIL"
+        ]
+    ]
+}

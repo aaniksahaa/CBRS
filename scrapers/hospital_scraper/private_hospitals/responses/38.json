@@ -1,0 +1,1007 @@
+{
+    "draw": 38,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Day Night Hospital & Diagnostic Centre",
+            "HSM02380",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Ashuganj",
+            "Rail Gate.Ashuganj,"
+        ],
+        [
+            2,
+            "DAY-NIGHT CLICNIC ",
+            "HSM23596",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Nimnagar, Balubari, Dinajpur "
+        ],
+        [
+            3,
+            "Dayarampur Diagnostic Centre",
+            "HSM38762",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Bagatipara",
+            "Dayarampur Bazar, Bagatipara, Natore"
+        ],
+        [
+            4,
+            "D\u2019Akbor Health Care Pvt,Ltd.",
+            "HSM37156",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "Hous#50,Road#2ABlock#D,Basundhara,Dhaka,Po:1212"
+        ],
+        [
+            5,
+            "DBKP COMMUNITY HOSPITAL",
+            "HSM97273",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Rupganj",
+            "CHONPARA, RUPGANJ, NARAYANGANJ"
+        ],
+        [
+            6,
+            "DBKP COMMUNITY HOSPITAL",
+            "HSM54825",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Rupganj",
+            "CHONPARA, RUPGANJ, NARAYANGANJ"
+        ],
+        [
+            7,
+            "DD LAB (DOCTORS DREAM LAB)",
+            "HSM04379",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "336, Maa Plaza (Opposite side of Govt. Zia Mohila College), Shahid Shahidullah Kaiser Road, Feni. "
+        ],
+        [
+            8,
+            "De Apollo Diagnostic Center",
+            "HSM16242",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Baliakandi",
+            "Hospital Road, Baliakandi, Rajbari"
+        ],
+        [
+            9,
+            "Debidwar Appolo Hospital ",
+            "HSM70056",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Foyez Mansion, South Side of Bus Stand, Debidwar, Comilla "
+        ],
+        [
+            10,
+            "Debidwar Central Hospital",
+            "HSM05710",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Master Plaza, New Market, Debidwar, Comilla"
+        ],
+        [
+            11,
+            "Debidwar Central Hospital",
+            "HSM77290",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Master Plaza, New Market, Debidwar, Comilla"
+        ],
+        [
+            12,
+            "Debidwar Diabetes Center",
+            "HSM91254",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Shapon Super Market, Debidwar, Comilla"
+        ],
+        [
+            13,
+            "DEBIDWAR GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM18198",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "\u09a6\u09c7\u09ac\u09bf\u09a6\u09cd\u09ac\u09be\u09b0, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u0964 "
+        ],
+        [
+            14,
+            "DEBIDWAR GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM79571",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "\u09a6\u09c7\u09ac\u09bf\u09a6\u09cd\u09ac\u09be\u09b0, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be"
+        ],
+        [
+            15,
+            "DEBIDWAR GREEN LIFE MEDICAL SERVICES",
+            "HSM12987",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "DEBIDWAR, COMILLA."
+        ],
+        [
+            16,
+            "DEBIDWAR HARBHANGA (PONGU) HOSPITAL",
+            "HSM74558",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Chandina Road, Debidwar, Comilla."
+        ],
+        [
+            17,
+            "Debidwar IBN Sina Hospital Privet Ltd.",
+            "HSM26844",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Hospital Gate, Debidwar, Comilla "
+        ],
+        [
+            18,
+            "DEBIDWAR MADINA DIAGNOSTIC CENTER.",
+            "HSM34214",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "NEW MARKET, DEBIDWAR, COMILLA."
+        ],
+        [
+            19,
+            "Debidwar Medical Center.",
+            "HSM04662",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Samad Mansion, Debidwar, Comilla"
+        ],
+        [
+            20,
+            "Debidwar Medical Centre.",
+            "HSM39521",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Samad Mansion, Debidwar, Comilla"
+        ],
+        [
+            21,
+            "Debidwar Medicare Centre",
+            "HSM62800",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Janata Super Market, Debidwar, Comilla"
+        ],
+        [
+            22,
+            "Debidwar Medicare Diagnostic centre",
+            "HSM01216",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Janata Super Market, Debidwar , Cumilla."
+        ],
+        [
+            23,
+            "DEBIDWAR MEDICOMPLEX DIAGNOSTIC CENTER",
+            "HSM90076",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "945, Debidwar, Cumilla"
+        ],
+        [
+            24,
+            "Debidwar Medilab Diagnostic Center",
+            "HSM26046",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar Post Office Lain, Debidwar, Cumilla."
+        ],
+        [
+            25,
+            "DEBIDWAR MEDINOVA HOSPITAL",
+            "HSM34737",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "RAHMANIA SUPER MARKET, DEBIDWAR, COMILLA "
+        ],
+        [
+            26,
+            "DEBIDWAR MEDINOVA HOSPITAL",
+            "HSM26123",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "RAHMANIA SUPER MARKET, DEBIDWAR, COMILLA "
+        ],
+        [
+            27,
+            "Debidwar Modern Diagnostic Center",
+            "HSM29552",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Rabewa bari Complax, Newmarket, , Debidwar,Comilla."
+        ],
+        [
+            28,
+            "DEBIDWAR MODERN HOSPITAL",
+            "HSM77711",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Rabewa bari Complax, Newmarket, Debidwar, Comilla."
+        ],
+        [
+            29,
+            "Debidwar Moon Diagnostic Centre",
+            "HSM20794",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Comilla"
+        ],
+        [
+            30,
+            "DEBIDWAR MOON DIAGNOSTIC CENTRE AND HOSPITAL",
+            "HSM95513",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Comilla"
+        ],
+        [
+            31,
+            "DEBIDWAR MUKTI DIAGNOSTIC CENTRE.",
+            "HSM99471",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Cumilla"
+        ],
+        [
+            32,
+            "Debidwar Niramoy Diagnostic Center ",
+            "HSM97702",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "\u099b\u09cb\u099f \u0986\u09b2\u09ae\u09aa\u09c1\u09b0, \u09a6\u09c7\u09ac\u09bf\u09a6\u09cd\u09ac\u09be\u09b0, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u0964 "
+        ],
+        [
+            33,
+            "DEBIDWAR NIRAPAD DIAGNOSTIC CENTER",
+            "HSM02996",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "PANBAZAR, DEBIDWAR, CUMILLA "
+        ],
+        [
+            34,
+            "DEBIDWAR SHEBA HOSPITAL.",
+            "HSM98468",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "SWAPAN SUPER MARKET, DEBIDWAR, COMILLA."
+        ],
+        [
+            35,
+            "DEBIDWAR SHEBA HOSPITAL.",
+            "HSM12314",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "SWAPAN SUPER MARKET, DEBIDWAR, COMILLA."
+        ],
+        [
+            36,
+            "Debidwar Shisu Matri Hospital  &Diagnostic Center",
+            "HSM29635",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Munshi Towar,Debidwar,Cumilla"
+        ],
+        [
+            37,
+            "Debidwar Shisu Matri Hospital Ltd",
+            "HSM06669",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Munshi Tower, Debidwar, Comilla"
+        ],
+        [
+            38,
+            "DEBIDWAR SOTATA DIAGNOSTIC CENTRE ",
+            "HSM10773",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Chairman Super Market, Debidwar, Comilla"
+        ],
+        [
+            39,
+            "DEBIDWAR SOTOTA HOSPITAL",
+            "HSM26328",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Debidwar",
+            "Very Closed at Post Office, Debidwar, Cumilla. "
+        ],
+        [
+            40,
+            "Debidwar Tower Hospital & Diagnostic Centre",
+            "HSM62085",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Comilla"
+        ],
+        [
+            41,
+            "Debidwar Tower Hospital & Diagnostic Centre",
+            "HSM46866",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Comilla"
+        ],
+        [
+            42,
+            "DEEN EYE HOSPITAL",
+            "HSM63435",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Rashid Plaza 1st Floor, Mymensingh Road, Gaital, Kishoreganj"
+        ],
+        [
+            43,
+            "DEEN MOHAMMAD GENERAL HOSPITAL (PVT)",
+            "HSM32260",
+            "Diagnostic Center",
+            "Category-A",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Medical College Road, Baniakandi, Joshodol, Kishoreganj."
+        ],
+        [
+            44,
+            "DEEN MOHAMMAD GENERAL HOSPITAL (PVT)",
+            "HSM33338",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Medical College Road, Baniakandi, Joshodol, Kishoreganj"
+        ],
+        [
+            45,
+            "Deen Mohd. Eye Hospital &  Research Center ",
+            "HSM57421",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Navana Newbury Place, 4/1/A (2nd Floor) Sobhanbag, Mirpur Road, Dhaka"
+        ],
+        [
+            46,
+            "Deep Clinic & Diagonstic centre",
+            "HSM45416",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "D-135/1, Talbagh, Thana Stand, Savar, Dhaka-1340"
+        ],
+        [
+            47,
+            "Deep Clinic & Diagonstic centre",
+            "HSM36124",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "D-135/1, Talbagh, Thana Stand, Savar, Dhaka-1340"
+        ],
+        [
+            48,
+            "DEEP DIAGNOSTIC CENTER",
+            "HSM40257",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Ashulia, Savar"
+        ],
+        [
+            49,
+            "Deep Eye Care Foundation",
+            "HSM20931",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Deep Eye Care FoundationAkkelpur, Darshona, Rangpur-5400, Bangladesh"
+        ],
+        [
+            50,
+            "Deep Eye Care Foundation",
+            "HSM11708",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Deep Eye Care Foundation\r\nAkkelpur, Darshona, Rangpur-5400, Bangladesh"
+        ],
+        [
+            51,
+            "DEEP GENERAL HOSPITAL",
+            "HSM32481",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Sreepur Bus Stand. Ashulia Savar Dhaka"
+        ],
+        [
+            52,
+            "DEEP JELE JAI NAOGAON EYE HOSPITAL",
+            "HSM36136",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Gaza Somobay Brack, Muktir More, Naogaon"
+        ],
+        [
+            53,
+            "DEEPA CLINIC",
+            "HSM84263",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA, MERIL BYPASS MORE, PABNA SADAR, PABNA"
+        ],
+        [
+            54,
+            "Defence Care Diagnostic Center",
+            "HSM41713",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Purbadhala",
+            "Station Road,Purbadhala,Netrakona, Mymensingh."
+        ],
+        [
+            55,
+            "Delight Lab Limited",
+            "HSM38395",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Shamoly Lane, Rangpur"
+        ],
+        [
+            56,
+            "Delta Care Digital Diagnostic Center",
+            "HSM79592",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Durgapur",
+            "Hospital Gate, Durgapur, Netrakona"
+        ],
+        [
+            57,
+            "Delta Diagnostic & Health Services",
+            "HSM46380",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gendaria",
+            "92, K.B. Rudro Road (Loharpool), Gendaria, Dhaka-1204."
+        ],
+        [
+            58,
+            "DELTA DIAGNOSTIC &CONSULTATION CENTER",
+            "HSM40496",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Hospital Gate, Faridganj, Chandpur. "
+        ],
+        [
+            59,
+            "DELTA DIAGNOSTIC CENTER",
+            "HSM02700",
+            "Diagnostic Center",
+            "Category-B",
+            "Madaripur",
+            "Rajoir",
+            "TAKERHAT, RAJOIR, MADARIPUR."
+        ],
+        [
+            60,
+            "Delta Diagnostic Center",
+            "HSM37796",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Dolil Super Market, Shohid Soroni Sarak, Busstand, Manikganj"
+        ],
+        [
+            61,
+            "DELTA DIAGNOSTIC CENTER, RAJSHAHI",
+            "HSM56907",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "SHERSHA ROAD, LAXMIPUR, RAJSHAHI."
+        ],
+        [
+            62,
+            "DELTA DIAGNOSTIC CENTRE",
+            "HSM61896",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "D.R.BHABAN,JAIL ROAD,RANGPUR"
+        ],
+        [
+            63,
+            "Delta diagnostice center",
+            "HSM51576",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "51, charpa, Mymensingh opposite Medical College Gate"
+        ],
+        [
+            64,
+            "Delta Digital Diagnostic & Physiotherapy Center",
+            "HSM90506",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Bijoynagar",
+            "Amtal Bazar,Bijoynagar,Brahmanbaria"
+        ],
+        [
+            65,
+            "Delta Genarel Hospital",
+            "HSM24596",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            " \u200dShohid soroni Sorok , Busstand, Manikganj"
+        ],
+        [
+            66,
+            "DELTA GENEREL HOSPITAL",
+            "HSM80554",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "CHECK POST R.K .ROAD RANGPUR"
+        ],
+        [
+            67,
+            "Delta Health Care & Diagnostic Center",
+            "HSM93680",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee Court, Sadar, Noakhali"
+        ],
+        [
+            68,
+            "Delta Health Care Chittagong Limited",
+            "HSM96275",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "28, Katalgonj, Panchlaish, Chittagong."
+        ],
+        [
+            69,
+            "Delta Health Care Chittagong Limited",
+            "HSM05699",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Panchlaish",
+            "28, Katalgonj, Panchlaish, Chittagong, Bangladesh."
+        ],
+        [
+            70,
+            "Delta Health Care, Jatrabari Ltd. ",
+            "HSM40598",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Shyampur",
+            "169/1-B, West Dholaipar, Dhaka-1204."
+        ],
+        [
+            71,
+            "Delta Health Care, Jatrabari Ltd. ",
+            "HSM39114",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Shyampur",
+            "169/1-B, West Dholaipar, Dhaka-1204."
+        ],
+        [
+            72,
+            "Delta Health Care, Jatrabari Ltd. ",
+            "HSM94304",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Shyampur",
+            "169/1-B, West Dholaipar, Dhaka-1204."
+        ],
+        [
+            73,
+            "Delta Health Care, Mirpur Ltd",
+            "HSM62991",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Pallabi",
+            "Mirpur Central Mosjid & Madrasa Complex, Section#07, Plot# 4&5, Pallabi, Dhaka-1216."
+        ],
+        [
+            74,
+            "Delta Health Care, Mirpur Ltd",
+            "HSM15959",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Pallabi",
+            "Mirpur Central Mosjid & Madrasa Complex, Section-07, Plot-4 & 5, Pallabi, Dhaka-1216"
+        ],
+        [
+            75,
+            "Delta Health Care, Mirpur Ltd",
+            "HSM55004",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Pallabi",
+            "Mirpur Central Mosjid & Madrasa Complex, Section#07, Plot# 4&5, Pallabi, Dhaka-1216."
+        ],
+        [
+            76,
+            "Delta Health Care, Rampura Ltd",
+            "HSM16568",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "381/A West Rampura, D.I.T Road Dhaka-1219"
+        ],
+        [
+            77,
+            "Delta Health Care, Rampura Ltd",
+            "HSM59515",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Rampura",
+            "381/A West Rampura, D.I.T Road Dhaka-1219"
+        ],
+        [
+            78,
+            "Delta Health Care, Rampura Ltd.",
+            "HSM88047",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Rampura",
+            "381/A, West Rampura D.I.T Road, Dhaka-1219."
+        ],
+        [
+            79,
+            "DELTA HOSPITAL",
+            "HSM06222",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 0983-00; Shahid Muhammad Ali Road, Thakurgaon Sadar, Thakurgaon"
+        ],
+        [
+            80,
+            "Delta Hospital Limited",
+            "HSM13331",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "26/2, Principal Abul Kashem (Former Darussalam) Road, Mirpur-1, Dhaka-1216."
+        ],
+        [
+            81,
+            "Delta Hospital Limited",
+            "HSM39176",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "26/2, Principal Abul Kashem (Darussalam) Road, Mirpur-1, Dhaka-1216."
+        ],
+        [
+            82,
+            "Delta Hospital Limited.",
+            "HSM48945",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Mirpur",
+            "26/2, Principal Abul Kashem (Former Darussalam) Road, Mirpur-1, Dhaka-1216."
+        ],
+        [
+            83,
+            "DELTA HOSPITAL LTD .",
+            "HSM56043",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Uttara  Purba",
+            "Rajuk Plot: 21, Sector: 8, Uttara, Dhaka"
+        ],
+        [
+            84,
+            "DELTA HOSPITAL.",
+            "HSM86639",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Holding No- 1140/1036, Race Courcse, Comilla."
+        ],
+        [
+            85,
+            "DELTA HOSPITAL.",
+            "HSM13645",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Holding No- 1140/1036, Race Courcse, Comilla."
+        ],
+        [
+            86,
+            "Delta Lab & Imaging Center",
+            "HSM16662",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Hospital Road, Sadar Lakshmipur, Lakshmipur."
+        ],
+        [
+            87,
+            "Delta Lab Diagnostic Complex",
+            "HSM54019",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "Maruf Tower (2nd Floor) Kathal Bagan Road, Kaliganj, Jhenaidah"
+        ],
+        [
+            88,
+            "Delta Medical Center",
+            "HSM46649",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Shibganj",
+            "Water Supply More, Shibganj, Chapainawabganj."
+        ],
+        [
+            89,
+            "DELTA SPECIALIZED HOSPITAL",
+            "HSM49956",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Azadi-120, Mirboxtula, Sylhet."
+        ],
+        [
+            90,
+            "DEMRA  MODERN DIAGNOSTIC CENTER",
+            "HSM94069",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Faridpur",
+            "Demra Bus Stand, Faridpur, Pabna"
+        ],
+        [
+            91,
+            "DESH  CLINIC",
+            "HSM95534",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Hospital road, Chuadanga"
+        ],
+        [
+            92,
+            "DESH  CLINIC & DIAGNOSTIC CENTRE",
+            "HSM89717",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Chuadanga Sadar",
+            "Sadar Hospital Road, Chuadanga"
+        ],
+        [
+            93,
+            "Desh Bangla  Digital  Diagnostic Centre",
+            "HSM19515",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "\u0989\u09aa\u099c\u09c7\u09b2\u09be\u0983 \u09b8\u09be\u0998\u09be\u099f\u09be \u099c\u09c7\u09b2\u09be\u0983 \u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be"
+        ],
+        [
+            94,
+            "DESH BANGLA HOSPITAL &FWC",
+            "HSM75216",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhalokathi",
+            "Jhalokathi Sadar",
+            "Desh Bangla Bhaban 141.Nutan College Mour.Bishawa Rood.Jhalokathi"
+        ],
+        [
+            95,
+            "Desh Bondhu Diagnostic Complex ",
+            "HSM61965",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding: 1283/1, Khan Monjil, Central Road, Housing Estate, Maijdee Court, Sadar, Noakhali"
+        ],
+        [
+            96,
+            "DESH CLINIC &  DIAGNOSTIC CENTER",
+            "HSM71194",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "265/A Ghope Nowapara Road, Jessore"
+        ],
+        [
+            97,
+            "DESH CLINIC & DIAGNOSTIC CENTRE.",
+            "HSM34989",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Bashundhara, Sadar, Lalmonirhat"
+        ],
+        [
+            98,
+            "DESH CLINIC & DIAGNOSTIC CENTRE.",
+            "HSM74012",
+            "Diagnostic Center",
+            "Category-B",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Bashundhara, Sadar, Lalmonirhat"
+        ],
+        [
+            99,
+            "Desh Clinic & Diagonostic Center",
+            "HSM31888",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Tetulia Road, Panchagarh"
+        ],
+        [
+            100,
+            "Desh Clinic & Diagonostic Center",
+            "HSM94521",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Tetulia Road, Panchagarh"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 55,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Grameen General Hospital & Diagnostic Center",
+            "HSM50589",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Komershil More,Brahmanbaria"
+        ],
+        [
+            2,
+            "Grameen General Hospital & Diagnostic Center.",
+            "HSM63378",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital Road,Nabinagar"
+        ],
+        [
+            3,
+            "Grameen General Hospital & Diagnostic Center.",
+            "HSM22766",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Nabinagar,Brahmanbaria"
+        ],
+        [
+            4,
+            "Grameen General Hospital.",
+            "HSM65031",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Shohid Soroni Sorok, Dolil Market, Busstand, Manikganj"
+        ],
+        [
+            5,
+            "Grameen General Hospital.",
+            "HSM47924",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Shohid Soroni Sorok, Dolil Market, Busstand, Manikganj"
+        ],
+        [
+            6,
+            "Grameen Green Childred (GC) Eye Hospital",
+            "HSM58470",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Barisal Sadar",
+            "Rupatali, Barishal, Bangladesh"
+        ],
+        [
+            7,
+            "Grameen Green Children (G.C) Eye Hospital",
+            "HSM99743",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shajahanpur",
+            "Betgari, Bonani, Bogura"
+        ],
+        [
+            8,
+            "Grameen Green Children (G.C) Eye Hospital  ",
+            "HSM44576",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Shajahanpur",
+            "Betgari, Banani, Bogra"
+        ],
+        [
+            9,
+            "Grameen Health and Diagnostic Center",
+            "HSM41316",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Mohanpur",
+            "Keshorhat pourosova, Mohanpur, Rajshahi"
+        ],
+        [
+            10,
+            "Grameen Hospital",
+            "HSM34811",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Puthia",
+            "Puthia, Rajshahi"
+        ],
+        [
+            11,
+            "Grameen Hospital",
+            "HSM99410",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "117 west Kajolshah,Osmani medical road, Sylhet"
+        ],
+        [
+            12,
+            "GRAMEEN HOSPITAL AND DIAGNOSTIC CENTER",
+            "HSM23405",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "WEST KHABASPUR, FARIDPUR SADAR, FARIDPUR."
+        ],
+        [
+            13,
+            "GRAMEEN KALLYAN",
+            "HSM77968",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Bera",
+            "Masundia Bazar, Aminpur, Bera, Pabna"
+        ],
+        [
+            14,
+            "Grameen Kalyan  Shikaripara Health Center",
+            "HSM42172",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "Grameen Kalyan  Shikaripara Health Center, Post:kuthury ,PS :Nawabganj,Dist:Dhaka"
+        ],
+        [
+            15,
+            "Grameen Kalyan Amkhola Health center",
+            "HSM84195",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Amkhola Bazar,Galachipa, Patuakhali "
+        ],
+        [
+            16,
+            "Grameen Kalyan Baganbazar Health Center ",
+            "HSM35346",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Gater Dokan , P.O-  Baganbazar   , P.S \u2013 Vujpur , Upazila \u2013Fatikchari , Chattogram"
+        ],
+        [
+            17,
+            "Grameen Kalyan Balia Health Center",
+            "HSM90161",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "Grameen Kalyan Balia Health Center ,Dhamrai, Dhaka"
+        ],
+        [
+            18,
+            "Grameen Kalyan Barodi Health Center",
+            "HSM60592",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Sonargaon",
+            "Barodi, Sonargaon, Narayanganj"
+        ],
+        [
+            19,
+            "Grameen Kalyan Bhaggokul Health Center",
+            "HSM33662",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Grameen Kalyan Bhaggokul Health Center, Post:Bhaggokul ,PS:Sreenagar, Dist:Munshiganj"
+        ],
+        [
+            20,
+            "Grameen Kalyan Bhujpur  Health Center",
+            "HSM16639",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Bhujpur College area, P.O & P.S - Vujpur , Upazila \u2013 Fatikchari , Chattogram "
+        ],
+        [
+            21,
+            "Grameen Kalyan Boiltoli Health Center ",
+            "HSM69133",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandanaish",
+            "Yonous Market , P.O \u2013Boiltoli , P.S \u2013 Chandanish , Chattogram"
+        ],
+        [
+            22,
+            "Grameen Kalyan Bottoli Bazar Health Centre",
+            "HSM19555",
+            "Diagnostic Center",
+            "Category-C",
+            "Joypurhat",
+            "Khetlal",
+            "Bottoli Bazar.Khetlal.Joypurhat"
+        ],
+        [
+            23,
+            "GRAMEEN KALYAN BUNAGATI HEALTH CENTER",
+            "HSM13508",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Shalikha",
+            "BUNAGATI, SHALIKHA, MAGURA,BANGLADESH."
+        ],
+        [
+            24,
+            "Grameen kalyan Chalak Char Health Center",
+            "HSM26161",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Manohardi",
+            "Chalak Char Bazar, Manohardi"
+        ],
+        [
+            25,
+            "Grameen Kalyan Charsindur Health Center",
+            "HSM60700",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Charsindur Bazar, Palash, Narsingdi"
+        ],
+        [
+            26,
+            "GRAMEEN KALYAN CHITOSHI HEALTH CENTER",
+            "HSM83843",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "OFFICE CHITOSHI, SHAHRASTI, CHANDPUR."
+        ],
+        [
+            27,
+            "Grameen Kalyan Chitoshi Health Center",
+            "HSM15914",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Shahrasti",
+            "Chitoshi,Shahrasti,Chandpur"
+        ],
+        [
+            28,
+            "Grameen Kalyan Danga Health Center",
+            "HSM13020",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Danga Bazar, Palash, Narsingdi"
+        ],
+        [
+            29,
+            "GRAMEEN KALYAN DARORA HEALTH CENTER",
+            "HSM85837",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "DARORA BAZAR,COMPANYGONJ MURADNAGAR, COMILLA"
+        ],
+        [
+            30,
+            "Grameen Kalyan Datmara Health Center ",
+            "HSM44875",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Datmara Bazar , P.O \u2013 Datmara ,  P.S \u2013 Vujpur  , Upazila \u2013 Fatikchari , Chattogram "
+        ],
+        [
+            31,
+            "Grameen kalyan Dhankhali Health center",
+            "HSM05813",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Dhankhali, Kalapara, Patuakhali."
+        ],
+        [
+            32,
+            "Grameen Kalyan Dorogram Health Center",
+            "HSM72661",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Saturia",
+            "Grameen Kalyan Dorogram Health Center, Saturia,Manikganj"
+        ],
+        [
+            33,
+            "Grameen Kalyan garuria Health center",
+            "HSM13366",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "Garuria Bazar , Bakerganj, Barisal"
+        ],
+        [
+            34,
+            "Grameen Kalyan Gopaldi Health Center",
+            "HSM47019",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Araihazar",
+            "Gopaldi, Araihazar, Narayanganj"
+        ],
+        [
+            35,
+            "Grameen Kalyan Habilasdip Health Center ",
+            "HSM38524",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "Banoful Factory Area, P.O- Habilasdip, PS- Patiya , Chattogram"
+        ],
+        [
+            36,
+            "Grameen Kalyan Hoque-Bulu Samajik Hospital",
+            "HSM27148",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Vill: Shiali, Post: Khalisakhali, UP: Badarpur, Upazilla: Patuakhali Sadar, Dist: Patuakhali."
+        ],
+        [
+            37,
+            "GRAMEEN KALYAN HOQUE-BULU SAMAJIK HOSPITAL",
+            "HSM34384",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Shiali, Badarpur, patuakhali sadar, Patuakhali"
+        ],
+        [
+            38,
+            "GRAMEEN KALYAN JAGUTHPUR HEALTH CENTER",
+            "HSM87204",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Titas",
+            "BATAKANDI BAZAR, TITAS, COMILLA."
+        ],
+        [
+            39,
+            "GRAMEEN KALYAN JAMALPUR HEALTH CENTER",
+            "HSM05070",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Baliakandi",
+            "jamalpur. balikabdi, Rajbari , Bangladesh."
+        ],
+        [
+            40,
+            "Grameen Kalyan Jobra  Health Center ",
+            "HSM62098",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Hathazari",
+            "Chittagong University 01 No gate , Hathazari Chattogram "
+        ],
+        [
+            41,
+            "Grameen Kalyan Joshlong Health Center",
+            "HSM55029",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Tongibari",
+            "Grameen Kalyan Joshlong Health Center,P.O:Baghiya, PS:Tongibari,Dist:Munshiganj."
+        ],
+        [
+            42,
+            "Grameen Kalyan Joshor Health Center",
+            "HSM06523",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Shibpur",
+            "Joshor Bazar, Shibpur, Narsingdi"
+        ],
+        [
+            43,
+            "Grameen Kalyan Kaliyash Health Center",
+            "HSM60580",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Masterhat , P.O- Masterhat , PS- Satkania , Chattogram"
+        ],
+        [
+            44,
+            "Grameen kalyan kanokdia Health center",
+            "HSM56038",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Kanokdia,Bauphal,Patuakhali"
+        ],
+        [
+            45,
+            "Grameen Kalyan Kanungopara Health Center ",
+            "HSM81706",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Boalkhali",
+            "Kanungopara Bihar , P.O- Kanungopara, PS- Boalkhali , Chattogram "
+        ],
+        [
+            46,
+            "Grameen Kalyan Kartikpur Health Center",
+            "HSM90328",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "Kartikpur Bazar ,Kusumhati-1321,Dohar,Dhaka"
+        ],
+        [
+            47,
+            "Grameen kalyan kumargata Health center",
+            "HSM59211",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagachha",
+            "kumargata, motolahat, muktagachha,mymensingh"
+        ],
+        [
+            48,
+            "GRAMEEN KALYAN LAHURIA HEALTH CENTER",
+            "HSM88550",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "LAHURIA , LOHAGARA, NARAIL. BANGLADESH."
+        ],
+        [
+            49,
+            "Grameen Kalyan Langalbadh  Health Center",
+            "HSM83934",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Sreepur",
+            "Langalbadh, Sreepur, Magura, Bangladesh."
+        ],
+        [
+            50,
+            "Grameen Kalyan Madobpur Bazar Health center ",
+            "HSM15140",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Madobpur Bazar, Bauphal, Patuakhali"
+        ],
+        [
+            51,
+            "Grameen Kalyan Malironko Bazar Health Center",
+            "HSM76873",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Lohajang",
+            "Grameen Kalyan Malironko Bazar Health Center,Post:Bejgaon ,PS: Lohajang,Dist:Munshiganj"
+        ],
+        [
+            52,
+            "Grameen Kalyan Malkhanagar Health Center",
+            "HSM60790",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Grameen Kalyan Malkhanagar Health Center,Post: Malkhanagar,PS :Serajdikhan,Dist: Munshiganj"
+        ],
+        [
+            53,
+            "Grameen Kalyan Mohespur Health center.",
+            "HSM38877",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "Mohespur Bazar, Bakergonj, Barishal"
+        ],
+        [
+            54,
+            "GRAMEEN KALYAN MOINAMOTI HEALTH CENTER",
+            "HSM36209",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Burichang",
+            "SHAHEBER BAZAR, MOINAMOTI, BURICHANG, COMILLA"
+        ],
+        [
+            55,
+            "Grameen Kalyan Mudafforgonj Health Center",
+            "HSM48836",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Mudafforgonj Bazar, Laksam, Cumilla"
+        ],
+        [
+            56,
+            "Grameen kalyan Nagorerhat Health center ",
+            "HSM00546",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Nagorerhat, Bauphal, Patuakhali "
+        ],
+        [
+            57,
+            "Grameen Kalyan Nakol Health Center",
+            "HSM15336",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Sreepur",
+            "Nakol, Sreepur, Magura Bangladesh."
+        ],
+        [
+            58,
+            "Grameen Kalyan Nohata Health Center",
+            "HSM18104",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Mohammadpur",
+            "Nohata, Mahammadpur, Magura, Bangladesh."
+        ],
+        [
+            59,
+            "Grameen Kalyan Nurainpur Bazar Health Center",
+            "HSM06042",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Nurainpur Bazar, Bauphal, Patuakhali"
+        ],
+        [
+            60,
+            "Grameen kalyan Patabunia Health center",
+            "HSM53193",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Patabunia bazar,Galachipa,Patuakhali"
+        ],
+        [
+            61,
+            "GRAMEEN KALYAN RAJAPUR HEALTH CENTER",
+            "HSM31178",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Burichang",
+            "SHANKKOCHAIL BAZAR, BURICHANG, COMILLA"
+        ],
+        [
+            62,
+            "Grameen Kalyan Satbaria Health Center",
+            "HSM46904",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandanaish",
+            "Khan dhigir Par , P.O \u2013 Bagichahat . P.S \u2013 Chandanish , Chattogram"
+        ],
+        [
+            63,
+            "Grameen kalyan Shatrujitpur Health Center",
+            "HSM49090",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Shatrujitpur, Magura Sadar, Magura Bangladesh. "
+        ],
+        [
+            64,
+            "Grameen Kalyan Shekhor nagar Health Center",
+            "HSM69662",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Grameen Kalyan Shekhor nagar Health Center Post:Baraikhali PS:Sreenagar Dist:Munshiganj"
+        ],
+        [
+            65,
+            "Grameen Kalyan Sholla Bazar Health Center",
+            "HSM35069",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "Sholla Bazar,Sholla,Nawabganj,Dhaka"
+        ],
+        [
+            66,
+            "Grameen kalyan Singpara Health Center",
+            "HSM97491",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Sreenagar",
+            "Grameen kalyan Singpara Health Center,Post:kola, PS:Sreenagar, Dist:Munshiganj"
+        ],
+        [
+            67,
+            "Grameen Kalyan Singra Health Center",
+            "HSM04651",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Shalikha",
+            "Singra, Shalikha, Magura, Bangladesh."
+        ],
+        [
+            68,
+            "GRAMEEN KALYAN SOLONOL HEALTH CENTER",
+            "HSM62144",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Burichang",
+            "BOROSAR BAZAR, BURICHANG, COMILLA"
+        ],
+        [
+            69,
+            "Grameen Kalyan Sonmania health center ",
+            "HSM44653",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Kapasia",
+            "Sonmania,kapasia,Gazipur "
+        ],
+        [
+            70,
+            "GRAMEEN KALYAN SRIKAIL HEALTH CENTER",
+            "HSM32762",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "SRIKALI BAZAR, MURADNAGAR, COMILLA."
+        ],
+        [
+            71,
+            "Grameen Kalyan Tegharia Health Center",
+            "HSM18794",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Grameen Kalyan Tegharia Health Center ,Post :Tegharia, PS :South Keraniganj, Dist:Dhaka"
+        ],
+        [
+            72,
+            "Grameen Kalyan Telparoy Health Center",
+            "HSM03162",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Mohammad Takir Hat Bazar , P.O \u2013 Mohammad Takir Hat , Upazila \u2013 Fatikchari, Chattogram "
+        ],
+        [
+            73,
+            "Grameen kalyan Uchitpura Health Center",
+            "HSM93906",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Araihazar",
+            "Uchitpura, Araihazar, Narayanganj"
+        ],
+        [
+            74,
+            "Grameen Kalyan Zobra Health Center ",
+            "HSM75919",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "Chittagong University 01 no gate , P.O \u2013 Madan Hat , P.S- Hathazari , Chattogram "
+        ],
+        [
+            75,
+            "Grameen kalyan, Abadpukur Health Center",
+            "HSM14269",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Raninagar",
+            "Abadpokur, Raninagor, Naogaon"
+        ],
+        [
+            76,
+            "Grameen Kalyan, Abdulpur Health Centre",
+            "HSM11364",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Lalpur",
+            "Abdulpur,lalpur,Natore"
+        ],
+        [
+            77,
+            "Grameen Kalyan, Ajgana Health Center",
+            "HSM97606",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Ajgana Health Center, Ajgana Bazar, Mirzapur, Tangail"
+        ],
+        [
+            78,
+            "Grameen Kalyan, Amla Health Center",
+            "HSM28817",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Mirpur",
+            "Amla Bazar, Mirpur, Kushtia"
+        ],
+        [
+            79,
+            "Grameen Kalyan, Atchpara Health Center",
+            "HSM86785",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Hatgangopara Bazar, Bagmara, Rajshahi"
+        ],
+        [
+            80,
+            "Grameen Kalyan, Baira Health Center",
+            "HSM74450",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "Grameen Kalyan, Baira Health Center, Singair, Manikganj"
+        ],
+        [
+            81,
+            "Grameen Kalyan, Barashalghar Health Center",
+            "HSM23564",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "Syedpur, Barashalghar, Debidwar, Cumilla"
+        ],
+        [
+            82,
+            "Grameen Kalyan, Bastoil Health Center",
+            "HSM91181",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Bastoil Health Center, Bastoil Bazar, Mirzapur, Tangail"
+        ],
+        [
+            83,
+            "Grameen Kalyan, Bayek Health Center ",
+            "HSM93216",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Nayanpur Bazar, Bayek, Kasba, Brahmanbaria"
+        ],
+        [
+            84,
+            "Grameen Kalyan, Bhuapur Health Center",
+            "HSM84864",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Bhuapur",
+            "Bhuapur Health Center, Nikrail, Bhuapur, Tangail "
+        ],
+        [
+            85,
+            "Grameen kalyan, Bormi Health Center",
+            "HSM36713",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "pathantech, bomi bazar, sreepur, gazipur"
+        ],
+        [
+            86,
+            "Grameen Kalyan, Dhantara Health Center",
+            "HSM35575",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "Grameen Kalyan, Dhantara Health Center, Dhamrai, Dhaka"
+        ],
+        [
+            87,
+            "Grameen Kalyan, Dhara Health Center",
+            "HSM46263",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Haluaghat",
+            "dhara bazar, haluaghat,mymensingh"
+        ],
+        [
+            88,
+            "Grameen Kalyan, Dholapara Health Center",
+            "HSM17647",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            " Dholapara Health Center, Dholapara Bazar, Ghatail, Tangail "
+        ],
+        [
+            89,
+            "Grameen Kalyan, Elashin Health Center",
+            "HSM73869",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Delduar",
+            "Elashin Health Center, Elashin Bazar, Delduar, Tangail "
+        ],
+        [
+            90,
+            "Grameen Kalyan, Elenga Health Center",
+            "HSM37346",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Elenga Health Center, Elenga Bazar, Kalihati, Tangail "
+        ],
+        [
+            91,
+            "Grameen Kalyan, Hatiandah Health Centre",
+            "HSM80345",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Singra",
+            "Hatiandah,Singra,Natore"
+        ],
+        [
+            92,
+            "Grameen Kalyan, Jamshahat Health Center",
+            "HSM41419",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "Grameen Kalyan, Jamshahat Health Center, Singair, Manikganj"
+        ],
+        [
+            93,
+            "Grameen Kalyan, Jonail Health Centre",
+            "HSM53675",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Baraigram",
+            "Jonail Bazar,Baraigram,Natore"
+        ],
+        [
+            94,
+            "Grameen Kalyan, Kadarpur Health Center",
+            "HSM51909",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Nagarpur",
+            "Kadarpur, Nagarpur, Tangail."
+        ],
+        [
+            95,
+            "Grameen Kalyan, Kalia Health Center",
+            "HSM87414",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "Kalia Health Center, Kalia Bazar, Shakhipur, Tangail "
+        ],
+        [
+            96,
+            "Grameen Kalyan, Kalia Health Center",
+            "HSM62684",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Sakhipur",
+            "Kalia Health Center, Boro Chowna Bazar, Shakhipur, Tangail "
+        ],
+        [
+            97,
+            "Grameen Kalyan, Kalom Health Centre",
+            "HSM60019",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Singra",
+            "Kalom Bazar,Singra,Natore"
+        ],
+        [
+            98,
+            "Grameen Kalyan, Kochua Health Center",
+            "HSM35934",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Shailkupa",
+            "Koucha Bazar, Shailkupa, Jhenaidah"
+        ],
+        [
+            99,
+            "Grameen kalyan, Kritipur Health Center",
+            "HSM68995",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Kirtipur, Naogaon Sadar, Naogaon"
+        ],
+        [
+            100,
+            "Grameen Kalyan, Kusura Health Center",
+            "HSM62038",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "Grameen Kalyan, Kusura Health Center, Dhamrai, Dhaka"
+        ]
+    ]
+}

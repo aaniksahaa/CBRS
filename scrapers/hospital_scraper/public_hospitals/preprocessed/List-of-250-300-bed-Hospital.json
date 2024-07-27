@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Patuakhali 250 bed Sadar Hospital",
+        "division": "Barisal",
+        "district": "Patuakhali",
+        "upazila": "Patuakhali Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Brahmanbaria 250 Bed District Sadar Hospital",
+        "division": "Chittagong",
+        "district": "Brahmanbaria",
+        "upazila": "Brahmanbaria Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Chandpur 250 Bed General Hospital",
+        "division": "Chittagong",
+        "district": "Chandpur",
+        "upazila": "Chandpur Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Chittagong 250 Bed General Hospital",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Kotwali",
+        "num_beds": "250"
+    },
+    {
+        "name": "Cox's Bazar 250 Bed District Sadar Hospital",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "upazila": "Cox's Bazar Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Feni 250 Bed District Sadar Hospital",
+        "division": "Chittagong",
+        "district": "Feni",
+        "upazila": "Feni Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Noakhali 250 Bed General Hospital",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Noakhali Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Gopalganj 250 bed General Hospital",
+        "division": "Dhaka",
+        "district": "Gopalganj",
+        "upazila": "Gopalganj Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Kishoreganj 250 Bed District Sadar Hospital",
+        "division": "Dhaka",
+        "district": "Kishorgonj",
+        "upazila": "Kishoreganj Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Manikganj 250 Bed District Hospital",
+        "division": "Dhaka",
+        "district": "Manikganj",
+        "upazila": "Manikganj Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Munshiganj District Hospital",
+        "division": "Dhaka",
+        "district": "Munshiganj",
+        "upazila": "Munshiganj Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Tangail 250 Bed District Hospital",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Tangail Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Jessore 250 bed General Hospital",
+        "division": "Khulna",
+        "district": "Jashore",
+        "upazila": "Jessore Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Khulna 250 Bed General Hospital, Khulna",
+        "division": "Khulna",
+        "district": "Khulna",
+        "upazila": "Khulna Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Kushtia 250 bed General Hospital",
+        "division": "Khulna",
+        "district": "Kushtia",
+        "upazila": "Kushtia Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Magura District Hospital",
+        "division": "Khulna",
+        "district": "Magura",
+        "upazila": "Magura Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Meherpur 250 bed District Hospital",
+        "division": "Khulna",
+        "district": "Meherpur",
+        "upazila": "Meherpur Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Jamalpur 250 Beded General Hospital",
+        "division": "Mymensingh",
+        "district": "Jamalpur",
+        "upazila": "Jamalpur Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Bogra 250 bed Mohammad Ali District Hospital",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Bogra Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Pabna 250 bed General Hospital",
+        "division": "Rajshahi",
+        "district": "Pabna",
+        "upazila": "Pabna Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Sirajganj General Hospital",
+        "division": "Rajshahi",
+        "district": "Sirajganj",
+        "upazila": "Sirajganj Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Dinajpur 250 bed General Hospital",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazila": "Dinajpur Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Kurigram District Hospital",
+        "division": "Rangpur",
+        "district": "Kurigram",
+        "upazila": "Kurigram Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Habiganj District Hospital",
+        "division": "Sylhet",
+        "district": "Habiganj",
+        "upazila": "Habiganj Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Moulvibazar 250 bed District Sadar Hospital",
+        "division": "Sylhet",
+        "district": "Maulvibazar",
+        "upazila": "Maulvibazar Sadar",
+        "num_beds": "250"
+    },
+    {
+        "name": "Sunamganj 250 bed District Sadar Hospital",
+        "division": "Sylhet",
+        "district": "Sunamganj",
+        "upazila": "Sunamganj Sadar",
+        "num_beds": "250"
+    }
+]

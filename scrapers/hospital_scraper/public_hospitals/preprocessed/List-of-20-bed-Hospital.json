@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Taltali 20 bed Hospital",
+        "division": "Barisal",
+        "district": "Barguna",
+        "upazila": "Amtali",
+        "num_beds": "20"
+    },
+    {
+        "name": "Walankathi 20 bed Hospital",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Babuganj",
+        "num_beds": "20"
+    },
+    {
+        "name": "South Char Aicha 20 bed Hospital",
+        "division": "Barisal",
+        "district": "Bhola",
+        "upazila": "Charfession",
+        "num_beds": "20"
+    },
+    {
+        "name": "Kuakata 20 bed Hospital",
+        "division": "Barisal",
+        "district": "Patuakhali",
+        "upazila": "Kalapara",
+        "num_beds": "20"
+    },
+    {
+        "name": "Kathaltoli 20 bed Hospital",
+        "division": "Barisal",
+        "district": "Patuakhali",
+        "upazila": "Mirzaganj",
+        "num_beds": "20"
+    },
+    {
+        "name": "Bibirhat 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Chattogram",
+        "upazila": "Fatikchhari",
+        "num_beds": "20"
+    },
+    {
+        "name": "Haramia 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Chattogram",
+        "upazila": "Sandwip",
+        "num_beds": "20"
+    },
+    {
+        "name": "Sonaimuri 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "upazila": "Barura",
+        "num_beds": "20"
+    },
+    {
+        "name": "Mohichail 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "upazila": "Chandina",
+        "num_beds": "20"
+    },
+    {
+        "name": "Bagmara 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "upazila": "Comilla Sadar Dakshin",
+        "num_beds": "20"
+    },
+    {
+        "name": "Donarchar 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "upazila": "Daudkandi",
+        "num_beds": "20"
+    },
+    {
+        "name": "Jodda 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "upazila": "Nangalkot",
+        "num_beds": "20"
+    },
+    {
+        "name": "Char Alexander 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Lakshmipur",
+        "upazila": "Ramgati",
+        "num_beds": "20"
+    },
+    {
+        "name": "Char Algi 20 bed Hospital",
+        "division": "Chattogram",
+        "district": "Noakhali",
+        "upazila": "Kabirhat",
+        "num_beds": "20"
+    },
+    {
+        "name": "Kreshnanagar 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Dhamrai",
+        "num_beds": "20"
+    },
+    {
+        "name": "Jinjira 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Keraniganj",
+        "num_beds": "20"
+    },
+    {
+        "name": "Aminbazar 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Savar",
+        "num_beds": "20"
+    },
+    {
+        "name": "Baspur 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Gopalganj",
+        "upazila": "Kasiani",
+        "num_beds": "20"
+    },
+    {
+        "name": "Kabirajpur 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Madaripur",
+        "upazila": "Rajoir",
+        "num_beds": "20"
+    },
+    {
+        "name": "Monohargram 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Narayanganj",
+        "upazila": "Araihazar",
+        "num_beds": "20"
+    },
+    {
+        "name": "Fatullah 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Narayanganj",
+        "upazila": "Narayanganj Sadar",
+        "num_beds": "20"
+    },
+    {
+        "name": "Siddirganj 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Narayanganj",
+        "upazila": "Narayanganj Sadar",
+        "num_beds": "20"
+    },
+    {
+        "name": "Tarabunia 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Shariatpur",
+        "upazila": "Bhedarganj",
+        "num_beds": "20"
+    },
+    {
+        "name": "Kodalpur 20 bed Hospital",
+        "division": "Dhaka",
+        "district": "Shariatpur",
+        "upazila": "Gosairhat",
+        "num_beds": "20"
+    },
+    {
+        "name": "Birolpolita 20 bed Hospital",
+        "division": "Khulna",
+        "district": "Magura",
+        "upazila": "Magura Sadar",
+        "num_beds": "20"
+    },
+    {
+        "name": "Binadpur 20 bed Hospital",
+        "division": "Khulna",
+        "district": "Magura",
+        "upazila": "Mohammadpur",
+        "num_beds": "20"
+    },
+    {
+        "name": "Charanchal 20 bed Hospital",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Mymensingh Sadar",
+        "num_beds": "20"
+    },
+    {
+        "name": "Santahar 20 bed Hospital",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Adamdighi",
+        "num_beds": "20"
+    },
+    {
+        "name": "Nandigram 20 bed Hospital",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Nandigram",
+        "num_beds": "20"
+    },
+    {
+        "name": "Aliahat 20 bed Hospital",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Shibganj",
+        "num_beds": "20"
+    },
+    {
+        "name": "Kaitak 20 bed Hospital",
+        "division": "Sylhet",
+        "district": "Sunamganj",
+        "upazila": "Chhatak",
+        "num_beds": "20"
+    },
+    {
+        "name": "Maddyanagar 20 bed Hospital",
+        "division": "Sylhet",
+        "district": "Sunamganj",
+        "upazila": "Dharampasha",
+        "num_beds": "20"
+    }
+]

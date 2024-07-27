@@ -1,0 +1,1007 @@
+{
+    "draw": 64,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "HR Diagnostic Centre",
+            "HSM53256",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "333, Jhawtola, Comilla sadar,  Comilla"
+        ],
+        [
+            2,
+            "HR SPECIALIZED LAB",
+            "HSM33727",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "69/1,Oriental Trade Center, 2nd Floor, Purana Paltan Line,Paltan,Dhaka-1000"
+        ],
+        [
+            3,
+            "Hriday Pathologocal Laboratory",
+            "HSM71331",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Koyra",
+            "Jaigirmahal Hospital Road ,Koyra, khulna"
+        ],
+        [
+            4,
+            "Hridoy Dental Care",
+            "HSM05444",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "33 SreemangalRoad,Moulvibazar"
+        ],
+        [
+            5,
+            "HUDA DIAGNOSTIC CENTRE",
+            "HSM42060",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Gangni",
+            "KATHULI MOOR, GANGNI, MEHERPUR"
+        ],
+        [
+            6,
+            "HUDA HEALTH CARE CENTRE.",
+            "HSM09534",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "HUDA PLAZA, BORO BAZAR, MEHERPUR"
+        ],
+        [
+            7,
+            "Hujaifa Diagnostic Center",
+            "HSM91883",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Road, Doulotpur, Mohanganj"
+        ],
+        [
+            8,
+            "Huma Health Centre",
+            "HSM62622",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Bhatara",
+            "House# 32, Road # 1/A, Block # J, Baridhara, Dhaka-1212"
+        ],
+        [
+            9,
+            "Human Aid Research Lab.",
+            "HSM19487",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "12, South Kallayanpur, Mirpur, Dhaka."
+        ],
+        [
+            10,
+            "Human Blood Bank ",
+            "HSM38010",
+            "Blood Bank",
+            "",
+            "Tangail",
+            "Tangail Sadar",
+            "New Busterminal ,Tangail"
+        ],
+        [
+            11,
+            "Human Care Diagnostic & Consultation Centre ",
+            "HSM61063",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "Madrashsa Road, Choto Boyra, Khulna "
+        ],
+        [
+            12,
+            "Human Care Diagnostic Centre",
+            "HSM19417",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Amtali",
+            "Shahebbari Bus Stand, Amtali, Barguna."
+        ],
+        [
+            13,
+            "HUMAN CARE MEDICAL SERVICES",
+            "HSM68843",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Mostafa House, Bogura Road, Barishal, Bangladesh."
+        ],
+        [
+            14,
+            "HUMAN CLINIC & DIAGNOSTIC CENTRE",
+            "HSM21416",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Panchagarh",
+            "Debiganj",
+            "Sonahar, Debigonj, Panchagor."
+        ],
+        [
+            15,
+            "HUMAN CLINIC & DIAGNOSTIC CENTRE",
+            "HSM84530",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Debiganj",
+            "Babupara, Debigonj, Panchagor."
+        ],
+        [
+            16,
+            "HUMAN DIAGNOSTIC & HOSPITAL",
+            "HSM74739",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Race Course, Main Road, Comilla"
+        ],
+        [
+            17,
+            "HUMAN DIAGNOSTIC & HOSPITAL",
+            "HSM41738",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Race Course, Main Road, Comilla"
+        ],
+        [
+            18,
+            "HUMAN DIAGNOSTIC & MEDICAL CENTRE",
+            "HSM42900",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "House No. 102/1-A, Nayapaltan (1st Floor), Box culvert Road, Paltan, Dhaka-1000"
+        ],
+        [
+            19,
+            "Human Diagnostic & Medical Check-up Centre",
+            "HSM75701",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Chattogram",
+            "Halishahar",
+            "Plot-04, Block-K, P.C. Road, Halishahar, Chittagong"
+        ],
+        [
+            20,
+            "Human Diagnostic Center",
+            "HSM44802",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Anowara",
+            "Fiyza Super Market (1st Floor), Joykali Bazar, Anowara, Chittagong."
+        ],
+        [
+            21,
+            "HUMAN DIAGNOSTIC CENTRE",
+            "HSM93591",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            "HOSPITAL ROAD, SARISHABARI, JAMALPUR"
+        ],
+        [
+            22,
+            "Human General Hospital, Dental & Diagonostic Centre",
+            "HSM34045",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "House 858, Moulavipara, Brahmanbaria sadar, Brahmanbaria."
+        ],
+        [
+            23,
+            "Human General Hospital, Dental & Diagonostic Centre",
+            "HSM83042",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "858, MoulaviPara , Brahmanbaria Sadar ,Brahmanbaria-3400."
+        ],
+        [
+            24,
+            "HUMAN HEALTH CARE HOSPITAL ",
+            "HSM07317",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "VILL-SHEPAIPARA,PS-RAJPARA,PO-GPO-6000,DIST- RAJSHAHI"
+        ],
+        [
+            25,
+            "HUMAN LAB DIAGNOSTIC CENTER",
+            "HSM11423",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Shubakth Raza Complex, Old Bus Station, Sunamganj"
+        ],
+        [
+            26,
+            "HUMAN PATHOLOGICAL LABORATORY",
+            "HSM20272",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "NITAIGONJ,PURAN BAZAR,CHANDPUR"
+        ],
+        [
+            27,
+            "HUMAN PATHOLOGY CENTER",
+            "HSM94629",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Jot Pukuria Bazar, Kanchana, Satkania, Chittagong."
+        ],
+        [
+            28,
+            "Hygienic Health Care ",
+            "HSM31030",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "Green Sathmohol (2nd Floor),206,207,208 No Boro Moghbazar (Wireless More) Romna Dhaka-1217"
+        ],
+        [
+            29,
+            "Hypertension and Diabetes Research Center Lab",
+            "HSM04936",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Ulipur",
+            "Ramdas Dhoniram Raypara, Ulipur, Kurigram"
+        ],
+        [
+            30,
+            "Hypertension Centre Lab, Rangpur",
+            "HSM90760",
+            "Diagnostic Center",
+            "Category-B",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Holding No. 13/2, Hypertension Centre Lane, Dhap, jail Road, Rangpur."
+        ],
+        [
+            31,
+            "Ibad Medical Lab",
+            "HSM63600",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "2/18, Babor Road, Mohammadpur, Dhaka-1207."
+        ],
+        [
+            32,
+            "IBADOT HOSPITAL",
+            "HSM86532",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Nilphamari",
+            "Nilphamari Sadar",
+            "PURATON STETION ROAD, DALPOTTI, SADAR, NILPHAMARI"
+        ],
+        [
+            33,
+            "Ibn Al  Haytham Health Service",
+            "HSM39065",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Shajahanpur",
+            "7/A Shantibagh Near Malibag More Dhaka-1219"
+        ],
+        [
+            34,
+            "Ibn Hasman Hospital & Daignostic Centre",
+            "HSM46086",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "26,Shohid Shahidullah kaisar Sarak. Feni"
+        ],
+        [
+            35,
+            "IBN HASMAN HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM28594",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "26,S,S,K. Road, Feni"
+        ],
+        [
+            36,
+            "Ibn Kashem Medical Centre",
+            "HSM61054",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Nalghar Bazar, Chauddagram, Cumilla"
+        ],
+        [
+            37,
+            "IBN NAFIS EYE AND GENERAL HOSPITAL",
+            "HSM58955",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Faridpur",
+            "Gopalnagar, Faridpur, Pabna"
+        ],
+        [
+            38,
+            "IBN OMAR MEDICAL AND DIAGNOSTIC CENTER",
+            "HSM51423",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "Fahima Tower (2nd floor), 42,43  Purana paltan, Dhaka-1000"
+        ],
+        [
+            39,
+            "IBN RUSHD MEDICAL CENTRE",
+            "HSM60229",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Tejgaon",
+            "Ahmed Mension,46 Kazi Nazrul Islam Avenue, Kawran Bazar,Tejgon,Dhaka 1000."
+        ],
+        [
+            40,
+            "Ibn Shafi Diagnostic Center ",
+            "HSM03255",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Sonaimuri",
+            "High School Road (Board Office Gate) Sonaimuri, Noakhali"
+        ],
+        [
+            41,
+            "IBN SINA COMPUTERIZED LAB",
+            "HSM35339",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road, Choumuhani, Begumgonj, Noakhali."
+        ],
+        [
+            42,
+            "IBN SINA D. LAB & CONSULTATION CENTRE, DOYAGONJ",
+            "HSM34682",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Gendaria",
+            "28, Doyagonj (Hut Lane), Gandaria, Dhaka-1204"
+        ],
+        [
+            43,
+            "Ibn Sina Diagnosnostic & Consultation Center, Rajshahi.",
+            "HSM06830",
+            "Diagnostic Center",
+            "Category-A",
+            "Rajshahi",
+            "Rajpara",
+            "223 & 224, Kazihata, Rajpara, Rajshahi."
+        ],
+        [
+            44,
+            "Ibn Sina Diagnostic & Consultation Canter Jatrabari",
+            "HSM10067",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Jatrabari",
+            "House: 79/1/E, Bibir Bagicha, Demra Road, Uttor Jatrabari, Dhaka-1204"
+        ],
+        [
+            45,
+            "Ibn Sina Diagnostic & Consultation Center",
+            "HSM32712",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Rampura",
+            "House no : 479, DIT Road, Malibagh, Dhaka-1217."
+        ],
+        [
+            46,
+            "Ibn Sina Diagnostic & Consultation Center",
+            "HSM65622",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Medical College Road, Rikabibazar, Modhushahid,Sylhet."
+        ],
+        [
+            47,
+            "Ibn Sina Diagnostic & Consultation Center Keraniganj Ltd.",
+            "HSM21938",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Keraniganj",
+            "Maa Plaza , Kadomtoli Bridge Road, Keraniganj,  Dhaka-1310"
+        ],
+        [
+            48,
+            "Ibn Sina Diagnostic & Consultation Center Unit 2",
+            "HSM89141",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Rampura",
+            "483,483/A,490,490/1, 491 DiT Road, Malibagh Dhaka 1217"
+        ],
+        [
+            49,
+            "Ibn Sina Diagnostic & Consultation Center, Bogura.",
+            "HSM21480",
+            "Diagnostic Center",
+            "Category-A",
+            "Bogra",
+            "Bogra Sadar",
+            "H#1103/1116, Kanosgari, Sherpur Road, Bogura.\r\n\r\n\r\n\r\n\r\n"
+        ],
+        [
+            50,
+            "IBN SINA DIAGNOSTIC & CONSULTATION CENTER, SAVAR",
+            "HSM86325",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Savar",
+            "House # B, 31/6, Jaleshwar, Aricha Road, Savar, Dhaka-1340"
+        ],
+        [
+            51,
+            "Ibn Sina Diagnostic & Consultation Center, Uttara",
+            "HSM94200",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Paschim",
+            "H#52, Garib-E-Newaz Avenue, Sector-13, Uttara, Dhaka "
+        ],
+        [
+            52,
+            "Ibn Sina Diagnostic & Consultation Center, Uttara (Building-3)",
+            "HSM91013",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Uttara  Paschim",
+            "House:- 02, Road:- 12, Sector:-13, Gareeb-e-Newaz Avenue, Uttara, Dhaka"
+        ],
+        [
+            53,
+            "IBN SINA DIAGNOSTIC & CONSULTATION CENTER,MIRPUR-2",
+            "HSM34376",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "HOUSE -11, HAJI ROAD, AVENUE-3, RUPNAGAR , MIRPUR-2, DHAKA -1216"
+        ],
+        [
+            54,
+            "Ibn Sina Diagnostic & Consultation Center-2, Bogura.",
+            "HSM41739",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Silimpur, Word No. 14, Holding No.-1691, Bogura Sadar, Bogura."
+        ],
+        [
+            55,
+            "Ibn Sina Diagnostic & Imaging Center",
+            "HSM18206",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 48, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka-1209 "
+        ],
+        [
+            56,
+            "Ibn sina Diagnostic and consultation center , Cumilla",
+            "HSM24719",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "29,KOT BARI ROAD,TOMSOM BRIDGE,CUMILLA-3500"
+        ],
+        [
+            57,
+            "IBN SINA DIAGNOSTIC AND CONSULTATION CENTER CHATTOGRAM",
+            "HSM65058",
+            "Diagnostic Center",
+            "Category-A",
+            "Chattogram",
+            "Panchlaish",
+            " Katalganj, Panchlaish, Chhattogram."
+        ],
+        [
+            58,
+            "Ibn Sina Diagnostic and Consultation Centre, Badda",
+            "HSM66494",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Badda",
+            "Cha-72/1, Progoti Sharani, North Badda, Dhaka-1212."
+        ],
+        [
+            59,
+            "IBN SINA Diagnostic Center",
+            "HSM56015",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kotchandpur",
+            "Baluhar Bus Stand, Hospital Road, Kotchandpur, Jhenaidah"
+        ],
+        [
+            60,
+            "IBN SINA DIAGNOSTIC CENTER LALBAGH LTD",
+            "HSM95042",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Lalbagh",
+            "27/4 Dhakeshwori Road, Lalbagh, Dhaka-1211"
+        ],
+        [
+            61,
+            "IBN SINA Digital Hospital",
+            "HSM23986",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Saturia",
+            "Hospital Road, Saturia, Manikgonj"
+        ],
+        [
+            62,
+            "IBN SINA HOSPITAL",
+            "HSM35432",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "House-68, Road-15/A, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            63,
+            "IBN SINA HOSPITAL",
+            "HSM59637",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "House-68, Road-15/A, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            64,
+            "IBN SINA HOSPITAL",
+            "HSM41521",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mohammadpur",
+            "House-68, Road-15/A, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            65,
+            "IBN SINA HOSPITAL & DIAGNOSTIC CENTER, JASHORE",
+            "HSM76038",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jessore Sadar",
+            "House No: 68, Jail Road, Ghop, Jashore"
+        ],
+        [
+            66,
+            "IBN SINA HOSPITAL AND DIAGNOSTIC CENTER, JASHORE",
+            "HSM12584",
+            "Diagnostic Center",
+            "Category-A",
+            "Jessore",
+            "Jessore Sadar",
+            "House No-68, Jail Road, Ghop, Jahsore"
+        ],
+        [
+            67,
+            "Ibn Sina Hospital Sylhet Limited",
+            "HSM41850",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Subhanighat Point, Sylhet."
+        ],
+        [
+            68,
+            "Ibn Sina Hospital Sylhet Limited",
+            "HSM37997",
+            "Diagnostic Center",
+            "Category-A",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Subhanighat Point, Sylhet Sadar, Sylhet."
+        ],
+        [
+            69,
+            "Ibn Sina Hospital Sylhet Limited",
+            "HSM61629",
+            "Blood Bank",
+            "",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Subhanighat Point, Sylhet."
+        ],
+        [
+            70,
+            "IBN SINA MEDICAL CHECK-UP UNIT",
+            "HSM68402",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "Cha-72/1, Progoti Sharani, North Badda, Dhaka."
+        ],
+        [
+            71,
+            "Ibn Sina Medical College Hospital",
+            "HSM71599",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "1/1-B,Kallyanpur,Mirpur,Dhaka-1216"
+        ],
+        [
+            72,
+            "Ibn Sina Medical College Hospital",
+            "HSM20350",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Mirpur",
+            "1/1-B, Kallyanpur, Mirpur, Dhaka-1216."
+        ],
+        [
+            73,
+            "Ibn Sina Medical College Hospital",
+            "HSM98251",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "1/1-B,Kallyanpur,Mirpur,Dhaka,1216"
+        ],
+        [
+            74,
+            "Ibn Sina Medical Imaging Center",
+            "HSM03804",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "House-58,Road-2/A,Dhanmondi,Dhaka"
+        ],
+        [
+            75,
+            "IBN SINA PRIVATE HOSPITAL",
+            "HSM79139",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Chorhas fultola, Kushtia,"
+        ],
+        [
+            76,
+            "IBNA SINA DIAGNOSTIC CENTER",
+            "HSM73204",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Santhia",
+            "KASHINATHPUR BAZAR,SANTHIA,PABNA"
+        ],
+        [
+            77,
+            "Ibne Sina Medical Service",
+            "HSM16580",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "Haque Mansion, (Ground Floor), Charpara, Mymensingh"
+        ],
+        [
+            78,
+            "IBNE SINA SPECIALIZED HOSPITAL",
+            "HSM26149",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Lalpur",
+            "Gopalpur Bazar, Lalpur , Natore"
+        ],
+        [
+            79,
+            "Ibne-Sina digital diagnostic center",
+            "HSM99101",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Lalpur",
+            "Gopalpur Bazar, Lalpur , Natore"
+        ],
+        [
+            80,
+            "IBNESINA PRIME DIAGNOSTIC CENTRE",
+            "HSM05126",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Thana Mor, Ullapara, Sirajgonj."
+        ],
+        [
+            81,
+            "Ibra Digital Diagnostic & Medical Center ",
+            "HSM04629",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Ichapur, Daudkandi, Cumilla"
+        ],
+        [
+            82,
+            "Ibra Digital Diagnostic & Medical Center ",
+            "HSM56270",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Daudkandi",
+            "ichapur,daudkandi,cumilla"
+        ],
+        [
+            83,
+            "IBRAHIM  MEDICAL  & DIAGNOSTIC CENTRE",
+            "HSM96695",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kashiani",
+            "vill:-Vadulia,Post:-Ghonapara, Kasiani,Gopalganj."
+        ],
+        [
+            84,
+            "Ibrahim Cardiac Hospital & Research Institute",
+            "HSM85260",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Shahbagh",
+            "122, Kazi Nazrul Islam Avenue, Shahbagh, Dhaka-1000  "
+        ],
+        [
+            85,
+            "Ibrahim Cardiac Hospital & Research Institute",
+            "HSM34257",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Shahbagh",
+            " 122, Kazi Nazrul Islam Avenue, Shahbagh, Dhaka 1000"
+        ],
+        [
+            86,
+            "Ibrahim Cardiac Hospital & Research Institute (Diabetic Association of Bangladesh)",
+            "HSM02128",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Shahbagh",
+            "122, Kazi Nazrul Islam Avenue, Shahbagh, Dhaka-1000"
+        ],
+        [
+            87,
+            "IBRAHIM DIABETIC CENTRE, NATORE",
+            "HSM27803",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "South Patue Para, Madrasa more,Natore,Rajshahi,Bangladesh"
+        ],
+        [
+            88,
+            "Ibrahim General Hospital, Mirpur (IGH-MP)",
+            "HSM77462",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "Commercial Plot No 27-28, Main Road: 1, Section-06, Mirpur, Dhaka-1216"
+        ],
+        [
+            89,
+            "Ibrahim General Hospital, Mirpur.",
+            "HSM84137",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "Commercial Plot No 27-28, Main Road-01, Section-06, Mirpur, Dhaka-1216"
+        ],
+        [
+            90,
+            "Ibrahim Hospital & Diagnostic Center",
+            "HSM23354",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Senbagh",
+            "sombaria Bazar, Village: Debisingpur, P.O. Kutuberhat, Senbag, Noakhali"
+        ],
+        [
+            91,
+            "Ibrahim Iqbal Memorial Hospital Ltd.",
+            "HSM23436",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Chandanaish",
+            "BGC Biddyanagar, Chandanaish, Chattogram"
+        ],
+        [
+            92,
+            "Ibrahim Iqbal Memorial Hospital Ltd.",
+            "HSM21077",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Chandanaish",
+            "BGC Bidyanagar, Chandanaish, Chattogram"
+        ],
+        [
+            93,
+            "ICCHAMOTI CLINIC",
+            "HSM43711",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Pabna Sadar",
+            "SHALGARIA, PABNA SADAR, PABNA"
+        ],
+        [
+            94,
+            "Ichamati General Hospital & Diagnostic Center",
+            "HSM18740",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Shibalaya",
+            "Uthali, Shibaloya, Manikganj"
+        ],
+        [
+            95,
+            "ICHAMOTI DIGNOSTIC CENTER",
+            "HSM61021",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhunat",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u09a7\u09c1\u09a8\u099f, \u09ac\u0997\u09c1\u09dc\u09be\u0964 "
+        ],
+        [
+            96,
+            "Ichapura General Hospital and Digital Diagnostic Center",
+            "HSM78609",
+            "Diagnostic Center",
+            "Category-B",
+            "Munshiganj",
+            "Serajdikhan",
+            "Ichapura, Sirajdikhan, Munshiganj"
+        ],
+        [
+            97,
+            "Ichapura General Hospital and Digital Diagnostic Center",
+            "HSM12768",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Serajdikhan",
+            "Ichapura, Sirajdikhan, Munshiganj"
+        ],
+        [
+            98,
+            "Ichhamati General Hospital & Diagnostic Center",
+            "HSM68790",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Shibalaya",
+            "Goherpur, Hospital Get, Shibalaya, Manikganj"
+        ],
+        [
+            99,
+            "ICON CARE LIMITED",
+            "HSM65437",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "House# 45, Road# 19, Sector- 11, Uttara, Dhaka"
+        ],
+        [
+            100,
+            "ICON DIAGNOSTIC CENTER LTD.",
+            "HSM07950",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "51/3, Chorpara, Medical College Gate, Mymensingh"
+        ]
+    ]
+}

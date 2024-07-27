@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kurmitola 500 Bed General Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "num_beds": "500"
+    },
+    {
+        "name": "Mugda 500 Bed General Hospital, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "num_beds": "500"
+    }
+]

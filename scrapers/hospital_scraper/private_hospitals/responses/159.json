@@ -1,0 +1,1007 @@
+{
+    "draw": 159,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Uttara Model Hospital and Diagnostic Lab",
+            "HSM40345",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Kanojgari, Sherpur Road, Bogura."
+        ],
+        [
+            2,
+            "Uttara Model Hospital and Diagnostic Lab",
+            "HSM08515",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Kanojgari, Sherpur Road, Bogura."
+        ],
+        [
+            3,
+            "Uttara Privet Hospital",
+            "HSM57469",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jessore Sadar",
+            "53, Jail Road, Ghope, Jessore."
+        ],
+        [
+            4,
+            "Uttara Privet Hospital",
+            "HSM68013",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "53, Jail Road, Ghope, Jessore."
+        ],
+        [
+            5,
+            "Uttara Specialized Diagnostic Center",
+            "HSM09080",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Sajbarkhila, Sherpur Town, Sherpur"
+        ],
+        [
+            6,
+            "Uttara Specialized Hospital",
+            "HSM95363",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Sajbarkhila, Sherpur Town, Sherpur "
+        ],
+        [
+            7,
+            "Uttaran Nursing Home",
+            "HSM65867",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "2/5 vatikashaore, rode bylane,sadar, Mymensingh"
+        ],
+        [
+            8,
+            "UTTRA BLOOD BANK & TRANSFUSION CENTER",
+            "HSM95970",
+            "Blood Bank",
+            "",
+            "Bogura",
+            "Bogra Sadar",
+            "Kanusgari, Bogra"
+        ],
+        [
+            9,
+            "UZZAL DIAGNOSTIC CENTRE",
+            "HSM98627",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Bhuapur",
+            "DEWANBARI MOSJID ROAD, BHUAPUR, TANGAIL"
+        ],
+        [
+            10,
+            "Uzzal Digital Diagnostic Centre",
+            "HSM11803",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Charkular Road, Masterspara, Gaibandha"
+        ],
+        [
+            11,
+            "UZZAL PRIVATE HOSPITAL",
+            "HSM90633",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "WEST KHABASHPUR, FARIDPUR SADAR, FARIDPUR."
+        ],
+        [
+            12,
+            "UZZAL PRIVATE HOSPITAL.",
+            "HSM07299",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "WEST KHABASHPUR, FARIDPUR SADAR, FARIDPUR."
+        ],
+        [
+            13,
+            "V.  I.  P.  CLINIC",
+            "HSM90124",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Magura Sadar",
+            "M.R. Road, Magura"
+        ],
+        [
+            14,
+            "V. I. P. CLINIC & DIABETIC CENTER",
+            "HSM54714",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Daganbhuiyan",
+            "SIRAJ NIBAS, OLD DAC BUNGALOW ROAD, DAGONBHUIYAN, FENI."
+        ],
+        [
+            15,
+            "Vabna Hospital",
+            "HSM56773",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Dhanbari",
+            "Chalash Chowrasta, Kyra Road, Dhanbari, Tangail"
+        ],
+        [
+            16,
+            "Vabna Hospital",
+            "HSM62692",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Dhanbari",
+            "Chalash Chowrasta, Kyra Road, Dhanbari, Tangail"
+        ],
+        [
+            17,
+            "Vaga  Popular Digital Diagnostic Center ",
+            "HSM78143",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Rampal",
+            "Vaga Bazar,Rampal,Bagerhat"
+        ],
+        [
+            18,
+            "Vai Vai Diagnostic Center",
+            "HSM69148",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Pirgachha",
+            "Vill: Guyabari, Post.+Thana: Pirgachha, Dist.: Rangpur"
+        ],
+        [
+            19,
+            "VARD Eye Hospital",
+            "HSM78675",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Iqbalnagar,  Sunamganj"
+        ],
+        [
+            20,
+            "VARD Eye Hospital",
+            "HSM14772",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "61 Nabapushpo, Jatarpur, Sylhet City Corporation, Sylhet.  "
+        ],
+        [
+            21,
+            "VARD Eye Hospital",
+            "HSM98841",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Balaganj",
+            "Ilashpur,Osmaninagar, Sylhet, "
+        ],
+        [
+            22,
+            "VARD Kamal Eye Hospital",
+            "HSM82494",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chauddagram",
+            "Pannara, Chauddagram, Comilla."
+        ],
+        [
+            23,
+            "Varendra Clinic",
+            "HSM17323",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Sapahar",
+            "Sapahar, Naogaon, Bangladesh"
+        ],
+        [
+            24,
+            "Vatara general hospital & Nursing institute Ltd.",
+            "HSM59444",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Gulshan",
+            "Fhulbanu Super Market ,4223/24 Dhalibari road ,Solmaid ,Vatara ,Ghulshan Dhaka -1212"
+        ],
+        [
+            25,
+            "Vatara general hospital & Nursing institute Ltd.",
+            "HSM22508",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Bhatara",
+            "Fhulbanu Super Market ,4223/24 Dhalibari road ,Solmaid ,Vatara ,Ghulshan Dhaka -1212"
+        ],
+        [
+            26,
+            "Vatgram Health Center, Grameen Kalyan",
+            "HSM33356",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Nandigram",
+            "Vatgram, Nondigram, Bogura"
+        ],
+        [
+            27,
+            "VD DIAGONSTIC CENTER",
+            "HSM14846",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Sadar Hospital Road, Narail"
+        ],
+        [
+            28,
+            "VDC Mother & Child Hospital & Diagnostic Center",
+            "HSM97201",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Mirsharai",
+            "Sufia Road, Mirsarai, Chittagong."
+        ],
+        [
+            29,
+            "VDC Mother & Child Hospital & Diagnostic Center",
+            "HSM67643",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Sufia Road, Mirsarai, Chittagong."
+        ],
+        [
+            30,
+            "VENUS HOSPITAL",
+            "HSM33788",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "8/3 \u200dsuprova tover, vatikashor, sadar,mymensingh"
+        ],
+        [
+            31,
+            "VENUS HOSPITAL",
+            "HSM63073",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "8/3 \u200dsuprova tover, vatikashor, sadar,mymensingh"
+        ],
+        [
+            32,
+            "VERC MAA O SHISHU HOSPITAL",
+            "HSM27725",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "A-36/17, Anandapur, Savar, Dhaka-1340, Bangladesh."
+        ],
+        [
+            33,
+            "VERC MAA O SHISHU HOSPITAL",
+            "HSM29641",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "A-36/17, Anandapur, Savar, Dhaka-1340, Bangladesh."
+        ],
+        [
+            34,
+            "Veritas Healthcare Ltd.",
+            "HSM35071",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "GMG Tower, Cha-89/1, Progoti Sharoni, North Badda, Dhaka-1212"
+        ],
+        [
+            35,
+            "Vholakut Model Diagnostic Center",
+            "HSM36666",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Vholakut Bazar, Nasirnagar, Brahmanbaria"
+        ],
+        [
+            36,
+            "VICTORIA CONSULTATION DIAGNOSTIC & HOSPITAL OPC",
+            "HSM70794",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Chak Bazar",
+            "195,195/1, Five Brothers(Kazi Tower), Mitford Road, Chawk Bazar, Dhaka-1211"
+        ],
+        [
+            37,
+            "VICTORIA CONSULTATION DIAGNOSTIC & HOSPITAL OPC",
+            "HSM73428",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Chak Bazar",
+            "195,195/1, Five Brothers(Kazi Tower), Mitford Road, Chawk Bazar, Dhaka-1211"
+        ],
+        [
+            38,
+            "victoria Diagnostic Centre",
+            "HSM55763",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Sadar Hospital Gate, Narail."
+        ],
+        [
+            39,
+            "VICTORIA HEALTHCARE LTD.",
+            "HSM60581",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "Cosmopolitan Center, 1st Floor, 22/2 Babar Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            40,
+            "VICTORIA HEALTHCARE LTD.",
+            "HSM92651",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Mohammadpur",
+            "Cosmopolitan Center, 1st Floor, 22/2 Babar Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            41,
+            "Victoria Hospital",
+            "HSM72349",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Shahjalal Uposhohor Main Road, Surnapara, Shibgonj, \u200dSyleth"
+        ],
+        [
+            42,
+            "VICTORIA HOSPITAL AND DIGITAL DIAGNOSTIC CENTRE",
+            "HSM31306",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Angaura,  Gouripur, Daudkandi, Comilla."
+        ],
+        [
+            43,
+            "VICTORIA HOSPITAL AND DIGITAL DIAGNOSTIC CENTRE",
+            "HSM02156",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Daudkandi",
+            "Angaura,  Gouripur, Daudkandi, Comilla."
+        ],
+        [
+            44,
+            "Victoria Specialized Hospital.",
+            "HSM55490",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narail",
+            "Narail Sadar",
+            "Sadar Hospital Road,Narail Sadar, Narail."
+        ],
+        [
+            45,
+            "VICTORY DIAGNOSTIC & CONSULTATION",
+            "HSM82483",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "243/01, Basail, Narsingdi Sadar,Narsingdi"
+        ],
+        [
+            46,
+            "Victory Nursing  &  Infertility Management Center",
+            "HSM76432",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "58/1,Ahsan Ahmed Road,Khulna Sadar,Khulna."
+        ],
+        [
+            47,
+            "View Foundation Chowdhury and Hossain Eye Hospital",
+            "HSM19166",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Lichu Bagan Road, Karatia, Tangail"
+        ],
+        [
+            48,
+            "VIP General Hospital",
+            "HSM82709",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogra",
+            "Sherpur",
+            "Hospital Road,Sherpur,Bogura."
+        ],
+        [
+            49,
+            "VIP General Hospital",
+            "HSM32259",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogra",
+            "Sherpur",
+            "Hospital Road,Sherpur,Bogura"
+        ],
+        [
+            50,
+            "VIP HOSPITAL & DIGITAL DIAGNOSTIC LAB",
+            "HSM21489",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "Holding No-53-01 &53-00, Qatar-Canada Tower, Hajiganj, Chandpur"
+        ],
+        [
+            51,
+            "VIP HOSPITAL & DIGITAL DIAGNOSTIC LAB",
+            "HSM51520",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Hajiganj",
+            "Holding No 53-01 & 53-00, Qartar-Canada Tower, West Bazar, Hajiganj, Chandpur"
+        ],
+        [
+            52,
+            "Vision Care Hospital And Diagnostic Centre",
+            "HSM13557",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Hizla",
+            "Sreepur, Osman Monjil, Hijhila, Barishal"
+        ],
+        [
+            53,
+            "Vision Care Hospital And Diagnostic Centre",
+            "HSM70910",
+            "Diagnostic Center",
+            "Category-B",
+            "Barishal",
+            "Hizla",
+            "Sreepur, Osman Monjil, Hijhila, Barishal"
+        ],
+        [
+            54,
+            "Vision Chokkhu Chikitshaloy & Diagnostic Center",
+            "HSM48606",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Main Road, West Bazar, Rabeya Monzil (2nd Floor), East side of samata cinema hall, Chandragonj, Lakshmipur. "
+        ],
+        [
+            55,
+            "vision community eye hospital",
+            "HSM90801",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Chandgaon",
+            "kaptai rasther matha, mohora, ctg."
+        ],
+        [
+            56,
+            "Vision Diagnostic Medical & Research Center",
+            "HSM74800",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Pahartali",
+            "House#A/18,Road#4,Colonel Hat CDA Residential Area.Near City Gate,chittagong."
+        ],
+        [
+            57,
+            "Vision Digital Diagnostic Centre",
+            "HSM79201",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Mithapukur",
+            "South Dhaka Busstand, Shathibari, Mithapukur, Rangpur, Bangladesh"
+        ],
+        [
+            58,
+            "Vision Eye Care",
+            "HSM35626",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "BOROGOLA POTTI, SIRAJGANJ"
+        ],
+        [
+            59,
+            "VISION EYE HOSPITAL",
+            "HSM50098",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "52, Bicharpati Morshed Sarak, Pearatala, Kushtia."
+        ],
+        [
+            60,
+            "Vision Eye Hospital Private Limited",
+            "HSM75246",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mohammadpur",
+            "House# 1/1, Block# E, Lalmatia, Satmasjid Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            61,
+            "Vision Eye Hospital Pvt. Ltd.",
+            "HSM25093",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kalabagan",
+            "229, Green Road, Dhaka-1205"
+        ],
+        [
+            62,
+            "Vision Health Care Center ",
+            "HSM34578",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandgaon",
+            "kaptai rasther matha,mohora,chandgao,CTG"
+        ],
+        [
+            63,
+            "VISION HOSPITAL",
+            "HSM56763",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Brahmanpara",
+            "BRAHMANPARA, COMILLA"
+        ],
+        [
+            64,
+            "VISION HOSPITAL",
+            "HSM46764",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Brahmanpara",
+            "BRAHMANPARA, COMILLA"
+        ],
+        [
+            65,
+            "VISION ISLAMI EYE HOSPITAL",
+            "HSM25378",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Madaripur",
+            "Shibchar",
+            "Madborerchar, Shibchar, Madaripur"
+        ],
+        [
+            66,
+            "Vision Lab & Diagnostic Centre",
+            "HSM49461",
+            "Diagnostic Center",
+            "Category-B",
+            "Bogura",
+            "Sherpur",
+            "Hospital Road,Sherpur Bogra."
+        ],
+        [
+            67,
+            "VITA HEALTH MEDICAL CENTER",
+            "HSM68215",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "1/1, Block E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka"
+        ],
+        [
+            68,
+            "Vital Care Medical Services ",
+            "HSM99761",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chittogram Port",
+            "Islam Mansion (Ist Floor) 6606-C. South Halishahar, Chottogram"
+        ],
+        [
+            69,
+            "Vital Chokkhu Hospital and Phaco Center",
+            "HSM52021",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Khilkhet",
+            "\u09ac\u09bf/\u09e8\u09ef (\u09a4\u09df \u09a4\u09b2\u09be) \u09ad\u09be\u0987 \u09ad\u09be\u0987 \u09aa\u09cd\u09b2\u09be\u099c\u09be, \u0996\u09bf\u09b2\u0995\u09cd\u09b7\u09c7\u09a4 \u09ac\u09be\u099c\u09be\u09b0, \u0996\u09bf\u09b2\u0995\u09cd\u09b7\u09c7\u09a4 \u09a2\u09be\u0995\u09be\u0964"
+        ],
+        [
+            70,
+            "Vital Diagnostic & Consultation Center",
+            "HSM14614",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "14, South Central Road, Khulna "
+        ],
+        [
+            71,
+            "Vital Diagnostic & Doctors Point",
+            "HSM55533",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 202, Hospital Road, Maijdee, Sadar, Noakhali"
+        ],
+        [
+            72,
+            "VITAL DIAGNOSTIC CENTRE",
+            "HSM73236",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "3/13, Humyun Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            73,
+            "Vital Hospital (Pvt.)",
+            "HSM32078",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 427/2, Near of the LGED Building, Hospital Road, Maijdee Court, Sadar, Noakhali"
+        ],
+        [
+            74,
+            "VITAL MEDICAL SERVICES",
+            "HSM07706",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Biswa Road .Magura sadar.Magura.Bangladesh."
+        ],
+        [
+            75,
+            "VITAL RESEARCH UNIT ONE",
+            "HSM99695",
+            "Diagnostic Center",
+            "Category-A",
+            "Feni",
+            "Feni Sadar",
+            "AMIN MONZIL, OLD SONAGAZI BUS STAND, TRUNK ROAD, FENI-3900"
+        ],
+        [
+            76,
+            "VITAL RESEARCH UNIT-2",
+            "HSM55192",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "SYED MARKET, SOHID SHOHIDULLAH KISER SARAK, FENI-3900"
+        ],
+        [
+            77,
+            "VM HEALTH BANGLADESH LIMITED",
+            "HSM92470",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "Navana Newbury Place, 4/1/A,(5th floor)Sobhanbag"
+        ],
+        [
+            78,
+            "VOLUNTARY BLOOD DONATION PROGRAM (Quantum Faundation)",
+            "HSM26757",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Paltan",
+            "31/v, Shilpacharya Zainul Abedin Sarak Shantinagar, Dhaka-1217"
+        ],
+        [
+            79,
+            "VSS (VISION SAVING SERVICES) EYE HOSPITAL.",
+            "HSM90627",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sabujbagh",
+            "217 Central Basabo."
+        ],
+        [
+            80,
+            "VUMIKA MEDICAL SARVICE CENTER",
+            "HSM63233",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Ishwarganj",
+            "notun bazar.dattapara.ishwarganj,mymensingh\r\n"
+        ],
+        [
+            81,
+            "Wahab Medical Practice",
+            "HSM72304",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Gulshan",
+            "Baridhara, Road 12, House  3, Dhaka 1212"
+        ],
+        [
+            82,
+            "Wahab Toyuba Memorial Hospital",
+            "HSM05338",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Chatkhil",
+            "Village: Dattarbar, Post Office: Khilpara, Upazila: Chatkhil, District: Noakhali"
+        ],
+        [
+            83,
+            "Wahab Toyuba Memorial Hospital",
+            "HSM56091",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Chatkhil",
+            "Village: Dattarbag, Post Office: Khilpara, Upazilla: Chitkhil, District: Noakhali"
+        ],
+        [
+            84,
+            "Wahidur Rahman Sasthokendro",
+            "HSM72475",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Chhagalnaiya",
+            "Nizkunjara, Chhagalnaiya, Feni"
+        ],
+        [
+            85,
+            "Wahidur Rahman Sasthokendro",
+            "HSM46121",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Chhagalnaiya",
+            "Vill+Post: Nizkunjara, Upzilla: Chhaglnaiya"
+        ],
+        [
+            86,
+            "Wel Care Hospital(pvt)",
+            "HSM73883",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Lakshmipur Sadar, Lakshmipur"
+        ],
+        [
+            87,
+            "WEL HEALTH DIAGNOSTIC COMPLEX ",
+            "HSM70336",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "C.N.B BAZAR, BAGERHAT SADAR, BAGERHAT "
+        ],
+        [
+            88,
+            "Welcare Diagnostic (pvt)",
+            "HSM07277",
+            "Diagnostic Center",
+            "Category-B",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Lakshmipur Sadar, Lakshmipur."
+        ],
+        [
+            89,
+            "WELCOME DIAGNOSTIC & MEDICAL CENTRE",
+            "HSM03505",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "House# 07, Road# 07, Block# j, Baridhara, Dhaka-1212"
+        ],
+        [
+            90,
+            "Welcome Diagnostic Center",
+            "HSM75816",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Ghoraghat",
+            "Osmanpur, Ghoraghat, Dinajpur."
+        ],
+        [
+            91,
+            "Welfare Diagnostic & Consultation Center",
+            "HSM59084",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kamrangir Char",
+            "59, FM Tower, Hasan Nagar, Abu Sayed Bazar, Kamrangirchar, Dhaka-1211"
+        ],
+        [
+            92,
+            "WELL CARE DIAGNOSTIC CENTER",
+            "HSM49318",
+            "Diagnostic Center",
+            "Category-C",
+            "Barisal",
+            "Gaurnadi",
+            "Nurmahal, Upazila Gate, Gaurnadi, Barisal"
+        ],
+        [
+            93,
+            "Well Care Diagnostic Centre",
+            "HSM88666",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "West Dorga Moholla, Sylhet."
+        ],
+        [
+            94,
+            "Wellcare Diagnostic Centre.",
+            "HSM03392",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "Firoja Super Market, Bhatiary,D.T.Road,Sitakund,Chottogram."
+        ],
+        [
+            95,
+            "Wells Diagnostic Centre",
+            "HSM41295",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Shahid Shahidullah Kaiser Sarak, Feni. "
+        ],
+        [
+            96,
+            "Western Diagonistic & Health Care (Private.) Ltd.",
+            "HSM72868",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Mirpur",
+            "Amla Bazar, Amla, Mirpur, Kushtia."
+        ],
+        [
+            97,
+            "WESTERN HOSPITAL FOR INFERTILITY & LAPAROSCOPIC SURGERY",
+            "HSM58952",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Baroharispur,Dhaka Rode, Natore."
+        ],
+        [
+            98,
+            "WESTERN HOSPITAL FOR INFERTILITY & LAPAROSCOPIC SURGERY",
+            "HSM17033",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "\u09ac\u09dc \u09b9\u09b0\u09bf\u09b8\u09aa\u09c1\u09b0, \u09a2\u09be\u0995\u09be \u09b0\u09c7\u09be\u09a1, \u09a8\u09be\u099f\u09c7\u09be\u09b0"
+        ],
+        [
+            99,
+            "WIN MEDICAL CENTER",
+            "HSM79534",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gulshan",
+            "77, New Airport Road, Mohakhali, Dhaka-1212"
+        ],
+        [
+            100,
+            "Winner Diagnostic Center",
+            "HSM05456",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "Modhunaghat.Madarsha Road,Hathazari,Chittagong"
+        ]
+    ]
+}

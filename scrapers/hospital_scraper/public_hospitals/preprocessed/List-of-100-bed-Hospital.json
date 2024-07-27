@@ -1,0 +1,219 @@
+[
+    {
+        "name": "Barguna District Hospital",
+        "division": "Barisal",
+        "district": "Barguna",
+        "upazila": "Barguna Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Barisal General Hospital",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Barisal Sadar (kotwali)",
+        "num_beds": "100"
+    },
+    {
+        "name": "Bhola District Hospital",
+        "division": "Barisal",
+        "district": "Bhola",
+        "upazila": "Bhola Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Jhalokathi District Hospital",
+        "division": "Barisal",
+        "district": "Jhalokati",
+        "upazila": "Jhalokati Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Pirojpur District Hospital",
+        "division": "Barisal",
+        "district": "Pirojpur",
+        "upazila": "Pirojpur Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Bandarban District Hospital",
+        "division": "Chittagong",
+        "district": "Bandarban",
+        "upazila": "Bandarban Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Comilla General Hospital",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Comilla Adarsha Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Khagrachari District Hospital",
+        "division": "Chittagong",
+        "district": "Khagrachhari",
+        "upazila": "Khagrachhari Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Lakshmipur District Hospital",
+        "division": "Chittagong",
+        "district": "Lakshmipur",
+        "upazila": "Lakshmipur Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Rangamati General Hospital",
+        "division": "Chittagong",
+        "district": "Rangamati",
+        "upazila": "Rangamati Sadar  Up",
+        "num_beds": "100"
+    },
+    {
+        "name": "Faridpur General Hospital",
+        "division": "Dhaka",
+        "district": "Faridpur",
+        "upazila": "Faridpur Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Madaripur District Hospital",
+        "division": "Dhaka",
+        "district": "Madaripur",
+        "upazila": "Madaripur Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Narayanganj General (Victoria) Hospital",
+        "division": "Dhaka",
+        "district": "Narayanganj",
+        "upazila": "Narayanganj Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Narsingdi District Hospital",
+        "division": "Dhaka",
+        "district": "Narsingdi",
+        "upazila": "Narsingdi Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Rajbari District Hospital",
+        "division": "Dhaka",
+        "district": "Rajbari",
+        "upazila": "Rajbari Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Shariatpur District Hospital",
+        "division": "Dhaka",
+        "district": "Shariatpur",
+        "upazila": "Shariatpur Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Bagerhat District Hospital",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Bagerhat Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Chuadanga District Hospital",
+        "division": "Khulna",
+        "district": "Chuadanga",
+        "upazila": "Chuadanga Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Jhenaidah District Hospital",
+        "division": "Khulna",
+        "district": "Jhenaidah",
+        "upazila": "Jhenaidah Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Narail District Hospital",
+        "division": "Khulna",
+        "district": "Narail",
+        "upazila": "Narail Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Satkhira District Hospital",
+        "division": "Khulna",
+        "district": "Satkhira",
+        "upazila": "Satkhira Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Netrokona District Hospital",
+        "division": "Mymensingh",
+        "district": "Netrakona",
+        "upazila": "Netrokona Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Sherpur District Hospital",
+        "division": "Mymensingh",
+        "district": "Sherpur",
+        "upazila": "Sherpur Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Chapai Nababganj District Hospital",
+        "division": "Rajshahi",
+        "district": "Chapai Nawabganj",
+        "upazila": "Chapai Nababganj Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Naogaon District Hospital",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Naogaon Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Natore District Hospital",
+        "division": "Rajshahi",
+        "district": "Natore",
+        "upazila": "Natore Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Lalmonirhat District Hospital",
+        "division": "Rangpur",
+        "district": "Lalmonirhat",
+        "upazila": "Lalmonirhat Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Nilphamari District Hospital",
+        "division": "Rangpur",
+        "district": "Nilphamari",
+        "upazila": "Nilphamari Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Panchagarh District Hospital",
+        "division": "Rangpur",
+        "district": "Panchagarh",
+        "upazila": "Panchagarh Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Thakurgaon District Hospital",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazila": "Thakurgaon Sadar",
+        "num_beds": "100"
+    },
+    {
+        "name": "Sylhet Shahid Shamsuddin Ahmed District Hospita",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "upazila": "Sylhet Sadar",
+        "num_beds": "100"
+    }
+]

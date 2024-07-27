@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Sher-e-bangla Medical College Hospital",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Barisal Sadar\n(kotwali)",
+        "num_beds": "1500"
+    },
+    {
+        "name": "Chittagong Medical College Hospital",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Panchlaish",
+        "num_beds": "1500"
+    },
+    {
+        "name": "Sir Salimullah Medical College Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Kotwali",
+        "num_beds": "1500"
+    },
+    {
+        "name": "Mymensingh Medical College Hospital",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Mymensingh Sadar",
+        "num_beds": "1500"
+    },
+    {
+        "name": "Rajshahi Medical College Hospital",
+        "division": "Rajshahi",
+        "district": "Rajshahi",
+        "upazila": "Rajpara",
+        "num_beds": "1500"
+    },
+    {
+        "name": "Rangpur Medical College Hospital",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazila": "Rangpur Sadar",
+        "num_beds": "1500"
+    },
+    {
+        "name": "Sylhet MAG Osmani Medical College Hospital",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "upazila": "Sylhet Sadar",
+        "num_beds": "1500"
+    }
+]

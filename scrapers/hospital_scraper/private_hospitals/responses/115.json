@@ -1,0 +1,1007 @@
+{
+    "draw": 115,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Nizam - Hasina Foundation Hospital",
+            "HSM05364",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Bhola Sadar",
+            "Ukil Para. Bhola Sadar,Bhola."
+        ],
+        [
+            2,
+            "Nizam - Hasina Foundation Hospital",
+            "HSM68489",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bhola",
+            "Bhola Sadar",
+            "Ukil Para. Bhola Sadar,Bhola."
+        ],
+        [
+            3,
+            "NIZAMUDDIN DIGITAL DIAGNOSTIC CENTER ",
+            "HSM76005",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Fulchhari",
+            "Gazaria, Fulchhari Bazar, Fulchhari, Gaibandha "
+        ],
+        [
+            4,
+            "Noagaow Podda Diagnostic Consultation Center",
+            "HSM09812",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "noagaow,,Nabinagar,Brahmanbaria."
+        ],
+        [
+            5,
+            "Noakhali Adhunik Chakkhu Hospital & Phaco Center ",
+            "HSM85985",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road (Feni Road), Chowmuhani, Begumgonj, Noakhali "
+        ],
+        [
+            6,
+            "Noakhali Al-Baraka (Pvt.) Hospital",
+            "HSM55286",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road (Feni Road), Chowmuhani, Begumgonj, Noakhali. "
+        ],
+        [
+            7,
+            "Noakhali Al-Baraka (Pvt.) Hospital ",
+            "HSM54909",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road (Feni Road), Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            8,
+            "Noakhali Blood Bank & Transfusion Center",
+            "HSM99108",
+            "Blood Bank",
+            "",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Maijdee, Sadar, Noakhali"
+        ],
+        [
+            9,
+            "Noakhali Chakkhu Hospital & Diabetic Center",
+            "HSM24852",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road, Feni Road, Chowmuhani, Begumgonj, Noakhali."
+        ],
+        [
+            10,
+            "Noakhali Chakkhu Hospital & Diabetic Center",
+            "HSM73077",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amni Ullah Shoruk, Fani Road, Chowmuhani, Bagumgonj, Noakhali"
+        ],
+        [
+            11,
+            "NOAKHALI DENTAL CARE",
+            "HSM95922",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 657, Main Road, Maijdee, Noakhali Sadar, Noakhali"
+        ],
+        [
+            12,
+            "NOAKHALI GRAMEEN COMMUNITY EYE HOSPITAL & PHACO CENTER ",
+            "HSM79615",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "NEW BUS STAND, MAIJDEE COURT, SADAR, NOAKHALI "
+        ],
+        [
+            13,
+            "Noakhali Islamia Eye Hospital",
+            "HSM79477",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No # 817/1, Datterhat Purbobazar, Central Road, Datterhat, Sadar, Noakhali."
+        ],
+        [
+            14,
+            "Noakhali Medical Services ",
+            "HSM70138",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "Nurul Hoque Road, Public Hall, Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            15,
+            "Noakhali Private Hospital Diagnostic Center",
+            "HSM76155",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding: 0199, Hospital Road, Maijdee Court, Sadar, Noakhali"
+        ],
+        [
+            16,
+            "Noakhali Private Hospital Ltd.",
+            "HSM81886",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 199, Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            17,
+            "Noakhali Private Shishu Hospital",
+            "HSM53332",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "College Road, Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            18,
+            "Noakhali Square Diagnostic And Doctors Chamber",
+            "HSM94601",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 1159, Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            19,
+            "Noakhali United Hospital Private ",
+            "HSM90395",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 427/1, Hospital Road, Maijdee Court, Sadar, Noakhali"
+        ],
+        [
+            20,
+            "Noakhali United Hospital Private ",
+            "HSM96125",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 427/1, Hospital Road, Maijdee Court, Sadar, Noakhali."
+        ],
+        [
+            21,
+            "Noapara Diagnostic Center",
+            "HSM71414",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Abhaynagar",
+            "Buinkara, Hospital Get, Noapara, Abhaynagar, Jessore"
+        ],
+        [
+            22,
+            "Noapara Popular Hospital ",
+            "HSM38421",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kaliganj",
+            "Noapara Chourasta, Vawal Noapara,Kaliganj, Gazipur"
+        ],
+        [
+            23,
+            "Noapara Popular Hospital ",
+            "HSM27747",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kaliganj",
+            "Noapara Chourasta, Vawal Noapara, Kaliganj,Gazipur"
+        ],
+        [
+            24,
+            "NOBLE CARE HOSPITAL & DIAGNOSTIC LIMITED.",
+            "HSM84821",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "246/1-C/15 West Agargaon, Sher-e-Bangla Nagar, Dhaka-1207"
+        ],
+        [
+            25,
+            "NOBLE CARE HOSPITAL & DIAGONOSTIC LIMITED",
+            "HSM30028",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "246/1-C/15 West Agargaon, Shere-e-Bangla Nagar, Dhaka-1207"
+        ],
+        [
+            26,
+            "NOBLE HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM72845",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Central Bus Terminal, Jhenaidah Sadar, Jhenaidah"
+        ],
+        [
+            27,
+            "Nobo Diganta Diagnostic & Doctors Chamber ",
+            "HSM60914",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramgati",
+            "Near of the upazilla health complex, Ramgati, Lakshmipur"
+        ],
+        [
+            28,
+            "Nobojatok Shishu and General Hospital and Diagnostic Center",
+            "HSM97437",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Kumarshilmur, Brahmanbaria"
+        ],
+        [
+            29,
+            "Nobojatok Shishu and General Hospital and Diagnostic Center",
+            "HSM45742",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Kumarshilmur, Brahmanbaria"
+        ],
+        [
+            30,
+            "Nobojatok Shishu Gayne Care Hospital (Pvt.)",
+            "HSM85466",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Chatkhil",
+            "Holding No. 0687-00, Palla Road, Chatkhil, Noakhali"
+        ],
+        [
+            31,
+            "Nobojatok Shishu Gayne Care Hospital (Pvt.)",
+            "HSM90725",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Chatkhil",
+            "Holding No. 0687-00, Palla Road, Chatkhil, Noakhali"
+        ],
+        [
+            32,
+            "Nobojatok Sishu &  Genarel Hospital. Dhaka",
+            "HSM77623",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "4/4-A,Block#E,Lalmatiya, Mohammad pur Dhaka."
+        ],
+        [
+            33,
+            "Nobojatok Sishu &  Genarel Hospital. Dhaka",
+            "HSM10384",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "4/4-A,Block#E,Lalmatiya, Mohammad pur Dhaka."
+        ],
+        [
+            34,
+            "NODI CLINIC AND DIAGNOSTIC CENTER",
+            "HSM04001",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No 850/07, Shalgaria, Pabna Sadar, Pabna"
+        ],
+        [
+            35,
+            "NODI DIAGNOSTIC",
+            "HSM42087",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No 850, Shalgaria, A K Khondokar Road, Pabna"
+        ],
+        [
+            36,
+            "Nodi Diagnostic Centre",
+            "HSM63980",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "Karpashdanga Bazar, Damurhdua, Chuadanga"
+        ],
+        [
+            37,
+            "NOHA  PATHOLOGYCAL LABORATORY",
+            "HSM51642",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Morrelganj",
+            "College Road, Norelgonj, Bagerhat"
+        ],
+        [
+            38,
+            "Nongor Digital Diagnostic Center",
+            "HSM21256",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 2502, Shalgaria, Pabna"
+        ],
+        [
+            39,
+            "NOOOR HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM85669",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "32, Station Road, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            40,
+            "Noor Care Diagnostic and Physiotherapy Center",
+            "HSM11762",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Tahirpur",
+            "\u09ac\u09be\u09a6\u09be\u0998\u09be\u099f \u09ac\u09be\u099c\u09be\u09b0, \u09a4\u09be\u09b9\u09bf\u09b0\u09aa\u09c1\u09b0, \u09b8\u09c1\u09a8\u09be\u09ae\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            41,
+            "Noor Clinic and Diagnostic Center",
+            "HSM28321",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Kalkini",
+            "Mazidbari(Bhurghata), Kalkini, Madaripur"
+        ],
+        [
+            42,
+            "Noor Clinic and Diagnostic Center",
+            "HSM65108",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Madaripur",
+            "Kalkini",
+            "Mazidbari(Bhurghata), Kalkini, Madaripur"
+        ],
+        [
+            43,
+            "noor clinic and diagnostic center",
+            "HSM21702",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Nawabganj",
+            "nunagar busstand, Hasnabad, Nawabgonj, Dahka"
+        ],
+        [
+            44,
+            "noor clinic and diagnostic center",
+            "HSM22579",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Nawabganj",
+            "Noornagor busstand, Hasnabad, Nawabgonj,Dhaka"
+        ],
+        [
+            45,
+            "Noor Dental clinic",
+            "HSM30381",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Brahmanbaria",
+            "Kasba",
+            "kasba super market,kasba,Brahmanbaria "
+        ],
+        [
+            46,
+            "Noor Diagnostic  & Clinic",
+            "HSM90453",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Bakshiganj",
+            "Uttra Plaza, Malebag, Upazila Road, Bakshiganj, Jamalpur"
+        ],
+        [
+            47,
+            "Noor Diagnostic & Consultion Center",
+            "HSM96511",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kamrangir Char",
+            "17, Bro Gram Chairmen Bari Morr, Main Road  Kacha Bazer , Ashrafabad, Camragirchar, Dhaka-1211"
+        ],
+        [
+            48,
+            "Noor Diagnostic Center",
+            "HSM48975",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari."
+        ],
+        [
+            49,
+            "Noor Diagnostic Center",
+            "HSM38400",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "House No-295, Ayasha Monjil, kalatala, Patuakhali"
+        ],
+        [
+            50,
+            "NOOR DIAGNOSTIC LAB",
+            "HSM37812",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "South Alekanda,Barisal."
+        ],
+        [
+            51,
+            "Noor General Hospital (Clicnic)",
+            "HSM37493",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "House No-295, Ayasha Monjil, kalatala, Patuakhali"
+        ],
+        [
+            52,
+            "Noor Health Center",
+            "HSM12506",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Ekrampur, Station Road, \r\nKishoreganj.  "
+        ],
+        [
+            53,
+            "NOOR HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM78571",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "32, Station Road, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            54,
+            "Noor Jahan Hasan Ali Sarkar Memorial Medical  Center",
+            "HSM30482",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Nabipur Bazar, Nabinagar, Brahmanbaria"
+        ],
+        [
+            55,
+            "Noor Jahan Hasan Ali Sarkar memorial Medical Center",
+            "HSM72758",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Nabipur Bazar, Nabinagar, Brahmanbaria"
+        ],
+        [
+            56,
+            "Noor Medical Center",
+            "HSM82287",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Brahmanbaria",
+            "Ashuganj",
+            "Noor Medical Center Station Road, Ashuganj, Brahmanbaria."
+        ],
+        [
+            57,
+            "Noor Medical Center.",
+            "HSM38690",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Ashuganj",
+            "Noor Medical Center Station Road, Ashuganj, Brahmanbaria."
+        ],
+        [
+            58,
+            "Noor Medical Services",
+            "HSM60364",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Tejgaon",
+            "NMG Tower(2nd & 3rd Floor), 224/1, New Eskaton Road, Dhaka-1217"
+        ],
+        [
+            59,
+            "Noorjahan Diagnostic & Consultant Center ",
+            "HSM12366",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Sonadanga",
+            "KMC West Boundari Road, Sonadanga, Khulna "
+        ],
+        [
+            60,
+            "NOORJAHAN DIAGNOSTIC CENTRE.",
+            "HSM16075",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bhairab",
+            "Kamalpur, Bhairab, Kishoreganj"
+        ],
+        [
+            61,
+            "Noorjahan Digilab Medical Centre",
+            "HSM12742",
+            "Diagnostic Center",
+            "Category-A",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Mukterpara, Netrakona."
+        ],
+        [
+            62,
+            "Noorjahan General Hospital Manikganj",
+            "HSM75532",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Joyra College Road, Busstand, Manikganj."
+        ],
+        [
+            63,
+            "NOORJAHAN HOSPITAL LTD ",
+            "HSM64660",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "RITZ TOWER WAVES-1 DARGAH GATE SYLHET."
+        ],
+        [
+            64,
+            "Noorjahan Hospital Ltd.  (Pathological Laboratory",
+            "HSM60154",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Ritz Tower, 1, Dorga Gate, Sylhet"
+        ],
+        [
+            65,
+            "Noorjahan Memorial Clinic",
+            "HSM83548",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Paikgachha",
+            "Vill: Saral, 5No Word, Paikgacha Pouroshova, Paikgacha, Khulna."
+        ],
+        [
+            66,
+            "Noorjahan Memorial Diagnostic Center",
+            "HSM21865",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Paikgachha",
+            "Saral,5No word,Paikgacha Pourosova, Paikgacha,Khulna"
+        ],
+        [
+            67,
+            "Noorjahan Orthopaedic and General Hospital",
+            "HSM56453",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "23/6, Rupayon Shelford, Mirpur Road, Shyamoli, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            68,
+            "Noorjahan Pvt. Hospital",
+            "HSM11499",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "Noorjahan (Pvt) Hospital, Mostafapur, 11 No- Mostafapur UP. Mostafapur Road, Upozilla : Moulvibazar Sadar, Moulvibazar-3200"
+        ],
+        [
+            69,
+            "North Bengal Diagnostic Center, Rajshahi",
+            "HSM58798",
+            "Diagnostic Center",
+            "Category-A",
+            "Rajshahi",
+            "Rajpara",
+            "17, Grater Road, Laxmipur, Rajshahi"
+        ],
+        [
+            70,
+            "North Bengal Digital Lab & Diagnostic Center",
+            "HSM34767",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Swapno Bilash,Poshchim Charmatha,Gobindaganj, gaibandha"
+        ],
+        [
+            71,
+            "NORTH BENGAL MEDICAL COLLEGE HOSPITAL",
+            "HSM35652",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "J.C Road, sirajganj"
+        ],
+        [
+            72,
+            "NORTH BENGAL MEDICAL COLLEGE HOSPITAL",
+            "HSM35983",
+            "Diagnostic Center",
+            "Category-A",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "J. C ROAD, SIRAJGANJ"
+        ],
+        [
+            73,
+            "NORTH BENGAL MEDICAL COLLEGE HOSPITAL",
+            "HSM24098",
+            "Blood Bank",
+            "",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "J.C Road, Dhanbandi, Sirajganj."
+        ],
+        [
+            74,
+            "North Breeze Diagnostic Center",
+            "HSM96083",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Kaliganj",
+            "Tushvandar, Kaligonj, Lalmonirhat"
+        ],
+        [
+            75,
+            "North East Cancer & General Hospital",
+            "HSM39623",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Dakshin Surma",
+            "Dakshin Surma, sylhet."
+        ],
+        [
+            76,
+            "North East Medical College Hospital",
+            "HSM43296",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Dakshin Surma",
+            "Dakshin Surma, Sylhet-3100, Bangladesh"
+        ],
+        [
+            77,
+            "North East Medical College Hospital Blood Bank",
+            "HSM83200",
+            "Blood Bank",
+            "",
+            "Sylhet",
+            "Dakshin Surma",
+            "Dakshin Surma, Sylhet, Bangladesh"
+        ],
+        [
+            78,
+            "North East Medical College Hospital Pathological Lab",
+            "HSM55593",
+            "Diagnostic Center",
+            "Category-A",
+            "Sylhet",
+            "Dakshin Surma",
+            "Dakshin Surma, Sylhet-3100, Bangladesh."
+        ],
+        [
+            79,
+            "NORTH POINT DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM99633",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Fulbari",
+            "Hospital Mor (Uttar Suzapur), Fulbari, Dinajpur-5260"
+        ],
+        [
+            80,
+            "Northern Diagnostic Complex",
+            "HSM89708",
+            "Diagnostic Center",
+            "Category-B",
+            "Panchagarh",
+            "Panchagarh Sadar",
+            "Kayetpara, Tetulia Road, Panchagarh."
+        ],
+        [
+            81,
+            "Northern International Medical College Hospital",
+            "HSM03983",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "House # 84, Road # 8/A, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            82,
+            "Northern International Medical College Hospital",
+            "HSM53097",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Dhanmondi",
+            "House # 84, Road # 8/A(new), Dhanmondi, Dhaka-1209\r\n"
+        ],
+        [
+            83,
+            "Northern International Medical College Hospital, Diagnostic Centre  ",
+            "HSM07002",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dhanmondi",
+            "House# 84, Road # 8/A, Dhanmondi, Dhaka-1209"
+        ],
+        [
+            84,
+            "Northern Ma O Shishu Hospital",
+            "HSM31620",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 1068-00; Nur Plaza, Panchagarh Road, Thakurgaon"
+        ],
+        [
+            85,
+            "Northern Private Medical College and Hospital",
+            "HSM92030",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Chekli vata, Burirhat Road, Rangpur."
+        ],
+        [
+            86,
+            "Nose,Ear,Throat(ENT) General Hospital & Diagnostic Center",
+            "HSM47186",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Cornel Malek Medical College  Gate, Chandora, Dighi, Manikganj"
+        ],
+        [
+            87,
+            "Nosratpur Health Center, Grameen Kalyan",
+            "HSM21564",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Adamdighi",
+            "Nosrotpur, Adamdighi, Bogura."
+        ],
+        [
+            88,
+            "NOUHATA ISLAMI GENERAL HOSPITAL",
+            "HSM17001",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Paba",
+            "NOWHATA, PABA, RAJSHAHI."
+        ],
+        [
+            89,
+            "NOVA  C T SCAN & DIAGNOSTIC CENTER ",
+            "HSM27632",
+            "Diagnostic Center",
+            "Category-A",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Holding No. 244, Darul karar, Hospital Road, Maijdee, Sadar, Noakhali  "
+        ],
+        [
+            90,
+            "NOVA AID ",
+            "HSM58998",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "HIROSHIMA COMPLEX, MISSION ROAD, CHANDPUR"
+        ],
+        [
+            91,
+            "Nova Aid Diagnostic Center",
+            "HSM71974",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Lal Bazar ,Akhaura,Brahmanbaria"
+        ],
+        [
+            92,
+            "NOVA CLINIC",
+            "HSM21288",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kumarkhali",
+            "Tebaria, Kumarkhali, Kushtia."
+        ],
+        [
+            93,
+            "NOVA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM39949",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "Abdus Salam Tower, Gazirchat Unque Bus Stand, Ashulia, Savar, Dhaka, Bangladesh"
+        ],
+        [
+            94,
+            "NOVA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM43948",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Abdus Salam Tower, Gazirchat Unque Bus Stand, Ashulia, Savar, Dhaka, Bangladesh"
+        ],
+        [
+            95,
+            "Nova Diagnostic and Consultation Center",
+            "HSM73126",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "20/1, SHAMSUR RAHMAN ROAD, KHULNA SADAR, KHULNA"
+        ],
+        [
+            96,
+            "Nova Diagnostic Center",
+            "HSM31534",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Sp Banglow More, khulna Road, Polashpole, Satkhira"
+        ],
+        [
+            97,
+            "Nova Diagnostic Center",
+            "HSM08851",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Sher-E-Bangla Road, Patuakhali."
+        ],
+        [
+            98,
+            "NOVA DIAGNOSTIC CENTER",
+            "HSM09152",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chandina",
+            "Madhaia, Chandina, Comilla"
+        ],
+        [
+            99,
+            "Nova Diagnostic Center ",
+            "HSM93766",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Senbagh",
+            "Senbag Bazar, Senbag, Noakhali  "
+        ],
+        [
+            100,
+            "NOVA DIAGNOSTIC CENTER",
+            "HSM54970",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Hospital Para, Magura sadar, Magura.Bangladesh."
+        ]
+    ]
+}

@@ -1,0 +1,1122 @@
+[
+    {
+        "name": "Amtali Upazila Health Complex, Barguna",
+        "division": "Barisal",
+        "district": "Barguna",
+        "upazila": "Amtali",
+        "num_beds": "50"
+    },
+    {
+        "name": "Betagi Upazila Health Complex, Barguna",
+        "division": "Barisal",
+        "district": "Barguna",
+        "upazila": "Betagi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Patharghata Upazila Health Complex, Barguna",
+        "division": "Barisal",
+        "district": "Barguna",
+        "upazila": "Patharghata",
+        "num_beds": "50"
+    },
+    {
+        "name": "Agailjhara Upazila Health Complex, Barishal",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Agailjhara",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gournadi Upazila Health Complex, Barishal",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Gaurnadi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Muladi Upazila Health Complex, Barishal",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Muladi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Borhanuddin Upazila Health Complex, Bhola",
+        "division": "Barisal",
+        "district": "Bhola",
+        "upazila": "Burhanuddin",
+        "num_beds": "50"
+    },
+    {
+        "name": "Charfession Upazila Health Complex, Bhola",
+        "division": "Barisal",
+        "district": "Bhola",
+        "upazila": "Charfession",
+        "num_beds": "50"
+    },
+    {
+        "name": "Daulatkhan Upazila Health Complex, Bhola",
+        "division": "Barisal",
+        "district": "Bhola",
+        "upazila": "Daulatkhan",
+        "num_beds": "50"
+    },
+    {
+        "name": "Lalmohan Upazila Health Complex, Bhola",
+        "division": "Barisal",
+        "district": "Bhola",
+        "upazila": "Lalmohan",
+        "num_beds": "50"
+    },
+    {
+        "name": "Nalchithi Upazila Health Complex, Jhalokati",
+        "division": "Barisal",
+        "district": "Jhalokati",
+        "upazila": "Nalchity",
+        "num_beds": "50"
+    },
+    {
+        "name": "Galachipa Upazila Health Complex, Patuakhali",
+        "division": "Barisal",
+        "district": "Patuakhali",
+        "upazila": "Galachipa",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kalapara Upazila Health Complex, Patuakhali",
+        "division": "Barisal",
+        "district": "Patuakhali",
+        "upazila": "Kalapara",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mathbaria Upazila Health Complex, Pirojpur",
+        "division": "Barisal",
+        "district": "Pirojpur",
+        "upazila": "Mathbaria",
+        "num_beds": "50"
+    },
+    {
+        "name": "Nesarabad Upazila Health Complex, Pirojpur",
+        "division": "Barisal",
+        "district": "Pirojpur",
+        "upazila": "Nesarabad",
+        "num_beds": "50"
+    },
+    {
+        "name": "Nasirnagar Upazila Health Complex, Brahmanbaria",
+        "division": "Chittagong",
+        "district": "Brahmanbaria",
+        "upazila": "Nasirnagar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sarail Upazila Health Complex, Brahmanbaria",
+        "division": "Chittagong",
+        "district": "Brahmanbaria",
+        "upazila": "Sarail",
+        "num_beds": "50"
+    },
+    {
+        "name": "Haziganj Upazila Health Complex, Chandpur",
+        "division": "Chittagong",
+        "district": "Chandpur",
+        "upazila": "Hajiganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kachua Upazila Health Complex, Chandpur",
+        "division": "Chittagong",
+        "district": "Chandpur",
+        "upazila": "Kachua",
+        "num_beds": "50"
+    },
+    {
+        "name": "Matlab(daxin) Upazila Health Complex, Chandpur",
+        "division": "Chittagong",
+        "district": "Chandpur",
+        "upazila": "Matlab Dakshin",
+        "num_beds": "50"
+    },
+    {
+        "name": "Anwara Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Anowara",
+        "num_beds": "50"
+    },
+    {
+        "name": "Banshkhali Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Banshkhali",
+        "num_beds": "50"
+    },
+    {
+        "name": "Boalkhali Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Boalkhali",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chandanaish Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Chandanaish",
+        "num_beds": "50"
+    },
+    {
+        "name": "Hathazari Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Hathazari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Lohagara Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Lohagara",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mirarsarai Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Mirsharai",
+        "num_beds": "50"
+    },
+    {
+        "name": "Patiya Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Patiya",
+        "num_beds": "50"
+    },
+    {
+        "name": "Rangunia Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Rangunia",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sitakunda Upazila Health Complex, Chattogram",
+        "division": "Chittagong",
+        "district": "Chattogram",
+        "upazila": "Sitakunda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chakaria Upazila Health Complex, Cox's Bazar",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "upazila": "Chakaria",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kutubdia Upazila Health Complex, Cox's Bazar",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "upazila": "Kutubdia",
+        "num_beds": "50"
+    },
+    {
+        "name": "Moheshkhali Upazila Health Complex, Cox's Bazar",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "upazila": "Maheshkhali",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chaddagram Upazila Health Complex, Cumilla",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Chauddagram",
+        "num_beds": "50"
+    },
+    {
+        "name": "Debidwar Upazila Health Complex, Cumilla",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Debidwar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Homna Upazila Health Complex, Cumilla",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Homna",
+        "num_beds": "50"
+    },
+    {
+        "name": "Langolkot Upazila Health Complex, Cumilla",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Langalkot",
+        "num_beds": "50"
+    },
+    {
+        "name": "Muradnagar Upazila Health Complex, Cumilla",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Muradnagar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chhagalnaya Upazila Health Complex, Feni",
+        "division": "Chittagong",
+        "district": "Feni",
+        "upazila": "Chhagalnaiya",
+        "num_beds": "50"
+    },
+    {
+        "name": "Parsuram Upazila Health Complex, Feni",
+        "division": "Chittagong",
+        "district": "Feni",
+        "upazila": "Parshuram",
+        "num_beds": "50"
+    },
+    {
+        "name": "Raipur Upazila Health Complex, Lakshmipur",
+        "division": "Chittagong",
+        "district": "Lakshmipur",
+        "upazila": "Roypur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Begumganj Upazila Health Complex, Noakhali",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Begumganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chatkhil Upazila Health Complex, Noakhali",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Chatkhil",
+        "num_beds": "50"
+    },
+    {
+        "name": "Companiganj Upazila Health Complex, Noakhali",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Companiganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Hatiya Upazila Health Complex, Noakhali",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Hatiya",
+        "num_beds": "50"
+    },
+    {
+        "name": "Senbag Upazila Health Complex, Noakhali",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Senbagh",
+        "num_beds": "50"
+    },
+    {
+        "name": "Subarnachar Upazila Health Complex, Noakhali",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "upazila": "Subarnachar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Dhamrai Upazila Health Complex, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Dhamrai",
+        "num_beds": "50"
+    },
+    {
+        "name": "Dohar Upazila Health Complex, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Dohar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Nawabganj Upazila Health Complex, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Nawabganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Savar Upazila Health Complex, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Savar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Bhanga Upazila Health Complex, Faridpur",
+        "division": "Dhaka",
+        "district": "Faridpur",
+        "upazila": "Bhanga",
+        "num_beds": "50"
+    },
+    {
+        "name": "Boalmari Upazila Health Complex, Faridpur",
+        "division": "Dhaka",
+        "district": "Faridpur",
+        "upazila": "Boalmari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Nagarkanda Upazila Health Complex, Faridpur",
+        "division": "Dhaka",
+        "district": "Faridpur",
+        "upazila": "Nagarkanda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kaliganj Upazila Health Complex, Gazipur",
+        "division": "Dhaka",
+        "district": "Gazipur",
+        "upazila": "Kaliganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Organization Name",
+        "division": "Division Name",
+        "district": "District Name",
+        "upazila": "Upazila Name",
+        "num_beds": "No. of\nBed"
+    },
+    {
+        "name": "Kapasia Upazila Health Complex, Gazipur",
+        "division": "Dhaka",
+        "district": "Gazipur",
+        "upazila": "Kapasia",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kashiani Upazila Health Complex, Gopalganj",
+        "division": "Dhaka",
+        "district": "Gopalganj",
+        "upazila": "Kashiani",
+        "num_beds": "50"
+    },
+    {
+        "name": "Bhairab Upazila Health Complex, Kishorgonj",
+        "division": "Dhaka",
+        "district": "Kishorgonj",
+        "upazila": "Bhairab",
+        "num_beds": "50"
+    },
+    {
+        "name": "Karimganj Upazila Health Complex, Kishorgonj",
+        "division": "Dhaka",
+        "district": "Kishorgonj",
+        "upazila": "Karimganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Tarail Upazila Health Complex, Kishorgonj",
+        "division": "Dhaka",
+        "district": "Kishorgonj",
+        "upazila": "Tarail",
+        "num_beds": "50"
+    },
+    {
+        "name": "Shibchar Upazila Health Complex, Madaripur",
+        "division": "Dhaka",
+        "district": "Madaripur",
+        "upazila": "Shibchar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gazaria Upazila Health Complex, Munshiganj",
+        "division": "Dhaka",
+        "district": "Munshiganj",
+        "upazila": "Gazaria",
+        "num_beds": "50"
+    },
+    {
+        "name": "Louhajang Upazila Health Complex, Munshiganj",
+        "division": "Dhaka",
+        "district": "Munshiganj",
+        "upazila": "Lohajang",
+        "num_beds": "50"
+    },
+    {
+        "name": "Serajdikhan Upazila Health Complex, Munshiganj",
+        "division": "Dhaka",
+        "district": "Munshiganj",
+        "upazila": "Serajdikhan",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sreenagar Upazila Health Complex, Munshiganj",
+        "division": "Dhaka",
+        "district": "Munshiganj",
+        "upazila": "Sreenagar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Tungibari Upazila Health Complex, Munshiganj",
+        "division": "Dhaka",
+        "district": "Munshiganj",
+        "upazila": "Tongibari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Monohardi Upazila Health Complex, Narsingdi",
+        "division": "Dhaka",
+        "district": "Narsingdi",
+        "upazila": "Manohardi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Goalanda Upazila Health Complex, Rajbari",
+        "division": "Dhaka",
+        "district": "Rajbari",
+        "upazila": "Goalanda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Pangsha Upazila Health Complex, Rajbari",
+        "division": "Dhaka",
+        "district": "Rajbari",
+        "upazila": "Pangsha",
+        "num_beds": "50"
+    },
+    {
+        "name": "Basail Upazila Health Complex, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Basail",
+        "num_beds": "50"
+    },
+    {
+        "name": "Dhanbari Upazila Health Complex, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Dhanbari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Ghatail Upazila Health Complex, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Ghatail",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kalihati Upazila Health Complex, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Kalihati",
+        "num_beds": "50"
+    },
+    {
+        "name": "Modhupur Upazila Health Complex, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Madhupur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sakhipur Upazila Health Complex, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Sakhipur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chitalmari Upazila Health Complex, Bagerhat",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Chitalmari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Fakirhat Upazila Health Complex, Bagerhat",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Fakirhat",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kachua Upazila Health Complex, Bagerhat",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Kachua",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mollahat Upazila Health Complex, Bagerhat",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Mollahat",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mongla Upazila Health Complex, Bagerhat",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Mongla",
+        "num_beds": "50"
+    },
+    {
+        "name": "Rampal Upazila Health Complex, Bagerhat",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "upazila": "Rampal",
+        "num_beds": "50"
+    },
+    {
+        "name": "Abhoynagar Upazila Health Complex, Jashore",
+        "division": "Khulna",
+        "district": "Jashore",
+        "upazila": "Abhaynagar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chowgacha Upazila Health Complex, Jashore",
+        "division": "Khulna",
+        "district": "Jashore",
+        "upazila": "Chaugachha",
+        "num_beds": "50"
+    },
+    {
+        "name": "Keshabpur Upazila Health Complex, Jashore",
+        "division": "Khulna",
+        "district": "Jashore",
+        "upazila": "Keshabpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Harinakunda Upazila Health Complex, Jhenaidah",
+        "division": "Khulna",
+        "district": "Jhenaidah",
+        "upazila": "Harinakunda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kaliganj Upazila Health Complex, Jhenaidah",
+        "division": "Khulna",
+        "district": "Jhenaidah",
+        "upazila": "Kaliganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kotchandpur Upazila Health Complex, Jhenaidah",
+        "division": "Khulna",
+        "district": "Jhenaidah",
+        "upazila": "Kotchandpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Moheshpur Upazila Health Complex, Jhenaidah",
+        "division": "Khulna",
+        "district": "Jhenaidah",
+        "upazila": "Maheshpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Dacope Upazila Health Complex, Khulna",
+        "division": "Khulna",
+        "district": "Khulna",
+        "upazila": "Dacope",
+        "num_beds": "50"
+    },
+    {
+        "name": "Fultala Upazila Health Complex, Khulna",
+        "division": "Khulna",
+        "district": "Khulna",
+        "upazila": "Phultala",
+        "num_beds": "50"
+    },
+    {
+        "name": "Bheramara Upazila Health Complex, Kushtia",
+        "division": "Khulna",
+        "district": "Kushtia",
+        "upazila": "Bheramara",
+        "num_beds": "50"
+    },
+    {
+        "name": "Daulatpur Upazila Health Complex, Kushtia",
+        "division": "Khulna",
+        "district": "Kushtia",
+        "upazila": "Daulatpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mirpur Upazila Health Complex, Kushtia",
+        "division": "Khulna",
+        "district": "Kushtia",
+        "upazila": "Mirpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gangni Upazila Health Complex, Meherpur",
+        "division": "Khulna",
+        "district": "Meherpur",
+        "upazila": "Gangni",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kalia Upazila Health Complex, Narail",
+        "division": "Khulna",
+        "district": "Narail",
+        "upazila": "Kalia",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kalaroa Upazila Health Complex, Satkhira",
+        "division": "Khulna",
+        "district": "Satkhira",
+        "upazila": "Kalaroa",
+        "num_beds": "50"
+    },
+    {
+        "name": "Shyamnagar Upazila Health Complex, Satkhira",
+        "division": "Khulna",
+        "district": "Satkhira",
+        "upazila": "Shyamnagar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Tala Upazila Health Complex, Satkhira",
+        "division": "Khulna",
+        "district": "Satkhira",
+        "upazila": "Tala",
+        "num_beds": "50"
+    },
+    {
+        "name": "Islampur Upazila Health Complex, Jamalpur",
+        "division": "Mymensingh",
+        "district": "Jamalpur",
+        "upazila": "Islampur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Melandaha Upazila Health Complex, Jamalpur",
+        "division": "Mymensingh",
+        "district": "Jamalpur",
+        "upazila": "Melandaha",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sarishabari Upazila Health Complex, Jamalpur",
+        "division": "Mymensingh",
+        "district": "Jamalpur",
+        "upazila": "Sarishabari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gofargaon Upazila Health Complex, Mymensingh",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Gaffargaon",
+        "num_beds": "50"
+    },
+    {
+        "name": "Iswarganj Upazila Health Complex, Mymensingh",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Ishwarganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Nandail Upazila Health Complex, Mymensingh",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Nandail",
+        "num_beds": "50"
+    },
+    {
+        "name": "Phulpur Upazila Health Complex, Mymensingh, Mymensingh",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Phulpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Trisal Upazila Health Complex, Mymensingh",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "upazila": "Trishal",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kalmakanda Upazila Health Complex, Netrakona",
+        "division": "Mymensingh",
+        "district": "Netrakona",
+        "upazila": "Kalmakanda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kendua Upazila Health Complex, Netrakona",
+        "division": "Mymensingh",
+        "district": "Netrakona",
+        "upazila": "Kendua",
+        "num_beds": "50"
+    },
+    {
+        "name": "Madan Upazila Health Complex, Netrakona",
+        "division": "Mymensingh",
+        "district": "Netrakona",
+        "upazila": "Madan",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mohanganj Upazila  Health  Complex, Netrakona",
+        "division": "Mymensingh",
+        "district": "Netrakona",
+        "upazila": "Mohanganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Purbadhala Upazila Health Complex, Netrakona",
+        "division": "Mymensingh",
+        "district": "Netrakona",
+        "upazila": "Purbadhala",
+        "num_beds": "50"
+    },
+    {
+        "name": "Adamdighi Upazila Health Complex, Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Adamdighi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Organization Name",
+        "division": "Division Name",
+        "district": "District Name",
+        "upazila": "Upazila Name",
+        "num_beds": "No. of\nBed"
+    },
+    {
+        "name": "Dhunat Upazila Health Complex, Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Dhunat",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gabtali Upazila Health Complex, Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Gabtali",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kahaloo Upazila Health Complex, Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Kahaloo",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sariakandi Upazila Health Complex, Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Sariakandi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Shibganj Upazila Health Complex, Bogra., Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Shibganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sonatala Upazila Health Complex, Bogura",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Sonatola",
+        "num_beds": "50"
+    },
+    {
+        "name": "Shibganj Upazila Health Complex, Chapai Nawabganj",
+        "division": "Rajshahi",
+        "district": "Chapai Nawabganj",
+        "upazila": "Shibganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Akkelpur Upazila Health Complex, Joypurhat",
+        "division": "Rajshahi",
+        "district": "Joypurhat",
+        "upazila": "Akkelpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kalai Upazila Health Complex, Joypurhat",
+        "division": "Rajshahi",
+        "district": "Joypurhat",
+        "upazila": "Kalai",
+        "num_beds": "50"
+    },
+    {
+        "name": "Badalgachi Upazila Health Complex, Naogaon",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Badalgachhi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Dhamairhat Upazila Health Complex, Naogaon",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Dhamoirhat",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mohadevpur Upazila Health Complex, Naogaon",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Mahadebpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Manda Upazila Health Complex, Naogaon",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Manda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Patnitala Upazila Health Complex, Naogaon",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Patnitala",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sapahar Upazila Health Complex, Naogaon",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "upazila": "Sapahar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Lalpur Upazila Health Complex, Natore",
+        "division": "Rajshahi",
+        "district": "Natore",
+        "upazila": "Lalpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chatmohar Upazila Health Complex, Pabna",
+        "division": "Rajshahi",
+        "district": "Pabna",
+        "upazila": "Chatmohar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Faridpur Upazila Health Complex, Pabna",
+        "division": "Rajshahi",
+        "district": "Pabna",
+        "upazila": "Faridpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Sujanagar Upazila Health Complex, Pabna",
+        "division": "Rajshahi",
+        "district": "Pabna",
+        "upazila": "Sujanagar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Charghat Upazila Health Complex, Rajshahi",
+        "division": "Rajshahi",
+        "district": "Rajshahi",
+        "upazila": "Charghat",
+        "num_beds": "50"
+    },
+    {
+        "name": "Durgapur Upazila Health Complex, Rajshahi",
+        "division": "Rajshahi",
+        "district": "Rajshahi",
+        "upazila": "Durgapur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Puthia Upazila Health Complex, Rajshahi",
+        "division": "Rajshahi",
+        "district": "Rajshahi",
+        "upazila": "Puthia",
+        "num_beds": "50"
+    },
+    {
+        "name": "Tanore Upazila Health Complex, Rajshahi",
+        "division": "Rajshahi",
+        "district": "Rajshahi",
+        "upazila": "Tanore",
+        "num_beds": "50"
+    },
+    {
+        "name": "Bochaganj Upazila Health Complex, Dinajpur",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazila": "Bochaganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Parbatipur Upazila Health Complex, Dinajpur",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazila": "Parbatipur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gobindaganj Upazila Health Complex, Gaibandha",
+        "division": "Rangpur",
+        "district": "Gaibandha",
+        "upazila": "Gobindaganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Chilmari Upazila Health Complex, Kurigram",
+        "division": "Rangpur",
+        "district": "Kurigram",
+        "upazila": "Chilmari",
+        "num_beds": "50"
+    },
+    {
+        "name": "Ulipur Upazila Health Complex, Kurigram",
+        "division": "Rangpur",
+        "district": "Kurigram",
+        "upazila": "Ulipur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kaliganj Upazila Health Complex, Lalmonirhat",
+        "division": "Rangpur",
+        "district": "Lalmonirhat",
+        "upazila": "Kaliganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Dimla Upazila Health Complex, Nilphamari",
+        "division": "Rangpur",
+        "district": "Nilphamari",
+        "upazila": "Dimla",
+        "num_beds": "50"
+    },
+    {
+        "name": "Domar Upazila Health Complex, Nilphamari",
+        "division": "Rangpur",
+        "district": "Nilphamari",
+        "upazila": "Domar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Boda Upazila Health Complex, Panchagarh",
+        "division": "Rangpur",
+        "district": "Panchagarh",
+        "upazila": "Boda",
+        "num_beds": "50"
+    },
+    {
+        "name": "Debiganj Upazila Health Complex, Panchagarh",
+        "division": "Rangpur",
+        "district": "Panchagarh",
+        "upazila": "Debiganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Tetulia Upazila Health Complex, Panchagarh",
+        "division": "Rangpur",
+        "district": "Panchagarh",
+        "upazila": "Tentulia",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gangachara Upazila Health Complex, Rangpur",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazila": "Gangachara",
+        "num_beds": "50"
+    },
+    {
+        "name": "Mithapukur Upazila Health Complex, Rangpur",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazila": "Mithapukur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Pirganj Upazila Health Complex, Rangpur",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazila": "Pirganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Baliadangi Upazila Health Complex, Thakurgaon",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazila": "Baliadangi",
+        "num_beds": "50"
+    },
+    {
+        "name": "Haripur Upazila Health Complex, Thakurgaon",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazila": "Haripur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Ranisankhail Upazila Health Complex, Thakurgaon",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazila": "Ranisankail",
+        "num_beds": "50"
+    },
+    {
+        "name": "Madhabpur Upazila Health Complex, Habiganj",
+        "division": "Sylhet",
+        "district": "Habiganj",
+        "upazila": "Madhabpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Kulaura Upazila Health Complex, Maulvibazar",
+        "division": "Sylhet",
+        "district": "Maulvibazar",
+        "upazila": "Kulaura",
+        "num_beds": "50"
+    },
+    {
+        "name": "Jagannathpur Upazila Health Complex, Sunamganj",
+        "division": "Sylhet",
+        "district": "Sunamganj",
+        "upazila": "Jagannathpur",
+        "num_beds": "50"
+    },
+    {
+        "name": "Beanibazar Upazila Health Complex, Sylhet",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "upazila": "Beanibazar",
+        "num_beds": "50"
+    },
+    {
+        "name": "Golapganj Upazila Health Complex, Sylhet",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "upazila": "Golapganj",
+        "num_beds": "50"
+    },
+    {
+        "name": "Gowainghat Upazila Health Complex, Sylhet",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "upazila": "Gowainghat",
+        "num_beds": "50"
+    }
+]

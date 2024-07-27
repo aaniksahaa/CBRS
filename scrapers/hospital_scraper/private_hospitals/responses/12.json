@@ -1,0 +1,1007 @@
+{
+    "draw": 12,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Al-Fe Diagnostic Center and Hospital",
+            "HSM94428",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "42/A Baghmara Road"
+        ],
+        [
+            2,
+            "Al-Habib Medical Service & Hospital (Pvt.)",
+            "HSM16910",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Sonaimuri",
+            "Kasipur Bazar, Sonaimuri, Noakhali "
+        ],
+        [
+            3,
+            "Al-Habib Medical Service & Hospital (Pvt.)",
+            "HSM24285",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Sonaimuri",
+            "Kasipur Bazar, Sonaimuri, Noakhali"
+        ],
+        [
+            4,
+            "AL-HAJJ M. A. RASHID GENEREL  HOSPITAL",
+            "HSM27293",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Melandaha",
+            "MALONCHA, MELANDHA, JAMALPUR"
+        ],
+        [
+            5,
+            "Al-Hajj Shamsul Haque & Misses Haque Hospital.",
+            "HSM68650",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Muradnagar",
+            "Haydorabad, Bangora Bazar, Muradnagar, Comilla"
+        ],
+        [
+            6,
+            "Al-Hajj Shamsul Haque & Misses Haque Hospital.",
+            "HSM07229",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "Haydorabad, Bangora Bazar, Muradnagar, Comilla"
+        ],
+        [
+            7,
+            "AL-HAKIM EYE HOSPITAL & PHACO CENTER",
+            "HSM60640",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Jatrabari",
+            "249/4, South Jatrabari, Dhaka"
+        ],
+        [
+            8,
+            "Al-Hamad Medical Centre Ltd.",
+            "HSM48687",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Malik House, Waivs/86, Amberkhana, Sylhet."
+        ],
+        [
+            9,
+            "Al-Hamra Pvt hospital",
+            "HSM34390",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "puratonhospital road. Moulvibazar"
+        ],
+        [
+            10,
+            "Al-Hayat Diagnostic",
+            "HSM05287",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Chowmuhoni Powroshova, Begumganj, Noakahali"
+        ],
+        [
+            11,
+            "Al-Hayat General Hospital",
+            "HSM88083",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "Chowmuhoni Powroshova, Begumganj, Noakahali"
+        ],
+        [
+            12,
+            "Al-Hayat General Hospital & Diagnostic Center",
+            "HSM96116",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Kapasia",
+            "Fakir Mojnusha Bridge,Kapasia,Gazipur."
+        ],
+        [
+            13,
+            "Al-Hayat General Hospital & Diagnostic Center",
+            "HSM86756",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kapasia",
+            "Fakir Mojnusha Bridge,Kapasia,Gazipur"
+        ],
+        [
+            14,
+            "Al-Hayat Hospital & Diagnostic Center",
+            "HSM06364",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Jashore Sadar",
+            "Central Road, Ghope, Jashore"
+        ],
+        [
+            15,
+            "Al-Helal  Specialized Hospital Limited",
+            "HSM32603",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kafrul",
+            "150, Rokeya Sarani, Senpara-Parbota, Mirpur, Dhaka-1216."
+        ],
+        [
+            16,
+            "Al-Helal  Specialized Hospital Limited (Blood Bank)",
+            "HSM57309",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Kafrul",
+            "150, Begum Rokeya Sarani, Senpara-Parbota, Mirpur-10, Dhaka-1216"
+        ],
+        [
+            17,
+            "Al-Helal  Specialized Hospital Limited (Diagnostic Centre)",
+            "HSM42745",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kafrul",
+            "150,  Begum Rokeya Sarani, Senpara, Parbota, Mirpur-10, Dhaka-1216."
+        ],
+        [
+            18,
+            "Al-Helal Heart & Medical Centre",
+            "HSM34064",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Faridgonj,Chandpur,Dhaka, Bangladesh"
+        ],
+        [
+            19,
+            "AL-HERA CLINIC (DIAGNOSTIC)",
+            "HSM76935",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Gomastapur",
+            "Puraton Bazar, Rohanpur, Gomastapur, Chapainawabganj"
+        ],
+        [
+            20,
+            "AL-HERA DIAGNOSTIC & CONSULTATION CENTRE, RAJSHAHI",
+            "HSM85674",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "Komol Bhavan, House-374,Shersah Road, , Laxmipur, Rajpara, Rajshahi"
+        ],
+        [
+            21,
+            "AL-HERA DIAGNOSTIC AND COSULTATION CENTER",
+            "HSM62682",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Zakiganj",
+            "Kaliganj Bazar,Zakiganj, Sylhet."
+        ],
+        [
+            22,
+            "AL-Hera Diagnostic Center",
+            "HSM12226",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Road, Jibannagar, Chuadanga. "
+        ],
+        [
+            23,
+            "Al-Hera Diagnostic Center",
+            "HSM15602",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            "Hospital Gate, Sarishabari, Jamalpur"
+        ],
+        [
+            24,
+            "AL-HERA DIAGNOSTIC CENTRE ",
+            "HSM73879",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "J.S Plaza, Dhaka Road, Kanaikhali, Natore"
+        ],
+        [
+            25,
+            "AL-Hera genarel hospital",
+            "HSM12030",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "SOYADHANGORA,KAZIPUR RASTAR MOR,SIRAJGONJ"
+        ],
+        [
+            26,
+            "AL-Hera genarel hospital",
+            "HSM83381",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "SOYADHANGORA,KAZIPUR RASTAR MOR,SIRAJGONJ"
+        ],
+        [
+            27,
+            "al-hera haspata (pvt) and diagnostic centre",
+            "HSM65506",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "\u09ad\u09be\u099f\u09bf\u0995\u09be\u09b6\u09b0 \u0997\u09cb\u09b0\u09b8\u09cd\u09a5\u09be\u09a8 \u09ae\u09b8\u099c\u09bf\u09a6 \u09b8\u0982\u09b2\u0997\u09cd\u09a8 \u09b8\u09a6\u09b0 \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            28,
+            "al-hera haspata (pvt) and diagnostic centre",
+            "HSM38944",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "\u09ad\u09be\u099f\u09bf\u0995\u09be\u09b6\u09b0 \u0997\u09cb\u09b0\u09b8\u09cd\u09a5\u09be\u09a8 \u09ae\u09b8\u099c\u09bf\u09a6 \u09b8\u0982\u09b2\u0997\u09cd\u09a8 \u09b8\u09a6\u09b0 \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            29,
+            "Al-Hera Hospital",
+            "HSM99217",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Sreepur",
+            "Mawna Chowrasta , Sreepur , Gazipur"
+        ],
+        [
+            30,
+            "AL-HERA HOSPITAL ",
+            "HSM58961",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Natore Sadar",
+            "J.S Plaza, Dhaka Road, Kanaikhali, Natore"
+        ],
+        [
+            31,
+            "Al-Hera Hospital &  Diagnostic Center",
+            "HSM60634",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Mymensingh Road, Sabalia, Tangail Sadar,Tangail,Bangladesh"
+        ],
+        [
+            32,
+            "AL-HERA HOSPITAL DIAGNOSTIC CENTER",
+            "HSM66453",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "Mawna Chowrasta, Sreepur, Gazipur, "
+        ],
+        [
+            33,
+            "Al-Hera Medical Center",
+            "HSM32789",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Sreepur",
+            "Mawna Chowrasta,Sreepur,Gazipur"
+        ],
+        [
+            34,
+            "Al-Hera Medical Center.",
+            "HSM52989",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Sreepur",
+            "Mawna chowrasta,Sreepur,Gazipur"
+        ],
+        [
+            35,
+            "Al-Hera Siddikia Diagnostic Center",
+            "HSM53778",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "F/15, Nama Bazar, Savar, Dhaka."
+        ],
+        [
+            36,
+            "AL-HERA-CLINIC",
+            "HSM85534",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Singra",
+            "Hospital Gate, Katapukuria, Singra, Natore, Bangladesh."
+        ],
+        [
+            37,
+            "AL-IHSAN GENERAL HOSPITAL",
+            "HSM25673",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Sakhipur",
+            "Shakhipur, Tangail."
+        ],
+        [
+            38,
+            "AL-IHSAN GENERAL HOSPITAL",
+            "HSM66400",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "SAKHIPUR,TANGAIL"
+        ],
+        [
+            39,
+            "AL-INSAF DIAGNOSTIC CENTRE",
+            "HSM46508",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Charfession",
+            "Chowdhory Market, Hospital Road, Charfassion, Bhola."
+        ],
+        [
+            40,
+            "Al-Islam Hospital & Diagnostic Center",
+            "HSM52531",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Comilla."
+        ],
+        [
+            41,
+            "Al-Islam Hospital & Diagnostic Center",
+            "HSM61307",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "New Market, Debidwar, Cumilla."
+        ],
+        [
+            42,
+            "AL-JABER MEDICAL CHECK-UP CENTER",
+            "HSM20320",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Banani",
+            "HOUSE-44, ROAD-15, BLOCK-D, BANANI, DHAKA"
+        ],
+        [
+            43,
+            "AL-JAMI PRIVATE HOSPITAL",
+            "HSM45615",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Bheramara",
+            "Godwon Moare, High Road, Bheramara, Kushtia."
+        ],
+        [
+            44,
+            "Al-Kamy Hospital Ltd.",
+            "HSM40301",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Feni",
+            "Feni Sadar",
+            "Shahid Shahidullah Kaiser Road,Feni."
+        ],
+        [
+            45,
+            "Al-Kamy Hospital Ltd.",
+            "HSM20418",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Shahid Shahidullah Kaiser Road, Feni."
+        ],
+        [
+            46,
+            "Al-Karim Friends Ltd.",
+            "HSM63639",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "Road No-3, House No-34, Block-A, Dhaka Uddan,Mohammadpur, Dhaka-1207"
+        ],
+        [
+            47,
+            "Al-Karim Islami Hospital",
+            "HSM29755",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Hossain Market,Tongi,Gazipur."
+        ],
+        [
+            48,
+            "Al-Karim Islami Hospital",
+            "HSM80001",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Hossain Market,Dhaka Mymensingh Road,Tongi,Gazipur."
+        ],
+        [
+            49,
+            "Al-Khaled Medical Services",
+            "HSM66035",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Subhanighat . Sylhet"
+        ],
+        [
+            50,
+            "Al-khidmah Diagnostic & Eye Care Center",
+            "HSM25262",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Nasrim Lodge, Housing Central Road, Maijdee Court ,Sadar ,Noakhali"
+        ],
+        [
+            51,
+            "AL-KHIDMAH DIAGNOSTIC COMPLEX",
+            "HSM65975",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagacha",
+            "Napid Khula Main Road,Muktagacha"
+        ],
+        [
+            52,
+            "Al-Khidmah Emergency Care & Normal Delivery Hospital",
+            "HSM76986",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Sonaimuri",
+            "B S R Road, Sonaimuri Bazar, Sonaimuri, Noakhali"
+        ],
+        [
+            53,
+            "Al-Khidmah Emergency Care & Normal Delivery Hospital",
+            "HSM49612",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Sonaimuri",
+            "B S R Road, Sonaimuri Bazar, Sonaimuri, Noakhali"
+        ],
+        [
+            54,
+            "AL-KHIDMAH HOSPITAL",
+            "HSM67397",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Gaurnadi",
+            "Hosnabad, Nizam Uddin Colege, Gournadi, Barishal"
+        ],
+        [
+            55,
+            "AL-MADINA CLINIC & DIAGNOSTIC CENTRE",
+            "HSM79473",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Ranisankail",
+            "Hazi Market Sibdigi, Ranisonkil, Thakurgaon"
+        ],
+        [
+            56,
+            "Al-Madina Diagnostic Center",
+            "HSM42111",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Char Fasson",
+            "Hospital Road, Char fasson, Bhola"
+        ],
+        [
+            57,
+            "Al-Madina Diagnostic Center",
+            "HSM36375",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Bakshiganj",
+            "Uttar Bazar, Bakshiganj, Jamalpur"
+        ],
+        [
+            58,
+            "AL-MADINA DIGITAL DIAGNOSTIC CENTER.",
+            "HSM38986",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Nageshwari",
+            "K.B ROAD, NAGESHWARI, KURIGRAM."
+        ],
+        [
+            59,
+            "Al-Madina General Hospital",
+            "HSM02282",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Ijjot Ali Bhobon,Holding No-12,Ramjan Ali College Road,Joyra,Bus Stand,Manikjang-1800"
+        ],
+        [
+            60,
+            "Al-Madina Health Care",
+            "HSM80198",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Nandail",
+            "Hospital Gate, Nandail, Mymensingh"
+        ],
+        [
+            61,
+            "Al-Madina Hospital",
+            "HSM55773",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Madrasamor, South Patuapara, Natore Sadar, Natore."
+        ],
+        [
+            62,
+            "AL-MADINA HOSPITAL & DIAGNOSTIC CENTER(PVT)",
+            "HSM18194",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Faridganj",
+            "FARIDGONJ,CHANDPUR"
+        ],
+        [
+            63,
+            "Al-Madina Hospital and Digital Diagnostic Centre",
+            "HSM78716",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Monipur Bazar,Monipur,Gazipur Sadar,Gazipur."
+        ],
+        [
+            64,
+            "Al-Madina Hospital and Digital Diagnostic Centre",
+            "HSM80011",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Monipur Bazar,Monipur,Gazipur Sadar,Gazipur."
+        ],
+        [
+            65,
+            "Al-Madina Islami Hospital",
+            "HSM72314",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Jalmachmari Hajipara, Shibganj, Chapainawabganj"
+        ],
+        [
+            66,
+            "Al-Madina Islami Hospital(Pathology)",
+            "HSM30766",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Jalmachmari Hajipara, Shibganj, Chapainawabganj"
+        ],
+        [
+            67,
+            "Al-Madina Islamia Adhunik Eye Hospital",
+            "HSM48464",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Mirzapur",
+            "Notun Bazar Cadet collage Bus stand,Sayeed Mention 2nd Floor,Mirzapur,Tangail"
+        ],
+        [
+            68,
+            "Al-Madina Medical Center ",
+            "HSM19810",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Bhairab",
+            "Kamalpur, Bhairab, kishoregonj"
+        ],
+        [
+            69,
+            "Al-Madina Medical Center ",
+            "HSM93272",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bhairab",
+            "Kamalpur, Bhairab, kishoregonj"
+        ],
+        [
+            70,
+            "Al-Madina Nursing Home & Diagonstic Center",
+            "HSM95155",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Jatrabari",
+            "1726 North Rayerbag Mosjid Road,Hazi Wadud Market,Jatrabari,Dhaka-1362"
+        ],
+        [
+            71,
+            "Al-Madina Nursing Home & Diagonstic Center",
+            "HSM10763",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Jatrabari",
+            "1726 North Rayerbag Mosjid Road,Hazi Wadud Market,Jatrabari,Dhaka-1362"
+        ],
+        [
+            72,
+            "AL-MADINA SQUARE HOSPITAL AND DIAGNOSTIC CENTER ",
+            "HSM68188",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhamrai",
+            "MASTER PLAZA,B/62,HOSPITAL GATE,ISLAMPUR,DHAMRAI,DHAKA."
+        ],
+        [
+            73,
+            "AL-MADINA SQUARE HOSPITAL AND DIAGNOSTIC CENTER ",
+            "HSM06913",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhamrai",
+            "MASTER PLAZA,B/62,HOSPITAL GATE,ISLAMPUR,DHAMRAI,DHAKA"
+        ],
+        [
+            74,
+            "Al-Maha Diagnostic Center & Medical Services",
+            "HSM22206",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "53/3 1st Floor, DIT Extension Road, Nayapaltan, Fakirapool, Dhaka-1000"
+        ],
+        [
+            75,
+            "Al-Mamun Diagnostic Center",
+            "HSM95250",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Chuadanga Bus Stand,Kushtia Road,Jhenaidah."
+        ],
+        [
+            76,
+            "Al-Mamun General Hospital",
+            "HSM03317",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Chuadanga Bus Stand,Kushtia Road,Jhenaidah."
+        ],
+        [
+            77,
+            "Al-Manar Diagnostic Center",
+            "HSM92729",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "11 Green view Housing, Katasur, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            78,
+            "Al-Manar Hospital  Ltd.",
+            "HSM63255",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "Plot # Umo, Block # Rossoi, Satmasjid Road, Lalmatia, Mohammadpur, Dhaka"
+        ],
+        [
+            79,
+            "Al-Manar Hospital Ltd.",
+            "HSM77776",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "Plot # Umo, Block # Rossoi, Satmasjid Road, Lalmatia, Mohammadpur, Dhaka"
+        ],
+        [
+            80,
+            "Al-Manar Hospital Ltd.",
+            "HSM62687",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mohammadpur",
+            "Plot # Umo, Block # Rossoi, Satmasjid Road, Lalmatia, Mohammadpur, Dhaka"
+        ],
+        [
+            81,
+            "Al-Manar Hospital Ltd.",
+            "HSM16872",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "11 Green view Housing , Katasur, Mohammadpur, Dhaka-1207."
+        ],
+        [
+            82,
+            "Al-Markazul Islami Hospital",
+            "HSM44768",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "21/717, Babar Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            83,
+            "AL-MARKAZUL ISLAMI HOSPITAL",
+            "HSM22770",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "House # 21/17, Babar Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            84,
+            "AL-MODINA (PVT) CLINIC",
+            "HSM28778",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Alamdanga",
+            "SADA BRIDGMOR, ALAMDANGA, CHUADANGA"
+        ],
+        [
+            85,
+            "Al-Modina (Pvt) Hospital & Diagnostic Centre",
+            "HSM59975",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Sharsha",
+            "Baganchara Bazar, Sharsha, Jashore."
+        ],
+        [
+            86,
+            "AL-MODINA DIAGNOSTIC CENTER",
+            "HSM62076",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "C&B More, Rajpara, Rajshahi."
+        ],
+        [
+            87,
+            "Al-Modina Diagnostic Center",
+            "HSM61693",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Mohanganj",
+            "Hospital Road, Doulatpur, Mohongonj, Netrokona"
+        ],
+        [
+            88,
+            "AL-MODINA DIAGNOSTIC CENTER",
+            "HSM57430",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Hospital Road ,Kurigram"
+        ],
+        [
+            89,
+            "AL-MODINA DIAGNOSTIC CENTRE",
+            "HSM06941",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Madarganj",
+            "BALIJURI, MADARGANJ, JAMALPUR, MYMENSINGH"
+        ],
+        [
+            90,
+            "Al-Modina Diagnostic Centre",
+            "HSM37598",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Shyamnagar",
+            "Shahid Mukti Joddha Sarak, Badaghata, Shyamnagar, Satkhira."
+        ],
+        [
+            91,
+            "Al-Modina Digital Daigonistic Center",
+            "HSM34842",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Saturia",
+            "Saturia Hospital Road, Saturia, Manikganj"
+        ],
+        [
+            92,
+            "AL-MODINA GENERAL HOSPITAL & TRAUMA CENTER",
+            "HSM27368",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "HABIB SUPER MARKET, CHANDINA RAOD, DEBIDWAR, CUMILLA"
+        ],
+        [
+            93,
+            "AL-MODINA NURSING HOME ",
+            "HSM62455",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "LAXMIPUR, RAJPARA, RAJSHAHI."
+        ],
+        [
+            94,
+            "AL-MODINA NURSING HOME",
+            "HSM29950",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Manda",
+            "Sabaihat, Manda, Naogaon, Bangladesh."
+        ],
+        [
+            95,
+            "AL-Modinagenarelhospital",
+            "HSM53949",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sirajganj",
+            "Ullahpara",
+            "Sirajgonj Road, Solonga, Ullapara, Sirajgonj"
+        ],
+        [
+            96,
+            "AL-MOKKA GENERAL HOSPITAL",
+            "HSM34056",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "7/1, Dharmotola Road, Don chamber, Narayanganj"
+        ],
+        [
+            97,
+            "Al-Mon Diagnostic Center",
+            "HSM11833",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Kendua",
+            "Jahera Plaza , Bus Station Road, Kendua, Netrokona, Mymensingh."
+        ],
+        [
+            98,
+            "AL-NAHIYAN DIAGNOSTIC & MEDICAL SERVICES",
+            "HSM30397",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Rajshahi",
+            "Boalia",
+            "AD Complex, 1st Floor, Gonokpara, Ghoramara-6100, Boalia, Rajshahi."
+        ],
+        [
+            99,
+            "AL-NASAR CLINIC (PATHOLOGY)",
+            "HSM53795",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Nandail",
+            "Hospital Gate, Nandail, Mymensingh"
+        ],
+        [
+            100,
+            "AL-NOMAN DIAGNOSTIC CENTER",
+            "HSM17280",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bajitpur",
+            "Rabirkandi Hospital Road, Bajitpur, Kishoreganj"
+        ]
+    ]
+}

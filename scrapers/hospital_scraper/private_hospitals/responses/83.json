@@ -1,0 +1,1007 @@
+{
+    "draw": 83,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "LIV-Hematology Centre",
+            "HSM28306",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Boalia",
+            "51, Laxmipur Greater Road Opposite of GPO, Rajshahi-6000."
+        ],
+        [
+            2,
+            "Liver Gastric Specialized Hospital",
+            "HSM67712",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dhanmondi",
+            "House#75, Road#5/A, Dhanmondi R/A, Dhaka"
+        ],
+        [
+            3,
+            "Liver Gastric Specialized Hospital  ",
+            "HSM36529",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "House#75, Road#5/A, Dhanmondi R/A, Dhaka"
+        ],
+        [
+            4,
+            "Liza Dental Care",
+            "HSM32742",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Tangail",
+            "Sakhipur",
+            "Sakhipur, Tangail"
+        ],
+        [
+            5,
+            "Liza Health Care",
+            "HSM15627",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Pangsha",
+            "Pangsha, Rajbari."
+        ],
+        [
+            6,
+            "Liza Health Care",
+            "HSM58739",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Pangsha",
+            "Pangsha, Rajbari."
+        ],
+        [
+            7,
+            "Loardhardinge Diagnostic Center",
+            "HSM57892",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Lalmohan",
+            "\u09b2\u09b0\u09cd\u09a1\u09b9\u09be\u09b0\u09cd\u09a1\u09bf\u099e\u09cd\u099c \u09ac\u09be\u099c\u09be\u09b0, \u09aa\u09c1\u09b0\u09be\u09a4\u09a8 \u09aa\u09b0\u09bf\u09b7\u09a6 \u09b0\u09cb\u09a1, \u09b2\u09be\u09b2\u09ae\u09cb\u09b9\u09a8, \u09ad\u09cb\u09b2\u09be\u0964"
+        ],
+        [
+            8,
+            "Lohagara Adhunik Hospital",
+            "HSM14828",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "Main Road, Amirabad, Lohagara, Chittagong."
+        ],
+        [
+            9,
+            "Lohagara City Hospital Ltd",
+            "HSM70647",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Lohagara",
+            "Mostafa City, Main Road, Battali, Lohagara, Chittagong."
+        ],
+        [
+            10,
+            "Lohagara City Hospital Ltd.",
+            "HSM25855",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "Mostafa City, Main Road, Battali, Lohagara, Chittagong."
+        ],
+        [
+            11,
+            "Lohagara Diabatic General Hospital",
+            "HSM50671",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "Purtan Thana Gate, Main Road, Lohagara, Chittagong"
+        ],
+        [
+            12,
+            "Lohagara Diabatic General Hospital & Diagnostic Center.",
+            "HSM67511",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Puratan Thana Gate,Main Road,Lohagara,Chittagong."
+        ],
+        [
+            13,
+            "Lohagara General Diagnostic Center",
+            "HSM17642",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            " Main Road,Amirabad, Lohagara, Chattogram."
+        ],
+        [
+            14,
+            "Lohagara General Hospital ",
+            "HSM33998",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "Main Road, Lohagara, Chittagong."
+        ],
+        [
+            15,
+            "LOHAGARA MA-MONI HOSPITAL &  DIAGNOSTIC CENTER LTD.",
+            "HSM07900",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "AMIRABAD,BATTALI,LOHAGARA,CHITTAGONG"
+        ],
+        [
+            16,
+            "LOHAGARA MA-MONI HOSPITAL LTD.",
+            "HSM25817",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "AMIRABAD,BATTALI,LOHAGARA,CHITTAGONG."
+        ],
+        [
+            17,
+            "LOHAGARA MAA-SHISU DIAGNOSTIC CENTER",
+            "HSM72519",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Main Road,Amirabad,Lohagara,Chittagong."
+        ],
+        [
+            18,
+            "LOHAGARA MAA-SHISU HOSPITAL",
+            "HSM46237",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "Main Road,Amirabad,Lohagara,Chittagong."
+        ],
+        [
+            19,
+            "Lohagara Maternity & General Hospital",
+            "HSM06586",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Lohagara",
+            "Main Road, Lohagara, Chittagong."
+        ],
+        [
+            20,
+            "Lohagara Maternity Diagonstic Center",
+            "HSM71392",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Main Road, Lohagara, Chittagong"
+        ],
+        [
+            21,
+            "LOKMAN HOSSAIN (PVT) HOSPITAL",
+            "HSM43509",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Alamdanga",
+            "COLLEGE PARA, ALAMDANGA, CHUADANGA"
+        ],
+        [
+            22,
+            "LOKNATH DIAGNOSTIC CENTRE",
+            "HSM05046",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Tala",
+            "Patkelghata High School Road, Tala, Satkhira"
+        ],
+        [
+            23,
+            "LOKNATH NURSING HOME",
+            "HSM52963",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Satkhira",
+            "Tala",
+            "Patkelghata High School Road, Tala, Satkhira"
+        ],
+        [
+            24,
+            "Lolati Health and Nutrition Centre",
+            "HSM23599",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Sonargaon",
+            "House- 55, Road- 01, Word- 08, Block- H, Lolati, PO- Borab, Union-  Kanchpur,  Thana- Sonargaon, Narayanganj."
+        ],
+        [
+            25,
+            "LONG LIFE DIAGNOSTIC CENTER",
+            "HSM28624",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Sreepur",
+            "Hospital gat Collage Road,Sreepur,Magura.Bangladesh."
+        ],
+        [
+            26,
+            "LONG LIFE DIAGNOSTIC CENTRE.",
+            "HSM47231",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "Main Bus Stand, Moszid Market, Kaliganj, Jhenaidah."
+        ],
+        [
+            27,
+            "LONG LIFE HOSPITAL LIMITED",
+            "HSM72118",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "161/A, Lake Circus, Kalabagan, Dhaka-1205"
+        ],
+        [
+            28,
+            "Long Life Hospital Limited",
+            "HSM33096",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "161/A, Lack Circus, Kalabagan, Dhaka"
+        ],
+        [
+            29,
+            "Lopa Nursing Home",
+            "HSM97652",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            30,
+            "Lopa Pathological Lab",
+            "HSM84407",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Narayanpur, Sherpur Town, Sherpur"
+        ],
+        [
+            31,
+            "LOTAKHOLA ASHA CLINIC & DIAGNOSTIC CENTER",
+            "HSM09123",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dohar",
+            "0897-00, Lotakhola New Bazar, Joypara, Dohar, Dhaka"
+        ],
+        [
+            32,
+            "LOTAKHOLA ASHA CLINIC & DIAGNOSTIC CENTER",
+            "HSM26638",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "0897-00, Lotakhola New Bazar, Joypara, Dohar, Dhaka"
+        ],
+        [
+            33,
+            "LOTRA SHAFI HEALTH DOCTORS & DIAGNOSTIC CENTER",
+            "HSM14893",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Shahrasti",
+            "Lotra Bazar, Shahrasti, Chandpur"
+        ],
+        [
+            34,
+            "LOTUS  HOSPITAL.",
+            "HSM66849",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kumarkhali",
+            "Fakuruddin lane, south hospital road, Rafi Tower, Kumarkhali, Kushtia. "
+        ],
+        [
+            35,
+            "Lotus Diagnostic Center",
+            "HSM91006",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kumarkhali",
+            "Fakuruddin lane, south hospital road, Rafi Tower, Kumarkhali, Kushtia. "
+        ],
+        [
+            36,
+            "LOTUS EYE HOSPITAL",
+            "HSM35035",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kumarkhali",
+            "Fakuruddin lane, south hospital road, Rafi Tower, Kumarkhali, Kushtia. "
+        ],
+        [
+            37,
+            "LOTUS MEDICAL CENTRE",
+            "HSM40746",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Kafrul",
+            "Jahangir Tower, Plot- M5, 3rd Floor, Mirpur\r\nHousing Estate, Mirpur-14, Kafrul, Dhaka-1206"
+        ],
+        [
+            38,
+            "LOVELY HEALTH CARE DIGITAL DIAGNOSTIC AND CONSULTATION CENTRE",
+            "HSM38953",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Sadhan Super Market, Thakurbari, College Road"
+        ],
+        [
+            39,
+            "Lubana General Hospital (Pvt.) Ltd.",
+            "HSM09807",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Paschim",
+            "09, Garib-e-Newaz Avenue, Sector-13, Uttara, Dhaka-1230."
+        ],
+        [
+            40,
+            "Lubana General Hospital (Pvt.) Ltd.",
+            "HSM21796",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Uttara  Paschim",
+            "09, Garib-e-Newaz Avenue, Sector-13, Uttara, Dhaka-1230."
+        ],
+        [
+            41,
+            "Lubana General Hospital(Pvt.) Ltd.",
+            "HSM01793",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "09, Garib-e-Newaz Avenue, Sector-13, Uttara, Dhaka-1230."
+        ],
+        [
+            42,
+            "Lucid Health Care  ",
+            "HSM49062",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Begumganj",
+            "Chayani Purba Bazar, Begumgonj, Noakhali"
+        ],
+        [
+            43,
+            "Lucky Clinic",
+            "HSM30336",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mollahat",
+            "Masterpara,College Road,Mollahat,Bagerhat"
+        ],
+        [
+            44,
+            "Lucky Clinic & Diagnostic Center",
+            "HSM05219",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Mollahat",
+            "Masterapara,College Road,Bagerhat"
+        ],
+        [
+            45,
+            "LUCKY DIABETIC AND DIAGNOSTIC CENTRE",
+            "HSM58267",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "baluka, mymensingh"
+        ],
+        [
+            46,
+            "Lucky Diagnostic Center",
+            "HSM14011",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mongla",
+            "Methakhali,Mongla,Bagerhat"
+        ],
+        [
+            47,
+            "Lucky Hospital.",
+            "HSM39509",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Bus Terminal, Goneshpur, R.K. Road, Sadar, Rangpur"
+        ],
+        [
+            48,
+            "Luminous Healthcare Services",
+            "HSM45355",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "376,Hospital  Road,Joynagar,Netrokona Sadar, Netrokona,Dhaka,Bangladesh"
+        ],
+        [
+            49,
+            "Lutheran Health Care Bangladesh",
+            "HSM09249",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Dumki",
+            "Sreerampur, Dumki, Patuakhali."
+        ],
+        [
+            50,
+            "Lutheran Health Care Bangladesh",
+            "HSM18723",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Dumki",
+            "Dumki, Patuakhali."
+        ],
+        [
+            51,
+            "M A Bari Sasthokendro",
+            "HSM25295",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishoreganj",
+            "Pakundia",
+            "Mothkhola, Pakundia, Kishorgonj"
+        ],
+        [
+            52,
+            "M A Bari Sasthokendro",
+            "HSM80926",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Pakundia",
+            "Mothkhola, Pakundia, Kishorgonj"
+        ],
+        [
+            53,
+            "M H Diagnostic & Consultation Centre",
+            "HSM76406",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Badarganj",
+            "LSD ROAD, SONALI BANK MORE, BADARGANJ, RANGPUR"
+        ],
+        [
+            54,
+            "M K DIAGNOSTIC CENTER",
+            "HSM28012",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Atgharia",
+            "Atgharia Bazar, Atgharia, Pabna"
+        ],
+        [
+            55,
+            "M N HEALTH CARE GENERAL HOSPITAL",
+            "HSM53009",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "Nabinagar Road, Nagarpar, Companiganj\r\nCumilla"
+        ],
+        [
+            56,
+            "M N HEALTH CARE GENERAL HOSPITAL",
+            "HSM51969",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Muradnagar",
+            "Nabinagar Road, Nagarpar, Companiganj\r\nCumilla "
+        ],
+        [
+            57,
+            "M N Healthcare ",
+            "HSM10481",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dakshinkhan",
+            "Cha-21, Civil Aviation Welfare Market, Kawlar Bazar, Airport, Dhaka-1229"
+        ],
+        [
+            58,
+            "M R I POINT COMILLA",
+            "HSM53095",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Badurtala, Comilla"
+        ],
+        [
+            59,
+            "M Rahman Memorial Hospital",
+            "HSM90169",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Hospital Mor, Kalihati, Tangail"
+        ],
+        [
+            60,
+            "M Rahman Memorial Hospital",
+            "HSM50023",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Kalihati",
+            "Hospital Mor, Kalihati, Tangail."
+        ],
+        [
+            61,
+            "M S HUDA INSTITUTE OB MEDICAL TECHNOLOGY ",
+            "HSM56854",
+            "Diagnostic Center",
+            "Category-B",
+            "Chuadanga",
+            "Alamdanga",
+            "HARDI, ALAMDANGA, CHUADANGA"
+        ],
+        [
+            62,
+            "M, M Diagnostic Centre",
+            "HSM49668",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 1115-00, Bangabandhu Road, Thakurgaon."
+        ],
+        [
+            63,
+            "M. A. R. B. Digital Pathology & Diagnostic Centre",
+            "HSM72885",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Kaliganj",
+            "Vill: Kashiram, Post: Karimpur, Post Code: 5520, Upzilla: Kaliganj, Dist: Lalmonirhat"
+        ],
+        [
+            64,
+            "M. A. RASHID DIAGNOSTIC CENTER",
+            "HSM06329",
+            "Diagnostic Center",
+            "Category-A",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "1072, Sardar Para, Jamalpur Sadar, Jamalpur"
+        ],
+        [
+            65,
+            "M. A. RASHID HOSPITAL (PVT) LTD.",
+            "HSM80935",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jamalpur",
+            "Jamalpur Sadar",
+            "1072, Sardar Para, Jamalpur Sadar, Jamalpur"
+        ],
+        [
+            66,
+            "M. AKBAR DIAGNOSTIC CENTER",
+            "HSM26918",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Lohajang",
+            "Village: Dhitpur, Post Office: Kanaksar, P.S: Louhajong, Dist: Munshiganj, Division: Dhaka."
+        ],
+        [
+            67,
+            "M.A. HAQUE DIAGNOSTIC CENTER",
+            "HSM25045",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapainawabganj",
+            "Chapainawabganj Sadar",
+            "Kallyanpur, Fokland More, Nayagoala, Chapainawabganj."
+        ],
+        [
+            68,
+            "M.A. LATIF DIABATIC HOSPITAL AND HEART CARE CENTRE",
+            "HSM68856",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Senbagh",
+            "Hospital Road, Senbag, Noakhali. "
+        ],
+        [
+            69,
+            "M.A.Akbar Clinic & Diagnostic Center",
+            "HSM11977",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "K236,Shibbari,Gazipur"
+        ],
+        [
+            70,
+            "M.A.Akbar Clinic & Diagnostic Center",
+            "HSM69779",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "K 236,Shibbari,Gazipur"
+        ],
+        [
+            71,
+            "M.F.T DIAGNOSTIC CENER",
+            "HSM67494",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Osmani Medical road, Modhu shahid, Sylhet"
+        ],
+        [
+            72,
+            "M.F.T HOSPITAL",
+            "HSM79755",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Osmani medical road, Madhushid, Sylhet."
+        ],
+        [
+            73,
+            "M.H.Chowdhury  General Hospital and Diagnostic  Center",
+            "HSM91566",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kadamtali",
+            "1991 Zia Soroni Road,Dania,Kadamtali,Dhaka "
+        ],
+        [
+            74,
+            "M.H.Chowdhury General Hospital and Diagnostic Center   ",
+            "HSM06770",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kadamtali",
+            "1991,Zia soroni road,Dania,Kadamtali,Dhaka"
+        ],
+        [
+            75,
+            "M.K. Diagnostic  Center and Clinic",
+            "HSM57768",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Chunarughat",
+            "Muslim Plaza,Uttar Bazar,Chunarughat,Habiganj."
+        ],
+        [
+            76,
+            "M.K. Diagnostic Center and Clinic",
+            "HSM23306",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Habiganj",
+            "Chunarughat",
+            "Muslim Plaza, Chunarughat, Habiganj."
+        ],
+        [
+            77,
+            "M.N MEDILAB O CHARITY CLINIC",
+            "HSM84227",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            "Vill: Hirannabari, P.O: Shibpur, P.S: Sarishabari, Dist: Jamalpur."
+        ],
+        [
+            78,
+            "M.R. MEDICAL CENTRE",
+            "HSM33740",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Shahbagh",
+            "14/2 Topkhana Road, Ansari Bhaban, G, Floor, Dhaka-1000"
+        ],
+        [
+            79,
+            "M.R.A DIAGNOSTIC CENTRE",
+            "HSM42075",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Shyamnagar",
+            "Vetkhali A Nur Market, Shyamnagar, Satkhira."
+        ],
+        [
+            80,
+            "M.R.Central Hospital",
+            "HSM94355",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Batiaghata",
+            "Zero Point,Batiaghata,Khulna"
+        ],
+        [
+            81,
+            "M.R.Diagnostic Centre",
+            "HSM51192",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Batiaghata",
+            "Zero Point,Batiaghata,Khulna"
+        ],
+        [
+            82,
+            "M.S CLINIC & DIAGNOSTIC CENTER",
+            "HSM49366",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Soto Chourasta, Town Kalikapur, Patuakhali."
+        ],
+        [
+            83,
+            "M.S CLINIC & DIAGNOSTIC CENTER",
+            "HSM35139",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Soto Chourasta, Town Kalikapur, Patuakhali."
+        ],
+        [
+            84,
+            "M.S DIGITAL DIAGNOSTIC CENTER (PVT.)",
+            "HSM40573",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Sagoria Bazar, Hatiya, Noakhali"
+        ],
+        [
+            85,
+            "M.S FOUNDATION EYE HOSPITAL .",
+            "HSM84004",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "Vill-laxmpur,po-Gpo-6000,-PS-Rajpara, Dist-Rajshahi"
+        ],
+        [
+            86,
+            "M.S. DIAGNOSTIC CENTER ",
+            "HSM19693",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Hetalia Badghat , Patuakhali "
+        ],
+        [
+            87,
+            "M/S .Lifecare Diagnostic & Consultation Center",
+            "HSM74306",
+            "Diagnostic Center",
+            "Category-B",
+            "Jashore",
+            "Abhaynagar",
+            "Buikara.Abhynagor .jessore "
+        ],
+        [
+            88,
+            "M/S D Lab Diagnostic Centre",
+            "HSM23332",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kashiani",
+            "Ramdia, Ramdia College, Kashiany, Gopalgonj"
+        ],
+        [
+            89,
+            "M/S Health Revolution",
+            "HSM17090",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "badda,dhaka,bangladesh"
+        ],
+        [
+            90,
+            "M/S Hoque and Hadi  Memorial Blood Bank, Surgiscope Hospital (Pvt)Ltd. Unit-2",
+            "HSM82632",
+            "Blood Bank",
+            "",
+            "Chattogram",
+            "Panchlaish",
+            "445/466, Katalgonj, Chattogram."
+        ],
+        [
+            91,
+            "M/S Janata Diagnostic Center",
+            "HSM07903",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Bochaganj",
+            "\u09b8\u09c7\u09a4\u09be\u09ac\u0997\u099e\u09cd\u099c ( \u09b8\u09bf\u09a8\u09c7\u09ae\u09be\u09b9\u09b2 \u09b0\u09cb\u09a1),\u09ac\u09cb\u099a\u09be\u0997\u099e\u09cd\u099c,\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0\u0964"
+        ],
+        [
+            92,
+            "M/S Meherunecha Dignostic Center.",
+            "HSM79306",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Jamalganj",
+            "Hospital Gate, Jamalganj, Sunamganj"
+        ],
+        [
+            93,
+            "M/S Meherunnecha Diagnostic Center",
+            "HSM14801",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Jamalganj",
+            "Hospital Gate, Jamalganj, Sunamganj."
+        ],
+        [
+            94,
+            "M/S MOON LAB",
+            "HSM44296",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Lalmohan",
+            "Dak Banglo Road, Lalmohan, Bhola."
+        ],
+        [
+            95,
+            "M/s Prime Diagnostic Center",
+            "HSM03615",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Bochaganj",
+            "\u0986\u09ae\u09cd\u09ac\u09bf\u09df\u09be \u09b8\u09c1\u09aa\u09be\u09b0\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f, \u0989\u09aa\u099c\u09c7\u09b2\u09be \u09b0\u09cb\u09a1, \u09b8\u09c7\u09a4\u09be\u09ac\u0997\u099e\u09cd\u099c, \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0\u0964"
+        ],
+        [
+            96,
+            "M/S REYEL SURGICAL CLINIC ",
+            "HSM23960",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kotalipara",
+            "VILL:-SHIMULIA,BALIAYANGAVANGA,KOTALIPARA,GOPALGANJ."
+        ],
+        [
+            97,
+            "M/S. Medi Lide Lab",
+            "HSM02535",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Bandar",
+            "1229/1297 K B Dovash lain.Goshaildhanga.Agrabad.Chattagram."
+        ],
+        [
+            98,
+            "M/S. SATATA DIGITAL CLINIC & DIAGNOSTIC CENTER",
+            "HSM26479",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "BASHTAIL BAZAR, MIRZAPUR, TANGAIL."
+        ],
+        [
+            99,
+            "M/S. Seba Diagnostic Center",
+            "HSM49933",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Nalitabari",
+            "Gorkhanda, Nalitabari, Sherpur"
+        ],
+        [
+            100,
+            "M/S. SSKS Diagnostic Center,Sylhet",
+            "HSM17371",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Swapnil-47, Ramer Dighirpar, Sylhet"
+        ]
+    ]
+}

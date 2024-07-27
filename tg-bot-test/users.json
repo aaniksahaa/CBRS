@@ -1,27 +1,20 @@
 [
     {
-        "username": "john_doe",
-        "blood_group": "O+",
-        "latitude": 40.7128,
-        "longitude": -74.006,
-        "last_donation_month": "July",
-        "last_donation_year": 2023
-    },
-    {
-        "username": "jane_smith",
-        "blood_group": "A-",
-        "latitude": 34.0522,
-        "longitude": -118.2437,
-        "last_donation_month": "June",
-        "last_donation_year": 2024
-    },
-    {
         "username": "aaniksahaa",
         "chat_id": 1133364176,
         "blood_group": "B+",
         "latitude": 23.73551,
         "longitude": 90.446085,
         "last_donation_month": 5,
+        "last_donation_year": 2024
+    },
+    {
+        "username": null,
+        "chat_id": 6910680506,
+        "blood_group": "O+",
+        "latitude": 23.73551,
+        "longitude": 90.446064,
+        "last_donation_month": 4,
         "last_donation_year": 2024
     }
 ]

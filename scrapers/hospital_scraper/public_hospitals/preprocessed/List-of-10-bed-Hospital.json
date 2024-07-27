@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Kukua 10 bed Hospital",
+        "division": "Barisal",
+        "district": "Barguna",
+        "upazila": "Amtali",
+        "num_beds": "10"
+    },
+    {
+        "name": "Chhakhar 10 bed Hospital",
+        "division": "Barisal",
+        "district": "Barishal",
+        "upazila": "Banaripara",
+        "num_beds": "10"
+    },
+    {
+        "name": "Kirtipasha 10 bed Hospital (RHC)",
+        "division": "Barisal",
+        "district": "Jhalokati",
+        "upazila": "Jhalokati Sadar",
+        "num_beds": "10"
+    },
+    {
+        "name": "Guinak 10 bed Hospital (RHC)",
+        "division": "Chattogram",
+        "district": "Brahmanbaria",
+        "upazila": "Nasirnagar",
+        "num_beds": "10"
+    },
+    {
+        "name": "Sandwip 10 bed Hospital (RHC)",
+        "division": "Chattogram",
+        "district": "Chattogram",
+        "upazila": "Sandwip",
+        "num_beds": "10"
+    },
+    {
+        "name": "St. Martin 10 bed Hospital",
+        "division": "Chattogram",
+        "district": "Cox's Bazar",
+        "upazila": "Teknaf",
+        "num_beds": "10"
+    },
+    {
+        "name": "Kalikapur 10 bed Hospital (RHC)",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "upazila": "Chauddagram",
+        "num_beds": "10"
+    },
+    {
+        "name": "Talbalchhari 10 bed Hospital (RHC)",
+        "division": "Chattogram",
+        "district": "Khagrachhari",
+        "upazila": "Matiranga",
+        "num_beds": "10"
+    },
+    {
+        "name": "Kaptai 10 bed Hospital",
+        "division": "Chattogram",
+        "district": "Rangamati",
+        "upazila": "Kaptai",
+        "num_beds": "10"
+    },
+    {
+        "name": "Hajratpur 10 bed Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Keraniganj",
+        "num_beds": "10"
+    },
+    {
+        "name": "Kunda 10 bed Hospital",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Keraniganj",
+        "num_beds": "10"
+    },
+    {
+        "name": "Gopinathpur 10 bed Hospital (RHC)",
+        "division": "Dhaka",
+        "district": "Gopalganj",
+        "upazila": "Gopalganj Sadar",
+        "num_beds": "10"
+    },
+    {
+        "name": "Kopilmuni 10 bed Hospital",
+        "division": "Khulna",
+        "district": "Khulna",
+        "upazila": "Paikgachha",
+        "num_beds": "10"
+    },
+    {
+        "name": "Khokshabari 10 bed Hospital (RHC)",
+        "division": "Rajshahi",
+        "district": "Sirajganj",
+        "upazila": "Sirajganj Sadar",
+        "num_beds": "10"
+    },
+    {
+        "name": "Ramchandrapur 10 bed Hospital (RHC)",
+        "division": "Rangpur",
+        "district": "Gaibandha",
+        "upazila": "Gaibandha Sadar",
+        "num_beds": "10"
+    },
+    {
+        "name": "Raiganj 10 bed Hospital (RHC)",
+        "division": "Rangpur",
+        "district": "Kurigram",
+        "upazila": "Nageshwari",
+        "num_beds": "10"
+    },
+    {
+        "name": "Dahagram 10 bed Hospital",
+        "division": "Rangpur",
+        "district": "Lalmonirhat",
+        "upazila": "Patgram",
+        "num_beds": "10"
+    }
+]

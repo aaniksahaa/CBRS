@@ -231,17 +231,6 @@ Latitude={latitude}, Longitude={longitude}
 ####################################################################################
 
 
-# Define a message handler function to respond to "hello"
-async def respond_hello(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if ids:
-        await context.bot.send_message(chat_id=ids[0], text='new message in grp')
-    user_text = update.message.text.lower()
-    if 'hello' in user_text:
-        await update.message.reply_text('hi')
-
-
-
-
 ###############################     DATE INPUT     ###############################
 
 async def input_last_donated(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -297,6 +286,43 @@ Thanks for sharing, {user.first_name}! Your updated date is saved.
 
 
 
+###############################     MESSAGE HANDLER     ###############################
+
+# Define a message handler function to respond to "hello"
+async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    user = get_user(update)
+    user_text = update.message.text.lower()
+    # for now, using a naive approach
+    patterns = ['blood', 'ব্লাড', 'রক্ত']
+    flag = False
+    for p in patterns:
+        if p in user_text:
+            flag = True
+            break 
+    if flag:
+        info = get_info(user_text)
+        users = read_users()
+        matches = []
+        for u in users:
+            if(u['blood_group'] == info['blood_group']):
+                matches.append(u)
+
+        response = ''
+        if len(matches) == 0:
+            response = 'Sorry! No matching donor found'
+        else:
+            response = f'{len(matches)} matching donor found. I am notifying...'
+
+        await update.message.reply_text(response)
+
+        for u in matches:
+            text = f'A matching blood seeking request from {get_full_name(user)}! Please help if you can.\n\n{user_text}'
+            await context.bot.send_message(chat_id=u['chat_id'], text=text)
+
+
+####################################################################################
+
+
 # Main function to run the bot
 def main() -> None:
     application = ApplicationBuilder().token(TG_TOKEN).build()
@@ -313,7 +339,7 @@ def main() -> None:
     application.add_handler(MessageHandler(filters.LOCATION, process_location))
 
     # Register the message handler for responding to "hello"
-    application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, respond_hello))
+    application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, process_text))
 
     application.add_handler(CallbackQueryHandler(handle_date_button, pattern='year_|month_'))
     application.add_handler(CallbackQueryHandler(bg_button, pattern='bg_'))

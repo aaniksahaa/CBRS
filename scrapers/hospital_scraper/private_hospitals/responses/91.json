@@ -1,0 +1,1007 @@
+{
+    "draw": 91,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Medical Centre",
+            "HSM59466",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            " 953, O.R. Nizam Road, Panchlaish, Chittagong."
+        ],
+        [
+            2,
+            "Medical Centre Pathology",
+            "HSM00172",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Panchlaish",
+            "953, O, R, Nizam Road, Panchlaish, Chittagong."
+        ],
+        [
+            3,
+            "Medical College for Women & Hospital",
+            "HSM26911",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plote 04, Road 08, Sector 01, P. S -Biman Bandar, Uttara Model Town, Dhaka"
+        ],
+        [
+            4,
+            "Medical College for Women & Hospital",
+            "HSM39217",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot-4, Road-8&9, Sector-1,\r\nUttara, Dhaka-1230\r\n"
+        ],
+        [
+            5,
+            "Medical College for Women & Hospital",
+            "HSM96595",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Uttara  Paschim",
+            "Plot-4, Road-8&9, Sector-1,\r\nUttara, Dhaka-1230\r\n"
+        ],
+        [
+            6,
+            "Medical Lab Services",
+            "HSM14708",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "14/15 Stadium Market, Rekabi Bazar, Sylhet, Bangladesh."
+        ],
+        [
+            7,
+            "MEDICAL PATHOLOGY & DIAGNOSTIC CENTER",
+            "HSM04604",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "114, North Chashara, Narayanganj "
+        ],
+        [
+            8,
+            "Medical Point Diagnostic & Diabetic Center",
+            "HSM38744",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "Mozaffar Ahmed Chowdhury Market, (1st Floor), Mirzakhil Banglabazar Uttar Pashe (Alif Pharmacy er Upore), Satkania, Chattogram."
+        ],
+        [
+            9,
+            "Medical Point Diagnostic Center",
+            "HSM26726",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Chittagong",
+            "Kotwali",
+            "84/A, Khan Manor, Jamal Khan Road, Chittagong"
+        ],
+        [
+            10,
+            "Medical Point Diagnostic Center",
+            "HSM13193",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "21/3, West Kanda Para Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            11,
+            "Medical Science Lab",
+            "HSM35567",
+            "Diagnostic Center",
+            "Category-B",
+            "Satkhira",
+            "Shyamnagar",
+            "Shohid Muktijoddha Sarak. Shyamnagar. Satkhira."
+        ],
+        [
+            12,
+            "Medical Square",
+            "HSM65820",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Chandgaon",
+            "4449,kaptai Rastar Matha,Mohora,Chandgaon,Chittagong."
+        ],
+        [
+            13,
+            "Medical square Unit 02",
+            "HSM74792",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Chuadanga Sadar",
+            "Sheikh Square, K.B  Aman Ali road , Rahattarpol, Bakolia Chittagong"
+        ],
+        [
+            14,
+            "Medical Zone",
+            "HSM00647",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "104/A-16/1 Zafrabad Buddhijibi Road, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            15,
+            "medicare  diagnonostic center",
+            "HSM83722",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "Phulpur,mymensingh"
+        ],
+        [
+            16,
+            "MEDICARE  DIAGNOSTIC  CENTER",
+            "HSM98969",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "HAJI MOHSHIN ROAD, CHANDPUR SADAR, CHANDPUR"
+        ],
+        [
+            17,
+            "Medicare Clinic",
+            "HSM23860",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "PTI Masterpara, Sadar, Chapainawabganj"
+        ],
+        [
+            18,
+            "Medicare Clinic",
+            "HSM95082",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Kort Mosjit Road,Gopalganj Sadar, Gopalganj"
+        ],
+        [
+            19,
+            "Medicare Clinic & Diagnostic ",
+            "HSM04238",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "PTI Masterpara, Sadar, Chapainawabganj"
+        ],
+        [
+            20,
+            "Medicare Clinic & Diagnostic Center",
+            "HSM60282",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Wales Geat Bus Stand Manikganj"
+        ],
+        [
+            21,
+            "MEDICARE CLINIC & NURSING HOME",
+            "HSM81246",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Ghatail",
+            "Ghatail Main Road, Ghatail, Tangail"
+        ],
+        [
+            22,
+            "medicare clinic and diagnostic center",
+            "HSM01084",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagacha",
+            "MOHARAJA ROAD, MUKTAGACHHA"
+        ],
+        [
+            23,
+            "MEDICARE CLINIC AND NURSING HOME",
+            "HSM90497",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Ghatail",
+            "Ghatail Main Road, Ghatail, Tangail."
+        ],
+        [
+            24,
+            "Medicare Computerised Diagnostic Center",
+            "HSM60798",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Old Hospital Road,Habiganj"
+        ],
+        [
+            25,
+            "medicare computerised pathological lab",
+            "HSM02668",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "charpara,mymensingh"
+        ],
+        [
+            26,
+            "MEDICARE DIABETIC & DIAGNOSTIC CENTRE",
+            "HSM27204",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "MASTER BARI, BORAIHAZI, SHIKARPUR NIMTOLA, SIRAJDIKHAN, MUNSHIGANJ"
+        ],
+        [
+            27,
+            "Medicare Diagnostic",
+            "HSM70099",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Wabdapara, College Road, Meherpur"
+        ],
+        [
+            28,
+            "MEDICARE DIAGNOSTIC & CONSULTATION CENTER",
+            "HSM41370",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "Hospital Road, Shibganj, Bogura. "
+        ],
+        [
+            29,
+            "Medicare Diagnostic & Consultation Centre",
+            "HSM78479",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "College Road (Near College Gate), Thanapara, Gaibandha"
+        ],
+        [
+            30,
+            "Medicare Diagnostic & Consultation Centre ",
+            "HSM38318",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "282, Khan Jahan Ali Road, Khulna "
+        ],
+        [
+            31,
+            "Medicare Diagnostic & Diabetes centre",
+            "HSM69533",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Lalpur",
+            "Hospital Gate, Lalpur, Natore"
+        ],
+        [
+            32,
+            "Medicare Diagnostic & Diabetic Centre",
+            "HSM02241",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Nayarhat Bazar, Savar, Dhaka"
+        ],
+        [
+            33,
+            "Medicare diagnostic & Diabetics center",
+            "HSM16918",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Hatgangopara, Bagmara, Rajshahi"
+        ],
+        [
+            34,
+            "Medicare Diagnostic & Hospital",
+            "HSM76894",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kamrangir Char",
+            "803 Khalifaghat, Chourasta, Kamragirchar, Dhaka"
+        ],
+        [
+            35,
+            "Medicare Diagnostic & Hospital",
+            "HSM98932",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Kamrangir Char",
+            "803 Khalifaghat, Chourasta, Kamrangirchar, Dhaka"
+        ],
+        [
+            36,
+            "Medicare Diagnostic and Consultant Centre",
+            "HSM42866",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "306/1,Kathalbaria,Stadiaum para,Puthia,Rajshahi-6260"
+        ],
+        [
+            37,
+            "Medicare Diagnostic Center",
+            "HSM59048",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "SREEMANGAL ROAD, MOULVIBAZAR-3200"
+        ],
+        [
+            38,
+            "Medicare Diagnostic Center",
+            "HSM30719",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Lalpur",
+            "Gopalpur, Lalpure, Natore"
+        ],
+        [
+            39,
+            "MEDICARE DIAGNOSTIC CENTER",
+            "HSM38543",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Sarnokar Patti, Natun Bazar, Patuakhali Sadar, Patukhali"
+        ],
+        [
+            40,
+            "MEDICARE DIAGNOSTIC CENTER",
+            "HSM36312",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "Balakhal, Hajigonj, Chandpur."
+        ],
+        [
+            41,
+            "MEDICARE DIAGNOSTIC CENTER",
+            "HSM07478",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "HOSPITAL ROAD, SHALGARIA, PABNA"
+        ],
+        [
+            42,
+            "Medicare Diagnostic Center",
+            "HSM25981",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Delduar",
+            "Tasnif Supper Market. Hospital Road,Deldur,Tangail"
+        ],
+        [
+            43,
+            "MEDICARE DIAGNOSTIC CENTER",
+            "HSM66483",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Boalmari",
+            "Hospital Road, Shibpur, Boalmari, Faridpur."
+        ],
+        [
+            44,
+            "Medicare Diagnostic Center",
+            "HSM28471",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "\u0997\u09cd\u09b0\u09be\u09ae:- \u09b2\u09be\u09b9\u09c0\u09b0\u09c0 \u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0,\u0989\u09b2\u09cd\u09b2\u09be\u09b9\u09aa\u09be\u09b0\u09be,\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            45,
+            "MEDICARE DIAGNOSTIC CENTER TANGAIL",
+            "HSM71079",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "EAST ADALAT PARA, TANGAIL"
+        ],
+        [
+            46,
+            "Medicare Diagnostic Center.",
+            "HSM21767",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Asta Bazar, Faridganj, Chandpur"
+        ],
+        [
+            47,
+            "Medicare diagnostic center.",
+            "HSM49175",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Mohammadpur",
+            "Nohata, mohammadpur, magura, Khulna, Bangladesh."
+        ],
+        [
+            48,
+            "MEDICARE DIAGNOSTIC CENTRE",
+            "HSM58674",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "MUNSHIPARA, TALPUKUR, DINAJPUR SADAR, DINAJPUR"
+        ],
+        [
+            49,
+            "Medicare Diagnostic Centre",
+            "HSM56572",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Naria",
+            "Naria Bazar Purbo Matha Chakdha Road(Balur Math), Naria, Shariatpur."
+        ],
+        [
+            50,
+            "Medicare diagnostic centre",
+            "HSM94994",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Kalisuri, bauphal, patuakhali"
+        ],
+        [
+            51,
+            "MEDICARE DIAGNOSTIC CENTRE",
+            "HSM95412",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Belkuchi",
+            "Mukundogatnti, Belkuchi, Sirajganj."
+        ],
+        [
+            52,
+            "Medicare Diagnostic Lab",
+            "HSM63707",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Nilab Bhabon, Dokhinaanchol Goli, Sadar Road, Barishal"
+        ],
+        [
+            53,
+            "MEDICARE DIAGONSTIC &CONSULTATION CENTER",
+            "HSM73672",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Balaganj",
+            "Anwar mantion ,Goalabazar ,osmaninoghor, Sylhet"
+        ],
+        [
+            54,
+            "Medicare Digital Diagnostic Center",
+            "HSM85616",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "Mowna Chowrasta,Sreepur,Gazipur."
+        ],
+        [
+            55,
+            "MEDICARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM27072",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "HARTA BAZAR UTTARPAR, WAZIRPUR, BARISHAL."
+        ],
+        [
+            56,
+            "MEDICARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM86577",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Basail, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            57,
+            "Medicare Digital Diagnostic Centre",
+            "HSM17432",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Bochaganj",
+            "THANAROAD, SETABGANJ,BOCHAGANJ,DINAJPUR,BANGLADESH"
+        ],
+        [
+            58,
+            "Medicare Doctors Chamber & Diagnostic Center",
+            "HSM56742",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Dumki",
+            "Vill-Sreerampur, Post-Dumki, Upazila-Dumki, Dist-Patuakhali."
+        ],
+        [
+            59,
+            "MEDICARE GENERAL HOSPITAL",
+            "HSM84318",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "RAHMAN BHABAN, JHOWTOLA, COMILLA"
+        ],
+        [
+            60,
+            "MEDICARE GENERAL HOSPITAL",
+            "HSM71040",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "RAHMAN BHABAN, JHOWTOLA, COMILLA"
+        ],
+        [
+            61,
+            "Medicare General Hospital",
+            "HSM99542",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Natore",
+            "Lalpur",
+            "Hospital gate,Lalpur,Natore"
+        ],
+        [
+            62,
+            "Medicare Health Center",
+            "HSM90678",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Bajitpur",
+            "Bajitpur, Kishorgonj. Dhaka"
+        ],
+        [
+            63,
+            "Medicare Health Centre",
+            "HSM58625",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            " muksedpur, Kishoreganj sadar, kishoreganj "
+        ],
+        [
+            64,
+            "Medicare Health Services",
+            "HSM84398",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Hizla",
+            "Kawria Bandor, Hizla, Barisal."
+        ],
+        [
+            65,
+            "Medicare Health Services ",
+            "HSM67923",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Hizla",
+            "Kawria Bandor, Hizla, Barisal."
+        ],
+        [
+            66,
+            "MEDICARE HOSPITAL ",
+            "HSM00106",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Magura",
+            "Mohammadpur",
+            "Nohata Bazar, Post: Nohata, PS:Mohammadpur, Dist:Magura, Bangladesh."
+        ],
+        [
+            67,
+            "MEDICARE HOSPITAL",
+            "HSM94930",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Daganbhuiyan",
+            "Bashurhat Road, Dagonbhuiya, Feni"
+        ],
+        [
+            68,
+            "Medicare Hospital & Diagnostic Center",
+            "HSM25823",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Sreepur",
+            "Mawna  Chowrasta,Sreepur,Gazipur"
+        ],
+        [
+            69,
+            "Medicare Hospital Lab",
+            "HSM16267",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Daganbhuiyan",
+            "Bashurhat Road, Dagonbhuiyan, Feni"
+        ],
+        [
+            70,
+            "Medicare Japan Limited",
+            "HSM62267",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Khilkhet",
+            "House -32,Road -1,Khilkhet Dhaka-1229"
+        ],
+        [
+            71,
+            "Medicare Japan Ltd.",
+            "HSM09127",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Board Bazar,Dhaka Mymensingh Road,National University,Gazipur"
+        ],
+        [
+            72,
+            "Medicare Medical Check-up Centre",
+            "HSM02077",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Chattogram",
+            "Double Mooring",
+            "IIUC Tower, Plot# 9, Agrabad C/A, SK.Mujib Road, Chittagong"
+        ],
+        [
+            73,
+            "MEDICARE MEDICAL SERVICES",
+            "HSM18142",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Unishe Tower, Chandona Chowrasta, Gazipur"
+        ],
+        [
+            74,
+            "Medicare Medical Services",
+            "HSM63420",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Azadi 115, Mirboxtula, Sylhet."
+        ],
+        [
+            75,
+            "MEDICARE NURSING HOME.",
+            "HSM06254",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Wabdapara, College Road, Meherpur"
+        ],
+        [
+            76,
+            "Medicare Poly Clinic",
+            "HSM26081",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "SREEMANGAL ROAD, MOULVIBAZAR-3200"
+        ],
+        [
+            77,
+            "MEDICATE HOSPITAL",
+            "HSM71656",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Shantinagor,Hamdah,Sadar,Jhenaidah"
+        ],
+        [
+            78,
+            "Medicheck (pathology)",
+            "HSM05989",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Bishwanath",
+            "Near Ramsundar High School. Biswanath. Sylhet."
+        ],
+        [
+            79,
+            "Medicheck Diagnostic Center ",
+            "HSM21699",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Pandit Para\r\nPalash,Narsingdi."
+        ],
+        [
+            80,
+            "Medicheck Medical Services",
+            "HSM09129",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Osmani Medical College Hospital Road, kajal Shah, Sylhed-3100"
+        ],
+        [
+            81,
+            "MEDICINE POINT-CHITRALI ",
+            "HSM66377",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khalishpur",
+            "B.I.D.C ROAD KHALISHPUR, KHULNA "
+        ],
+        [
+            82,
+            "MEDICINE POINT.",
+            "HSM89119",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Daulatpur",
+            "Upper Jessore Road Khulna Bangladesh "
+        ],
+        [
+            83,
+            "MEDICITY  (PVT.) HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM48266",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Bera",
+            "Sanalpara Hospital Road, Bongram, Bera, Pabna"
+        ],
+        [
+            84,
+            "MEDICITY (PVT.) HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM57495",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Bera",
+            "Sanalpara Hospital Road, Bongram, Bera, Pabna"
+        ],
+        [
+            85,
+            "MEDICITY DIGITAL DIAGNOSTIC AND CLINIC",
+            "HSM36839",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Station Bazar,Natore sadar,Natore"
+        ],
+        [
+            86,
+            "MEDICITY DIGITAL DIAGNOSTIC AND CLINIC",
+            "HSM97081",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Natore",
+            "Natore Sadar",
+            "Station Bazar,Natore sadar,Natore"
+        ],
+        [
+            87,
+            "Medico Diagnostic & Consultation center ",
+            "HSM61214",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "Monirampur Bazar,Monirampur,Jessore."
+        ],
+        [
+            88,
+            "Medico Diagnostic Center",
+            "HSM71724",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Mathbaria, Pirojpur"
+        ],
+        [
+            89,
+            "MEDICO DIAGNOSTIC CENTER",
+            "HSM47466",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "44/Ka West Kandapara, C&B Road(Bangobondo Sarak) Kawria para, Narsingdi"
+        ],
+        [
+            90,
+            "Medico Diagnostic Centre",
+            "HSM17902",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Rothkhola Road, Bus Stand, Faridpur."
+        ],
+        [
+            91,
+            "Medico Diagnostic Centre",
+            "HSM43882",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "Ershadpur Chatalmor, Alamdanga, Chuadanga"
+        ],
+        [
+            92,
+            "Medico Digital Diagnostic & Consultation Centre",
+            "HSM03028",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Jamalganj",
+            "Sachna Bazar, Jamalganj, Sunamganj"
+        ],
+        [
+            93,
+            "MEDICO GIAGNOSTIC CENTER",
+            "HSM37223",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Raozan",
+            "KAZI ABDUS SALAM MARKET (1ST FLOOR)"
+        ],
+        [
+            94,
+            "Medico Health Center",
+            "HSM49208",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Handial, Chatmohar, Pabna"
+        ],
+        [
+            95,
+            "Medico hospatil & diagnostic center",
+            "HSM93258",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Registry Para.Tangail"
+        ],
+        [
+            96,
+            "MEDICO HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM27804",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Registrypara,tangail Sadar, Tangail"
+        ],
+        [
+            97,
+            "Medico Hospital & Diagnostic Centre",
+            "HSM53173",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Masjid Road, Niltuli, Faridpur."
+        ],
+        [
+            98,
+            "MEDICOM ",
+            "HSM89150",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "31 Court Road, Moulvibazar 3200"
+        ],
+        [
+            99,
+            "MEDICOM COMPUTERIZED DIAGNOSITC CENTRE",
+            "HSM40466",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Balaganj",
+            "Hospiital Road, Balaganj, Sylhet."
+        ],
+        [
+            100,
+            "MEDICOM DIAGNOSTIC CENTER",
+            "HSM27851",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "HAJI MOHOSHIN ROAD, CHANDPUR"
+        ]
+    ]
+}

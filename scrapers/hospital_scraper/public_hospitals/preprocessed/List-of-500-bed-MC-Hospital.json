@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Cox's Bazar Medical College Hospital",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "upazila": "Cox's Bazar Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Cumilla Medical College Hospital",
+        "division": "Chittagong",
+        "district": "Cumilla",
+        "upazila": "Comilla Adarsha\nSadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Mugda Medical College Hospital, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazila": "Mugda Para",
+        "num_beds": "500"
+    },
+    {
+        "name": "Faridpur Medical College Hospital",
+        "division": "Dhaka",
+        "district": "Faridpur",
+        "upazila": "Faridpur Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Shaheed Tajuddin Ahmad Medical College Hospital,\nGazipur",
+        "division": "Dhaka",
+        "district": "Gazipur",
+        "upazila": "Gazipur Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Shahid Syed Nazrul Islam Medical College Hospital",
+        "division": "Dhaka",
+        "district": "Kishorgonj",
+        "upazila": "Kishoreganj Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Sheikh Hasina Medical College Hospital, Tangail",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "upazila": "Tangail Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Khulna Medical College Hospital",
+        "division": "Khulna",
+        "district": "Khulna",
+        "upazila": "Sonadanga",
+        "num_beds": "500"
+    },
+    {
+        "name": "Satkhira Medical College Hospital",
+        "division": "Khulna",
+        "district": "Satkhira",
+        "upazila": "Satkhira Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "Shaheed Ziaur Rahman Medical College Hospital, Bogra",
+        "division": "Rajshahi",
+        "district": "Bogura",
+        "upazila": "Bogra Sadar",
+        "num_beds": "500"
+    },
+    {
+        "name": "M Abdur Rahim Medical College Hospital",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazila": "Dinajpur Sadar",
+        "num_beds": "500"
+    }
+]

@@ -1,0 +1,1007 @@
+{
+    "draw": 78,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "KURIGRAM EYE HOSPITAL",
+            "HSM69201",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Ghosh Para, Kurigram Sadar, Kurigram"
+        ],
+        [
+            2,
+            "KURPAR POPULAR HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM04517",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Shah Sultan Road, Kurpar, Netrokona, Mymensingh"
+        ],
+        [
+            3,
+            "Kushiara Hospital",
+            "HSM59946",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Golapganj",
+            "Village: Amkuna, P.O: Asirgonj, P.S: Golapgonj, Dist: Sylhet."
+        ],
+        [
+            4,
+            "Kushtia Diabetic Samity (Lab)",
+            "HSM00093",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Mirpur",
+            "General Hospital Road, Kushti."
+        ],
+        [
+            5,
+            "Kushtia Diabetic Samity, Mujibur Rahman Memorial Diabetic Hospital",
+            "HSM75170",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Kushtia Sadar",
+            "General Hospital Road, Kushtia"
+        ],
+        [
+            6,
+            "Kushtia Diagnostic Center",
+            "HSM76433",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "53, Khan Bahadur Samsuzoha Sarok, Hospital Road, Kushtia."
+        ],
+        [
+            7,
+            "KUSHTIA SURGICAL CLINIC",
+            "HSM94799",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "41,Mahatabuddin Road,Courtpara,Kushtia"
+        ],
+        [
+            8,
+            "Kushtia Trauma Center & Specialized Hospital",
+            "HSM56000",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Wayside Tower-9715, Ramchadra Ray Chowdhury Street Courtpara,  Kushtia"
+        ],
+        [
+            9,
+            "KUSHTIA TRAUMA DIAGNOSTIC CENTER",
+            "HSM66677",
+            "Diagnostic Center",
+            "Category-A",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Wayside Tower-9715, ramchadra. Ray Chowdhury street,Courtpara,kushtia"
+        ],
+        [
+            10,
+            "Kushumpur Genaral Hospital And Digital Diagnostic Center",
+            "HSM89791",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Serajdikhan",
+            "Jahan Complex, Kushumpur, Sirajdikhan PS. Munshiganj-1542"
+        ],
+        [
+            11,
+            "Kushumpur Genaral Hospital And Digital Diagnostic Center",
+            "HSM12617",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Serajdikhan",
+            "Jahan Complex, Kushumpur, Sirajdikhan Ps. Munshiganj-1542"
+        ],
+        [
+            12,
+            "Kusum  Surgical  Clinic",
+            "HSM01370",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kotalipara",
+            "vill:-kotalipra,Thana:-kotalipara,Gopalganj."
+        ],
+        [
+            13,
+            "Kuti Choumohony Har Banga Medical & Diagnostic Center",
+            "HSM18381",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Kuti Choumohony,Kasba,Brahmanbaria"
+        ],
+        [
+            14,
+            "Kuti Digital Medical Center",
+            "HSM32840",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Kuti Bazar,Kasba,Brahmanbaria"
+        ],
+        [
+            15,
+            "Kutuba Dilon Nesa Medical Centre",
+            "HSM03361",
+            "Diagnostic Center",
+            "Category-C",
+            "Bhola",
+            "Burhanuddin",
+            "Pakia Union Borhanuddin Post Office Borhanuddin,  Bhola."
+        ],
+        [
+            16,
+            "Kuwait Probashi Hospatil & Diagnostic Center",
+            "HSM47250",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Mathbaria",
+            "Tushkhali Road, Boheratala, mathbaria, pirojpur"
+        ],
+        [
+            17,
+            "Kuwait Probashi Hospatil & Diagnostic Center",
+            "HSM91980",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "Boheratala, Mathbaria, Pirojpur"
+        ],
+        [
+            18,
+            "Kuwait Probasi Diagnostic Center",
+            "HSM69854",
+            "Diagnostic Center",
+            "Category-B",
+            "Barguna",
+            "Barguna Sadar",
+            "Nearby Town Hall Bridge, Mohasorok, Barguna"
+        ],
+        [
+            19,
+            "Kuwait probasi Hospital",
+            "HSM80811",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barguna",
+            "Barguna Sadar",
+            "Nearby Townhall Bridge, Mohasorok, Barguna."
+        ],
+        [
+            20,
+            "LAB  CITY",
+            "HSM15405",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "LAB CITY, SAMABAI MARKET, 2ND FLOOR, D.T ROAD, SITAKUND, CHITTAGONG."
+        ],
+        [
+            21,
+            "LAB 24 DIAGNOSTIC & HOSPITAL",
+            "HSM14811",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Uttor Seuta, Manikganj Sodor, Manikganj"
+        ],
+        [
+            22,
+            "LAB 24 DIAGNOSTIC & HOSPITAL",
+            "HSM14116",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Uttor Seuta, Manikganj Sodor, Manikganj"
+        ],
+        [
+            23,
+            "Lab Aid Clinic and Nursing  Home  ",
+            "HSM61762",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Jc vhaban, link road,  dhap  Rangpur"
+        ],
+        [
+            24,
+            "LAB AID DIAGNOSTIC CENTRE",
+            "HSM46225",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Meherpur Sadar",
+            "Mollikpara,  Sadar Meherpur"
+        ],
+        [
+            25,
+            "Lab Aid Diagnostic Centre",
+            "HSM91265",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Polashpole.Satkhira."
+        ],
+        [
+            26,
+            "LAB AID DIAGNOSTICS  CENTER & DOCTORS POINT ",
+            "HSM04384",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "THANAR SAMNE KACHARIPARA BHERAMARA  KUSHTIA"
+        ],
+        [
+            27,
+            "Lab Aid Digital Diagnostic Center",
+            "HSM81166",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chakenayet,  DoyalerMor, Naogaon Sadar, naogaon"
+        ],
+        [
+            28,
+            "Lab Aid Limited",
+            "HSM45169",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Gendaria",
+            "House No. 30 & 30/1, Doyagonj, Hut Lane, Gendaria, Dhaka."
+        ],
+        [
+            29,
+            "Lab Aid Limited (Badda)",
+            "HSM65792",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Badda",
+            "Hosue No. 4, Road No. 10, Badda Rehabilitation Zone, Dhaka."
+        ],
+        [
+            30,
+            "Lab Aid Limited (Diagnostic)",
+            "HSM71254",
+            "Diagnostic Center",
+            "Category-A",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "House No. 56, A.K.M Shamsuzzoha Sarak, Chasara, Narayanganj."
+        ],
+        [
+            31,
+            "Lab Aid Limited (Diagnostic)",
+            "HSM40643",
+            "Diagnostic Center",
+            "Category-A",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "72 Charpara, Medical College Gate, Mymensingh"
+        ],
+        [
+            32,
+            "Lab Aid Limited (Uttara-II)",
+            "HSM65167",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Uttara  Paschim",
+            "House- 41, Gareeb-e-Newaj Avenue, Sector-13, Uttara Model Town, Dhaka."
+        ],
+        [
+            33,
+            "Lab Aid Medical and  Pathology Centre",
+            "HSM88671",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Coxs Bazar",
+            "Teknaf",
+            "Vhai Vhai Super Market, 2nd Floor,Hospital Road, Hnilla, Station, Teknaf, Coxs Bazar"
+        ],
+        [
+            34,
+            "Lab Aid Medical Center",
+            "HSM54302",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Kasba Tower (West side of Kasba Govt. Hospital), Kasba, Brahmanbaria"
+        ],
+        [
+            35,
+            "Lab Aid Medical Centre Gulshan Ltd.",
+            "HSM64381",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Gulshan",
+            "House-13/A, Road-35, Gulshan-2, Dhaka."
+        ],
+        [
+            36,
+            "lab aid pathology centre",
+            "HSM53899",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "262, Touhid Building 2nd Floor Charpara, Sadar Mymensingh"
+        ],
+        [
+            37,
+            "Lab Asia  Digital Diagnostic   & Medical Services ",
+            "HSM63807",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "Kachipara Chowmohoni  Bazar , Post : Kachipara ,PS:  Bauphal , Dist : Patuakhali"
+        ],
+        [
+            38,
+            "Lab Asia Diagnostic Center",
+            "HSM92983",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Hospital Road, Kalapara, Patuakhali.Bangladesh"
+        ],
+        [
+            39,
+            "LAB ASIA DIAGNOSTIC CENTER (UNIT-2)",
+            "HSM50243",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Pahartali",
+            "New Monsurabad Bus Stand, Colonelhat, DT Road, Pahartali, Chittagong. "
+        ],
+        [
+            40,
+            "LAB ASIA DIAGNOSTIC CENTRE",
+            "HSM21646",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Halishahar",
+            "PC Road, Noya Bazar bishowroad moor, Pahartali, Chittagong."
+        ],
+        [
+            41,
+            "LAB CARE COMPUTERIZED DIAGNOSTIC CENTRE",
+            "HSM14589",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Patiya",
+            "COLLEGE ROAD,PATIYA, CHITTAGONG."
+        ],
+        [
+            42,
+            "LAB CARE DIAGNOSTIC  ",
+            "HSM83305",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "Majid Sarani, Sonadanga, Khulna "
+        ],
+        [
+            43,
+            "LAB CARE DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM98192",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "Munshi Meher Ullah Road (Old Post Office Road), P.O: Sirajganj, P.S: Sirajganj Sadar, Upazila: Sirajganj, Dist: Sirajganj. "
+        ],
+        [
+            44,
+            "Lab Care Diagnostic And Medical Services",
+            "HSM58773",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "House: 0815-02, Hospital Road, Joypara, Dohar, Dhaka"
+        ],
+        [
+            45,
+            "Lab Care Diagnostic Center",
+            "HSM53260",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Azijul jolil road kustia"
+        ],
+        [
+            46,
+            "LAB CARE DIAGNOSTIC CENTRE",
+            "HSM21939",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Islampur",
+            "Hospital Road, Islampur, Jamalpur."
+        ],
+        [
+            47,
+            "Lab Care Diagnostic Centre",
+            "HSM30900",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Shahid Mashiur Rahman Road,Jhenaidah."
+        ],
+        [
+            48,
+            "Lab Care Diagnostic Centre",
+            "HSM47857",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Bagherpara",
+            "Hospital Gate, Bagharpara, Jashore"
+        ],
+        [
+            49,
+            "LAB CARE DIAGNOSTIC COMPLEX",
+            "HSM44321",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "RAJSHAHI MEDICAL COLLEGE GEIT,SEPAY PARA, RAJPARA, G P O-6000. RAJSHAHI."
+        ],
+        [
+            50,
+            "LAB CARE DIGITAL DIAGNOSTIC CENTER",
+            "HSM42546",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "MISSION ROAD, CHANDPUR SADAR, CHANDPUR"
+        ],
+        [
+            51,
+            "Lab Care Digital Diagnostic Center,",
+            "HSM53317",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Wazirpur",
+            "Dabarkul, Wazirpur, Barishal"
+        ],
+        [
+            52,
+            "LAB CARE HOSPITAL",
+            "HSM69754",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Madobdi Bus Stand,Madobdi,Narsingdi"
+        ],
+        [
+            53,
+            "LAB CARE HOSPITAL",
+            "HSM46848",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Madobdi Bus Stand,Madobdi,Narsingdi"
+        ],
+        [
+            54,
+            "LAB CENTER MYMENSINGH",
+            "HSM61137",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "charpara.mymensingh"
+        ],
+        [
+            55,
+            "Lab City Diagnostic & Mother Care ",
+            "HSM47572",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "54.Icon Tower. Shahid Shahidullah Kaiser Sarak,Feni."
+        ],
+        [
+            56,
+            "Lab City Medical ",
+            "HSM34639",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "  Cauncil Para. Magura."
+        ],
+        [
+            57,
+            "Lab City Medical Services",
+            "HSM78565",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Magura",
+            "Magura Sadar",
+            "Counsil Para,Magura"
+        ],
+        [
+            58,
+            "Lab cure Diagnostic Center",
+            "HSM47902",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Nazirpur",
+            "Lara, Sachia, Nazirpur, Pirojpur"
+        ],
+        [
+            59,
+            "Lab De Novo Computerized Diagonostic Center",
+            "HSM43806",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Sylhet Sadar",
+            "B-39,40,42,44,45, Stadium Market (Ground Floor, Sylhet"
+        ],
+        [
+            60,
+            "Lab De Novo Diagnostic Consultation  Centre",
+            "HSM85299",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Sylhet Scout Bhaban, Old Medical Road, Sylhet"
+        ],
+        [
+            61,
+            "LAB DIAGNOSTIC CENTRE",
+            "HSM52479",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Ishwarganj",
+            "ishwarganj, mymensingh\r\n"
+        ],
+        [
+            62,
+            "Lab Esquire Medical Services ",
+            "HSM59221",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Kushtia Sadar",
+            "1, A K Mukharjee Sarak, Mongolbaria Bazar, Kushtia Sadar, Kushtia-7000."
+        ],
+        [
+            63,
+            "Lab Experts (Pvt.) Ltd",
+            "HSM44013",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "83, Jamal Khan Road, Chittagong."
+        ],
+        [
+            64,
+            "LAB FOUR DIAGNOSTIC CENTRE",
+            "HSM60085",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Rasel Bhoban, Ati Bazar, Keranigonj, Dhaka"
+        ],
+        [
+            65,
+            "LAB FOUR GENERAL HOSPITAL",
+            "HSM13978",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Keraniganj",
+            "Rasel Bhoban, Ati Bazar, Keranigonj, Dhaka"
+        ],
+        [
+            66,
+            "Lab H Hospital",
+            "HSM19551",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "Koddar More, Belchuchi Road, Sirajganj"
+        ],
+        [
+            67,
+            "Lab H Hospital",
+            "HSM48456",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "Koddar More, Belchuchi Road, Sirajganj"
+        ],
+        [
+            68,
+            "Lab House",
+            "HSM86900",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            "Hospital Road, Chiringa, Chakaria, Coxs Bazar."
+        ],
+        [
+            69,
+            "LAB IN DIAGNOSTIC LIMITED",
+            "HSM50660",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Cantonment",
+            "223/2 MANIKDI BAZAR DHAKA CANTONMENT , DHAKA, BANGLADESH ."
+        ],
+        [
+            70,
+            "Lab In Pathological Lab",
+            "HSM45570",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "186/171 Jal Road, Police Line, Comilla-3500"
+        ],
+        [
+            71,
+            "Lab Medica",
+            "HSM55663",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Teknaf",
+            "K K Para, Main Road , Teknaf  ."
+        ],
+        [
+            72,
+            "Lab Medical Diagnostic Centre",
+            "HSM20074",
+            "Diagnostic Center",
+            "Category-B",
+            "Magura",
+            "Magura Sadar",
+            "Bus Stand, School Market,  Satrojitpur Bazar, Magura Sadar, Magura. Bangladesh."
+        ],
+        [
+            73,
+            "LAB ONE BLOOD BANK",
+            "HSM75119",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Uttara  Paschim",
+            "House-08, Road-12, Sector-14 (Near Johura Market), Uttara, Dhaka-1230"
+        ],
+        [
+            74,
+            "lab One Diagnostic & Consultation Centre ",
+            "HSM28006",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "Khan Jahan Ali Road, Khulna, Bangladesh "
+        ],
+        [
+            75,
+            "LAB ONE DIAGNOSTIC AND HOSPITAL",
+            "HSM19154",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 1365, Hospital Road, Shalgaria, Pabna"
+        ],
+        [
+            76,
+            "Lab One Diagnostic Center",
+            "HSM69997",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "Gazi Amin Ullah Road (East Bazar), Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            77,
+            "Lab One Diagnostic Center ",
+            "HSM53214",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Rampal",
+            "Foylahat, Rampal, Bagerhat. "
+        ],
+        [
+            78,
+            "Lab One Diagnostic Center",
+            "HSM35664",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "House No-140, Lolmershor, Bottola Road, Bord Bazar, Gazipur."
+        ],
+        [
+            79,
+            "LAB ONE DIAGNOSTIC CENTER",
+            "HSM17019",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "MONOHARPUR, SADAR HOSPITAL ROAD, COMILLA"
+        ],
+        [
+            80,
+            "LAB ONE DIAGNOSTIC CENTRE",
+            "HSM26465",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Jamgora, Ashulia, Savar, Dhaka."
+        ],
+        [
+            81,
+            "LAB ONE DIAGNOSTIC CENTRE",
+            "HSM64072",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "District Hospital Road, Gaibandha"
+        ],
+        [
+            82,
+            "LAB ONE DIAGNOSTIC CENTRE",
+            "HSM73279",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "CHOWDDAGRAM, COMILLA"
+        ],
+        [
+            83,
+            "Lab One Diagnostic centre",
+            "HSM22858",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Sarishabari",
+            "Hospital Gate, Sarishabari, Jamalpur"
+        ],
+        [
+            84,
+            "Lab One Diagnostic Centre Plus",
+            "HSM36564",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Kaunia",
+            "Station Road, Upazila East Gate Near, Kaunia, Rangpur."
+        ],
+        [
+            85,
+            "Lab One Diagnostic, Faridpur",
+            "HSM57741",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "48/5, Hasibul Hasan Lablu Road, Alipur Faridpur"
+        ],
+        [
+            86,
+            "Lab One Health Service",
+            "HSM31718",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "205/216 Jamal Khan, Chattogram "
+        ],
+        [
+            87,
+            "LAB ONE HOSPITAL ",
+            "HSM42125",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Tetuibari, 2 No Ward, Kashimpur, Gazipur"
+        ],
+        [
+            88,
+            "LAB ONE HOSPITAL ",
+            "HSM39488",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Tetuibari, 2 No Ward, Kashimpur, Gazipur"
+        ],
+        [
+            89,
+            "LAB ONE HOSPITAL LTD.",
+            "HSM57477",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttar Khan",
+            "House-08, Road-12, Sector-14 (Near Johura Market), Uttara, Dhaka-1230"
+        ],
+        [
+            90,
+            "LAB ONE HOSPITAL LTD. PATHOLOGY & DIAGNOSTIC ",
+            "HSM96420",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Uttara  Paschim",
+            "House-08, Road-12, Sector-14 (Near Johura Market), Uttara, Dhaka-1230"
+        ],
+        [
+            91,
+            "LAB ONE MEDICAL CENTER",
+            "HSM28249",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Shalgaria, Pabna Sadar, Pabna"
+        ],
+        [
+            92,
+            "Lab One Medical Center",
+            "HSM91519",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Chandora , Garpara, Manikganj Sadar, Manikganj"
+        ],
+        [
+            93,
+            "Lab One Medical Services",
+            "HSM59318",
+            "Diagnostic Center",
+            "Category-B",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Holding No. 50/52, Ward No. 13,PTI, MASTERPARA, CHAPAINAWABGANJ"
+        ],
+        [
+            94,
+            "Lab One Pvt: Hospital & Diagnostic Center",
+            "HSM94686",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bagerhat",
+            "Rampal",
+            "Foylahat,Rampal,Bagerhat"
+        ],
+        [
+            95,
+            "Lab Online Diagnostic Centre",
+            "HSM34558",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "New Market",
+            "73. Nilambar Saha Road, Hazaribagh, Dhaka-1205"
+        ],
+        [
+            96,
+            "LAB PLUS  DIAGNOSTIC & CONSULTANCY",
+            "HSM86364",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mirpur",
+            "Plot-B, Holding No: 1/1, Section-7, Chalontika Mor, Mirpur, Dhaka 1216"
+        ],
+        [
+            97,
+            "Lab Point Consultation Center",
+            "HSM13003",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Choto Chowrasta, Town Kalikapur, Patuakhali "
+        ],
+        [
+            98,
+            "Lab Point Diagnostic Center",
+            "HSM90624",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Gazi Vabon(Holding no.1072),South Mojupur,Sadar,Lakshmipur."
+        ],
+        [
+            99,
+            "Lab Point Diagnostic Centre",
+            "HSM36408",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Hous# 566,New 1789,Amritolal Dey Shorok,Hospital Road,Barisal-8200"
+        ],
+        [
+            100,
+            "LAB QUEST LIMITED",
+            "HSM15071",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "Pearl Trade Center (3rd Floor) Level-04, Cha-90/3, Pragoti Sarani, North Badda, Dhaka-1212."
+        ]
+    ]
+}

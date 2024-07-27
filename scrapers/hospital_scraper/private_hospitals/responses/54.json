@@ -1,0 +1,1007 @@
+{
+    "draw": 54,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Gonoshasthaya Dental Unit",
+            "HSM18095",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Kalabagan",
+            "House No- 14/E, Road No-6, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            2,
+            "Gonoshasthaya Diagnostic Centre",
+            "HSM81328",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Savar",
+            "Savar,Mirzanagar,Asulia, Dhaka"
+        ],
+        [
+            3,
+            "Gonoshasthaya kendra ",
+            "HSM98196",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Dakshin Sunamganj",
+            "porchim pagla,shantigonj(dakshin sunamgonj)"
+        ],
+        [
+            4,
+            "Gonoshasthaya kendra ",
+            "HSM47310",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sunamganj",
+            "Dakshin Sunamganj",
+            "porchim pagla,shantigonj(Dakshin sunamgonj),Sunamgnj"
+        ],
+        [
+            5,
+            "Gonoshasthaya Laboratory and Diagnostic Center",
+            "HSM32496",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "New Market",
+            "House # 14/E, Road # 6, Dhanmondi, Dhaka"
+        ],
+        [
+            6,
+            "Gonoshasthaya Nagar Hospital",
+            "HSM67316",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "House no 14/E, Road No 6, Dhanmondi R/A, Dhaka.  "
+        ],
+        [
+            7,
+            "GONOSHASTHAYA SAMAJ VITTIK MEDICAL COLLAGE",
+            "HSM47706",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Dhaka",
+            "Savar",
+            "MIRZA NAGOR, ASULIA, SAVAR, DHAKA-1344"
+        ],
+        [
+            8,
+            "Gonoshasthya Diagnostic ",
+            "HSM07202",
+            "Diagnostic Center",
+            "Category-B",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Baharchara, Coxs Bazar Municipality, Coxs Bazar-4700."
+        ],
+        [
+            9,
+            "Gonoshasthya Kendra Hospital",
+            "HSM98901",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Baharchara, Coxs Bazar Municipality, Coxs Bazar"
+        ],
+        [
+            10,
+            "GOOD DIAGNOSTIC CENTER",
+            "HSM46197",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "CHOWRASTA,GAZIPUR 1702"
+        ],
+        [
+            11,
+            "Good Heal Hospital",
+            "HSM96400",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali"
+        ],
+        [
+            12,
+            "Good Heal Hospital",
+            "HSM59239",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Noakhali"
+        ],
+        [
+            13,
+            "Good Heal Hospital Complex",
+            "HSM47623",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Noakhali"
+        ],
+        [
+            14,
+            "Good Heal Hospital Complex",
+            "HSM15746",
+            "Diagnostic Center",
+            "Category-A",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali "
+        ],
+        [
+            15,
+            "Good Health Clinic",
+            "HSM81667",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "268,Khanjahan Ali Road,Khulna"
+        ],
+        [
+            16,
+            "Good Health Clinic  Diagnostic & Consultancy",
+            "HSM99878",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "268,Khan Jahan Ali Road,Khulna"
+        ],
+        [
+            17,
+            "GOOD HEALTH CLINIC. ",
+            "HSM92904",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kurigram",
+            "Kurigram Sadar",
+            "SHAHID DR. MILON SARAK, KURIGRAM SADAR, KURIGRAM"
+        ],
+        [
+            18,
+            "GOOD HEALTH DIAGNOSTIC CENTER",
+            "HSM76191",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "GAZIPUR ChOWRASTA,GAZIPUR SADAR, GaZIPUR"
+        ],
+        [
+            19,
+            "Good Health Diagnostic Centre",
+            "HSM94789",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "1/9, Bir Uttam A.N.M. Nuruzzaman Sarak, College Gate, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            20,
+            "Good Health Hospital",
+            "HSM38499",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur"
+        ],
+        [
+            21,
+            "Good Health Hospital(Lab)",
+            "HSM76769",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap, Jail Road, Rangpur"
+        ],
+        [
+            22,
+            "GOOD HEALTH SERVICE CENTER (GHSC)",
+            "HSM27458",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 1260, Shalgaria, Thanapara, Hospital Road, Pabna"
+        ],
+        [
+            23,
+            "Good health services",
+            "HSM83820",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Nearest Biam Labrotory School, Gaibandha"
+        ],
+        [
+            24,
+            "Good Health Specialized Hospital Ltd.",
+            "HSM05607",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Thanthonia (Bus Stand), Sufe Len, Bogura."
+        ],
+        [
+            25,
+            "Good Health Specialized Hospital Ltd.",
+            "HSM17125",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Bogura",
+            "Bogura Sadar",
+            "Thanthonia, Sufi lane, Bogura"
+        ],
+        [
+            26,
+            "GOOD LIFE DIGNOSTIC CENTRE",
+            "HSM82315",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Sitakunda",
+            "\u0995\u09be\u09b2\u09be\u09ae \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0, \u09ac\u09be\u09b0-\u0986\u0989\u09b2\u09bf\u09df\u09be, \u09b8\u09c0\u09a4\u09be\u0995\u09c1\u09a3\u09cd\u09a1, \u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae"
+        ],
+        [
+            27,
+            "Good Life Medical Center",
+            "HSM28232",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Brahmanpara",
+            "Shashidal Stration Bazar, Brahmanpara, Cumilla"
+        ],
+        [
+            28,
+            "GOOD LIFE MEDICAL SERVICES LTD.",
+            "HSM85211",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Sabujbagh",
+            "65 South Bashsboo, Sabujbagh, Dhaka-1214"
+        ],
+        [
+            29,
+            "Good Morning  Digital Diagnostic & Consultant Centre.",
+            "HSM70513",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "Puthia  Rajshahi"
+        ],
+        [
+            30,
+            "Goodheal Complex",
+            "HSM56014",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Hospital Road, Maijdee, Sadar, Noakhali"
+        ],
+        [
+            31,
+            "Goodlife Medical Center ",
+            "HSM25006",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Begumganj",
+            "College Road, Patwary Market, Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            32,
+            "Gopalganj Apollo Diagnostic Centre",
+            "HSM54455",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "College Mosjid Road, Gopalganj."
+        ],
+        [
+            33,
+            "GOPALGANJ CHEVRON CLINIC",
+            "HSM50531",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "73/2,MIAPARA ROAD, GOPALGANJ POWROSHOVA, GOPALGANJ SADAR GOPALGANJ"
+        ],
+        [
+            34,
+            "Gopalganj Diagnostic And Ma &  Shishu Clinic",
+            "HSM43436",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "173,Bakchi Bari Road, Gopalganj Sadar, Gopalganj."
+        ],
+        [
+            35,
+            "Gopalganj Diagnostic And Ma & Shishu Clinic",
+            "HSM76827",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "173,Bakchi Bari Road, Gopalganj Sadar, Gopalganj."
+        ],
+        [
+            36,
+            "Gopalganj Medical And Diagnostic",
+            "HSM68150",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Banani",
+            "H-102/5, Bir Uttam Ziaur Rahman Road, Banani, Dhaka-1213"
+        ],
+        [
+            37,
+            "GOPALGANJ MODHUMOTI DIAGNOSTIC CENTER",
+            "HSM25033",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "86, HAQUE MONJIL DC ROAD, GOPALGANJ."
+        ],
+        [
+            38,
+            "Gopalganj Specialized Hospital",
+            "HSM73857",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "332/1,Kuadanga,Gopalganj Sadar, Gopalganj."
+        ],
+        [
+            39,
+            "Gopalganj Srugical Clinic & Diagnostic Centre",
+            "HSM09021",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "Kuadanga, Gopalganj"
+        ],
+        [
+            40,
+            "Gopalganj Surgical Clinic",
+            "HSM42739",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "\u09e9\u09e9\u09e8/\u09e9 \u09ac\u0999\u09cd\u0997\u09ac\u09a8\u09cd\u09a7\u09c1 \u09b8\u09dc\u0995, \u0995\u09c1\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be, \u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0,\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            41,
+            "GOPALGONJ CENTRAL HOSPITAL & DIAGNOSTIC CENTER (PVT) LTD",
+            "HSM17711",
+            "Diagnostic Center",
+            "Category-B",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "87 DC Road, Gopalgonj Sadar, Gopalgonj."
+        ],
+        [
+            42,
+            "GOPALGONJ CENTRAL HOSPITAL & DIAGNOSTIC CENTER (PVT) LTD",
+            "HSM70000",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "87 DC Road, Gopalgonj Sadar, Gopalgonj."
+        ],
+        [
+            43,
+            "GOPALPUR CLINIC & DIAGNOSTIC CENTE",
+            "HSM66521",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Gopalpur",
+            "KONABARI BAZAR, GOPALPUR, TANGAIL, BANGLADESH."
+        ],
+        [
+            44,
+            "Gopalpur diagnostic center",
+            "HSM83439",
+            "Diagnostic Center",
+            "Category-C",
+            "Natore",
+            "Natore Sadar",
+            "Modhubari, Gopalpur Bazar, Lalpur, Natore."
+        ],
+        [
+            45,
+            "GORIB SHAH CLINIC",
+            "HSM19657",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Rahman Nagar, Bogura Sadar, Bogura."
+        ],
+        [
+            46,
+            "GORIB SHAH CLINIC & DIAGNOSTIC CENTRE",
+            "HSM58962",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Rahman Nagar, Bogura Sadar, Bogura."
+        ],
+        [
+            47,
+            "Goribe Newaj Hospital & Lab",
+            "HSM30764",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Shariatpur",
+            "Gosairhat",
+            "Edilpur, P.O: Goshair Hat, P.S: Goshair Hat, Dist: Shariatpur"
+        ],
+        [
+            48,
+            "Goribe Newaj Hospital & Lab(Diagnostic Center )",
+            "HSM00933",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Gosairhat",
+            "Edilpur, P.O: Goshair Hat, P.S: Goshair Hat, Dist: Shariatpur."
+        ],
+        [
+            49,
+            "Gosaibari Health Center, Grameen Kalyan",
+            "HSM67951",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Dhunat",
+            "Gosaibari Bazar, Dhunot, Bogura."
+        ],
+        [
+            50,
+            "Goshairhat Adhunik (Pvt.) Hospital",
+            "HSM82492",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Gosairhat",
+            "Bank Road, Goshairhat Bazar, Shariatpur"
+        ],
+        [
+            51,
+            "Goshairhat Adhunik (Pvt.) Hospital",
+            "HSM92095",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Shariatpur",
+            "Gosairhat",
+            "Bank Road, Goshairhat Bazar, Shariatpur"
+        ],
+        [
+            52,
+            "Goshairhat Diagnostic Centre",
+            "HSM95637",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Gosairhat",
+            "Goshairhat, Shariatpur"
+        ],
+        [
+            53,
+            "Gour Clinic(Pathology)",
+            "HSM80402",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "Baten Kha More, Chapainawabganj"
+        ],
+        [
+            54,
+            "GOURIPUR CITY HOSPITAL (PVT)",
+            "HSM02509",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Daudkandi",
+            "Gouripur Bazar (Homna Road), Daudkandi,Comilla."
+        ],
+        [
+            55,
+            "GOURIPUR CITY HOSPITAL (PVT)",
+            "HSM38453",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Daudkandi",
+            "Gouripur Bazar (Homna Road), Daudkandi, Comilla"
+        ],
+        [
+            56,
+            "Gouripur Diabetic Hospital & Diagnostic Center",
+            "HSM68704",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "\u09b0\u09bf\u09df\u09be\u099c \u099f\u09be\u0993\u09df\u09be\u09b0, \u0997\u09cc\u09b0\u09c0\u09aa\u09c1\u09b0 \u09ac\u09be\u099c\u09be\u09b0, \u09a6\u09be\u0989\u09a6\u0995\u09be\u09a8\u09cd\u09a6\u09bf, \u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u0964"
+        ],
+        [
+            57,
+            "GOURIPUR MODERN DIGITAL HOSPITAL.",
+            "HSM61083",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Ali Hossain Market, Angaura, Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            58,
+            "GOURIPUR MODERN DIGITAL HOSPITAL.",
+            "HSM84292",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Daudkandi",
+            "Ali Hossain Market, Angaura, Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            59,
+            "Gouripur Rongdonu Hospital",
+            "HSM66407",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Daudkandi",
+            "Gauripur Bazar, Daudkandi, Cumilla "
+        ],
+        [
+            60,
+            "Gouripur Rongdonu Hospital",
+            "HSM09257",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Gauripur Bazar, Daudkandi, Cumilla "
+        ],
+        [
+            61,
+            "Gournadi Eye Hospital",
+            "HSM27076",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Gaurnadi",
+            "South Palordi, Gournadi, Barishal"
+        ],
+        [
+            62,
+            "Gournadi Nursing Home and Diagnostic Center",
+            "HSM03291",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Gaurnadi",
+            "Chadsi Road, Gournadi, Barisal"
+        ],
+        [
+            63,
+            "Gournadi Nursing Home and Diagnostic Center",
+            "HSM92759",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Gaurnadi",
+            ""
+        ],
+        [
+            64,
+            "Gowainghat Diagnostic & Consultation Center",
+            "HSM70855",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Gowainghat",
+            "Hospital Road .Gowainghat,Sylhet"
+        ],
+        [
+            65,
+            "Graduate Diagnostics & Consultancy",
+            "HSM62899",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Main Road, Amtoli, Joypurhat-5900"
+        ],
+        [
+            66,
+            "Graduate Diagnostics & Consultancy Panchbibi",
+            "HSM82066",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Panchbibi",
+            "1 No Rail Gate, Panchbibi, Joypurhat"
+        ],
+        [
+            67,
+            "Graduate General Hospital",
+            "HSM52404",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Main Road, Amtoli, Joypurhat"
+        ],
+        [
+            68,
+            "Graduate General Hospital Lab",
+            "HSM58122",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Main Road, Amtoli, Joypurhat"
+        ],
+        [
+            69,
+            "Graeenkalyan Poradia Health Center",
+            "HSM38774",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Belabo",
+            "Poradia Bazar, Belabo, Narsingdi"
+        ],
+        [
+            70,
+            "Gram Bangla Diagnostic Center.",
+            "HSM81082",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Brac Office Mor, Taherpur Road, Bhabaniganj Mun, Bagmara, Rajshahi"
+        ],
+        [
+            71,
+            "Grameen (Pvt) Hospital & Diagnostic Centre",
+            "HSM88409",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Maheshpur",
+            "Khalishpur Bazar, Moheshpur, Jhenaidah"
+        ],
+        [
+            72,
+            "Grameen Clinic And Diagnostic Centre",
+            "HSM40313",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Sonamosjid Tohakhana More, Shibganj, Chapainawabganj."
+        ],
+        [
+            73,
+            "Grameen Clinic And Diagnostic Centre",
+            "HSM37579",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Shibganj",
+            "Sonamosjid Tohakhana More, Shibganj, Chapainawabganj."
+        ],
+        [
+            74,
+            "GRAMEEN CLINIC AND DIAGNOSTIC CENTRE",
+            "HSM44012",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "Rupdiabazar, Jashore sadar, Jashore"
+        ],
+        [
+            75,
+            "GRAMEEN CLINIC PATHOLOGY",
+            "HSM86876",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "JHILIM ROAD, CHAPAINAWABGANJ"
+        ],
+        [
+            76,
+            "Grameen Dental Care.",
+            "HSM97552",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Bangora Bazar,Nabinagar"
+        ],
+        [
+            77,
+            "Grameen Diagnosis",
+            "HSM54833",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "COLLEGE ROAD, NEW BABU PARA, POST OFFICE: SAIDPUR-5310, DIST: NILPHAMARI."
+        ],
+        [
+            78,
+            "Grameen Diagnostic & Clinic",
+            "HSM10111",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Station Road, Tinmatha Railgate, Puran Bogra, Bogra."
+        ],
+        [
+            79,
+            "Grameen Diagnostic & Clinic",
+            "HSM56946",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Station Road, Tinmatha Rail Gate, Puran Bogra, Bogra."
+        ],
+        [
+            80,
+            "GRAMEEN DIAGNOSTIC & DOCTORS CHAMBER",
+            "HSM96072",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Saghata",
+            "Ulla Bazar, Bharatkhali, Saghata, Gaibanda"
+        ],
+        [
+            81,
+            "Grameen Diagnostic Center",
+            "HSM05543",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Patnitala",
+            "Nazipur Bazar, Patnitala, Naogaon"
+        ],
+        [
+            82,
+            "GRAMEEN DIAGNOSTIC CENTER",
+            "HSM85961",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Holding No: 2626, Shalgaria, A K Khondokar road, Pabna"
+        ],
+        [
+            83,
+            "Grameen Diagnostic Center",
+            "HSM78972",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Puthia",
+            "Puthia Laber Office puthia Rajshahi"
+        ],
+        [
+            84,
+            "GRAMEEN DIAGNOSTIC CENTER",
+            "HSM06310",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            " Magura sadar,Magura. Hopspital Para Sadar . Magura Bangladesh."
+        ],
+        [
+            85,
+            "Grameen Diagnostic Center",
+            "HSM89382",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Sadar Hospital Gate, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            86,
+            "GRAMEEN DIAGNOSTIC CENTRE",
+            "HSM79909",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Daudkandi",
+            "NAYER OLD ROAD, GOURIPUR, DAUDKANDI, COMILLA"
+        ],
+        [
+            87,
+            "GRAMEEN DIAGNOSTIC CENTRE",
+            "HSM57190",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Mithapukur",
+            "Attached to bas-stand, Mithapukur, Rangpur"
+        ],
+        [
+            88,
+            "GRAMEEN DIAGNOSTIC CENTRE",
+            "HSM99998",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Boalkhali",
+            "Peton Awlia Market (1st Floor), Gomdandi Fultol, West Gomdandi."
+        ],
+        [
+            89,
+            "Grameen Diagnostic Complex",
+            "HSM67194",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chandanaish",
+            "Vill- Dohazari Sadar Municipality Area, P.O: Dohazari -4382, P.S: Chandanaish, Dist: Chattogram.  "
+        ],
+        [
+            90,
+            "Grameen Diagonostic Center",
+            "HSM29705",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Charghat",
+            "Charghat Medical Gate, Charghat, Rajshahi"
+        ],
+        [
+            91,
+            "Grameen Digital Diagnostic Center",
+            "HSM98779",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Hajra Tala, Goalchamot"
+        ],
+        [
+            92,
+            "Grameen Eye Hospital",
+            "HSM91937",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Panchogar Road, Salondor, Thakurgaon"
+        ],
+        [
+            93,
+            "Grameen Eye Hospital & Pathology",
+            "HSM99287",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Salondor, Panchogarh Road, Thakurgaon"
+        ],
+        [
+            94,
+            "Grameen Eye Hospital & Pathology ",
+            "HSM32837",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Kodomtola Bazar, Kashempur, Satkhira "
+        ],
+        [
+            95,
+            "Grameen Eye Hospital & Phaco Center",
+            "HSM36936",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Bangabaria, Main Road, Naogaon Sadar, Naogaon"
+        ],
+        [
+            96,
+            "Grameen Eye Hospital, Satkhira",
+            "HSM11440",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Satkhira Sadar",
+            "Kodomtola Bazar, Kashempur, Satkhira"
+        ],
+        [
+            97,
+            "Grameen GC Eye Hospital, Barishal",
+            "HSM23499",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "Rupatali, Barishal "
+        ],
+        [
+            98,
+            "Grameen General Hospital",
+            "HSM35722",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishorgonj",
+            "Bhairab",
+            "Kamalpur (New Town), Bhairab,  Kishoreganj"
+        ],
+        [
+            99,
+            "Grameen General Hospital",
+            "HSM41800",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Bhairab",
+            "Kamalpur (New Town), Bhairab, Kishoreganj."
+        ],
+        [
+            100,
+            "Grameen General Hospital & Diagnostic Center",
+            "HSM48412",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Komershil More,Brahmanbaria"
+        ]
+    ]
+}

@@ -1,0 +1,1007 @@
+{
+    "draw": 152,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Test plus diagnostic center",
+            "HSM86074",
+            "Diagnostic Center",
+            "Category-B",
+            "Chittagong",
+            "Panchlaish",
+            "131, K.B. Fazlul Kader road(2nd floor ), Panchlaish, Chittagong."
+        ],
+        [
+            2,
+            "TETULIA DIAGNOSTIC CENTER",
+            "HSM44552",
+            "Diagnostic Center",
+            "Category-C",
+            "Panchagarh",
+            "Tentulia",
+            "Tetulia Chowrasta Bazar, Tetulia, Panchagarh"
+        ],
+        [
+            3,
+            "TG (TRUST GENUINE) MULTI SPECIALIST HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM36458",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "Muktijoddha Tower,1,1/1,1/2,1/3 Gaznabi Road;\r\nMohammadpur, Dhaka 4207 \r\n"
+        ],
+        [
+            4,
+            "TG (TRUST GENUINE) MULTI SPECIALIST HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM16094",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "Muktijoddha Tower,1,1/1,1/2,1/3 Gaznabi Road;Mohammadpur, Dhaka 4207 "
+        ],
+        [
+            5,
+            "THAKURGAON BABY AND MEDICINE CLINIC",
+            "HSM94352",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No. 1179-00; Sarkarpara, Thakurgaon-5100, Thakurgaon Sadar, Thkaurgoan"
+        ],
+        [
+            6,
+            "THAKURGAON BLOOD BANK AND TRANSFUSION CENTER",
+            "HSM47140",
+            "Blood Bank",
+            "",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No: 0955-00; Sarkarpara, Thakurgaon"
+        ],
+        [
+            7,
+            "THAKURGAON COMMUNITY HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM46307",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No. 1166-00; Dinajpur Road, Hazipara, Thakurgaon"
+        ],
+        [
+            8,
+            "THAKURGAON COMMUNITY HOSPITAL AND DIAGNOSTIC CENTRE",
+            "HSM99724",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No. 1166-00; Dinajpur Road, Hazipara, Thakurgaon"
+        ],
+        [
+            9,
+            "THAKURGAON GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM03105",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Uttar Hazipara, Thakurgaon."
+        ],
+        [
+            10,
+            "Thakurgaon Swasthoseba Hospital",
+            "HSM24310",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "College Para, Thakurgaon."
+        ],
+        [
+            11,
+            "Thakurgaon Swasthoseba Hospital (Pathology)",
+            "HSM91786",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "College Para, Thakurgaon"
+        ],
+        [
+            12,
+            "THALASSAEMIA DIAGNOSTIC CENTER",
+            "HSM70593",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road, Sadar, Rangpur"
+        ],
+        [
+            13,
+            "Thalassaemia Hospital and Institute",
+            "HSM14993",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Savar",
+            "Zinzira Hospital Road, Birulia Union, P.O: Dairy Farm, Savar, Dhaka-1341 "
+        ],
+        [
+            14,
+            "THE   LABORATORY",
+            "HSM95401",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "30,  Green Road, SEL Nibas,\r\nDhaka-1205"
+        ],
+        [
+            15,
+            "The  Modern Diagnostic Centre",
+            "HSM97493",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nasirnagar",
+            "Nasirnagar,Brahmanbaria"
+        ],
+        [
+            16,
+            "The  New Life Hospital",
+            "HSM16127",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Sreemangal",
+            "College Road, Sreemangal"
+        ],
+        [
+            17,
+            "The  Popular  Diagonastic  Center ",
+            "HSM88198",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Sreemangal",
+            "\u09a6\u09bf \u09aa\u09aa\u09c1\u09b2\u09be\u09b0 \u09a1\u09be\u09df\u09be\u0997\u09a8\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0 \r\n\u09b8\u09cb\u09a8\u09be\u09b2\u09c0 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f \r\n\u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c \u09b0\u09cb\u09a1 \r\n\u09b6\u09cd\u09b0\u09c0\u09ae\u0999\u09cd\u0997\u09b2 \u09ae\u09cc\u09b2\u09ad\u09c0\u09ac\u09be\u099c\u09be\u09b0\r\n"
+        ],
+        [
+            18,
+            "THE ADARSHA DIAGNOSTIC CENTER",
+            "HSM70486",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Kaharole",
+            "Kaharole, Dinajpur "
+        ],
+        [
+            19,
+            "The Al Baraka Hospital & Diagnostic Center",
+            "HSM73582",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Kachari Pokur Par ,Brahmanbaria"
+        ],
+        [
+            20,
+            "The Al Baraka Hospital & Diagnostic Center",
+            "HSM99533",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Kachari Pokur Par,Brahmanbaria"
+        ],
+        [
+            21,
+            "The Al Shifa Diagnostic Center & Diabetic Health Care.",
+            "HSM27099",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Komershel More,Brhmanbaria"
+        ],
+        [
+            22,
+            "The Al-Razi Diagnostic Center",
+            "HSM65250",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Jail Road,Brahmanbaria"
+        ],
+        [
+            23,
+            "THE ALIF MEDICAL SERVICES",
+            "HSM79981",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Bizra Bazar, Laksam, Cumilla"
+        ],
+        [
+            24,
+            "THE ALPHA LABORATORY",
+            "HSM69584",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Comilla Adarsha Sadar",
+            "Ramghat, No-1 Kandirpar, Laksam Road, Comilla"
+        ],
+        [
+            25,
+            "THE APOLLO DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM57021",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "AZIZ MOHOL , HOLDING-629, SERSHA ROAD, LAXMIPUR, RAJSHAHI."
+        ],
+        [
+            26,
+            "THE APOLLO DIAGNOSTIC CENTER",
+            "HSM75927",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "fulpur,mymensingh\r\n"
+        ],
+        [
+            27,
+            "The Apollo Diagnostic Centre & Clinic",
+            "HSM57696",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Patharghata",
+            "Natun Bazar, Pathorghata, Barguna."
+        ],
+        [
+            28,
+            "The Apollo Hospital",
+            "HSM45309",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "P.T.I Road, Sadar, Patuakhali"
+        ],
+        [
+            29,
+            "THE APOLLO MEDICAL CENTER",
+            "HSM13181",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Mission Road, Chandpur"
+        ],
+        [
+            30,
+            "The Appollo Diagnostic Center",
+            "HSM21085",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Kasba",
+            "Gopinathpur,kasba,Brahmanbaria"
+        ],
+        [
+            31,
+            "The Aroggo Clinic & Diagnostic Center",
+            "HSM45500",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Baliakandi",
+            "Sadhu Molla Mor, Baliakandi, Rajbari."
+        ],
+        [
+            32,
+            "The Aroggo Clinic & Diagnostic Center.",
+            "HSM69116",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Baliakandi",
+            "Sadhu Molla Mor, Baliakandi, Rajbari."
+        ],
+        [
+            33,
+            "The Azad Diagnostic Centre",
+            "HSM93334",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Kanaighat",
+            "kanaighat,sylhet,Bangladesh"
+        ],
+        [
+            34,
+            "The bangladesh Hospital & Diagnostic Center",
+            "HSM07996",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "133,East paikpara, Brahmanbaria"
+        ],
+        [
+            35,
+            "The bangladesh Hospital & Diagnostic Center",
+            "HSM73105",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "133, East paikpara, Brahmanbaria"
+        ],
+        [
+            36,
+            "The Barakah General Hospital Ltd. ",
+            "HSM03453",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Motijheel",
+            "937, Outer Circular Road, Rajarbagh, Dhaka-1217"
+        ],
+        [
+            37,
+            "The Barakah General Hospital Ltd. ",
+            "HSM85217",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Motijheel",
+            "937, Outer Circular Road, Rajarbagh, Dhaka-1217"
+        ],
+        [
+            38,
+            "The Barakah General Hospital Ltd. ",
+            "HSM09583",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Motijheel",
+            "937, Outer Circular Road, Rajarbagh, Dhaka-1217"
+        ],
+        [
+            39,
+            "The Barakah Hospital Madonpur Ltd.",
+            "HSM48521",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Bandar",
+            "5 Muradpur, Madonpur, Bandar, Narayanganj"
+        ],
+        [
+            40,
+            "The Barakah Hospital Madonpur Ltd.",
+            "HSM55796",
+            "Diagnostic Center",
+            "Category-A",
+            "Narayanganj",
+            "Bandar",
+            "5 Muradpur, Madonpur, Bandar, Narayanganj"
+        ],
+        [
+            41,
+            "The Barakah Hospital Madonpur Ltd.",
+            "HSM91194",
+            "Blood Bank",
+            "",
+            "Narayanganj",
+            "Bandar",
+            "5 Muradpur, Madonpur, Bandar, Narayanganj"
+        ],
+        [
+            42,
+            "The Bashundara General Hospital & Diagnostic Centre.",
+            "HSM49399",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Janani plaza West paikpara,Brahmanbaria"
+        ],
+        [
+            43,
+            "The Bashundara General Hospital & Diagonostic Centre.",
+            "HSM59941",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "West Paikpara,Brahmanbaria"
+        ],
+        [
+            44,
+            "the biolab diagnostic and imaging center.",
+            "HSM89808",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "4 N Roy Road Amla Para Mymensingh"
+        ],
+        [
+            45,
+            "THE CAPITAL EYE HOSPITAL LIMITED",
+            "HSM95874",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Shyampur",
+            "97, West Dholairpar, Chowrastha, Shyampur, Dhaka"
+        ],
+        [
+            46,
+            "THE CHADER HASHI CHINNITO CLINIC, BANGLADESH",
+            "HSM22441",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Dakshinkhan",
+            "House-36/1, Ward-48, Daimuddin Road, Dakshinkhan, Uttara, Dhaka-1230."
+        ],
+        [
+            47,
+            "THE CHADER HASHI CHINNITO CLINIC, BANGLADESH",
+            "HSM85838",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dakshinkhan",
+            "House- 36, Ward- 48, Daimuddin Road, Dakshin khan, Uttara, Dhaka"
+        ],
+        [
+            48,
+            "The Chander Hasi Diagnostic Center",
+            "HSM75665",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Kumarshil Mor, Brahmanbaria"
+        ],
+        [
+            49,
+            "The Chankerpool Ceneral Hospital",
+            "HSM28750",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kotwali",
+            "10/1, Nabab Katara Road, Chankerpool, Dhaka-1000"
+        ],
+        [
+            50,
+            "The Check-Up Point Diagnostic Center ",
+            "HSM94753",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Sultan Plaza (Bhujpur Helth Complex) \r\nKazirhat Bypass Road Bhujpur CTG"
+        ],
+        [
+            51,
+            "The Checkup Diagnostic Center",
+            "HSM29221",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Satkania",
+            "South Kanchana,Jot pukuria  Bazar,Satkania,Chattogram"
+        ],
+        [
+            52,
+            "THE CITY CARE DIAGNOSTIC CENTER",
+            "HSM74657",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Chakaria",
+            "SHAH MARKET, CHERINGA, CHAKARIA POWRASAVA, COXS BAZAR"
+        ],
+        [
+            53,
+            "THE CITY HOSPITAL",
+            "HSM13138",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "OLD BUS STAND, DHAKA ROAD, TANGAIL."
+        ],
+        [
+            54,
+            "THE CITY HOSPITAL",
+            "HSM28079",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "OLD BUS STAND, DHAKA ROAD, TANGAIL."
+        ],
+        [
+            55,
+            "THE CLASSIC MEDICAL CENTRE LIMITED.",
+            "HSM70309",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "73, Puranapaltan Line, Wahid Masafi Centre, (1st Floor), Dhaka-1000"
+        ],
+        [
+            56,
+            "The Comfort Diagnostic Center",
+            "HSM48238",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Akhaura",
+            "Radanagar,Akhaura,Brahmanbaria"
+        ],
+        [
+            57,
+            "The Comfort Diagnostic Centre",
+            "HSM76788",
+            "Diagnostic Center",
+            "Category-A",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Kushtia Sadar Hospital Emergency Gate, Kushtia. "
+        ],
+        [
+            58,
+            "The Comfort Diagnostic Centre",
+            "HSM86359",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "C & B Road, Payra Chattar(Loncghat Moor), Narsingdi."
+        ],
+        [
+            59,
+            "THE COMFORT PATHOLOGICAL LAB",
+            "HSM61640",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "SAHID MOKTIJODDA SARAK, CHANDPUR SADAR, CHANDPUR"
+        ],
+        [
+            60,
+            "THE CONFIDENT MEDICAL CENTRE",
+            "HSM19185",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Araihazar",
+            "DUBAI PLAZA(1st FLOOR), ARAIHAZAR, NARAYANGANJ"
+        ],
+        [
+            61,
+            "The Consultation Complex",
+            "HSM93628",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Shibganj",
+            "Mokamtola, Shibgonj, Bogura"
+        ],
+        [
+            62,
+            "THE CRESCENT DIAGNOSTIC CENTER",
+            "HSM72222",
+            "Diagnostic Center",
+            "Category-B",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Red Crescent  & Pressclub Building Underground, Sadar Hopital Road, Brahmanbaria"
+        ],
+        [
+            63,
+            "THE DEBIDWAR GUMTY MEDICAL CENTRE ",
+            "HSM49760",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "AMIN TOWER, DEBIDWAR, CUMILLA "
+        ],
+        [
+            64,
+            "THE DEBIDWAR POPULAR DIAGONOSTIC.",
+            "HSM71582",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "PANBAZAR, DEBIDWAR, COMILLA "
+        ],
+        [
+            65,
+            "The Debidwar Square Diagnostic Complex",
+            "HSM05168",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "New Market Debidwar, Cumilla."
+        ],
+        [
+            66,
+            "The Debidwar Square Hospital ",
+            "HSM14080",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Debidwar",
+            "Debidwar"
+        ],
+        [
+            67,
+            "The Dental Care",
+            "HSM89395",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Noakhali",
+            "Sonaimuri",
+            "High School Road, Zilla Super Market, Sonaimuri Bazar, Noakhali."
+        ],
+        [
+            68,
+            "The Dhaka Diagnostic and Consultation Center ",
+            "HSM63341",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kamrangir Char",
+            "59,FM Tower,Abu Sayed Bazar,Kamrangirchar,Dhaka-1211."
+        ],
+        [
+            69,
+            "The Dhaka Diagnostic Center  ",
+            "HSM91983",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Singair",
+            "\u09b9\u09be\u09ac\u09bf\u09ac \u09b8\u09c1\u09aa\u09be\u09b0 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f, \u09ac\u09be\u09b8\u09cd\u09a4\u09be \u09ac\u09be\u09b8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u09a1, \u09a7\u09b2\u09cd\u09b2\u09be, \u09b8\u09bf\u0982\u0997\u09be\u0987\u09b0, \u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            70,
+            "The Dhaka Islamia General Hospital and Diagnostic Center ",
+            "HSM58106",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Demra",
+            "28 Para Dogair Notun Para, (Konapara Main Road), Khaja Soroni Road, Demra, Dhaka"
+        ],
+        [
+            71,
+            "The Dhaka Islamia General Hospital and Diagnostic Center",
+            "HSM40526",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Demra",
+            "28 Para Dogair Notun Para, (konapara Main Road), Khaja Soroni Road, Demra, Dhaka"
+        ],
+        [
+            72,
+            "The Diabetic & Diagnostic Center",
+            "HSM90509",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "115,Uttar morail,Brahmanbaria"
+        ],
+        [
+            73,
+            "The Diagnosis & Pathology Center",
+            "HSM84994",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Kalabagan",
+            "166/A, lake circus, Kalabagan, Dhaka- 1205"
+        ],
+        [
+            74,
+            "THE DIAGNOSTIC CENTRE ( PATHOLOGY)",
+            "HSM46638",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Magura Sadar",
+            "Asaduzzaman Road , Hospital Para Magura Sadar Magura, Bangladesh."
+        ],
+        [
+            75,
+            "The Diganta Diagnostic Center",
+            "HSM53584",
+            "Diagnostic Center",
+            "Category-B",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Nimnagar, Balubari, Sadar, Dinajpur"
+        ],
+        [
+            76,
+            "The DNA Lab Limited",
+            "HSM15439",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "69/K, KK Bhaban, Level: 05, Bir Uttam Kazi Nuruzzaman Sarak, Panthapath, Dhaka-1205.\r\n"
+        ],
+        [
+            77,
+            "THE DOCTOR DIAGNOSTIC & CONSULTATION CENTER ",
+            "HSM50892",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Bheramara",
+            "High road moddhobazar bheramara kushtia"
+        ],
+        [
+            78,
+            "The Doctor\u2019s Diagnostic & Consultation Centre",
+            "HSM84965",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Siddique Mansion (2nd Floor), Islampur bazar, Shahporan, Sylhet."
+        ],
+        [
+            79,
+            "THE DOCTORS HOSPITAL",
+            "HSM61890",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Moktijoddah Gofran plaza, Gurur Hat Road, Madhabdi, Narsingdi"
+        ],
+        [
+            80,
+            "THE DOCTORS HOSPITAL",
+            "HSM79883",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Moktijoddah Gofran plaza, Gurur Hat Mor, Madhabdi, Narsingdi"
+        ],
+        [
+            81,
+            "The Doctors Lab",
+            "HSM94316",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchhari",
+            "Nanupur Bazar, Fatickchari, Chittagong."
+        ],
+        [
+            82,
+            "The Doctors Lab",
+            "HSM89073",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Debidwar",
+            "College Road, New Market, Debidwar, Comilla"
+        ],
+        [
+            83,
+            "The Dutch Bangla Diagnostic Center & Hospital.",
+            "HSM70404",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Hospital Road,Brahmanbaria"
+        ],
+        [
+            84,
+            "The Dutch Bangla Diagnostic Center & Hospital.",
+            "HSM74661",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Jail Road,Brahmanbaria"
+        ],
+        [
+            85,
+            "The Eastern  Pathology",
+            "HSM91349",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "The Eastern Pathology, 30, N.S. Road, Amlapara, Kushtia."
+        ],
+        [
+            86,
+            "The Eastern Diagnostic Centre",
+            "HSM62311",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Boalmari",
+            "Govt. College Road,  Boalmari, Faridpur."
+        ],
+        [
+            87,
+            "The Eastern Surgical Clinic",
+            "HSM01984",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Faridpur",
+            "Boalmari",
+            "Govt. College Road, Boalmari, Faridpur."
+        ],
+        [
+            88,
+            "THE ENT & HEAD- NECK CANCER HOSPITA & INSTITUTE",
+            "HSM70861",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "F-12, Sher-E-Bangla Nagar, Agargaon, Dhaka- 1207."
+        ],
+        [
+            89,
+            "The Eureka Diagnostic & Medical Services",
+            "HSM54232",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Tejgaon",
+            "Sena Kollayan Business Mark.Plot,218/Tejgaon Silpo Area Dhaka-1208"
+        ],
+        [
+            90,
+            "THE EVERGREEN DIANOSTIC CENTER",
+            "HSM22168",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Boalkhali",
+            "The Evergreen Diagnostic Centre, Jabbar Market, East Gomdandi, Boalkhali, Chittagong."
+        ],
+        [
+            91,
+            "The Fair Lab",
+            "HSM80347",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Hathazari",
+            "Sheikh Market, Najumeah hat, Hathazari, Chattogrm."
+        ],
+        [
+            92,
+            "THE FAMOUS HOSPITAL.",
+            "HSM17761",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chauddagram",
+            "Mia Bazar, Chauddagram, Cumilla "
+        ],
+        [
+            93,
+            "THE FAMOUS HOSPITAL.",
+            "HSM52863",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Mia Bazar, Chauddagram, Cumilla "
+        ],
+        [
+            94,
+            "The Fatama Diagnostic Center",
+            "HSM77872",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Karimganj",
+            "Hospital Road, Karimganj,Kishoreganj"
+        ],
+        [
+            95,
+            "The Fenchuganj Diagnostic Center",
+            "HSM79891",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Fenchuganj",
+            "Poschim Bazar Fenchugonj, Sylhet."
+        ],
+        [
+            96,
+            "The Garo Baptist Convention Christian Health Project, Joyramkura",
+            "HSM22218",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Haluaghat",
+            "Joyramkura, Haluaghat, Mymensingh, Bangladesh "
+        ],
+        [
+            97,
+            "THE GREAT HOSPITAL",
+            "HSM32966",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khan Jahan Ali",
+            "Sheromoni,Khanjahan Ali,Khulna"
+        ],
+        [
+            98,
+            "THE GREAT HOSPITAL",
+            "HSM46685",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khan Jahan Ali",
+            "Sheromoni, Khanjahan Ali, Khulna"
+        ],
+        [
+            99,
+            "The Green Lab Diagnostic Center",
+            "HSM47815",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "Bhuyan National Plazw-1, ( 1st & 2nd Floor) Jamgora Chaowrasta,Ashulia,Saver,Dhaka"
+        ],
+        [
+            100,
+            "The green Lab Diagnostic center.",
+            "HSM88870",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Halderpara,brahmanbari"
+        ]
+    ]
+}

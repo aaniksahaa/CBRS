@@ -1,0 +1,1007 @@
+{
+    "draw": 76,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "KHAN JAHAN ALI HOSPITAL",
+            "HSM81578",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "7 KDA Avenue, Moylapota, Khulna"
+        ],
+        [
+            2,
+            "KHAN JAHAN ALI HOSPITAL",
+            "HSM27580",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "7 KDA Avenue, Moylapota, Khula"
+        ],
+        [
+            3,
+            "KHAN NURSING HOME & DIAGNOSTIC CENTRE ",
+            "HSM41811",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Keraniganj",
+            "HASNABAD HOUSING, NAIA TOLA, POST OFFICE \u2013 DHAKA JUT MIL, THANA \u2013 SOUTH KERANIGANJ, DIST \u2013 DHAKA 1311."
+        ],
+        [
+            4,
+            "KHAN NURSING HOME & DIAGNOSTIC CENTRE",
+            "HSM50847",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "HASNABAD HOUSING, NAIA TOLA, POST OFFICE \u2013 DHAKA JUT MIL, THANA \u2013 SOUTH KERANIGANJ, DIST \u2013 DHAKA 1311."
+        ],
+        [
+            5,
+            "Khan Pathology",
+            "HSM69814",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Betagi",
+            "7 No. ward, Betagi Paurashahar, Betagi, Barguna"
+        ],
+        [
+            6,
+            "Khan Pathology .",
+            "HSM75298",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Galachipa",
+            "Echadi,Char Chandrail,Galachipa, Patuakhali "
+        ],
+        [
+            7,
+            "KHANDAKAR  CLINIC & DIAGNOSTIC  CENTRE",
+            "HSM27489",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gobindaganj",
+            "Upazila Road, kendro Shohid Minarer Samone, Gobindaganj, Gaibanda"
+        ],
+        [
+            8,
+            "KHANDAKAR  CLINIC & DIAGNOSTIC  CENTRE",
+            "HSM16450",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Gobindaganj",
+            "Upazilla Road, Shohid Minarer Shamone, Gobindaganj, Gaibanda"
+        ],
+        [
+            9,
+            "KHANDAKAR DIAGNOSTIC & IMAGING CENTRE",
+            "HSM25676",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Hat Laxmipur, Gaibanda Sadar, Gaibanda"
+        ],
+        [
+            10,
+            "KHANDAKAR SARWAR ZAHAN MEMORIAL HOSPITAL",
+            "HSM42859",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "Gaibandha District Hospital Road, Gaibandha"
+        ],
+        [
+            11,
+            "Khandaker Alkas & Amina Diagnostic Center",
+            "HSM55966",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Nabinagar, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            12,
+            "Khandaker Alkas & Amina Hospital",
+            "HSM61283",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Nabinagar, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            13,
+            "Khandaker Diagnostic Center",
+            "HSM98774",
+            "Diagnostic Center",
+            "Category-B",
+            "Sunamganj",
+            "Sunamganj Sadar",
+            "Kazir Point, Sunamganj Sadar, Sunamganj"
+        ],
+        [
+            14,
+            "KHANDAKER DIAGNOSTIC CENTRE & DOCTORS CHAMBER ",
+            "HSM77652",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Roypura",
+            "Raipura Bazar"
+        ],
+        [
+            15,
+            "Khandaker Genaral Hospital",
+            "HSM20543",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "8 Molla Tower, Bazir Moor , Golap Chottor, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            16,
+            "Khandaker Genaral Hospital",
+            "HSM60206",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "8 Molla Tower, Bazir Moor , Golap Chottor, Narsingdi Sadar, Narsingdi"
+        ],
+        [
+            17,
+            "Khandaker Lab",
+            "HSM22246",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Bhairab",
+            "Khandaker Lab.\r\nGovt. Zillur Rahman Mahila College Road.\r\nBHairab Bazar.\r\nBhairab .\r\nKishoregonj."
+        ],
+        [
+            18,
+            "Khandaker Shahjahan Doctor\u2019s Lab & Sonography Centre",
+            "HSM09047",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kashiani",
+            "Joyanagar Bazar, Janasur, Kashiani, Gopalganj-8130"
+        ],
+        [
+            19,
+            "KHANDKER MAHBUB HOSSAIN EYE HOSPITAL, DHAKA",
+            "HSM30806",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "7/A, BLOCK - B PLOT-3, BLOCK - E, KALWALAPARA, SECTION - 1, DHAKA-1216"
+        ],
+        [
+            20,
+            "khandker mahbub hossain eye hospital,dhaka,diagnostic center",
+            "HSM83776",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mirpur",
+            "section-1,mirpur,dhaka-1212"
+        ],
+        [
+            21,
+            "Khandoker A. Rashid & Diagnostic Center",
+            "HSM12582",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "Town Kalikapur, Patuakhali Sador, Patuakhali."
+        ],
+        [
+            22,
+            "KHANDOKER DIAGNOSTIC CENTER  ",
+            "HSM31640",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Niamatpur",
+            "Hospital More,Niamotpur,Naogaon"
+        ],
+        [
+            23,
+            "Khandoker X-Ray Clinic (Pathology)",
+            "HSM47037",
+            "Diagnostic Center",
+            "Category-C",
+            "Gaibandha",
+            "Gaibandha Sadar",
+            "District Hospital Road, Gaibanda"
+        ],
+        [
+            24,
+            "KHANJAHAN ALI DIAGNOSTIC CENTER",
+            "HSM02367",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Sarankhola",
+            "Poholanbari,Sharankhola,Bagerhat"
+        ],
+        [
+            25,
+            "Khanjahan Ali Pathology",
+            "HSM44840",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mongla",
+            "Sk Abdul Hi Road,Mongla,Bagerhat"
+        ],
+        [
+            26,
+            "Khanjanpur Mission Health Service",
+            "HSM00771",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Paharpur Road, Khanjanpur, Joypurhat."
+        ],
+        [
+            27,
+            "Khanjanpur Mission Health Service",
+            "HSM06674",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Paharpur Road, Khanjanpur Mission, Joypurhat."
+        ],
+        [
+            28,
+            "Khanjanpur Samajik Sasthya Seba Kendra",
+            "HSM90165",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "West Side of PTI, Sadar Road, Khanjanpur, Jpypurhat"
+        ],
+        [
+            29,
+            "Khansama Diagnostic Center",
+            "HSM28215",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Khansama",
+            "Kabiruddin Saha Market \r\nKhansama, Dinajpur "
+        ],
+        [
+            30,
+            "Kharabad Baintola Clinic & Diagnostic Center",
+            "HSM00273",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Batiaghata",
+            "Baintola Bazar, Batiaghata, Khulna"
+        ],
+        [
+            31,
+            "khayes diagnostic centre",
+            "HSM47807",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Bishwambarpur",
+            "village: Bagbher, Post office: Rotergaon."
+        ],
+        [
+            32,
+            "KHAZA  BABA  CLINIC",
+            "HSM84377",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Bagherpara",
+            "Mohiron Bagharpara, Jashore"
+        ],
+        [
+            33,
+            "KHAZA BABA CLINIC.",
+            "HSM53753",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jashore",
+            "Bagherpara",
+            "Mohiron, Bagherpaera"
+        ],
+        [
+            34,
+            "Khaza Diagnostic Centre ",
+            "HSM46351",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Lohagara",
+            "Lohagara Bazar, Chowrasta, Lohagara, Narail"
+        ],
+        [
+            35,
+            "KHAZA HEALTH CITY DIAGNOSTIC CENTER",
+            "HSM46860",
+            "Diagnostic Center",
+            "Category-C",
+            "Magura",
+            "Shalikha",
+            "Village : Shimakhali, Post : Shimakhali, P.S : Shalikha, Dist : Magura.Bangladesh."
+        ],
+        [
+            36,
+            "Khaza Pathology and Diagnostic  Center",
+            "HSM56530",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Kaliganj",
+            "Kaliganj Bazer, Kaliganj, Lalmonirhat."
+        ],
+        [
+            37,
+            "KHETLAL DIAGNOSTIC CENTRE",
+            "HSM01925",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Khetlal",
+            "Ietakhola Road, Khetlal,Joypurhat  "
+        ],
+        [
+            38,
+            "Kheyam medical  Centre",
+            "HSM59848",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Hospital Road,Brahmanbaria"
+        ],
+        [
+            39,
+            "Khidhmah dental Care",
+            "HSM21450",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Shibpur Bazar,Nabinagar"
+        ],
+        [
+            40,
+            "Khidma Diagnostic & Diabetic Centre",
+            "HSM23319",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Rajbari Sadar",
+            "Sajjankanda, Rajbari Sadar, Rajbari."
+        ],
+        [
+            41,
+            "Khidmah  Diagnostic  Centre",
+            "HSM91816",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Dhanbari",
+            "Hobipur Road, Dhanbari, Tangail"
+        ],
+        [
+            42,
+            "KHIDMAH  LIFE CARE LIMITED",
+            "HSM52886",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Chak Bazar",
+            "19/1,  Bakshi Bazar Mor, Halicon Center, Chawkbazar, Dhaka-1100."
+        ],
+        [
+            43,
+            "Khidmah Dental Center",
+            "HSM86085",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Khilgaon",
+            "C-287/2-3, Khilgaon Bishwa Road, Khilgaon, Dhaka"
+        ],
+        [
+            44,
+            "Khidmah diagnostic & diabetic center",
+            "HSM30232",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Meghna",
+            "Manikarchar Bazar (Chandanpur road) Meghna, Cumilla"
+        ],
+        [
+            45,
+            "Khidmah Diagnostic Center",
+            "HSM80710",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Khilgaon",
+            "C-287/2-3, Khilgaon Bishwa Road, Khilgaon, Dhaka"
+        ],
+        [
+            46,
+            "Khidmah Diagnostic Center Faridpur.",
+            "HSM90935",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Mosjid Bari Sarak, Niltuli, Faridpur."
+        ],
+        [
+            47,
+            "Khidmah Eye Hospital ltd.",
+            "HSM26408",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Khilgaon",
+            "C-287/2-3 , Khigoan Bishwa Road\r\n"
+        ],
+        [
+            48,
+            "Khidmah General & Specialized Hospital.",
+            "HSM08905",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Comilla",
+            "Comilla Adarsha Sadar",
+            "TRUST SUPER MARKET, SHASUNGASA, COMILLA"
+        ],
+        [
+            49,
+            "Khidmah General & Specialized Hospital.",
+            "HSM15843",
+            "Diagnostic Center",
+            "Category-C",
+            "Comilla",
+            "Comilla Adarsha Sadar",
+            "TRUST SUPER MARKET, SHASUNGASA, COMILLA"
+        ],
+        [
+            50,
+            "Khidmah Hospital (Pvt) Ltd.",
+            "HSM34135",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Khilgaon",
+            "C-287/2-3, Khilgaon Bishwa Road, Khilgaon, Dhaka"
+        ],
+        [
+            51,
+            "Khidmah Hospital (Pvt) Ltd.",
+            "HSM16306",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Khilgaon",
+            "C-287/2-3,Khilgaon Biswa Road,Dhaka"
+        ],
+        [
+            52,
+            "KHIDMAH PHARMA & DIAGNOSTIC",
+            "HSM45545",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "SIMULTULI BAZAR, GAZIPUR"
+        ],
+        [
+            53,
+            "Khidmah Specialized Hospital",
+            "HSM97512",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "New bus terminal, Nursery road, Tangail sadar, Tangail"
+        ],
+        [
+            54,
+            "Khidmah Specialized Hospital & Diagnostic",
+            "HSM76281",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Tangail Sadar",
+            "New bus terminal, Nursery road, Tangail"
+        ],
+        [
+            55,
+            "KHIDMAH SURGICAL CARE & LAB",
+            "HSM67396",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Sadar Hospital Road, Manikpur"
+        ],
+        [
+            56,
+            "KHILGAON GENERAL HOSPITAL & DIAGNOSTIC LTD",
+            "HSM18327",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sabujbagh",
+            "1/1 Atish bDipankar Road, Khilgoan, Sabujbagh, Dhaka"
+        ],
+        [
+            57,
+            "KHILGAON GENERAL HOSPITAL & DIAGNOSTIC LTD",
+            "HSM07477",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Sabujbagh",
+            "1/1 Atish Dipankar Road, Khilgaon, Shabujbagh, Dhaka-1214"
+        ],
+        [
+            58,
+            "Khiru diagnonstic center",
+            "HSM23626",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "BHALUKA,MYMENSINGH"
+        ],
+        [
+            59,
+            "Khokon Memorial (pvt.) Ltd",
+            "HSM77274",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Kamarkhanda",
+            "ALOCKDIAR, B-JAMTOIL, KAMARKHAND, SIRAJGANJ"
+        ],
+        [
+            60,
+            "Khokon Memorial Hospital (pvt.) Ltd",
+            "HSM63278",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Kamarkhanda",
+            "ALOCKDIAR, B-JAMTOIL, KAMARKHAND, SIRAJGANJ"
+        ],
+        [
+            61,
+            "Khoksa Adunik Private Hospital",
+            "HSM98092",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kushtia",
+            "Khoksa",
+            "Hospital Gate, Khoksa, Kushtia, Bangladesh  "
+        ],
+        [
+            62,
+            "kHOKSHA ADHUNIK DIAGNOSTIC CENTER",
+            "HSM21068",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Khoksa",
+            "Bachtesekha Mor, Hospital Gate, Khoksha, Kushtia, 7020"
+        ],
+        [
+            63,
+            "Kholamora Modern Diagnostic & Consultation Center",
+            "HSM74795",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Keraniganj",
+            "Kholamora Bazar, Ati-1310, Keraniganj, Dhaka"
+        ],
+        [
+            64,
+            "Kholil Memorial Diabetic & Diagnostic Center",
+            "HSM64216",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Sreekhola, Ullapara, Sirajganj"
+        ],
+        [
+            65,
+            "KHONDOKAR DIAGNOSTIC CENTER",
+            "HSM57492",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramgati",
+            "Alexander Bazar, Ramgoti, Lakshmipur."
+        ],
+        [
+            66,
+            "KHONDOKAR DIAGNOSTIC CENTER",
+            "HSM87069",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Chatmohar",
+            "Hospital Gate, Chatmohar, Pabna"
+        ],
+        [
+            67,
+            "KHONDOKER (Pvt) CLINIC & DIAGNOSTIC CENTER",
+            "HSM11750",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Jhenaidah",
+            "Shailkupa",
+            "Kabirpur, Shailkupa, Jhenaidah"
+        ],
+        [
+            68,
+            "KHONDOKER (Pvt) CLINIC & DIAGNOSTIC CENTER",
+            "HSM03744",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Shailkupa",
+            "Kabirpur, Shailkupa, Jhenaidah"
+        ],
+        [
+            69,
+            "khondoker Diagnostic Unit-2",
+            "HSM63947",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramgati",
+            "Ramgoti Bazar.Collage Road.Lakshmipur."
+        ],
+        [
+            70,
+            "Khorshed Ali Memorial Pvt. Diagnostic Center",
+            "HSM97337",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Dumuria",
+            "Baruna Bazar, Dumuria, Khulna-9353"
+        ],
+        [
+            71,
+            "Khorshed Ali Memorial Pvt. Hospital ",
+            "HSM84970",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Dumuria",
+            "Baruna Bazar, Dumuria, Khulna-9253"
+        ],
+        [
+            72,
+            "Khoulud Medical Check-up",
+            "HSM03335",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Badda",
+            "kha-198,(1st floor)Progoti Sharani,Middle Badda ,Dhaka-1212"
+        ],
+        [
+            73,
+            "KHUDEZA HALIM HOSPITAL AND DIGITAL DIAGNOSTIC CENTRE",
+            "HSM07200",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Bhaluka",
+            "Sorkari hospital road, Valuca, Mymensingh"
+        ],
+        [
+            74,
+            "KHUDEZA HALIM HOSPITAL AND DIGITAL DIAGNOSTIC CENTRE",
+            "HSM02638",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "Sorkari hospital road,Valuca,Mymensingh"
+        ],
+        [
+            75,
+            "KHULNA AL SHEFA HOSPITAL ",
+            "HSM46348",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "31/9(GA) DOCTOR PARA, CHOTO BOYRA, SONADANGA, KHULNA, BANGLADESH."
+        ],
+        [
+            76,
+            "KHULNA AL SHEFA HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM18742",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "31/9(GA) DOCTOR PARA, CHOTO BOYRA, SONADANGA, KHULNA, BANGLADESH."
+        ],
+        [
+            77,
+            "Khulna BNSB Eye Hospital",
+            "HSM98340",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Phultala",
+            "Shiromoni, Phultala, Khulna."
+        ],
+        [
+            78,
+            "Khulna C.T. Clinic",
+            "HSM61163",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "Bakshipara Road, Khulna"
+        ],
+        [
+            79,
+            "Khulna Central Hospital & Diagnostic ",
+            "HSM90466",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "Sher-E-Bangla Road, Khulna, Bangladesh "
+        ],
+        [
+            80,
+            "Khulna Central Hospital & Diagnostic",
+            "HSM22147",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "Sher-E-Bangla Road, Khulna, Bangaladesh "
+        ],
+        [
+            81,
+            "Khulna Chakkhu Hospital",
+            "HSM98333",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Daulatpur",
+            "Jessore Road, Daulatpur, Khulna, Bangladesh"
+        ],
+        [
+            82,
+            "KHULNA CITY MEDICAL COLLEGE HOSPITAL",
+            "HSM09178",
+            "Private Hospital/Clinic",
+            "Medical College Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "25/26, KDA AVENUE, KHULNA"
+        ],
+        [
+            83,
+            "KHULNA CITY MEDICAL COLLEGE HOSPITAL (PATHOLOGY)",
+            "HSM46541",
+            "Diagnostic Center",
+            "Category-A",
+            "Khulna",
+            "Khulna Sadar",
+            "25/26, KDA Avenue, Khulna.  "
+        ],
+        [
+            84,
+            "Khulna Clinic & Diagnostic Center",
+            "HSM19253",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "Khanjahan Ali Road, Royal More, Khulna"
+        ],
+        [
+            85,
+            "Khulna Clinic & Diagnostic Center",
+            "HSM39786",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "Khanjahan Ali Road, Royal More, Khulna"
+        ],
+        [
+            86,
+            "Khulna Community Eye Hospital",
+            "HSM55245",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "2/1 Babu Khan Road "
+        ],
+        [
+            87,
+            "KHULNA EYE HOSPITAL AND LASER CENTRE  LTD.",
+            "HSM59846",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Sonadanga",
+            "53,KDA Avnue,Shaikhpara,Khulna."
+        ],
+        [
+            88,
+            "Khulna Gastro-Liver & Colon-Rectum Research & Diagnostic Center",
+            "HSM78026",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "BMA Bhabon, 34 KDA Avnue, Shat Rasta More, Khulna. "
+        ],
+        [
+            89,
+            "Khulna Gastro-Liver & Colon-Rectum Research & Diagnostic Center",
+            "HSM23725",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "BMA Bhabon, 34 KDA Avnue, Shat Rasta More Khulna."
+        ],
+        [
+            90,
+            "Khulna Health Care Hospital Pvt. Ltd.",
+            "HSM35768",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Sonadanga",
+            "B/2, Mozid Saroni, Bus Stand, Sonadanga, Khulna."
+        ],
+        [
+            91,
+            "Khulna Health Care Hospital Pvt. Ltd.",
+            "HSM90322",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Sonadanga",
+            "B/2, Majid Saroni, Sonadanga Bus Stand, Sonadanga, Khulna"
+        ],
+        [
+            92,
+            "Khulna Health Garden",
+            "HSM26507",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Sonadanga",
+            "infront of khulna medical colage hospital khulna,Bangladesh"
+        ],
+        [
+            93,
+            "Khulna Health Garden",
+            "HSM92040",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Sonadanga",
+            "infront of khulna medical colage hospital"
+        ],
+        [
+            94,
+            "Khulna Islami Hospital & Diagnostic Ltd.",
+            "HSM43759",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Sonadanga",
+            "290/1, Sher E Bangla Road,  Apon Vubon, Amtola , Khulna."
+        ],
+        [
+            95,
+            "Khulna Islami Hospital & Diagnostic Ltd.",
+            "HSM00095",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Sonadanga",
+            "290/1, Sher- E-Bangla Road, Apon Vubon, Amtola , Khulna"
+        ],
+        [
+            96,
+            "Khulna Lab Diagnostic & Consultation Canter",
+            "HSM77039",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "46, Babu Khan Road, Khulna, Bangladesh."
+        ],
+        [
+            97,
+            "Khulna Life Care Diagnostic Center",
+            "HSM20314",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "22/1, Shaikhpara B.K. Roy Road, Khulna"
+        ],
+        [
+            98,
+            "Khulna Life Care Hospital & Diagnstic Centre",
+            "HSM70958",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "22/1, Shaikhpara, B.K. Ray Road, Dalmil more, Khulna"
+        ],
+        [
+            99,
+            "Khulna Mattrimangol and Health Centre",
+            "HSM53328",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "Islampur Road, Khulna"
+        ],
+        [
+            100,
+            "Khulna Mattrimongal and Health Centre",
+            "HSM97642",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "Islampur Road ,Khulna"
+        ]
+    ]
+}

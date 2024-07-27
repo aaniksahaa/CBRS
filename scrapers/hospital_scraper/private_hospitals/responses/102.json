@@ -1,0 +1,1007 @@
+{
+    "draw": 102,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "MUKTI MEDICAL CENTRE",
+            "HSM52484",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Cumilla",
+            "Daudkandi",
+            "Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            2,
+            "MUKTI MEDICAL CENTRE",
+            "HSM61066",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Daudkandi",
+            "Gouripur, Daudkandi, Comilla"
+        ],
+        [
+            3,
+            "MUKTI MEDICARE CENTER",
+            "HSM13326",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Sreemangal",
+            "HOBIGONJ ROAD, LALBAG R/A, SREEMONGAL-3210, DIST: MOULVIBAZAR"
+        ],
+        [
+            4,
+            "MUKTI NURSING HOME",
+            "HSM90490",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Khilgaon",
+            "233-B. Khilgaon, Dhaka"
+        ],
+        [
+            5,
+            "MUKTI NURSING HOME",
+            "HSM98868",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Khilgaon",
+            "233-B, Khilgaon, Dhaka"
+        ],
+        [
+            6,
+            "MUKTI PATHOLOGY DIAGNOSTIC CENTER",
+            "HSM23831",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "Azizul Jalil Sarak, Hospital Road Kushtia."
+        ],
+        [
+            7,
+            "Mukti Pvt.Hospital& Diagnostic Center",
+            "HSM21386",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital Road,Nabinagar,Brahmanbaria"
+        ],
+        [
+            8,
+            "Mukti Pvt.Hospital& Diagnostic Center",
+            "HSM38987",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Nabinagar",
+            "Hospital Road,Nabinagar,Brahmanbaria"
+        ],
+        [
+            9,
+            "MUKTIJODDHA ASHRAF DIAGNOSTIC CENTER",
+            "HSM15373",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "UPAZILA SADAR ROAD, HALDERPER (NEAR UPAZILA HEALTH COMPLEX) PALASH, NARSINGDI"
+        ],
+        [
+            10,
+            "Muktijoddha Hospital & Digital Diagnostic Lab",
+            "HSM98831",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Bangla Bazar,Mirzapur(Near Mohammadia Garments),Gazipur Sadar,Gazipur."
+        ],
+        [
+            11,
+            "Muktijoddha Hospital & Digital Diagnostic Lab",
+            "HSM45424",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Bangla Bazar,Mirzapur(Near Mohammadia Garments),Gazipur Sadar,Gazipur.\r\n\r\n"
+        ],
+        [
+            12,
+            "Muktijudda Haider Ali General Hospital & Diagnostic Center",
+            "HSM14001",
+            "Diagnostic Center",
+            "Category-B",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Rajnagar, Habiganj"
+        ],
+        [
+            13,
+            "Muktijudda Haider Ali General Hospital & Diagnostic Center",
+            "HSM22213",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "Rajnagar, Habiganj"
+        ],
+        [
+            14,
+            "Muktizoddha Tofazzel Hossen Diagnostic Centre.",
+            "HSM77952",
+            "Diagnostic Center",
+            "Category-B",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Hamdoh, Jhenaidah."
+        ],
+        [
+            15,
+            "MUKTY DIAGNOSTIC CENTER",
+            "HSM16247",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Chorpara Notun Polli Road, \r\nKishoreganj Sadar, Kishoreganj."
+        ],
+        [
+            16,
+            "MUKUL PATHOLOGICAL CLINIC",
+            "HSM00178",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Kalihati",
+            "Mukul Pathological clinic, Hospital gate, Kalihati, Tangail."
+        ],
+        [
+            17,
+            "MULADI FAIR CLINIC",
+            "HSM60339",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Muladi",
+            "College Road Muladi Barisal"
+        ],
+        [
+            18,
+            "MULADI FAIR CLINIC",
+            "HSM31847",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Muladi",
+            "College Road ,Muladi  Barisal"
+        ],
+        [
+            19,
+            "MULADULI CLINIC AND DIAGNOSTIC CENTER",
+            "HSM41487",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Ishwardi",
+            "Muladuli Bazar, Ishwardi, Pabna. "
+        ],
+        [
+            20,
+            "MULADULI CLINIC AND DIAGNOSTIC CENTER",
+            "HSM13198",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "Muladuli Bazar, Ishwardi, Pabna. "
+        ],
+        [
+            21,
+            "Mulfatganj Shefa Diagnostic Centre",
+            "HSM33306",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Naria",
+            "Mulfatganj Bazar, Naria, Shariatpur"
+        ],
+        [
+            22,
+            "Multi Care Clinic & Diagnostic Center",
+            "HSM77433",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Town Masimpur, Amlapara, Pirojpur"
+        ],
+        [
+            23,
+            "Multi Care Diagnostic Center",
+            "HSM72173",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "Town Masimpur, Amlapara, Pirojpur"
+        ],
+        [
+            24,
+            "Multi care Hospetal (pvt)",
+            "HSM25489",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "corpara, mymensingh"
+        ],
+        [
+            25,
+            "Mum Diagonostic Certer",
+            "HSM11884",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Diabetic More, Uposohore 1, Sadar, Dinajpur"
+        ],
+        [
+            26,
+            "MUN DIAGNOSTIC CENTRE",
+            "HSM81851",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Thakurgaon Sadar",
+            "Holding No. 1062-00, 1063-00, Purbo Goalpara, Thakurgaon"
+        ],
+        [
+            27,
+            "Muna Clinic & Diagnostic Center",
+            "HSM04351",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "108, Sadar Road, Bakerganj, Barishal."
+        ],
+        [
+            28,
+            "MUNA GENERAL HOSPITAL",
+            "HSM89085",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Kotalipara",
+            "vill:-Bandhal,Modbari Road,Kotalipara,Gopalganj."
+        ],
+        [
+            29,
+            "Muna General Hospital",
+            "HSM38371",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Bakerganj",
+            "108, Sadar Road, Bakerganj, Barishal."
+        ],
+        [
+            30,
+            "Mundumala Diagnostic Center Tanore",
+            "HSM23445",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Tanore",
+            "Mundumala, Tanore, Rajshhi."
+        ],
+        [
+            31,
+            "Munmun Eye Hospital & Faco Center",
+            "HSM97554",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhamrai",
+            "A-9, Islampur Dhamrail, Dahka-1350"
+        ],
+        [
+            32,
+            "Munna Diagnostic Centre",
+            "HSM40387",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Birampur",
+            "Thana Road, Pollobir Mor, Birampur, Dinajpur"
+        ],
+        [
+            33,
+            "Munna Diagonstic Center",
+            "HSM51756",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Kalaroa",
+            "Hospital Road Kalaroa Satkhira"
+        ],
+        [
+            34,
+            "MUNNI DIAGNOSTIC CENTRE",
+            "HSM04487",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "NARAYANPUR, SHERPUR TOWN, SHERPUR. "
+        ],
+        [
+            35,
+            "Munshiganj Care Hospital",
+            "HSM53956",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Uro Plaza, (2nd Floor), Sadar Hospital Road, Manikpur, Munshiganj Sadar, Munshiganj"
+        ],
+        [
+            36,
+            "Munshiganj Care Hospital",
+            "HSM38506",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Uro Plaza, (2nd Floor), Sadar Hospital Road, Manikpur, Munshiganj Sadar, Munshiganj"
+        ],
+        [
+            37,
+            "MUNSHIGANJ EYE HOSPITAL",
+            "HSM03432",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "Malpara,Munshiganj"
+        ],
+        [
+            38,
+            "Muntaha Medical Diagnostic Center",
+            "HSM49729",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Mongla",
+            "Madrasa Road,Mongla,Bagerhat"
+        ],
+        [
+            39,
+            "Munzu Hospital",
+            "HSM68217",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Bagha",
+            "Bagha ,Rajshahi"
+        ],
+        [
+            40,
+            "Munzu Hospital",
+            "HSM07519",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Bagha",
+            "Milik Bagha,Bagha,Rajshahi"
+        ],
+        [
+            41,
+            "Munzu Hospital & Diagnostic Center",
+            "HSM85903",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Rajshahi",
+            "Rajpara",
+            "North Side of GPO, Laxmipur,Rajpara,Rajshahi"
+        ],
+        [
+            42,
+            "Munzu Hospital & Diagnostic Center",
+            "HSM14434",
+            "Diagnostic Center",
+            "Category-B",
+            "Rajshahi",
+            "Rajpara",
+            "North Side of GPO, Laxmipur,Rajpara,Rajshahi"
+        ],
+        [
+            43,
+            "MURAD PATHOLOGICAL SERVICE ",
+            "HSM02711",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Pakundia",
+            "KHOKAN SORKAR MARKET, MOTKHOLA TAN BAZAR, PAT MOHAL, PAKINDUA, KISHOREGANJ"
+        ],
+        [
+            44,
+            "MURADNAGOR MODERN DIAGNOSTIC CENTRE",
+            "HSM16292",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Muradnagar",
+            "MURADNAGOR, COMILLA"
+        ],
+        [
+            45,
+            "MURAPARA GENERAL HOSPITAL",
+            "HSM63663",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Rupganj",
+            "Murapara Bazer ,Murapara, Rupgonj, Narayongonj"
+        ],
+        [
+            46,
+            "MURAPARA GENERAL HOSPITAL",
+            "HSM82551",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Rupganj",
+            "Murapara Bazer ,Murapara, Rupgonj, Narayongonj"
+        ],
+        [
+            47,
+            "Musa Dental Care",
+            "HSM34953",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Coxs Bazar",
+            "Ukhia",
+            "Chowdhury Market, Court Bazar, Ukhiya, Coxs Bazar."
+        ],
+        [
+            48,
+            "Musapur Medical Center ",
+            "HSM43755",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Companiganj",
+            "Bangla Bazar, Musapur, Companigonj, Noakhali"
+        ],
+        [
+            49,
+            "MUSCAT MEDICAL CENTER",
+            "HSM73789",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Banani",
+            "Fulo Tower,H-101,(1st & 2nd) Floor, New Airport Road,Kakoli,Banani,Dhaka-1213"
+        ],
+        [
+            50,
+            "Muslim Aid Communiny Hospital & Diagnostic Centere",
+            "HSM22080",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "259/1, Masimpur, Baipash Sarok, New Bus Stand, Pirojpur"
+        ],
+        [
+            51,
+            "Muslim Aid Community Hospital",
+            "HSM54515",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Maulvibazar",
+            "Kulaura",
+            "Kakichar, Kazolhdara,Kulaura,Moulvibazar"
+        ],
+        [
+            52,
+            "Muslim Aid Community Hospital",
+            "HSM36378",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Pabna Sadar",
+            "Central Bus Terminal , Laskerpur, Darul Aman Trust, P N Road, Pabna "
+        ],
+        [
+            53,
+            "Muslim Aid Community Hospital, Pirojpur",
+            "HSM56175",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "259/1, Masimpur, Baipash Sarok, New Bus Stand, Pirojpur"
+        ],
+        [
+            54,
+            "Muslim Aid Diagnostic Laboratory",
+            "HSM79542",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Kulaura",
+            "Kakichar, Kazolhdara,Kulaura,Moulvibazar"
+        ],
+        [
+            55,
+            "Muslim Aid Diognostic Laboratory",
+            "HSM33988",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Pabna Sadar",
+            "Central Bus Terminal , Laskerpur, Darul Aman Trust, P N Road, Pabna "
+        ],
+        [
+            56,
+            "Mustafiz Glaucoma Research and Eye Hospital",
+            "HSM89014",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "125/3 Darus Salam Road, Mirpur -1, Dhaka 1216."
+        ],
+        [
+            57,
+            "MUSTOFA  PATHOLOGY",
+            "HSM16050",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Alamdanga",
+            "COLLEGE PARA, ALAMDANGA, CHUADANGA"
+        ],
+        [
+            58,
+            "My Lab Diagnostic Centre",
+            "HSM01185",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Kotwali",
+            "217/A, N.A C. Bhaban, Chandanpura, Chawkbazar, Kotwali, Chittagong."
+        ],
+        [
+            59,
+            "Mymensingh  Diagnostic  centre",
+            "HSM74832",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Gauripur",
+            "Gouripur, Mymensingh "
+        ],
+        [
+            60,
+            "MYMENSINGH BL00D BANK & TRANSFUSION CENTER",
+            "HSM80751",
+            "Blood Bank",
+            "",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "312/1 CHARPARA,MYMENSINGH"
+        ],
+        [
+            61,
+            "mymensingh Union Specialized Hospital ltd",
+            "HSM36820",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "337,charpar,mymensingh"
+        ],
+        [
+            62,
+            "Mymensingh Union Specialized Hospital Ltd",
+            "HSM59547",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "337,charpar,mymensingh"
+        ],
+        [
+            63,
+            "Mymuna City Scan Center",
+            "HSM52025",
+            "Diagnostic Center",
+            "Category-A",
+            "Noakhali",
+            "Noakhali Sadar",
+            "Near of the Sadar Hospital, Hospital Road, Maijdee, Sadar, Noakhali."
+        ],
+        [
+            64,
+            "MYSA Medical Services (Pvt.) Ltd",
+            "HSM53852",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Paltan",
+            "66/A, Shayma Complex (1st floor), VIP Road, Nayapolton, Dhaka"
+        ],
+        [
+            65,
+            "N Madaripur Eye Hospital",
+            "HSM57109",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Panichatra, Shariatpur Road, Madaripur"
+        ],
+        [
+            66,
+            "N N Lab",
+            "HSM50890",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "House 2 Road 7 Level 5 Dhanmondi Dhaka "
+        ],
+        [
+            67,
+            "N R Clinic",
+            "HSM17747",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajbari",
+            "Pangsha",
+            "Upazila Road, Pangsha, Rajbari"
+        ],
+        [
+            68,
+            "N R Clinic",
+            "HSM58978",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajbari",
+            "Pangsha",
+            "Upazila Road, Pangsha, Rajbari"
+        ],
+        [
+            69,
+            "N.C.D COMMUINITY  HOSPITAL",
+            "HSM65752",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Sadar Hospital Road, Kurigram"
+        ],
+        [
+            70,
+            "N.C.D COMMUINITY  HOSPITAL  AND DIAGNOSTIC CENTRE ",
+            "HSM24063",
+            "Diagnostic Center",
+            "Category-C",
+            "Kurigram",
+            "Kurigram Sadar",
+            "Sadar Hospital Road, Kurigram."
+        ],
+        [
+            71,
+            "N.J.L. E.N.T CENTRE",
+            "HSM90342",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sylhet",
+            "Sylhet Sadar",
+            "15, Kajolshah, Medical Road. Sylhet Sadar-3100, Sylhet."
+        ],
+        [
+            72,
+            "N.R. Clinic and Diagnostic Centre",
+            "HSM11840",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Kotalipara",
+            "Vill: Rajapur, Ramsil, Kotalipara, Gopalganj."
+        ],
+        [
+            73,
+            "N.S.B Eye Hospital and Diagnostic Center",
+            "HSM57292",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Moszid Quarter, Netrakona"
+        ],
+        [
+            74,
+            "Naba-Ayat Diagnostic Centre ",
+            "HSM77597",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Akkelpur",
+            "Upozilla Mukti Zoddha Complex Bhabon, Sadar Road, Akkelpur, Joypurhat."
+        ],
+        [
+            75,
+            "Nabab Clinic & Diagnostic Centre",
+            "HSM14091",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Nachole",
+            "Mollikpur Bazar, Nachole, Chapainawabganj"
+        ],
+        [
+            76,
+            "Nabab Clinic & Diagnostic Centre(Lab)",
+            "HSM60329",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Nachole",
+            "Gojalbari, Madhabpur, Nachole, Chapainawabganj"
+        ],
+        [
+            77,
+            "Nabab Nusring Home ",
+            "HSM84993",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "FAKIRPARA, CHAPAINAWABGANJ"
+        ],
+        [
+            78,
+            "NABAB NUSRING HOME DIAGNOSTIC CENTER ",
+            "HSM14167",
+            "Diagnostic Center",
+            "Category-C",
+            "Chapai Nawabganj",
+            "Chapai Nababganj Sadar",
+            "FOKIRPARA, CHAPAINAWABGANJ"
+        ],
+        [
+            79,
+            "NABAB SHERAZ UD DULLAH MENTAL HOSPITAL ",
+            "HSM52108",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mohammadpur",
+            "2/4, Block-B, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            80,
+            "Nabajug Diagnostic Center",
+            "HSM50446",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            "College Road  Rajarhat, Pirojpur"
+        ],
+        [
+            81,
+            "NABIGANJ  DIGITAL LAB",
+            "HSM54462",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Nabiganj",
+            "Juwel Mention, Hospital Road, Nabiganj, Habiganj"
+        ],
+        [
+            82,
+            "Nabigonj United Hospital & Diagnostic Center",
+            "HSM53875",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Nabiganj",
+            "Hospital Road, Nabigonj, Habigonj"
+        ],
+        [
+            83,
+            "Nabigonj United Hospital & Diagnostic Center",
+            "HSM23630",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Nabiganj",
+            "Hospital Road, Nabigonj, Habigonj"
+        ],
+        [
+            84,
+            "Nabil Diagnostic Center .",
+            "HSM55851",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Uttor Nishan Baria ,Dhankhali, Kalapara, Patuakhali "
+        ],
+        [
+            85,
+            "NABILA DIAGNOSTIC CENTER",
+            "HSM91680",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Gabtali",
+            "MAIN ROAD, GABTALI, BOGRA"
+        ],
+        [
+            86,
+            "Nabila General Hospital",
+            "HSM28693",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Noakhali",
+            "Begumganj",
+            "College Road, Chowmuhani, Begumgonj, Noakhali."
+        ],
+        [
+            87,
+            "Nabila General Hospital (Pathology)",
+            "HSM52823",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Begumganj",
+            "College Road, Chowmuhani, Begumgonj, Noakhali"
+        ],
+        [
+            88,
+            "NABILA GIAGNOSTIC CENTER",
+            "HSM93796",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "HOSTITAL ROAD JOYNAGOR, NETRAKONA"
+        ],
+        [
+            89,
+            "Naboganga Diagnostic Centre",
+            "HSM47104",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Upazila Parishod Road,Jhenaidah."
+        ],
+        [
+            90,
+            "Nabojibon Clinic & Nursing Home",
+            "HSM67217",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Lalkuthi More, Dhap, Rangpur"
+        ],
+        [
+            91,
+            "NADIA PATHOLOGY CENTER",
+            "HSM54067",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Balirteek Bazar,p.o-Balirteek Bazar, p.s-Manikganj Sadar, Dis-Manikganj"
+        ],
+        [
+            92,
+            "NAF DIAGNOSTIC CENTRE",
+            "HSM77229",
+            "Diagnostic Center",
+            "Category-C",
+            "Joypurhat",
+            "Kalai",
+            "Harucha, Upzilla: Kalai, Joypurhat"
+        ],
+        [
+            93,
+            "Naf Shimanto Pathology Center",
+            "HSM03203",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Teknaf",
+            "Hospital Gate , Teknaf , Coxs Bazar "
+        ],
+        [
+            94,
+            "Naf View Medical Centre & Pathology",
+            "HSM99505",
+            "Diagnostic Center",
+            "Category-C",
+            "Coxs Bazar",
+            "Teknaf",
+            "Naf View Medical Centre, Main road, Teknaf, Coxs Bazar."
+        ],
+        [
+            95,
+            "Nafees Consultant & Diagnostic Centre",
+            "HSM46470",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dohar",
+            "Holding No:- 0404, Dhak Banglo Road, Joypara Bazar, Dohar, Dhaka"
+        ],
+        [
+            96,
+            "Nagar General Hospital & Diagnostic Centre",
+            "HSM69843",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Nagar General Hospital & Diagnostic Centre ManikganjSodar Mnikganj"
+        ],
+        [
+            97,
+            "Nagar Private Hospital",
+            "HSM30292",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Satkhira",
+            "Shyamnagar",
+            "Shamnagar, Satkhira"
+        ],
+        [
+            98,
+            "NAGARI DIAGNOSTIC & CONSULTANT CENTER",
+            "HSM59745",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Kaliganj",
+            "NAGARI, KALIGONJ, GAZIPUR"
+        ],
+        [
+            99,
+            "Nagarkanda Diagnostic Centre",
+            "HSM01798",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Nagarkanda",
+            "Nagarkanda Cotpar, Nagarkanda, Faridpur."
+        ],
+        [
+            100,
+            "NAGARPUR LABAID DIAGNOSTIC & HOSPITAL",
+            "HSM00160",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Nagarpur",
+            "ANDU MIAH AR BUILDING, NEAR FALGUNI CENIMA HALL, NAGARPUR, TANGAIL "
+        ]
+    ]
+}

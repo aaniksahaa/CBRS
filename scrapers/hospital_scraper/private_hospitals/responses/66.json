@@ -1,0 +1,1007 @@
+{
+    "draw": 66,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "INGRID MEMORIAL HOSPITAL ",
+            "HSM37170",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Bauphal",
+            "SHIBPUR, KALISURI, BAUPHAL, PATUAKHALI"
+        ],
+        [
+            2,
+            "INGRID MEMORIAL HOSPITAL SLOPB BANGLADESH ",
+            "HSM02390",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Patuakhali",
+            "Bauphal",
+            "SHIBPUR KALISURI BAUPHAL PATUAKHALI"
+        ],
+        [
+            3,
+            "INHALE DIAGNOSTIC CENTRE",
+            "HSM61953",
+            "Diagnostic Center",
+            "Category-B",
+            "Sylhet",
+            "Sylhet Sadar",
+            "South Dargah Mahalla, Sadar, Sylhet"
+        ],
+        [
+            4,
+            "INNATE DIAGNOSTIC CENTER",
+            "HSM52655",
+            "Diagnostic Center",
+            "Category-C",
+            "Bagerhat",
+            "Bagerhat Sadar",
+            "Karore,Rakhalgase,Bagerhat sadar,Bagerhat"
+        ],
+        [
+            5,
+            "INOVA  HOSPITAL  LTD",
+            "HSM24088",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Chak Bazar",
+            "409 Jamal Khan,Chattogram"
+        ],
+        [
+            6,
+            "INOVA HOSPITAL LTD & DIAGNOSTIC CENTER",
+            "HSM48120",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Chak Bazar",
+            "409, Jamal Khan, Chattogram"
+        ],
+        [
+            7,
+            "Insaaf Diagnostic Centre",
+            "HSM56924",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Lohagara",
+            "Abul Kashem Market (1st floor), 2 No. ward, Kanuram Bazar, west Kolaujan, Lohagara, Chattagram."
+        ],
+        [
+            8,
+            "Insaf Barakah Kidney & General Hospital",
+            "HSM47475",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Tejgaon",
+            "11,Shahid Tajuddin Ahmed soroni, Mohakhali,Dhaka"
+        ],
+        [
+            9,
+            "Insaf Barakah Kidney and General Hospital",
+            "HSM89438",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Tejgaon",
+            "11 Shahid Tajuddin Ahmed Sharoni, Moghbazar, Dhaka-1217"
+        ],
+        [
+            10,
+            "Insaf Barakah Kidney and General Hospital",
+            "HSM96459",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Tejgaon",
+            "11 Shahid Tajuddin Ahmed Sharoni, Moghbazar, Dhaka -1217"
+        ],
+        [
+            11,
+            "Insaf Barakah Kidney and General Hospital",
+            "HSM31666",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Tejgaon",
+            "18 Shahid Tajuddin Ahmed Sharoni, Moghbazar, Dhaka-1217"
+        ],
+        [
+            12,
+            "Insaf Computerized Diagnostic Center",
+            "HSM94635",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Dakshin",
+            "Nayergaon Bazar,Matlab South,Chandpur"
+        ],
+        [
+            13,
+            "INSAF DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM68446",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "KARAITOLA BAZAR, KOMOLNAGAR, LAKSHMIPUR."
+        ],
+        [
+            14,
+            "Insaf Diagnostic & Physiotherapy Center",
+            "HSM25164",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Bijoynagar",
+            "Satbarga Bus Terminal, Montala Road,Bijoynagar, Brahmanbaria "
+        ],
+        [
+            15,
+            "INSAF DIAGNOSTIC AND MEDICAL SERVICES",
+            "HSM16362",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Kushtia Sadar",
+            "68, Arjundas Agarwala Road, Courtpara, Kushtia"
+        ],
+        [
+            16,
+            "INSAF DIAGNOSTIC CENTER",
+            "HSM40438",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "C/O: INSAF DIAGNOSTIC CENTER, KARIM MARKET, 1ST FLOOR, COLLEGE ROAD, MIRSARAI, CHATTOGRAM."
+        ],
+        [
+            17,
+            "Insaf Diagnostic Center",
+            "HSM97638",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Ramganj",
+            "Bypass Road, Ramgonj, Lakshmipur"
+        ],
+        [
+            18,
+            "Insaf diagnostic centre",
+            "HSM69271",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Dewanbari, Khatra shahapur, santahar Road, naogaon"
+        ],
+        [
+            19,
+            "INSAF DIAGNOSTIC SERVICE",
+            "HSM17049",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishoreganj",
+            "Kishoreganj Sadar",
+            "Ahamed Market, Puranthana, Kishoreganj"
+        ],
+        [
+            20,
+            "INSAF DIGITAL DIAGNOSTIC CENTRE",
+            "HSM93774",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Haluaghat",
+            "haluaghat, mymensingh"
+        ],
+        [
+            21,
+            "INSAF DIGITAL X-RAY & DIAGNOSTIC CENTRE.",
+            "HSM67329",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "HANNAN COMPLEX, CHANDPUR"
+        ],
+        [
+            22,
+            "INSAF GENERAL HOSPITAL ",
+            "HSM10156",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogra Sadar",
+            "RAZZAK PLAJA, BAROPUR, BIMAN MORE, MATIDALI, BOGRA."
+        ],
+        [
+            23,
+            "INSAF GENERAL HOSPITAL",
+            "HSM17743",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogra Sadar",
+            "BIMAN MORE, MATIDALI,  BOGRA SADAR, BOGRA."
+        ],
+        [
+            24,
+            "Insaf Hospital &  Diagnostic ",
+            "HSM23184",
+            "Diagnostic Center",
+            "Category-B",
+            "Barguna",
+            "Amtali",
+            "Hospital Road, Amtoli, Barguna."
+        ],
+        [
+            25,
+            "Insaf Hospital & Diagnostic Centre",
+            "HSM35377",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Sadar HospitalRoad,Joydebpur,Gazipur"
+        ],
+        [
+            26,
+            "Insaf Hospital & Diagnostic Centre",
+            "HSM44323",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Sadar Hospital Road, Joydebpur, Gazipur"
+        ],
+        [
+            27,
+            "INSAF HOSPITAL AND DIAGONISTIC CENTER",
+            "HSM02236",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Bakerganj",
+            "niayamoti bondor, bakargonj, barishal"
+        ],
+        [
+            28,
+            "INSAF HOSPITAL AND DIAGONISTIC CENTER",
+            "HSM22635",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Bakerganj",
+            "NIYAMOTI BONDOR , BAKERGONG, BARISHAL"
+        ],
+        [
+            29,
+            "INSAF LAB & HOSPITAL",
+            "HSM57997",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Sonargaon",
+            "Ukil Manson, Habibpur, Baranagar, Sonargaon, Narayangonj."
+        ],
+        [
+            30,
+            "Insaf Medical Care",
+            "HSM39115",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "Barochowna,Shakhipur,Tangail"
+        ],
+        [
+            31,
+            "Insaf Medical Centre & Specialized Doctors Chamber",
+            "HSM43799",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Goalchamot, Faridpur"
+        ],
+        [
+            32,
+            "Insaf Medical Services",
+            "HSM56809",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Sonaimuri",
+            "bypass Road, Sonaimuri Bazar, Sonaimuri, Noakhali."
+        ],
+        [
+            33,
+            "INSAF NURSING HOME ",
+            "HSM80802",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "47/3, Rupsha Strand Road, Khulna"
+        ],
+        [
+            34,
+            "INSAF NURSING HOME & DIAGNOSTIC CENTER",
+            "HSM31607",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "47/3, Rupsha Strand Road, Khulna"
+        ],
+        [
+            35,
+            "INSAF SEPCIALIZED HOSPITAL LIMITED",
+            "HSM90135",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Comilla",
+            "Comilla Adarsha Sadar",
+            "Kotbari Road, Tamsambrige, Comilla"
+        ],
+        [
+            36,
+            "INSAF SEPCIALIZED HOSPITAL LIMITED",
+            "HSM41417",
+            "Diagnostic Center",
+            "Category-B",
+            "Comilla",
+            "Comilla Adarsha Sadar",
+            "Kotbari Road, Tamsambrige, Comilla"
+        ],
+        [
+            37,
+            "Insaf Specialized Hospital & Consultation Center",
+            "HSM77028",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Wast Paikpara, Brahmanbaria"
+        ],
+        [
+            38,
+            "Insaf Specialized Hospital & Consultation Center",
+            "HSM50761",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Brahmanbaria Sadar",
+            "Wast Paikpara, Brahmanbaria"
+        ],
+        [
+            39,
+            "Insaniyat Diagnostic Center",
+            "HSM88262",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Subarnachar",
+            "Thanarhat, Subarnachar, Noakhali"
+        ],
+        [
+            40,
+            "Insia Diagnostic Centre",
+            "HSM61426",
+            "Diagnostic Center",
+            "Category-C",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "11 K.B, Alauddin Road, Muslim Quarter, Moulvibazar."
+        ],
+        [
+            41,
+            "INSIGHT DIAGNOSTIC CENTER",
+            "HSM21215",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Mahadebpur",
+            "Hospital Road, Kalabagan, Mohadebpur, Naogaon, Dhaka, Bangladesh."
+        ],
+        [
+            42,
+            "Insight Diagnostic Center and Genaral Hospital",
+            "HSM63340",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Mahadebpur",
+            "Hospital Road, Kolabagan, Mohadebpur, Naogaon"
+        ],
+        [
+            43,
+            "INSIGHT Psycho-social care and Research",
+            "HSM10730",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Paltan",
+            "71/1, Pioneer road, Kakrail, Ramna, Dhaka-1000"
+        ],
+        [
+            44,
+            "Institute For Autistic Children and Blind, Old Home & TN Mother Child Hospital",
+            "HSM83954",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Chandulia-Boliarpur, savar, Dhaka"
+        ],
+        [
+            45,
+            "Institute For Autistic Children and Blind, Old Home & TN Mother Child Hospital",
+            "HSM17510",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Chandulia-Boliarpur, savar, Dhaka"
+        ],
+        [
+            46,
+            "Institute for developing Science and Health Initiatives (ideSHi)",
+            "HSM96530",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Banani",
+            "High Tower (Level-8),9,Mohakhali C/A, Dhaka, Bangladesh"
+        ],
+        [
+            47,
+            "Institute of Laser Surgery & Hospital",
+            "HSM49384",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Tejgaon",
+            "5, New Eskaton Road, Gausnagar, Ramna, Dhaka-1000."
+        ],
+        [
+            48,
+            "intajgonj diagnostic Center",
+            "HSM94148",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Shibalaya",
+            "Intajgonj Bazar Shibaloya, Manikganj"
+        ],
+        [
+            49,
+            "INTERLAB MEDICAL CENTRE",
+            "HSM02756",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Mohammadpur",
+            "House 106, Road 07, Mohammadia Housing Limited."
+        ],
+        [
+            50,
+            "INTERNATIONAL HEALTH CENTRE LTD",
+            "HSM00461",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Bhatara",
+            "Holding -K-70/B, Progoti Sarani(2nd&3rd) Floor,Kuril Vatara,Dhaka-1229"
+        ],
+        [
+            51,
+            "International Medical College Hospital",
+            "HSM26005",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Gushulia, Sataish, Tongi, Gazipur."
+        ],
+        [
+            52,
+            "International Medical College Hospital",
+            "HSM98288",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Gushulia, Sataish, Tongi, Gazipur."
+        ],
+        [
+            53,
+            "International Medical College Hospital",
+            "HSM81493",
+            "Blood Bank",
+            "",
+            "Gazipur",
+            "Gazipur Sadar",
+            "International Medical College Hospital, Gushulia, Sataish, Tongi, Gazipur"
+        ],
+        [
+            54,
+            "Iqra Diagnostic Center",
+            "HSM17167",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Barhatta",
+            "Hospital Gait, Barhatta, Netrakona."
+        ],
+        [
+            55,
+            "IQRA Digital Diagnostic",
+            "HSM52931",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "SOMIR PLAZA, CHARPARA, SADAR, MYMENSINGH"
+        ],
+        [
+            56,
+            "IRAJI DIAGNOSTIC LAB AND CONSULTATION CENTER",
+            "HSM70421",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "Lubana Trade Center, Hasnabad, South Keranigonj, Dhaka"
+        ],
+        [
+            57,
+            "IRAS.RM",
+            "HSM09164",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Adabor",
+            "1/1-A & 1/1-B Adabor,Dhaka-1207,Bangladesh "
+        ],
+        [
+            58,
+            "IRIS Eye Hospital",
+            "HSM49541",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Bakerganj",
+            "Kaligonj Rood, Runshe, Bakergonj."
+        ],
+        [
+            59,
+            "Isdo Hospital & Diagnostic Center",
+            "HSM37820",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Barura",
+            "Hospital Road, Barura, Comilla."
+        ],
+        [
+            60,
+            "Isdo Hospital & Diagnostic Center",
+            "HSM33554",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Barura",
+            "Hospital Road, Barura, Comilla."
+        ],
+        [
+            61,
+            "Ishakha Nursing Home",
+            "HSM46738",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Gaital, Mymensingh, Kishoreganj"
+        ],
+        [
+            62,
+            "Ishakha Nursing Home",
+            "HSM32948",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Gaital,Mymensingh Road\r\nKishoreganj"
+        ],
+        [
+            63,
+            "ISHLAMIA HOSPITAL AND DIAGONOSTIC CENTER",
+            "HSM89917",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "GROSTHAN ROAD, PATUAKHALI"
+        ],
+        [
+            64,
+            "Ishtiyaq Medical Center",
+            "HSM12593",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Cantonment",
+            "571(1st Floor), ECB Chottor main road, South Manikdi, Dhaka Cantonment, Dhaka-1206"
+        ],
+        [
+            65,
+            "Ishwardi  Popular Diagnostic Centre",
+            "HSM77406",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "Alhaz Mor, Ishwardi, Pabna"
+        ],
+        [
+            66,
+            "ISHWARDI DIAGNOSTIC CENTER",
+            "HSM43324",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "RAIL GATE, ISHWARDI, PABNA"
+        ],
+        [
+            67,
+            "ISHWARDI EYE HOSPITAL & PHACO CENTRE LTD.",
+            "HSM11818",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pabna",
+            "Ishwardi",
+            "SHER SHAH ROAD, BELTOLA, ISHWARDI, PABNA"
+        ],
+        [
+            68,
+            "ISHWARDI EYE, MOTHER & CHILD SEBA KENDRO",
+            "HSM38664",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Gokulnagar, Ishwardi, Pabna"
+        ],
+        [
+            69,
+            "ISHWARDI ISLAMIA CHHOKHU HOSPITAL & PHACO CENTER",
+            "HSM51585",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Pabna",
+            "Ishwardi",
+            "Holding No: 18/2, Rohimpur, Ishwardi, Pabna"
+        ],
+        [
+            70,
+            "ISK FOUNDATION-AFZALIA ESTATE KIDNEY CENTRE",
+            "HSM59170",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Sonadanga",
+            "118, Majid Sarani, Sonadanga, Khulna."
+        ],
+        [
+            71,
+            "Iskander Welfare Foundation, Ambia Hospital",
+            "HSM89887",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            " Pirojpur Sadar, Pirojpur"
+        ],
+        [
+            72,
+            "Iskander Welfare Foundation, Ambia Hospital ",
+            "HSM56938",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Pirojpur Sadar",
+            " Pirojpur Sadar, Pirojpur"
+        ],
+        [
+            73,
+            "Islam Diagnostci Lab",
+            "HSM63570",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "Hospital Road, Amrita Lal Sarak, Barisal."
+        ],
+        [
+            74,
+            "ISLAM DIAGNOSTIC CENTRE",
+            "HSM09897",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Muktagacha",
+            "MAIN ROAD, CHACHUA BAZAR, MUKTAGACHA, MYMENSINGH"
+        ],
+        [
+            75,
+            "Islam Diagnostic Centre..",
+            "HSM06622",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "13/A/1, Brammopolly, Charpara, Mymensingh."
+        ],
+        [
+            76,
+            "Islam Diagnostic Lab",
+            "HSM45746",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mohammadpur",
+            "23/6, Rupayan Shelford, Block-B, Bir Uttam ANM Nuruzzaman Road (Mirpur Road), Shymoli, Mohammadpur, Dhaka-1207."
+        ],
+        [
+            77,
+            "ISLAM HEART CENTRE",
+            "HSM88503",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "RAJUK PLOT NO-39, BALUR MATH, CHASHARA,  NARAYANGANJ"
+        ],
+        [
+            78,
+            "ISLAM HEART CENTRE",
+            "HSM22713",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "RAJUK PLOT NO-39, BALUR MATH, CHASHARA,  NARAYANGANJ"
+        ],
+        [
+            79,
+            "Islam Medical Center.",
+            "HSM69560",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Mohammadpur",
+            "23/6 Rupayan Shelford, Block-B, Bir Uttam A.N.M. Nuruzzaman Road (Mirpur road) Shymoli, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            80,
+            "Islam Pathoogy",
+            "HSM82568",
+            "Diagnostic Center",
+            "Category-C",
+            "Lalmonirhat",
+            "Lalmonirhat Sadar",
+            "Madina Para, Vocational Road, Lalmonirhat."
+        ],
+        [
+            81,
+            "ISLAM POLY CLINIC",
+            "HSM23583",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barishal Sadar",
+            "BANGLA BAZAR, BARISHAL"
+        ],
+        [
+            82,
+            "Islam PrivateHospital",
+            "HSM59081",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "13/A-1, Asor Uddin Market, Brahmapolly Road, Mymensingh"
+        ],
+        [
+            83,
+            "ISLAM XRAY & PATHOLOGY",
+            "HSM40347",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Birampur",
+            "ISLAMPARA, BIRAMPUR, DINAJPUR"
+        ],
+        [
+            84,
+            "islamclinic (Pathological Lab)",
+            "HSM25170",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Parbatipur",
+            "Natun Bazar, Parbatipur, Dinajpur "
+        ],
+        [
+            85,
+            "Islami Bank A.R. Howlader Community Hospital Madaripur Ltd.",
+            "HSM86904",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Madaripur Sadar",
+            "Panichattara, Madaripur."
+        ],
+        [
+            86,
+            "Islami Bank Central Hospital",
+            "HSM01718",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Paltan",
+            "30,Anjuman Mufidul Islam Road,Kakrail,Dhaka-1000"
+        ],
+        [
+            87,
+            "Islami Bank Central Hospital",
+            "HSM04131",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Paltan",
+            "30, Anjuman Mufidul Islam Road, Kakrail,Dhaka-1000."
+        ],
+        [
+            88,
+            "ISLAMI BANK CENTRAL HOSPITAL",
+            "HSM77486",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Paltan",
+            "30, Anjuman Mufidul Islam Road, Kakrail-1000"
+        ],
+        [
+            89,
+            "Islami Bank Central Hospital.",
+            "HSM25916",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Dhaka",
+            "Paltan",
+            "30, Anjuman Mufidul Islam Road, Kakrail,Dhaka-1000."
+        ],
+        [
+            90,
+            "ISLAMI BANK COMMUNITY HOSPITAL DINAJPUR LTD",
+            "HSM34426",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Block-7/A, PL no- 4& 5, Uposhahar, Sadar, Dinajpur."
+        ],
+        [
+            91,
+            "ISLAMI BANK COMMUNITY HOSPITAL DINAJPUR LTD",
+            "HSM91956",
+            "Diagnostic Center",
+            "Category-B",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "Block-7/A, PL no- 4 & 5, Uposhahar, \r\nSadar,Dinajpur."
+        ],
+        [
+            92,
+            "Islami Bank Community Hospital Faridpur Ltd ",
+            "HSM39047",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Alipur, Faridpur."
+        ],
+        [
+            93,
+            "Islami Bank Community Hospital Faridpur Ltd.",
+            "HSM46869",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "Alipur, Faridpur."
+        ],
+        [
+            94,
+            "Islami Bank Community Hospital Jhenaidah Ltd",
+            "HSM10918",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Chuadanga Bus Stand,Jhenaidah."
+        ],
+        [
+            95,
+            "Islami Bank Community Hospital Jhenaidah Ltd",
+            "HSM33607",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Chuadanga Bus Stand,Jhenaidah."
+        ],
+        [
+            96,
+            "Islami Bank Community Hospital Manikganj Ltd. ",
+            "HSM84324",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Joyra Road, Busstand, Manikganj."
+        ],
+        [
+            97,
+            "Islami Bank Community Hospital Manikganj Ltd. ",
+            "HSM65755",
+            "Diagnostic Center",
+            "Category-B",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Joyra Road, Busstand, Manikganj."
+        ],
+        [
+            98,
+            "ISLAMI BANK COMMUNITY HOSPITAL MYMENSINGH LTD.",
+            "HSM02243",
+            "Diagnostic Center",
+            "Category-B",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "22/1, Maskanda, Mymensingh-2200"
+        ],
+        [
+            99,
+            "Islami Bank Community Hospital Mymensingh Ltd.",
+            "HSM43699",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "22/1, Maskanda,  Mymensingh-2200"
+        ],
+        [
+            100,
+            "Islami Bank Community Hospital Naogaon Ltd",
+            "HSM95315",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Chalkenyet, Doyaler More, Naogaon Sadar, Naogaon"
+        ]
+    ]
+}

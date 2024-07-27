@@ -1,0 +1,1007 @@
+{
+    "draw": 95,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "MIDLAND HOSPITAL (PVT) LTD",
+            "HSM36767",
+            "Diagnostic Center",
+            "Category-B",
+            "Comilla",
+            "Comilla Adarsha Sadar",
+            "RAMGHAT, KANDIPAR, COMILLA"
+        ],
+        [
+            2,
+            "Midland Hospital Pvt.",
+            "HSM82457",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Alim Para, Hazi Mohsin Road, Chandpur. "
+        ],
+        [
+            3,
+            "Midland Hospital Pvt.",
+            "HSM66228",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Alim Para, Hazi Mohsin Road, Chandpur. "
+        ],
+        [
+            4,
+            "Midpoint Hospital & Maternity Center Ltd",
+            "HSM43453",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Double Mooring",
+            "490, Pathantuly, Nazirpool, Chittagong"
+        ],
+        [
+            5,
+            "Midpoint Hospital & Maternity Centre Limited",
+            "HSM99708",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Double Mooring",
+            "490, Pathantuly, Nazirpool, Chittagong"
+        ],
+        [
+            6,
+            "Midtown Hospital Kishoregonj (PVT.) Ltd.",
+            "HSM31698",
+            "Diagnostic Center",
+            "Category-B",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "Siddique Tower, Station Road, Kishoregonj- 2300"
+        ],
+        [
+            7,
+            "Midtown Hospital Kishoregonj (PVT.) Ltd.",
+            "HSM65991",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "1323, Siddique Tower, Station Road, Kishoregonj- 2300"
+        ],
+        [
+            8,
+            "MIDWAY  MEDICAL CENTRE",
+            "HSM07370",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Hajiganj",
+            "HAJIGONJ BAZAR, HAJIGONJ, CHANDPUR"
+        ],
+        [
+            9,
+            "MIDWAY MEDICAL CENTRE",
+            "HSM07465",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Hajiganj",
+            "HAJIGONJ BAZAR,HAJIGONJ, CHANDPUR"
+        ],
+        [
+            10,
+            "Mikel Hospital & Diagnostic .",
+            "HSM32977",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Keshabpur",
+            "SHAHID MUKTIZUDDHA DOULAT BISWAS ROAD, KESHABPUR, JESSORE"
+        ],
+        [
+            11,
+            "Milad MediCare",
+            "HSM44062",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Khilgaon",
+            "37 Meradia Main Road, Dhaka-1219"
+        ],
+        [
+            12,
+            "millenium pathology lab",
+            "HSM53971",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "sadar mymensingh"
+        ],
+        [
+            13,
+            "MILLENNIUM HOSPITAL (PVT.) (PATHOLOGY)",
+            "HSM18921",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgoti Diversion Road, Lakshmipur Sadar, Lakshmipur-3700"
+        ],
+        [
+            14,
+            "MILLENNIUM HOSPITAL (PVT.) LTD. ",
+            "HSM99330",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "Ramgoti Diversion Road, Lakshmipur Sadar, Lakshmipur"
+        ],
+        [
+            15,
+            "Millennium Pangu Hospital & Diagnostic Complex",
+            "HSM86862",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Uttara  Purba",
+            "House # 41, Road # 7, Sector # 4, Uttara Model Town, Dhaka-1230"
+        ],
+        [
+            16,
+            "Millennium Pangu Hospital & Diagnostic Complex",
+            "HSM00749",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Uttara  Purba",
+            "House # 41, Road # 7, Sector # 4, Uttara Model Town, Dhaka-1230"
+        ],
+        [
+            17,
+            "MILLENNIUM SPECIALIZED HOSPITAL LTD.",
+            "HSM81024",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sutrapur",
+            "4/1, Walter Road, Sutrapur, Dhaka"
+        ],
+        [
+            18,
+            "MILLENNIUM SPECIALIZED HOSPITAL LTD.",
+            "HSM60763",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Sutrapur",
+            "4/1, Walter Road, Sutrapur, Dhaka"
+        ],
+        [
+            19,
+            "MILLENNIUM SPECIALIZED HOSPITAL LTD.",
+            "HSM06578",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Sutrapur",
+            "4/1, Walter Road, Sutrapur, Dhaka"
+        ],
+        [
+            20,
+            "Milon Medical & Diagnostic Center.",
+            "HSM89262",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Faridganj",
+            "Gollak Bazar, Faridganj, Chandpur."
+        ],
+        [
+            21,
+            "Mim Diagnostic Center ",
+            "HSM19558",
+            "Diagnostic Center",
+            "Category-C",
+            "Shariatpur",
+            "Zanjira",
+            "B. K. Nagar, Anondo Bazar, Jajira, Shariatpur"
+        ],
+        [
+            22,
+            "Mim diagnostic Center",
+            "HSM04411",
+            "Diagnostic Center",
+            "Category-C",
+            "Lakshmipur",
+            "Lakshmipur Sadar",
+            "S.R.Road.Sadar,Lakshmipur"
+        ],
+        [
+            23,
+            "MIM DIAGNOSTIC CENTER",
+            "HSM55636",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Chandpur Sadar",
+            "KAZI NAZRUL ISLAM ROAD,CHANDPUR"
+        ],
+        [
+            24,
+            "Mim Diagnostic Centre",
+            "HSM79877",
+            "Diagnostic Center",
+            "Category-C",
+            "Faridpur",
+            "Faridpur Sadar",
+            "West Khabashpur, Faridpur."
+        ],
+        [
+            25,
+            "MIM DIAGNOSTIC CENTRE",
+            "HSM48954",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "324/charpara ,mymensingh"
+        ],
+        [
+            26,
+            "Mim Digital Diagnostic Center",
+            "HSM39593",
+            "Diagnostic Center",
+            "Category-B",
+            "Faridpur",
+            "Boalmari",
+            "\u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u09ac\u09cb\u09df\u09be\u09b2\u09ae\u09be\u09b0\u09c0, \u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
+        ],
+        [
+            27,
+            "MIM GENERAL HOSPITAL AND DIGITAL DIAGNOSTIC CENTRE",
+            "HSM22808",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chandpur",
+            "Matlab Dakshin",
+            "NARAYANPUR PURBO BAZAR, MATLAB SOUTH, CHANDPUR"
+        ],
+        [
+            28,
+            "MIM GENERAL HOSPITAL AND DIGITAL DIAGNOSTIC CENTRE",
+            "HSM12427",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Dakshin",
+            "NARAYANPUR PURBO BAZAR, MATLAB SOUTH, CHANDPUR"
+        ],
+        [
+            29,
+            "Mim Pathological Lab",
+            "HSM21269",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Rangamati Sadar  Up",
+            "Banarupa, Rangamati"
+        ],
+        [
+            30,
+            "Mim Rain Medical Service",
+            "HSM30616",
+            "Diagnostic Center",
+            "Category-C",
+            "Brahmanbaria",
+            "Banchharampur",
+            "Bashgari,Bancharampur"
+        ],
+        [
+            31,
+            "Mina Diagnostic and Medical Services.",
+            "HSM37959",
+            "Diagnostic Center",
+            "Category-C",
+            "Meherpur",
+            "Gangni",
+            "Vill-Nishipur, UP-Bamundi, PS-Gangni, Dist-Meherpur"
+        ],
+        [
+            32,
+            "Mina Diagnostic Center",
+            "HSM82604",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Chittagong- Khagrachari Road, Bibirhat, Fatickchari, Chittagong"
+        ],
+        [
+            33,
+            "Mind Cure Psychiatric Hospital",
+            "HSM78745",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Sher-e-bangla Nagar",
+            "12/Uma/6/1, Road-2, Shyamoli, Sher-E-Bangla Nagar, Dhaka-1207"
+        ],
+        [
+            34,
+            "MINHAJ CLINIC AND DIAGNOSTIC",
+            "HSM49587",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Bogura",
+            "Bogura Sadar",
+            "Khandar, Gohail Road, Bogura Sadar, Bogura"
+        ],
+        [
+            35,
+            "MINHAJ CLINIC AND DIAGNOSTIC",
+            "HSM57840",
+            "Diagnostic Center",
+            "Category-C",
+            "Bogura",
+            "Bogura Sadar",
+            "Khandar, Gohail Road, Bogura Sadar, Bogura"
+        ],
+        [
+            36,
+            "MINI LAB",
+            "HSM57861",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Azadi Bazar, Fatickchari, Chittagong"
+        ],
+        [
+            37,
+            "Minir Diagnostic Center",
+            "HSM86603",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "takterchala bazer,Shakhipur,Tangail"
+        ],
+        [
+            38,
+            "MIRA DIAGNOSTIC CENTER",
+            "HSM36884",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Bhaluka",
+            "BHALUKA,MYMENSINGH"
+        ],
+        [
+            39,
+            "Mirer Bazar Modern  Eye Hospital",
+            "HSM20721",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Mirer Bazar, Pubail,GCC,Gazipur"
+        ],
+        [
+            40,
+            "Mirer Bazar Modern Diagnostic & Consultation center",
+            "HSM95738",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Nur Market,Mirer Bazar,Pubail Gazipur"
+        ],
+        [
+            41,
+            "Mirpur Bismillah Diagnostic center",
+            "HSM04441",
+            "Diagnostic Center",
+            "Category-C",
+            "Kushtia",
+            "Mirpur",
+            "Hospital road, Mirpur,Kushtia"
+        ],
+        [
+            42,
+            "MIRPUR CHAKKHU HOSPITAL",
+            "HSM81360",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "Plot#1,Avenue-1,Block-B,Section-10,Mirpur, Dhaka"
+        ],
+        [
+            43,
+            "Mirpur Digital Diagnostic Ltd",
+            "HSM80027",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kafrul",
+            "Plot-11, Main Road-1, Mirpur-10, Dhaka-1216"
+        ],
+        [
+            44,
+            "Mirpur Digital Diagonistic Ltd",
+            "HSM16169",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Kafrul",
+            "Plot-11,Main Road-1,Mirpur-10,Dhaka-1216\r\n\r\n"
+        ],
+        [
+            45,
+            "MIRPUR GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM15472",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Pallabi",
+            "HOUSE # 12/B, ROAD # 4, BLOCK # B, SECTION # 12, PALLABI, MIRPUR, DHAKA-1216"
+        ],
+        [
+            46,
+            "MIRPUR GENERAL HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM24415",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Pallabi",
+            "HOUSE # 12/B, ROAD # 4, BLOCK # B, SECTION # 12, PALLABI, MIRPUR, DHAKA-1216"
+        ],
+        [
+            47,
+            "MIRPUR GENERAL HOSPITAL & DIAGNOSTIC CENTRE (Rupnagar Branch) ",
+            "HSM34190",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Mirpur",
+            "House: 16, Road: 10, Rupnagar R/A, Near Monipuri School, Mirpur, Dhaka - 1216"
+        ],
+        [
+            48,
+            "MIRPUR GENERAL HOSPITAL & DIAGNOSTIC CENTRE (Rupnagar Branch)",
+            "HSM97957",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "House: 16, Road: 10, Rupnagar R/A, Near Monipuri School, Mirpur, Dhaka - 1216"
+        ],
+        [
+            49,
+            "Mirpur Health Care",
+            "HSM58301",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "1/B,1/29, Kalwalapara, Mirpur Road Mirpur-1"
+        ],
+        [
+            50,
+            "Mirpur Health Care & Diagnostric Center Ltd.",
+            "HSM12792",
+            "Diagnostic Center",
+            "Category-B",
+            "Kushtia",
+            "Mirpur",
+            "186, Parul Vila(In front of Mirpur Upazila Health Complex),Mirpur, Kushtia."
+        ],
+        [
+            51,
+            "Mirpur Holy Crescent Hospital (Pvt) Ltd.",
+            "HSM35009",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mirpur",
+            "195, South Bishil, Sharafat Bhabon, Mirpur Road, Mirpur-1, Dhaka"
+        ],
+        [
+            52,
+            "Mirpur Holy Crescent Hospital (Pvt) Ltd.",
+            "HSM27928",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Dhaka",
+            "Mirpur",
+            "195, South Bishil, Sharafat Bhabon, Mirpur Road, Mirpur-1, Dhaka"
+        ],
+        [
+            53,
+            "Mirpur Holy Crescent Hospital (Pvt) Ltd.",
+            "HSM84568",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Mirpur",
+            "195, South Bishil, Sharafat Bhabon, Mirpur Road, Mirpur-1, Dhaka"
+        ],
+        [
+            54,
+            "Mirror Hospital",
+            "HSM76330",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Panchlaish",
+            "60 Panchlaish R/A, Chittagong"
+        ],
+        [
+            55,
+            "Mirsarai Diabetic Centre",
+            "HSM86910",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Baitus Salam Bhaban, Hospital Road, Mirsarai, Chittagong."
+        ],
+        [
+            56,
+            "Mirsarai Diagnostic Center",
+            "HSM67115",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "College Road, Mirsarai, Chattogram"
+        ],
+        [
+            57,
+            "Mirsarai Health Care Diagnostic Center",
+            "HSM36243",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Mirsharai",
+            "Syeda Complex, Mirsarai Pouroshova, DT Road, Mirsarai, Chattogram. "
+        ],
+        [
+            58,
+            "Mirsarai Sheba Adhunik Hospital & Diagnostic Center",
+            "HSM98657",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Mirsharai",
+            "Saleh Mansion, D.T Road, Mirsarai Pourosova, Mirsarai, Chittagong"
+        ],
+        [
+            59,
+            "Mirsarai Sheba Adhunik Hospital & Diagnostic Center ",
+            "HSM81534",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Mirsharai",
+            "Saleh Mansion, D.T Road, Mirsarai Pourosova, Mirsarai, Chittagong."
+        ],
+        [
+            60,
+            "Mirza Pathology",
+            "HSM31897",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "74/A Charpara, Sadar, Mymensingh"
+        ],
+        [
+            61,
+            "Mirzagong Matrisadan & Surgical Clinic ",
+            "HSM84142",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Mirzaganj",
+            "Mohila College Road, Mirzaganj, Patuakhali"
+        ],
+        [
+            62,
+            "MIRZAPUR ADHUNIK HOSPITAL & DIAGNOSTIC CENTER ",
+            "HSM29661",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Kumudini Hospital Road, Mirzapur, Tangail"
+        ],
+        [
+            63,
+            "MIRZAPUR ADHUNIK HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM55902",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Mirzapur",
+            "Kumudini Hospital Road, Mirzapur, Tangail"
+        ],
+        [
+            64,
+            "MIRZAPUR BLOOD BANK",
+            "HSM84198",
+            "Blood Bank",
+            "",
+            "Tangail",
+            "Mirzapur",
+            "MIRZAPUR, TANGAIL."
+        ],
+        [
+            65,
+            "MIRZAPUR CENTRAL HOSPITAL & DIAGNOSTIC CENTER (PVT)",
+            "HSM49203",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Mirzapur",
+            "\u09aa\u09c1\u09b0\u09be\u09a4\u09a8 \u09ac\u09be\u09b8\u09b8\u09cd\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09a1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u09ae\u09bf\u09b0\u09cd\u099c\u09be\u09aa\u09c1\u09b0, \u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2\u0964"
+        ],
+        [
+            66,
+            "MIRZAPUR CENTRAL HOSPITAL & DIAGNOSTIC CENTER PVT",
+            "HSM61531",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "\u09aa\u09c1\u09b0\u09be\u09a4\u09a8 \u09ac\u09be\u09b8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u09a1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1"
+        ],
+        [
+            67,
+            "Mirzapur Clinic",
+            "HSM73539",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Thana road mirzapur bazar,mirzapur,Tangail"
+        ],
+        [
+            68,
+            "MIRZAPUR DIAGNOSTIC & CONSULTATION CENTRE",
+            "HSM78412",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "Bhawal Mirzapur Bazar, Gazipur Sadar , Gazipur"
+        ],
+        [
+            69,
+            "Mirzapur General Hospital & Diagnostic Centre (Pvt.)",
+            "HSM08673",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Mirzapur",
+            "Hospital Road, Mirzapur, Tangail, Bangladesh"
+        ],
+        [
+            70,
+            "Mirzapur General Hospital & Diagnostic Centre (Pvt.)",
+            "HSM71105",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Hospital Road, Mirzapur, Tangail, Bangladesh"
+        ],
+        [
+            71,
+            "Mirzapur General Hospital & Diagnostic Centre, Unit-2",
+            "HSM57771",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "Hospital Road, Mirzapur, Tangail, Bangladesh."
+        ],
+        [
+            72,
+            "Mirzapur General Hospital & Diagnostic Centre, Unit-2",
+            "HSM70678",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Mirzapur",
+            "Hospital Road, Mirzapur, Tangail, Bangladesh."
+        ],
+        [
+            73,
+            "MIRZAPUR MODERN HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM16709",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Mirzapur",
+            "SAMOBAI SUPER MARKET, 1ST FLOOR, MIRZAPUR, TANGAIL."
+        ],
+        [
+            74,
+            "MIRZAPUR MODERN HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM80839",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "SAMOBAI SUPER MARKET, 1ST FLOOR, MIRZAPUR, TANGAIL."
+        ],
+        [
+            75,
+            "Mishat Clinic & Digital Diagnostic Center ",
+            "HSM75402",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Naogaon",
+            "Manda",
+            "\u09a6\u09c7\u09b2\u09c1\u09df\u09be\u09ac\u09be\u09dc\u09c0 \u09ac\u09be\u099c\u09be\u09b0, \u09ae\u09be\u09a8\u09cd\u09a6\u09be, \u09a8\u0993\u0997\u09be\u0981 "
+        ],
+        [
+            76,
+            "Mishat Clinic & Digital Disagnostic Center",
+            "HSM66935",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "\u09a6\u09c7\u09b2\u09c1\u09df\u09be\u09ac\u09be\u09dc\u09c0 \u09ac\u09be\u099c\u09be\u09b0, \u09ae\u09be\u09a8\u09cd\u09a6\u09be, \u09a8\u0993\u0997\u09be\u0981\u0964 "
+        ],
+        [
+            77,
+            "Mishu Clinic & Diagnostic Centre ",
+            "HSM80599",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "20/4, Shamsur Rahman Road, Khulna, Bangladesh."
+        ],
+        [
+            78,
+            "Mishu Clinic & Diagnostic Centre ",
+            "HSM39620",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "20/4, Shamsur Rahman Road, Khulna, Bangladesh."
+        ],
+        [
+            79,
+            "Mission Digilab & Consultation Center",
+            "HSM11953",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Hospital Road, Dhakhin Nagra, Netrakona"
+        ],
+        [
+            80,
+            "MISSION GENERAL HOSPITAL",
+            "HSM88835",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Nilphamari",
+            "Saidpur",
+            "Dinajpur / (TR) Road, Saidpur, Nilphamari"
+        ],
+        [
+            81,
+            "Mission Hospital ",
+            "HSM36270",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "Sufi sadar uddin road,cumilla bus stand,trank road,Feni"
+        ],
+        [
+            82,
+            "Mission Hospital",
+            "HSM42526",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "sufi sadaruddin road,trank road,Feni"
+        ],
+        [
+            83,
+            "MISSION HOSPITAL",
+            "HSM42160",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Siddique Plaza, Race Course, Comilla"
+        ],
+        [
+            84,
+            "MISSION HOSPITAL",
+            "HSM84391",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Siddique Plaza, Race Course, Comilla"
+        ],
+        [
+            85,
+            "Mission Hospital Pvt",
+            "HSM14237",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Netrakona",
+            "Netrokona Sadar",
+            "Sakura Plaza, Kurpar, Netrokona Sadar.  Netrokona."
+        ],
+        [
+            86,
+            "MISTU DIAGNOSTIC CENTER",
+            "HSM98507",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Paikgacha",
+            "SARAL, PAIKGACHA, KHULNA "
+        ],
+        [
+            87,
+            "Misty diagonistic center",
+            "HSM89839",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Naogaon Sadar",
+            "Ukil Para, Naogaon Sadar, Naogaon"
+        ],
+        [
+            88,
+            "mita clinic",
+            "HSM16484",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "22 maskanda,mymensingh"
+        ],
+        [
+            89,
+            "MITA NURSING HOME",
+            "HSM15642",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Sadar Road, Narsingdi"
+        ],
+        [
+            90,
+            "MITA NURSING HOME",
+            "HSM89860",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Sadar Road, Narsingdi"
+        ],
+        [
+            91,
+            "Mitali Clinic",
+            "HSM88385",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "Karatia, Tangail, Dhaka, Bangladesh"
+        ],
+        [
+            92,
+            "Mitali Diagnostic Center",
+            "HSM13777",
+            "Diagnostic Center",
+            "Category-C",
+            "Satkhira",
+            "Kalaroa",
+            "Hospital Road, Kalaroa, Satkhira"
+        ],
+        [
+            93,
+            "Mitali Diagnostic Centre ",
+            "HSM12297",
+            "Diagnostic Center",
+            "Category-C",
+            "Jamalpur",
+            "Madarganj",
+            "Balizuri Bazar, Madargonj, Jamalpur "
+        ],
+        [
+            94,
+            "MITHACHARA GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM68352",
+            "Diagnostic Center",
+            "Category-C",
+            "Chittagong",
+            "Mirsharai",
+            "Nazim Bhaban, Mitchara Bazar, Mirsarai, chittagong."
+        ],
+        [
+            95,
+            "MITHACHARA GENERAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM50059",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Chattogram",
+            "Mirsharai",
+            "Nazim Bhaban, Mitchara Bazar, Mirsarai, Chittagong."
+        ],
+        [
+            96,
+            "MITHILA DIAGNOSTIC CENTRE & DOCTOR`S CHAMBER",
+            "HSM78315",
+            "Diagnostic Center",
+            "Category-C",
+            "Sunamganj",
+            "Dowarabazar",
+            "\u09ae\u09a7\u09cd\u09af \u09ac\u09be\u099c\u09be\u09b0, \u09a6\u09c7\u09be\u09df\u09be\u09b0\u09be\u09ac\u09be\u099c\u09be\u09b0, \u09b8\u09c1\u09a8\u09be\u09ae\u0997\u099e\u09cd\u099c"
+        ],
+        [
+            97,
+            "MITHUN DIAGNOSTIC CENTER",
+            "HSM35690",
+            "Diagnostic Center",
+            "Category-C",
+            "Madaripur",
+            "Kalkini",
+            "Hospital Road, Kalkini, Madaripur"
+        ],
+        [
+            98,
+            "Mitora Jeneral Hospital & Diagmostic  Center",
+            "HSM45809",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Mitora busttand Manikganj"
+        ],
+        [
+            99,
+            "MITU CLINIC",
+            "HSM94491",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "27, H. K. Banerji Road, Amlapara, Narayangan"
+        ],
+        [
+            100,
+            "MITU DIAGNOSTIC CENTRE",
+            "HSM40763",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Jiban Nagar Hospital Road, Jibon Nagar, Chuadanga, Bangladesh. "
+        ]
+    ]
+}

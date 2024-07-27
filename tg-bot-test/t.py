@@ -1,16 +1,23 @@
-import calendar
-from datetime import datetime
+from utils import * 
 
-# Get full month names
-full_month_names = [calendar.month_name[i] for i in range(1, 13)]
-print(full_month_names)  # ['January', 'February', 'March', 'April', ...]
+user_text = """
+শেখ হাসিনা জাতীয় বার্ন এন্ড প্লাস্টিক সার্জারি ইনস্টিটিউট এ আমার এক ফ্রেন্ডের ট্রিটমেন্ট চলছে।
 
-# Get abbreviated month names
-short_month_names = [calendar.month_abbr[i] for i in range(1, 13)]
-print(short_month_names)  # ['Jan', 'Feb', 'Mar', 'Apr', ...]
+ওর জন্য প্রতিদিন ২ ব্যাগ করে ব্লাড লাগছে।
+নাম : মৌমিতা সাহা(MSE'18)
+ব্লাড গ্রুপ: বি পজেটিভ
 
-# Current date and time
-now = datetime.now()
-print(now.strftime("%B %d, %Y"))  # Full month name, day, year
+ঢাকায় আছি অথবা ঢাকায় পরিচিত বন্ধু বান্ধব কেউ ব্লাড দিতে পারলে প্লিজ যোগাযোগ করবেন।
 
-print(calendar.month_abbr[0])
+
+যোগাযোগ:
+01723894728 (Nishi)
++880 1627-690977(Joy )
+"""
+
+# response = get_response(user_text)
+
+# write_json('res.json',response)
+
+info = get_info(user_text)
+write_json('info.json',info)

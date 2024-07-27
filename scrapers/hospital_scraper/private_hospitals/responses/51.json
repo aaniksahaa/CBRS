@@ -1,0 +1,1007 @@
+{
+    "draw": 51,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Fatima Hospital",
+            "HSM84827",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jashore Sadar",
+            "Garib saha Roard Jessore"
+        ],
+        [
+            2,
+            "Fatima Hospital",
+            "HSM33801",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jashore Sadar",
+            "Jessore Sadar Jessore"
+        ],
+        [
+            3,
+            "FATIMA MAINUDDIN DIAGNOSTIC CENTRE",
+            "HSM54688",
+            "Diagnostic Center",
+            "Category-C",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "\u09b8\u09bf\u098f\u09a8\u09cd\u09a1\u09ac\u09bf \u09b0\u09cb\u09a1, \u0988\u09a6\u0997\u09be\u09b9 \u0986\u09ac\u09be\u09b8\u09bf\u0995 \u098f\u09b2\u09be\u0995\u09be, \u09b8\u09a6\u09b0, \u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0\u0964"
+        ],
+        [
+            4,
+            "Fatima Medical & Diagnostic Center",
+            "HSM40701",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Dakshinkhan",
+            "House # 26, Girls School Road, Dakshin Khan Bazar, Uttara, Dhaka-1230."
+        ],
+        [
+            5,
+            "FATIMAH  HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM06027",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "302, Khanjahan Ali Road,Khulna."
+        ],
+        [
+            6,
+            "FATIMAH  HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM52936",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Khulna",
+            "Khulna Sadar",
+            "302, Khanjahan Ali Road,Khulna."
+        ],
+        [
+            7,
+            "Fatin Diagnostic Center",
+            "HSM95418",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Sakhipur",
+            "Dhaka Road, Sakhipur, Tangail, Bangladesh."
+        ],
+        [
+            8,
+            "Fatin Diagnostic Center & Hospital",
+            "HSM71426",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Dhanbari",
+            "Rupshanti, Dhanbari, Tangail"
+        ],
+        [
+            9,
+            "Fatin Diagnostic Center and Hospital",
+            "HSM59470",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Dhanbari",
+            "Rupshanti, Dhanbari, Tangail"
+        ],
+        [
+            10,
+            "FATULLAH EYE HOSPITAL ",
+            "HSM08606",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Dolfin Tower, Meghna Depo Gait, Fatullah, Narayanganj"
+        ],
+        [
+            11,
+            "FATULLAH GENERAL HOSPITAL & DOCTORS DIAGNOSTIC LAB",
+            "HSM61607",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "MOSTAFIZ CENTRE, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            12,
+            "FATULLAH GENERAL HOSPITAL & DOCTORS DIAGNOSTIC LAB",
+            "HSM36192",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "MOSTAFIZ CENTRE, FATULLAH, NARAYANGANJ"
+        ],
+        [
+            13,
+            "Fayez General Hospital ",
+            "HSM16482",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Habiganj",
+            "Habiganj Sadar",
+            "M. M Tower, New Bust Terminal Road, Habiganj."
+        ],
+        [
+            14,
+            "Fayez General Hospital (Diagnostic Center) ",
+            "HSM80798",
+            "Diagnostic Center",
+            "Category-C",
+            "Habiganj",
+            "Habiganj Sadar",
+            "M.M Tower New Bus Stand Road, Habiganj."
+        ],
+        [
+            15,
+            "Faysal Modern Diagnostic Center",
+            "HSM73994",
+            "Diagnostic Center",
+            "Category-C",
+            "Netrakona",
+            "Atpara",
+            "Hospital Gate, Atpara, Netrokona"
+        ],
+        [
+            16,
+            "Fayzur Rahman General Hospital",
+            "HSM88222",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Kurigram",
+            "Rajibpur",
+            "Char Rajibpur Battala,  (Pukurpar), Rajibpur, Kurigram"
+        ],
+        [
+            17,
+            "Fazlul  Karim  Diagnostic  Center .",
+            "HSM12728",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Charabag , Ahsulia , Savar, Dhaka"
+        ],
+        [
+            18,
+            "Femus hospital",
+            "HSM72375",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "\u09e7\u09e6\u09ee\u09e6, \u09ae\u09be\u09a8\u09bf\u0995\u09aa\u09c1\u09b0 \u09aa\u09cd\u09b2\u09be\u099c\u09be, \u09b8\u09a6\u09b0 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b0\u09cb\u09a1, \u09ae\u09c1\u09a8\u09cd\u09b8\u09c0\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0, \u09ae\u09c1\u09a8\u09cd\u09b8\u09c0\u0997\u099e\u09cd\u099c\u0964"
+        ],
+        [
+            19,
+            "FENI AL-BARAKA HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM12712",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "S.S.K Road, Feni, Bangladesh."
+        ],
+        [
+            20,
+            "FENI AL-BARAKA HOSPITAL & DIAGNOSTIC CENTRE",
+            "HSM20304",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "VIP Tower, SSK Road, Feni Sadar, Feni."
+        ],
+        [
+            21,
+            "Feni Cardiac Center & Specialized Hospital",
+            "HSM42431",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Feni",
+            "Feni Sadar",
+            "Edris Shadan 170, S S K Road, Feni-3900"
+        ],
+        [
+            22,
+            "Feni Cardic Center & Specialized Hospital",
+            "HSM55510",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "Edris Shadan, 170, S S K Road, Feni-3900"
+        ],
+        [
+            23,
+            "Feni Clinic",
+            "HSM20943",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "C/O: Shahid shahid Ullah Kaisar Sarak, P.O: Feni, Dist: Feni."
+        ],
+        [
+            24,
+            "Feni Diabetes Hospital",
+            "HSM91320",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "589, Mizan Road, Feni."
+        ],
+        [
+            25,
+            "Feni Diabetes Hospital",
+            "HSM62363",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "589, Mizan Road, Feni."
+        ],
+        [
+            26,
+            "Feni Evercare Diagnostic Center ",
+            "HSM53952",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "648 Central plaza residential building, Central Plaza, Sadar hospital moor, Feni"
+        ],
+        [
+            27,
+            "Feni Eye Hospital",
+            "HSM60442",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "Sheikh Ahammad Tower, 161 Shahid Shahidullah Kaiser Road, Feni- 3900."
+        ],
+        [
+            28,
+            "Feni Lab and Diagnostic Center",
+            "HSM87317",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Sadar Hospital Road, Feni Sadar, Feni-3900."
+        ],
+        [
+            29,
+            "Feni Max Diagnostic  Center ",
+            "HSM53114",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "Zohiria Tower,  Trunk Road,Feni. Bangldesh "
+        ],
+        [
+            30,
+            "Feni Medical Center",
+            "HSM69914",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Maisha A Ahmed Tower, Sohid Sohidullah Kaiser Sarak, Feni."
+        ],
+        [
+            31,
+            "Feni Medicare Diagnostic Center",
+            "HSM61532",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Abedin Super Market, Zero Point, Trunk Road, Feni Sadar, Feni."
+        ],
+        [
+            32,
+            "FENI MEDINOVA DIAGNOSTIC CENTER ",
+            "HSM13201",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "SHAHID SHAHIDULLAH KAISAR SARAK, FENI"
+        ],
+        [
+            33,
+            "FENI MEDINOVA SPECIALIZED HOSPITAL",
+            "HSM41675",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "106 MORSHED PLAZA, SHAHID SHAIDULLAHA KASIR SARAK FENI."
+        ],
+        [
+            34,
+            "FENI MEDINOVA SPECIALIZED HOSPITAL & DIAGNOSTIC CENTER ",
+            "HSM54588",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "106 MORSHED PLAZA, SHAHID SHAIDULLAHA KASIR SARAK, FENI."
+        ],
+        [
+            35,
+            "Feni Private Hospital",
+            "HSM37641",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "Bathania-Devipur, Dhaka-Chittagong Highway, Feni Bangladesh"
+        ],
+        [
+            36,
+            "Feni Private Hospital & diagnostic center",
+            "HSM69153",
+            "Diagnostic Center",
+            "Category-C",
+            "Feni",
+            "Feni Sadar",
+            "Bathania-Devipur, Feni."
+        ],
+        [
+            37,
+            "Feni Psychiatric Hospital",
+            "HSM44115",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Feni",
+            "Feni Sadar",
+            "Mukto Bazar (Biyzieds Health Service Center) Trunk Road, Feni Sadar, Feni."
+        ],
+        [
+            38,
+            "FENI UNITED MEDICAL CENTER",
+            "HSM28669",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "ANC Suchona Center Point, Sohid Sohidullah Kaiser Sarark, Feni Sadar, Feni."
+        ],
+        [
+            39,
+            "Ferdous Medical Centre",
+            "HSM38863",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Chittagong",
+            "Panchlaish",
+            "Equity Village (1st Floor) 7, Katalgonj Panchlaish, Chittagong - 4203, Bangladesh"
+        ],
+        [
+            40,
+            "Ferdousi Diagnostic  & Consultation Center ",
+            "HSM18289",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Sonaimuri",
+            "Birshestho Ruhul Amin Sarak, Habib Villa, Collage Gate, Sonaimuri, Noakhali."
+        ],
+        [
+            41,
+            "FEROJA CLINIC",
+            "HSM43874",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chuadanga",
+            "Alamdanga",
+            "HAUSHPUR, ALAMDANGA, CHUADANGA"
+        ],
+        [
+            42,
+            "Feroza Diagnostic Center Unit-2",
+            "HSM28350",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Jahajmara, Hatiya, Noakhali."
+        ],
+        [
+            43,
+            "FEROZA NURSING HOME",
+            "HSM08764",
+            "Diagnostic Center",
+            "Category-C",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "1257, KHARAMPATTI, SOLAKIA, KISHOREGANJ\r\n"
+        ],
+        [
+            44,
+            "FEROZA NURSING HOME",
+            "HSM80664",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Kishorgonj",
+            "Kishoreganj Sadar",
+            "1257, KHARAMPATTI, SOLAKIA, \r\nKISHOREGANJ."
+        ],
+        [
+            45,
+            "Filaria and General Hospital",
+            "HSM45951",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "Zinzira Hospital Road, Birulia Union, P.O: Dairy Farm, Savar, Dhaka-1341 "
+        ],
+        [
+            46,
+            "FIRDAUS NASIR TRUST CHARITABLE HEALTH COMPLEX",
+            "HSM06209",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Tangail",
+            "Mirzapur",
+            "GORAI, MOMIN NAGAR, MIRZAPUR, TANGAIL"
+        ],
+        [
+            47,
+            "FIRDAUS NASIR TRUST CHARITABLE HEALTH COMPLEX",
+            "HSM62767",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Mirzapur",
+            "GORAI, MOMIN NAGAR, MIRZAPUR, TANGAIL"
+        ],
+        [
+            48,
+            "Firoja General Hospital",
+            "HSM68817",
+            "Diagnostic Center",
+            "Category-C",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Manora Manikganj Sodar, Manikganj"
+        ],
+        [
+            49,
+            "FIROJA GENERAL HOSPITAL",
+            "HSM50412",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Manikganj",
+            "Manikganj Sadar",
+            "Manora,Manikganj Sadar,Manikganj"
+        ],
+        [
+            50,
+            "Firoz Diagnostic Center ",
+            "HSM10759",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "1, Beparipara Sarak, Jhenaidah."
+        ],
+        [
+            51,
+            "FIROZA CLINIC & NURSING HOME (Ltd.)",
+            "HSM12362",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Mathbaria",
+            "Mathbaria, Pirojpur, Bangladesh"
+        ],
+        [
+            52,
+            "Firoza Diagnostic Center",
+            "HSM94483",
+            "Diagnostic Center",
+            "Category-C",
+            "Noakhali",
+            "Hatiya",
+            "Oskhali,Hatiya,Noakhali."
+        ],
+        [
+            53,
+            "Firoza Diagnostic Center ",
+            "HSM00671",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Deluabari Bazar, Manda, Naogaon"
+        ],
+        [
+            54,
+            "FIROZA DIAGNOSTIC CENTER ",
+            "HSM03445",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Mathbaria",
+            "New Market, College Road, Mathbaria, Pirojpur"
+        ],
+        [
+            55,
+            "Firoza Diagnostic Center",
+            "HSM81148",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "\u200dSadar Hospital Gate, Narail."
+        ],
+        [
+            56,
+            "FIROZA EYE HOSPITAL & PHACO CENTER",
+            "HSM09194",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "HORINA PIPULBARI, BAGBATI, SIRAJGANJ"
+        ],
+        [
+            57,
+            "FIROZA NEPHRO AID DIAGNOSTIC CENTER",
+            "HSM15769",
+            "Diagnostic Center",
+            "Category-C",
+            "Tangail",
+            "Tangail Sadar",
+            "DIP TOWER APARTMENT, TANGAIL SADAR, TANGAIL, BANGLADESH"
+        ],
+        [
+            58,
+            "FIROZA NEPHRO AID HOSPITAL",
+            "HSM71422",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "DIP TOWER APARTMENT, TANGAIL SADAR, TANGAIL, BANGLADESH"
+        ],
+        [
+            59,
+            "FIRST AID DIAGNOSTIC AND CONSULTATION CENTER",
+            "HSM84529",
+            "Diagnostic Center",
+            "Category-B",
+            "Lalmonirhat",
+            "Patgram",
+            "MOZIRON PLAZA, STATION ROAD, PATGRAM, LALMONIRHAT."
+        ],
+        [
+            60,
+            "FIRST AID DIAGNOSTIC CENTER",
+            "HSM20111",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Kashinogor Bazar ; Chauddagram ; Comilla."
+        ],
+        [
+            61,
+            "FIRST AID HOSPITAL",
+            "HSM20742",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Chauddagram",
+            "kashinogor Bazar ; Chouddagram ; Comilla"
+        ],
+        [
+            62,
+            "FIRST CARE  HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM26601",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Sreepur",
+            "MAWNA BAZAR, SREEPUR"
+        ],
+        [
+            63,
+            "FIRST CARE  HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM63122",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Gazipur",
+            "Sreepur",
+            "MAWNA BAZAR, SREEPUR"
+        ],
+        [
+            64,
+            "First Care Digital Diagnostic Center",
+            "HSM85042",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "Kochitoly, Rajapara, Adarsha Sadar, Cumilla"
+        ],
+        [
+            65,
+            "FIRST CARE NAZ HOSPITAL & DIAGNOSTIC CENTER ",
+            "HSM72344",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Chauddagram",
+            "Naz Tower, D.T Road, Batisha, Chouddagram, Comilla "
+        ],
+        [
+            66,
+            "Firuza Mortuz Diagnostic Center",
+            "HSM99548",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Rajabari, Sherpur Town, Sherpur"
+        ],
+        [
+            67,
+            "Five Doctors Pathological Lab & Hospital",
+            "HSM63885",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Banaripara",
+            "Uttara Bhabon, Chakar Bazar, Banaripara, Barishal."
+        ],
+        [
+            68,
+            "Five Doctors Pathological Lab & Hospital",
+            "HSM30384",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Barishal",
+            "Banaripara",
+            "Uttara Bhabon, Chakar Bazar, Banaripara, Barishal."
+        ],
+        [
+            69,
+            "FIVE STAR DIAGNOSTIC",
+            "HSM36569",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Phulpur",
+            "hospital road,fhopor.mymensingh"
+        ],
+        [
+            70,
+            "FIVE STAR DIAGNOSTIC CENTRE",
+            "HSM34130",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Jibannagar",
+            "Hospital Gate, Jibannagar,Chuadanga."
+        ],
+        [
+            71,
+            "FIVE STAR DIAGNOSTIC CENTRE",
+            "HSM50064",
+            "Diagnostic Center",
+            "Category-C",
+            "Munshiganj",
+            "Lohajang",
+            "FIVE STAR DIAGNOSTIC CENTRE"
+        ],
+        [
+            72,
+            "Five Star Pathological Center",
+            "HSM54645",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "Pachim Shere Bangla Road, Saidpur, Nilphamari"
+        ],
+        [
+            73,
+            "Fizura Mortuz (pvt.) Hospital",
+            "HSM89910",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sherpur",
+            "Sreebardi",
+            "Rajabari, Sherpur Town, Sherpur"
+        ],
+        [
+            74,
+            "FMCR PATHOLOGICAL LABORATORY",
+            "HSM83487",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Cumilla Adarsha Sadar",
+            "South Thakurpara, Comilla"
+        ],
+        [
+            75,
+            "FOCUS DIAGNOSTIC CENTER",
+            "HSM59581",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "POURA NEW MARKET, PATUAKHALI SADOR, PATUAKHALI"
+        ],
+        [
+            76,
+            "Focus Eye Hospital Ltd",
+            "HSM32457",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Khulna",
+            "Khulna Sadar",
+            "Sathi Complex 43, KDA  ,Avenue  , khulna -9100"
+        ],
+        [
+            77,
+            "Foisal Clinic & Diagnostic Centre",
+            "HSM30944",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Naogaon",
+            "Manda",
+            " Prosadpur, Hospital Road., Manda, Naogaon."
+        ],
+        [
+            78,
+            "FOISAL DIAGNOSTIC CENTRE",
+            "HSM15059",
+            "Diagnostic Center",
+            "Category-C",
+            "Naogaon",
+            "Manda",
+            "Prosadpur, Manda, Naogaon"
+        ],
+        [
+            79,
+            "Foresight Diagnostic Center",
+            "HSM18867",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Dumki",
+            "Vill+Upazila+ Post- Dumki, Dist- Patuakhali."
+        ],
+        [
+            80,
+            "FORESIGHT PRENATAL CLINIC",
+            "HSM17504",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Gulshan",
+            "Bilkis Tower (9th Floor), Plot-46, Gulshan, Dhaka-1212"
+        ],
+        [
+            81,
+            "FORIDA PATHOLOGY",
+            "HSM47386",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Belkuchi",
+            "Mukundagati, Hospital Gate, Belkuchi, Sirajganj"
+        ],
+        [
+            82,
+            "FORTUNE DIAGNOSTIC CENTER",
+            "HSM50562",
+            "Diagnostic Center",
+            "Category-B",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "P.T.I Road, Patuakhali-8600, Patuakhali Sador, Patuakhali."
+        ],
+        [
+            83,
+            "Fortune General Hospital",
+            "HSM63330",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Sunamganj",
+            "Chhatak",
+            "Alauddin complex, Gobindaganj Point"
+        ],
+        [
+            84,
+            "Fortune Healthcare Ltd.",
+            "HSM48270",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Dhanmondi",
+            "23/C (3rd Floor), Zigatola Main Road, Dhaka- 1209"
+        ],
+        [
+            85,
+            "Fortune Healthcare Ltd.",
+            "HSM31048",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "23/C Zigatola ,Dhaka-1209"
+        ],
+        [
+            86,
+            "Fortune Healthcare Ltd.(Health Checkup )",
+            "HSM44377",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Dhanmondi",
+            "23/C ( 3rd Floor) ,Zigatola,Dhaka ."
+        ],
+        [
+            87,
+            "FORTUNE HOSPITAL ",
+            "HSM16457",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Patuakhali",
+            "Patuakhali Sadar",
+            "P.T.I Road, Patuakhali-8600, Patuakhali Sador, Patuakhali."
+        ],
+        [
+            88,
+            "FORTUNE MEDICAL CENTRE",
+            "HSM83994",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Bhatara",
+            "Holding No: 57, Madani Avenue, Vatara, \r\nDhaka-1212"
+        ],
+        [
+            89,
+            "FOUAD AL-KHATEEB HOSPITAL",
+            "HSM76159",
+            "Diagnostic Center",
+            "Category-A",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Central Jame Masjid Coxs Bazar "
+        ],
+        [
+            90,
+            "FOUAD AL-KHATEEB HOSPITAL",
+            "HSM76355",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Central Jame Masjid Road Coxs Bazar"
+        ],
+        [
+            91,
+            "FOUAD AL-KHATEEB HOSPITAL (DENTAL UNIT)",
+            "HSM26890",
+            "Diagnostic Center",
+            "Dental Clinic",
+            "Coxs Bazar",
+            "COXS BAZAR SADAR",
+            "Central Jame Mosjid Road Coxs Bazar."
+        ],
+        [
+            92,
+            "Fouad Medical Centre",
+            "HSM93332",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Bhatara",
+            "Dage No.9620,Madani Avenew,Bhatara, Dhaka-1212"
+        ],
+        [
+            93,
+            "Founder Health Care & Hospital Limited",
+            "HSM56930",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Keraniganj",
+            "(Chourongi More), Kalatiya, Keraniganj Model,\r\nDhaka-1313"
+        ],
+        [
+            94,
+            "Four star clinic and diagnostic center",
+            "HSM13494",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rajshahi",
+            "Baghmara",
+            "Taherpur, Baghmara, Rajshahi"
+        ],
+        [
+            95,
+            "Four star clinic and diagnostic center",
+            "HSM43056",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Baghmara",
+            "Taherpur, Baghmara, Rajshahi"
+        ],
+        [
+            96,
+            "FOYEZ AHMED CHOWDHURY  MEMORIAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM03994",
+            "Diagnostic Center",
+            "Category-C",
+            "Chandpur",
+            "Matlab Uttar",
+            "Kalipur Bazar, Matlab North, Chandpur."
+        ],
+        [
+            97,
+            "FOYEZ AHMED CHOWDHURY  MEMORIAL HOSPITAL & DIAGNOSTIC CENTER",
+            "HSM94401",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Chandpur",
+            "Matlab Uttar",
+            "Kalipur Bazar, Matlab North, Chandpur."
+        ],
+        [
+            98,
+            "FPAB Clinic & Diagnostic Center Barisal Branch",
+            "HSM60069",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Barishal",
+            "Barishal Sadar",
+            "North Alakanda Road, Barisal."
+        ],
+        [
+            99,
+            "FPAB Clinic & Diagnostic Center Barisal Branch",
+            "HSM86589",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barishal Sadar",
+            "North Alakanda Road, Barisal."
+        ],
+        [
+            100,
+            "Freedom Fighter Aftab Diagnostic and Consultation  Centre",
+            "HSM38199",
+            "Diagnostic Center",
+            "Category-C",
+            "Narsingdi",
+            "Palash",
+            "Ghorashal,Palash,Narsingdi,Bangladesh "
+        ]
+    ]
+}

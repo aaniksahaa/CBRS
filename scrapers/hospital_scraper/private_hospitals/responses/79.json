@@ -1,0 +1,1007 @@
+{
+    "draw": 79,
+    "recordsTotal": 5,
+    "recordsFiltered": 16016,
+    "data": [
+        [
+            1,
+            "Lab Saad Medical Services.",
+            "HSM45689",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Monirampur",
+            "Hospital get, Monirampur, Jessore. "
+        ],
+        [
+            2,
+            "Lab Science Diagnostic ",
+            "HSM46204",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Kalabagan",
+            "153/1, Green Road, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            3,
+            "LAB SCIENCE MEDICAL CHECK-UP",
+            "HSM72334",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Dhaka",
+            "Kalabagan",
+            "153/1, Green Road, Panthapath, Dhaka-1205\r\n"
+        ],
+        [
+            4,
+            "Lab Sea View Diagnostic Center",
+            "HSM40688",
+            "Diagnostic Center",
+            "Category-B",
+            "Chattogram",
+            "Sitakunda",
+            "Nasir Plaza, Choto Kumia (Near The Foot Over Bridge), Sitakunda, Chattogram."
+        ],
+        [
+            5,
+            "Lab SEVEN DIAGNOSTIC CENTRE",
+            "HSM37482",
+            "Diagnostic Center",
+            "Category-B",
+            "Joypurhat",
+            "Joypurhat Sadar",
+            "Puranapail bazar Joypurhat"
+        ],
+        [
+            6,
+            "LAB SQUARE",
+            "HSM59062",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Jhenaidah Sadar",
+            "Shohid Moshiur Rahman Sarak, Paglakanai More, Jhenaidah"
+        ],
+        [
+            7,
+            "LAB STAR DIAGNOSTIC CENTER",
+            "HSM01989",
+            "Diagnostic Center",
+            "Category-C",
+            "Barishal",
+            "Barisal Sadar",
+            "Girza Mahalla, Parara Road, Barishal"
+        ],
+        [
+            8,
+            "Lab Star Hospital & Diagnostics",
+            "HSM44220",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "B-21/9, Anandapur, Genda, Savar, Dhaka-1340."
+        ],
+        [
+            9,
+            "Lab Star Hospital & Diagnostics",
+            "HSM30685",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "B-21/9, Anandapur, Genda, Savar, Dhaka"
+        ],
+        [
+            10,
+            "Lab Syndicate",
+            "HSM40469",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Fatikchari",
+            "Azadi Bazar, Dharmapur, Fatikchhari, Chattogram"
+        ],
+        [
+            11,
+            "Lab Zone (Pvt.) Ltd.",
+            "HSM92648",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "A-29/1, Mojidpur, Aricha Road, Savar, Dhaka"
+        ],
+        [
+            12,
+            "Lab Zone (Pvt.) Ltd.",
+            "HSM65742",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Savar",
+            "A-30/8, Mojidpur, Aricha Road, Savar, Dhaka"
+        ],
+        [
+            13,
+            "Lab Zone and hormone center",
+            "HSM16177",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Tangail Sadar",
+            "Sabalia, tangail."
+        ],
+        [
+            14,
+            "LAB ZONE DIAGNOSTIC CENTER",
+            "HSM44758",
+            "Diagnostic Center",
+            "Category-C",
+            "Nilphamari",
+            "Saidpur",
+            "Shahid Samir  Uddin Len, Puraton Babupara, Saidpur, Nilphamari"
+        ],
+        [
+            15,
+            "Lab Zone Hospital and Hormone  Center",
+            "HSM19017",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Tangail",
+            "Tangail Sadar",
+            "Diabetic Hospital Road, Sabalia, Tangail."
+        ],
+        [
+            16,
+            "Lab Zone Specialized Hospital Jessore",
+            "HSM50196",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Jessore Sadar",
+            "265/A Ghope Nowapara Road Jessore"
+        ],
+        [
+            17,
+            "Lab Zone Specialized Hospital Jessore",
+            "HSM33274",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Jashore",
+            "Jessore Sadar",
+            "265/A Ghope Nowapara Road Jessore"
+        ],
+        [
+            18,
+            "Lab-19",
+            "HSM23914",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Motijheel",
+            "Alauddin bhaban, 3rd floor, 1/A DIT extension road, Fakirapool, Motijheel, Dhaka-1000,Bangladesh"
+        ],
+        [
+            19,
+            "Lab-Tech Diagnostic & Cellpath",
+            "HSM54153",
+            "Diagnostic Center",
+            "Category-C",
+            "Khulna",
+            "Khulna Sadar",
+            "20, Hazi Mohsin Road, khulna"
+        ],
+        [
+            20,
+            "Labaid Blood Bank",
+            "HSM93577",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Dhanmondi",
+            "House # 5/1, Vasha Sainik Oli Ahad Sorok, Road # 04, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            21,
+            "Labaid Cancer Hospital & Super Speciality Centre Ltd.",
+            "HSM69385",
+            "Blood Bank",
+            "",
+            "Dhaka",
+            "Dhanmondi",
+            "26, Green road, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            22,
+            "Labaid Cancer Hospital (Pathological Lab)",
+            "HSM32733",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Dhanmondi",
+            "Holding- 26, Green Road, Dhanmondi, Dhaka-1205."
+        ],
+        [
+            23,
+            "Labaid Cancer Hospital and Super Speciality Centre Ltd.",
+            "HSM21986",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Dhanmondi",
+            "26, Green Road, Dhanmondi, Dhaka-1205, Bangladesh."
+        ],
+        [
+            24,
+            "Labaid Cardiac Hospital",
+            "HSM60979",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "House # 01, Road # 04, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            25,
+            "Labaid Limited",
+            "HSM25005",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kalabagan",
+            "House # 01, Road # 04, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            26,
+            "Labaid Limited",
+            "HSM01242",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Kalabagan",
+            "South Yakub Centre (2nd Floor), Holding-156, Lake Circus (Mirpur Road), Kalabagan, Dhaka-1205."
+        ],
+        [
+            27,
+            "Labaid Limited (Diagnostic)",
+            "HSM87134",
+            "Diagnostic Center",
+            "Category-A",
+            "Faridpur",
+            "Faridpur Sadar",
+            "House- 5/1, Niltuli, Mujib Sharak, P.S- Faridpur Sadar, District-Faridpur"
+        ],
+        [
+            28,
+            "LABAID LIMITED (DIAGNOSTIC)",
+            "HSM64493",
+            "Diagnostic Center",
+            "Category-A",
+            "Dinajpur",
+            "Dinajpur Sadar",
+            "House No. 1/1, Munsipara, Sadar Hospital Road, Dinajpur."
+        ],
+        [
+            29,
+            "Labaid Limited (Diagnostic)",
+            "HSM08252",
+            "Diagnostic Center",
+            "Category-A",
+            "Jashore",
+            "Jessore Sadar",
+            "House No. 498/2, Jail Road,  Ghop, Kotowali, Jessore."
+        ],
+        [
+            30,
+            "Labaid Limited (Diagnostic), Barisal",
+            "HSM63036",
+            "Diagnostic Center",
+            "Category-A",
+            "Barishal",
+            "Barisal Sadar",
+            "106, K-Jahan Center, Sadar Road, Barishal."
+        ],
+        [
+            31,
+            "Labaid Limited (Diagnostic), Gazipur",
+            "HSM42713",
+            "Diagnostic Center",
+            "Category-B",
+            "Gazipur",
+            "Gazipur Sadar",
+            "House No. 61/5, \u200dShibari, Mosjid Road, Joydevpur, Gazipur."
+        ],
+        [
+            32,
+            "LABAID LIMITED (DIAGNOSTIC), NAOGAON",
+            "HSM23549",
+            "Diagnostic Center",
+            "Category-A",
+            "Naogaon",
+            "Naogaon Sadar",
+            "House-04, Kazir More, Main Road, Naogaon."
+        ],
+        [
+            33,
+            "Labaid Limited (Diagnostic), Rangpur",
+            "HSM41817",
+            "Diagnostic Center",
+            "Category-A",
+            "Rangpur",
+            "Rangpur Sadar",
+            "House-69, Road-01, Dhap, Jail Road, Kotwali, Rangpur 5400."
+        ],
+        [
+            34,
+            "Labaid Limited (Diagnostics & Medical Checkup Center), Rajshahi.",
+            "HSM23820",
+            "Diagnostic Center",
+            "Medical Checkup Center",
+            "Rajshahi",
+            "Rajpara",
+            "Holding No. 621, Shershah Road, Kazihata, P.S- Rajpara, Dist- Rajshahi."
+        ],
+        [
+            35,
+            "Labaid Limited, Munshiganj",
+            "HSM38234",
+            "Diagnostic Center",
+            "Category-A",
+            "Munshiganj",
+            "Munshiganj Sadar",
+            "House-608, Jahanara Bilash, Sadar Hospital Road,Munshiganj"
+        ],
+        [
+            36,
+            "Labaid Ltd (Diagnostic)",
+            "HSM85712",
+            "Diagnostic Center",
+            "Category-A",
+            "Khulna",
+            "Sonadanga",
+            "K.D.A, Plot: A-5, Mojid Sarani, Sonadanga, Khulna."
+        ],
+        [
+            37,
+            "Labaid Ltd (Diagnostic) Center",
+            "HSM47548",
+            "Diagnostic Center",
+            "Category-A",
+            "Chattogram",
+            "Panchlaish",
+            "Forum Center, 787/863 M.M Ali Road, Goal Pahar More, Mehedibag, Chhattogram."
+        ],
+        [
+            38,
+            "Labaid Ltd (Diagnostic),  Mirpur",
+            "HSM08752",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Mirpur",
+            "House-09, Main Road-01, Block-B, Mirpur-01, Dhaka."
+        ],
+        [
+            39,
+            "Labaid Ltd (Diagnostic), Barishal-II",
+            "HSM69318",
+            "Diagnostic Center",
+            "Category-A",
+            "Barishal",
+            "Barishal Sadar",
+            "123-125, Zilla Parishad 7 No. Market, Barishal Band Road, WAPDA Gate, Barishal Sadar, Barishal."
+        ],
+        [
+            40,
+            "Labaid Ltd (Diagnostic), Bogra",
+            "HSM10395",
+            "Diagnostic Center",
+            "Category-A",
+            "Bogura",
+            "Bogra Sadar",
+            "House-1872, Latifpur Road, Colony, Bogra."
+        ],
+        [
+            41,
+            "Labaid Ltd (Diagnostic), Cumilla",
+            "HSM14914",
+            "Diagnostic Center",
+            "Category-B",
+            "Cumilla",
+            "Comilla Sadar Dakshin",
+            "House-622/3, 2nd Kandirpar,\r\nLaksam Road, PS: Comilla Sadar\r\nComilla."
+        ],
+        [
+            42,
+            "Labaid Ltd (Diagnostic), Kalabagan",
+            "HSM22247",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Kalabagan",
+            "Plot-66, Green Road Staff Colony, Kalabagan, Dhaka."
+        ],
+        [
+            43,
+            "Labaid Ltd (Diagnostic), Magura",
+            "HSM08897",
+            "Diagnostic Center",
+            "Category-B",
+            "Magura",
+            "Magura Sadar",
+            "House: 1-01, Magura Powrashava Bhaban, College Road, P.S-Magura, District-Magura"
+        ],
+        [
+            44,
+            "Labaid Ltd (Diagnostic), Malibagh",
+            "HSM09831",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Khilgaon",
+            "Plot: B-65, DIT Sarak, Khilgaon Rehabilitation Zone, Malibagh, Dhaka."
+        ],
+        [
+            45,
+            "Labaid Ltd (Diagnostic), Noakhali",
+            "HSM24986",
+            "Diagnostic Center",
+            "Category-B",
+            "Noakhali",
+            "Begumganj",
+            "Maijdee Road, Alipur, Begumgonj, Noakhali."
+        ],
+        [
+            46,
+            "LABAID LTD (DIAGNOSTIC), Pabna",
+            "HSM62542",
+            "Diagnostic Center",
+            "Category-A",
+            "Pabna",
+            "Pabna Sadar",
+            "House- 1313, Shalgaria, Sadar Hospital Road, Pabna."
+        ],
+        [
+            47,
+            "Labaid Ltd (Diagnostic), Pallabi",
+            "HSM05534",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Pallabi",
+            "House-21, Main Road-03, Mirpur-07, Pallabi, Dhaka."
+        ],
+        [
+            48,
+            "Labaid Ltd (Diagnostic), Rajshahi",
+            "HSM73441",
+            "Diagnostic Center",
+            "Category-A",
+            "Rajshahi",
+            "Rajpara",
+            "House No. 621, Shershah Road, Kazihata, Rajshahi-6400"
+        ],
+        [
+            49,
+            "Labaid Ltd (Diagnostic), Savar",
+            "HSM42509",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Savar",
+            "House No: A-14/12, Talbagh, Bank Colony, Savar, Dhaka."
+        ],
+        [
+            50,
+            "Labaid Ltd (Diagnostics), Bhola",
+            "HSM88100",
+            "Diagnostic Center",
+            "Category-B",
+            "Bhola",
+            "Bhola Sadar",
+            "Holding-436, Ukilpara, Bhola Sadar, Bhola."
+        ],
+        [
+            51,
+            "Labaid Ltd (Diagnostics), Chandpur",
+            "HSM48324",
+            "Diagnostic Center",
+            "Category-B",
+            "Chandpur",
+            "Chandpur Sadar",
+            "Holding-789, Hazi Mohshin Road, Chandpur Sadar, Chandpur."
+        ],
+        [
+            52,
+            "Labaid Ltd (Diagnostics), Feni",
+            "HSM27144",
+            "Diagnostic Center",
+            "Category-B",
+            "Feni",
+            "Feni Sadar",
+            "Holding- 60, Kazi Bhaban, S.S.K Sarak, Rampur, Feni."
+        ],
+        [
+            53,
+            "Labaid Ltd (Diagnostics), Narsingdi",
+            "HSM47870",
+            "Diagnostic Center",
+            "Category-B",
+            "Narsingdi",
+            "Narsingdi Sadar",
+            "Holding: 89/4, D.C Road, Jailkhana More, Tarwa, Narsingdi Sadar, Narsingdi."
+        ],
+        [
+            54,
+            "Labaid Ltd (Diagnostics), Tangail",
+            "HSM11881",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Tangail Sadar",
+            "Holding-247, Mymensingh Road, Sabalia, Tangail Sadar, Tangail."
+        ],
+        [
+            55,
+            "LABAID LTD DIAGNOSTIC, UTTARA-01",
+            "HSM49084",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Uttara  Purba",
+            "HOUSE-15,ROAD-12,SECTOR-06,UTTARA.DHAKA"
+        ],
+        [
+            56,
+            "Labaid Ltd. (Diagnostic), Sylhet.",
+            "HSM39941",
+            "Diagnostic Center",
+            "Category-A",
+            "Sylhet",
+            "Sylhet Sadar",
+            "Osmani Medical College Road, Kajalshah, Sylhet. Bangladesh."
+        ],
+        [
+            57,
+            "Labaid Specialized Hospital",
+            "HSM57640",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Dhaka",
+            "Kalabagan",
+            "House # 06, Road # 04, Dhanmondi, Dhaka-1205"
+        ],
+        [
+            58,
+            "Labcare Diagnostic ",
+            "HSM77716",
+            "Diagnostic Center",
+            "Category-B",
+            "Tangail",
+            "Mirzapur",
+            "Deohata Bazar, Mirzapur, Tangail"
+        ],
+        [
+            59,
+            "Labcon Diagnostic & consultation Centre",
+            "HSM36043",
+            "Diagnostic Center",
+            "Category-B",
+            "Khulna",
+            "Khulna Sadar",
+            "Ahsan Ahmed Road, Khulna-9100"
+        ],
+        [
+            60,
+            "Labcure Diagnostic & Consultation Centre Ltd",
+            "HSM07010",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Shahbagh",
+            "63/KA-1/A/1, Moghbazar Mour, Shahid Sangbadik Selina Parvin Sarak, Ramna, Dhaka-1217."
+        ],
+        [
+            61,
+            "LABDELTA DIAGNOSTIC ",
+            "HSM45534",
+            "Diagnostic Center",
+            "Category-C",
+            "Sylhet",
+            "Sylhet Sadar",
+            "South Dargamahalla, Sylhet, Bangladesh"
+        ],
+        [
+            62,
+            "LABIB DIAGNOSTIC CENTRE",
+            "HSM43169",
+            "Diagnostic Center",
+            "Category-C",
+            "Chuadanga",
+            "Damurhuda",
+            "Vill: Puratan Bazar, PO: Darsana-7221, PS: Damurhuda, Dist: Chuadanga."
+        ],
+        [
+            63,
+            "Labib Diagnostic Complex",
+            "HSM89582",
+            "Diagnostic Center",
+            "Category-C",
+            "Pabna",
+            "Ishwardi",
+            "Post Office More, Pabna Road, Ishwardi."
+        ],
+        [
+            64,
+            "LABIB HOSPITAL(PVT)",
+            "HSM97501",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Mymensingh",
+            "Mymensingh Sadar",
+            "70/\u09ac\u09be\u0998\u09ae\u09be\u09b0\u09be \u099a\u09b0\u09aa\u09be\u09dc\u09be \u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+        ],
+        [
+            65,
+            "Labib Pathological Lab",
+            "HSM44512",
+            "Diagnostic Center",
+            "Category-C",
+            "Sherpur",
+            "Sherpur Sadar",
+            "Nondir Bazar, Sherpur Sadar, Sherpur."
+        ],
+        [
+            66,
+            "LABIBA POLY CLINIC",
+            "HSM53395",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "206, Khoborstan Road, Miapara, Gopalgonj."
+        ],
+        [
+            67,
+            "Labiba Poly Clinic & Pathological Lab",
+            "HSM03106",
+            "Diagnostic Center",
+            "Category-C",
+            "Gopalganj",
+            "Gopalganj Sadar",
+            "206, Khoborstan Road, Miapara, Gopalgonj."
+        ],
+        [
+            68,
+            "Labmed Diagnostic Center",
+            "HSM47823",
+            "Diagnostic Center",
+            "Category-B",
+            "Natore",
+            "Natore Sadar",
+            "Bolaripara, Horispur, Natore Sador"
+        ],
+        [
+            69,
+            "LABONE MEDICAL SERVICES",
+            "HSM72963",
+            "Diagnostic Center",
+            "Category-C",
+            "Jhenaidah",
+            "Kaliganj",
+            "Dhaka Road, IMA Super Market, Kaliganj, Jhenaidah."
+        ],
+        [
+            70,
+            "LABONNO CLINIC AND NURSING HOME",
+            "HSM89137",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Pirojpur",
+            "Bhandaria",
+            "BHANDARIA, PIROJPUR "
+        ],
+        [
+            71,
+            "LABONNO DIAGNOSTIC CENTER ",
+            "HSM26745",
+            "Diagnostic Center",
+            "Category-C",
+            "Pirojpur",
+            "Bhandaria",
+            "BHANDARIA, PIROJPUR  "
+        ],
+        [
+            72,
+            "Labplex Heath Care Diagnostic Center ",
+            "HSM09975",
+            "Diagnostic Center",
+            "Category-C",
+            "Patuakhali",
+            "Kalapara",
+            "Janata School Road,Banati Bazar, Kalapara, Patuakhali"
+        ],
+        [
+            73,
+            "LabScan Medical Services Ltd.",
+            "HSM83090",
+            "Diagnostic Center",
+            "Category-A",
+            "Jashore",
+            "Jessore Sadar",
+            "M M Ali Road, Jessore"
+        ],
+        [
+            74,
+            "LABSINA DIAGHOSTIC CENTRE",
+            "HSM29698",
+            "Diagnostic Center",
+            "Category-C",
+            "Gazipur",
+            "Gazipur Sadar",
+            "VOWAL COMPLEX, JHANA ROAD, JOYDEBPUR,GAZIPUR"
+        ],
+        [
+            75,
+            "Labsscan Diagnostic Center ",
+            "HSM28820",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Lalbagh",
+            "314,Jagannath Saha Road, Lalbagh, Dhaka-1211"
+        ],
+        [
+            76,
+            "Labstar Diagonstic Centre",
+            "HSM86781",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            ""
+        ],
+        [
+            77,
+            "Labsun Diagonostic Center",
+            "HSM39545",
+            "Diagnostic Center",
+            "Category-C",
+            "Narail",
+            "Narail Sadar",
+            "Old Bus Terminal, Narail Sadar, Narail."
+        ],
+        [
+            78,
+            "Labtec Diagnostic Services",
+            "HSM84778",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Mohammadpur",
+            "House #10,Road #01, Chand Uddan Housing, Mohammadpur, Dhaka-1207"
+        ],
+        [
+            79,
+            "LABTECH MEDICAL SERVICES & RESEARCH CENTRE",
+            "HSM73409",
+            "Diagnostic Center",
+            "Category-C",
+            "Dhaka",
+            "Savar",
+            "Madani Super Market (2nd Floor), Hemayetpur Bus Stand, Savar, Dhaka"
+        ],
+        [
+            80,
+            "Labten Diagnostic Center",
+            "HSM92644",
+            "Diagnostic Center",
+            "Category-C",
+            "Mymensingh",
+            "Nandail",
+            "Hospital Road, Nandail, Mymensingh"
+        ],
+        [
+            81,
+            "LABTOP DIAGNOSTIC CENTER ",
+            "HSM65912",
+            "Diagnostic Center",
+            "Category-C",
+            "Rajshahi",
+            "Rajpara",
+            "VILL-LAXMIPUR JHAAUTOLA MORE, PO- GPO-6000, PS- RAJPARA, DIST- RAJSHAHI"
+        ],
+        [
+            82,
+            "Labzone Diagnostic ",
+            "HSM16876",
+            "Diagnostic Center",
+            "Category-B",
+            "Rangpur",
+            "Rangpur Sadar",
+            "Dhap Jail Road, Rangpur"
+        ],
+        [
+            83,
+            "LABZONE DIAGNOSTIC & DOCTORS CHEMBER",
+            "HSM21846",
+            "Diagnostic Center",
+            "Category-C",
+            "Jashore",
+            "Sharsha",
+            "NAVARON SATKHIRA MOR, SHARSHA, JASHORE"
+        ],
+        [
+            84,
+            "Lahiri Digital Diagnostic Center",
+            "HSM47671",
+            "Diagnostic Center",
+            "Category-C",
+            "Thakurgaon",
+            "Baliadangi",
+            "Lahiri Bazer, Baliadangi, Thakurgaon"
+        ],
+        [
+            85,
+            "Lahirimohonpur Health Center, Grameen Kalyan",
+            "HSM36811",
+            "Diagnostic Center",
+            "Category-C",
+            "Sirajganj",
+            "Ullahpara",
+            "Laherimohonpur, Ullahpara, Sirajganj"
+        ],
+        [
+            86,
+            "LAILY JEBU DIAGNOSTIC COMPLEX AND HOSPITAL.",
+            "HSM69796",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Sirajganj",
+            "Sirajganj Sadar",
+            "SOYADHANGARA MODDHOPARA, SIRAJGANJ"
+        ],
+        [
+            87,
+            "Lake City Diagnostic & Consultation Centerr ",
+            "HSM18812",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Khilkhet",
+            "Kha-48/A, Bottola, Khilkhet, Dhaka-1229."
+        ],
+        [
+            88,
+            "LAKE CITY DIAGNOSTIC COMPLEX",
+            "HSM15120",
+            "Diagnostic Center",
+            "Category-C",
+            "Chattogram",
+            "Double Mooring",
+            "303  SK MUJIB ROAD DEWANHAT, CHITTAGONG"
+        ],
+        [
+            89,
+            "LAKE CITY MEDICAL LTD",
+            "HSM90813",
+            "Diagnostic Center",
+            "Category-A",
+            "Dhaka",
+            "Khilkhet",
+            "KHA-48/A (1ST FLOOR), SARDER MARKET, KHILKHET BOTTOLA, KHILKHET, DHAKA-1229"
+        ],
+        [
+            90,
+            "Lake Site Hospital (pvt)& Diagnostic Center",
+            "HSM88220",
+            "Diagnostic Center",
+            "Category-C",
+            "Rangamati",
+            "Rangamati Sadar",
+            "North Kalindipur, Rangamati"
+        ],
+        [
+            91,
+            "Lake Site Hospital (pvt)& Diagnostic Center",
+            "HSM45139",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Rangamati",
+            "Rangamati Sadar",
+            "North Kalindipur, Rangamati"
+        ],
+        [
+            92,
+            "Lake Vew Diagnostic Centre",
+            "HSM59175",
+            "Diagnostic Center",
+            "Category-C",
+            "Barguna",
+            "Barguna Sadar",
+            "Sher-E- Bangla Road, Barguna Sadar, Barguna."
+        ],
+        [
+            93,
+            "Lake View (Pvt) Hospital",
+            "HSM75557",
+            "Private Hospital/Clinic",
+            "Clinic",
+            "Maulvibazar",
+            "Maulvibazar Sadar",
+            "106,Sha Mostafa Road,Post,P/S & Dist: Moulvibazar-3200."
+        ],
+        [
+            94,
+            "Lake View Clinic (Pathology)",
+            "HSM39760",
+            "Diagnostic Center",
+            "Category-B",
+            "Dhaka",
+            "Banani",
+            "House - 5, Road - 79, Gulshan-2, Dhaka - 1212"
+        ],
+        [
+            95,
+            "LAKE VIEW DIAGNOSTIC & DOCTOR\u2019S CHAMBER",
+            "HSM87853",
+            "Diagnostic Center",
+            "Category-C",
+            "Narayanganj",
+            "Narayanganj Sadar",
+            "Holding. No-295, Block-E, Shahebpara, Mizmizi, Siddhirganj, Narayanganj"
+        ],
+        [
+            96,
+            "LAKSAM AL-AQSA HOSPITAL PVT. LIMITED",
+            "HSM09462",
+            "Private Hospital/Clinic",
+            "Hospital",
+            "Cumilla",
+            "Laksam",
+            "APOSH TOWER, BYPASS, LAKSAM, CUMILLA"
+        ],
+        [
+            97,
+            "LAKSAM AL-AQSA HOSPITAL PVT. LIMITED",
+            "HSM27653",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "APOSH TOWER, BYPASS, LAKSAM, CUMILLA"
+        ],
+        [
+            98,
+            "LAKSAM CENTRAL LAB",
+            "HSM12914",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Baypass Road, Laksam, Comilla"
+        ],
+        [
+            99,
+            "LAKSAM COMPATH",
+            "HSM88224",
+            "Diagnostic Center",
+            "Category-C",
+            "Cumilla",
+            "Laksam",
+            "Paschimgaon, Laksam, Comilla"
+        ],
+        [
+            100,
+            "LAKSAM CT SCAN & SPECIALIZED DIAGNOSTIC CENTER",
+            "HSM92388",
+            "Diagnostic Center",
+            "Category-A",
+            "Cumilla",
+            "Laksam",
+            "Holding No- 0306/01, Housing Estate, Laksam, Comilla"
+        ]
+    ]
+}

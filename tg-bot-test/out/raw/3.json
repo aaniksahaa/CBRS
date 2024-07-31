@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "7",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": "newborn"
+    },
+    "condition": "",
+    "location": "Bailey road",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01519-609566"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "United Hospital, Gulshan 2",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "BUET Chemical '06 batch",
+            "contact_numbers": [
+                "01787672352"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

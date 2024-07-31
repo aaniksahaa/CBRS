@@ -1,0 +1,28 @@
+{
+    "blood_group": "A+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "Birdem Hospital",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "+8801776605728"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

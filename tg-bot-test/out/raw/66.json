@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "\u09a2\u09be\u0995\u09be \u09aa\u0999\u09cd\u0997\u09c1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                ""
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

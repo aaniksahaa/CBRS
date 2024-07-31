@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Spinal Surgery",
+    "location": "Bangladesh Spine & Orthopaedic Hospital - BSOH, Kallayanpur",
+    "probable_day": "11/03/2024",
+    "probable_time": "4pm",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "+8801855333454"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

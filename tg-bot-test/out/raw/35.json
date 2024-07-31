@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "2",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "United Hospital, gulshan 2",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01787672352"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

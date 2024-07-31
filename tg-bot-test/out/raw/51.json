@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": "\u0995\u09df\u09c7\u0995\u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09bf\u09b6\u09c1"
+    },
+    "condition": "\u09b6\u09bf\u09b6\u09c1\u099f\u09bf I.C.U \u09a4\u09c7 \u0986\u099b\u09c7",
+    "location": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09cd\u09aa\u09c7\u09b6\u09be\u09b2\u0987\u099c\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2, \u09ec\u09e9, \u09ae\u09be\u099c\u09c7\u09a6 \u09b8\u09b0\u09a6\u09be\u09b0\u09b0\u09cb\u09a1, \u099a\u09be\u0981\u09a8\u0996\u09be\u09b0\u09aa\u09c1\u09b2",
+    "probable_day": "10/10/2023",
+    "probable_time": "\u09b0\u09be\u09a4\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01641333280"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

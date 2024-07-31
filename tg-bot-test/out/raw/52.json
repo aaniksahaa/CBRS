@@ -1,0 +1,28 @@
+{
+    "blood_group": "A+",
+    "bags_needed": "2",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "\u09aa\u09bf\u099c\u09bf \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+    "probable_day": "06/10/2023",
+    "probable_time": "afternoon onwards",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01718133812"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

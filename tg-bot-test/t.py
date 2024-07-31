@@ -1,23 +1,7 @@
 from utils import * 
 
-user_text = """
-শেখ হাসিনা জাতীয় বার্ন এন্ড প্লাস্টিক সার্জারি ইনস্টিটিউট এ আমার এক ফ্রেন্ডের ট্রিটমেন্ট চলছে।
+messages = read_json('./dataset/demo-messages.json')
 
-ওর জন্য প্রতিদিন ২ ব্যাগ করে ব্লাড লাগছে।
-নাম : মৌমিতা সাহা(MSE'18)
-ব্লাড গ্রুপ: বি পজেটিভ
-
-ঢাকায় আছি অথবা ঢাকায় পরিচিত বন্ধু বান্ধব কেউ ব্লাড দিতে পারলে প্লিজ যোগাযোগ করবেন।
-
-
-যোগাযোগ:
-01723894728 (Nishi)
-+880 1627-690977(Joy )
-"""
-
-# response = get_response(user_text)
-
-# write_json('res.json',response)
-
-info = get_info(user_text)
-write_json('info.json',info)
+for i,m in enumerate(messages):
+    info = get_info(m)
+    write_json(f'./out/raw/{i}.json',info)

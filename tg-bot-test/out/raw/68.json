@@ -1,0 +1,28 @@
+{
+    "blood_group": "",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "\u09ac\u09cd\u09b2\u09c1\u09a1 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09be\u09b0",
+    "location": "CMH, Dhaka Cantonment",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01621519889"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

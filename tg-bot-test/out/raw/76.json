@@ -1,0 +1,29 @@
+{
+    "blood_group": "",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "\u09a8\u09c1\u09b8\u09b0\u09be\u09a4 \u099c\u09be\u09b9\u09be\u09a8 \u09ac\u09c1\u09b6\u09b0\u09be",
+        "age-group": ""
+    },
+    "condition": "chronic kidney failure",
+    "location": "\u09a2\u09be\u0995\u09be\u09b0 CKD \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "\u09ae\u09cb\u099b\u09be: \u09b0\u09bf\u09ae\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0 \u09b8\u09c1\u09ac\u09b0\u09cd\u09a3",
+            "contact_numbers": [
+                "01777690998",
+                "01760611836"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "N",
+        "allowance": "N"
+    }
+}

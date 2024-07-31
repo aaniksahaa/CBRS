@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "5",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "Dhaka National Medical College & Hospital",
+    "probable_day": "5/6/7th Jan, 2023",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "Kowsar",
+            "contact_numbers": [
+                "01827899704"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

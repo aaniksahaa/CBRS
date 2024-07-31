@@ -1,0 +1,35 @@
+{
+    "blood_group": "B-",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Burn",
+    "location": "Shaikh hasina burn unit",
+    "probable_day": "24/05/2024",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "+880 1816-203394"
+            ],
+            "relation_with_patient": "\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09cd\u09ac\u09be\u09ae\u09c0"
+        },
+        {
+            "name": "",
+            "contact_numbers": [
+                "01617-782064"
+            ],
+            "relation_with_patient": "\u09b0\u09cb\u0997\u09c0\u09b0 \u0986\u09a4\u09cd\u09ae\u09c0\u09df"
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

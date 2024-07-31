@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "5",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": "child"
+    },
+    "condition": "",
+    "location": "\u09a2\u09be\u0995\u09be \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "\u09b6\u09bf\u09b6\u09c1\u09b0 \u09ae\u09be",
+            "contact_numbers": [
+                "+8801780338188"
+            ],
+            "relation_with_patient": "mother"
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

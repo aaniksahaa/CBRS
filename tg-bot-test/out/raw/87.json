@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": "2years old"
+    },
+    "condition": "Leukemia",
+    "location": "Bangladesh Shishu Hospital & Institute, Syamoli, Agargaon, Dhaka",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "Uzzal",
+            "contact_numbers": [
+                "01720111633"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

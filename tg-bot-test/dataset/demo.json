@@ -1,0 +1,32 @@
+{
+    "blood group": "AB-",
+    "bags needed": 2,
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name":"",
+        "age-group":"",
+        "institution":"",
+        "details":""
+    },
+    "condition": "কিডনি সমস্যা",
+    "location": {
+        "detail":"কিডনি ফাউন্ডেশন এন্ড রিসার্চ ইনস্টিটিউট, মিরপুর, ঢাকা",
+        "hospital": "কিডনি ফাউন্ডেশন এন্ড রিসার্চ ইনস্টিটিউট",
+        "city": "ঢাকা"
+    },
+    "probable_day": "15/02/2024",
+    "probable_time":"9am-12pm",
+    "contacts": [
+        {
+            "name": "মার্জান",
+            "contact_numbers": ["01915955585", "01928317021"],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

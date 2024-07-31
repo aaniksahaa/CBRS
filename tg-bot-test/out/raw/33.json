@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": "child"
+    },
+    "condition": "",
+    "location": "Dhaka - \u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a1\u09bf \u0986\u09a8\u09cb\u09df\u09be\u09b0 \u0996\u09be\u09a8 \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2",
+    "probable_day": "14/10/2023",
+    "probable_time": "9am",
+    "contacts": [
+        {
+            "name": "\u09ac\u09be\u09b8\u09be\u09b0",
+            "contact_numbers": [
+                "\u09e6\u09e7\u09ee\u09e8\u09e6\u09e6\u09eb\u09ec\u09e9\u09eb\u09e6"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

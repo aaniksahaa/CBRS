@@ -1,0 +1,29 @@
+{
+    "blood_group": "AB-",
+    "bags_needed": "4",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Situation is critical",
+    "location": "Birdem General Hospital",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01851343649",
+                "+8801705160855"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "blood_group": "0 Negative(-)",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "\u09b8\u09bf\u099c\u09be\u09b0\u09c7\u09b0 \u09aa\u09c7\u09b6\u09c7\u09a8\u09cd\u099f",
+    "location": "Gazipur baypass",
+    "probable_day": "01/05/2024",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

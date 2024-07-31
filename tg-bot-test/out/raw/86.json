@@ -1,0 +1,26 @@
+{
+    "blood_group": "B+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "Green life medical",
+    "probable_day": "06/10/2023",
+    "probable_time": "night",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

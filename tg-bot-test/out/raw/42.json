@@ -1,0 +1,29 @@
+{
+    "blood_group": "B+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": "",
+        "gender": "female"
+    },
+    "condition": "ICU",
+    "location": "\u09b6\u09c7\u09b0\u09c7 \u09ac\u09be\u0982\u09b2\u09be \u09a8\u0997\u09b0, \u09b9\u09c3\u09a6\u09b0\u09cb\u0997 \u0987\u09a8\u09b8\u09cd\u099f\u099f\u09bf\u0989\u099f",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01712-144175"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

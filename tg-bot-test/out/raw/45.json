@@ -1,0 +1,28 @@
+{
+    "blood_group": "B-",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "dadu",
+        "age-group": ""
+    },
+    "condition": "operation",
+    "location": "National Institute of Traumatology & Orthopaedic Rehabilitation (NITOR), Shyamoli",
+    "probable_day": "11/10/2023",
+    "probable_time": "8am",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01641354012"
+            ],
+            "relation_with_patient": "amar"
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

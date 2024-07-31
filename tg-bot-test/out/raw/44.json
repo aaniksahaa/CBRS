@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "Srezony",
+        "age-group": ""
+    },
+    "condition": "fatal accident",
+    "location": "Evercare Hospital, Bashundhara RA",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01792008215"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "blood_group": "A+",
+    "bags_needed": "",
+    "mediator": {
+        "username": "CUET er ek friend"
+    },
+    "patient": {
+        "name": "\u09ab\u09df\u09b8\u09be\u09b2 \u0986\u09b9\u09ae\u09c7\u09a6",
+        "age-group": ""
+    },
+    "condition": "\u09b8\u09dc\u0995 \u09a6\u09c2\u09b0\u09cd\u0998\u099f\u09a8\u09be",
+    "location": "\u09aa\u0999\u09cd\u0997\u09c1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2, \u09b6\u09c7\u09b0 \u098f \u09ac\u09be\u0982\u09b2\u09be",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "+8801787479067"
+            ],
+            "relation_with_patient": "CUET er ek friend er jonno"
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

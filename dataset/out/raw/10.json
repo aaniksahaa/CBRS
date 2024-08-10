@@ -1,0 +1,35 @@
+{
+    "blood_group": "",
+    "bags_needed": "",
+    "mediator": {
+        "username": "Akhi"
+    },
+    "patient": {
+        "name": "",
+        "age-group": "18 \u09ac\u099b\u09b0"
+    },
+    "condition": "SLE (Systemic Lupus Erythematosus)",
+    "location": "",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "Mehedi Hasan Nirzan",
+            "contact_numbers": [
+                "01402639930",
+                "016322951951",
+                "01632295195"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    },
+    "bank_details": {
+        "account_number": "4404001000504",
+        "bank_name": "Sonali Bank",
+        "branch": "BUET Branch, Dhaka"
+    }
+}

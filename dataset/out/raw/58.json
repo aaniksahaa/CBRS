@@ -1,0 +1,56 @@
+{
+    "blood_group": "",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "",
+    "probable_day": "12/04/2023",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "Akon_EEE",
+            "contact_numbers": [
+                "01701716618"
+            ],
+            "relation_with_patient": ""
+        },
+        {
+            "name": "Sajin_EEE",
+            "contact_numbers": [
+                "01772299443"
+            ],
+            "relation_with_patient": ""
+        },
+        {
+            "name": "Arman_ME",
+            "contact_numbers": [
+                "01929578661"
+            ],
+            "relation_with_patient": ""
+        },
+        {
+            "name": "Mishal_MME",
+            "contact_numbers": [
+                "01700-583369"
+            ],
+            "relation_with_patient": ""
+        },
+        {
+            "name": "Lazim_CE",
+            "contact_numbers": [
+                "01750152804"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

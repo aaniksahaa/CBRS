@@ -1,0 +1,28 @@
+{
+    "blood_group": "B+",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "\u0985\u09aa\u09be\u09b0\u09c7\u09b6\u09be\u09a8",
+    "location": "BSMMU, \u09b6\u09be\u09b9\u09ac\u09be\u0997",
+    "probable_day": "06/10/2023",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "\u09e6\u09e7\u09eb\u09e9\u09eb\u09ee\u09e8\u09e9\u09ef\u09ee\u09e8"
+            ],
+            "relation_with_patient": "\u0986\u09ae\u09be\u09b0 \u0995\u09be\u099c\u09bf\u09a8"
+        }
+    ],
+    "compensation": {
+        "transportation": "Y",
+        "allowance": ""
+    }
+}

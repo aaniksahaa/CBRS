@@ -1,0 +1,28 @@
+{
+    "blood_group": "A+",
+    "bags_needed": "3",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Kidney problem, Diabetes, Hemoglobin kom",
+    "location": "Square hospital, ICU",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01778-948614"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

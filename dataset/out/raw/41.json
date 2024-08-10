@@ -1,0 +1,26 @@
+{
+    "blood_group": "A-",
+    "bags_needed": "3-4",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "dengue",
+    "location": "Badda",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [],
+            "relation_with_patient": "Brother in law of my brother"
+        }
+    ],
+    "compensation": {
+        "transportation": "Y",
+        "allowance": ""
+    }
+}

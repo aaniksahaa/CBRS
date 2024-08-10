@@ -1,0 +1,28 @@
+{
+    "blood_group": "A+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "DMC \u098f\u0995\u09cd\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f \u098f\u09b0 \u09aa\u09c7\u09b6\u09c7\u09a8\u09cd\u099f",
+    "location": "",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "+880 1622-614164"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "DMC",
+    "probable_day": "03/01/2024",
+    "probable_time": "7:00 am",
+    "contacts": [],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

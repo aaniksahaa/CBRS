@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "Colonel malik medical, shavar",
+    "probable_day": "15/01/2024",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "ibrahim",
+            "contact_numbers": [
+                "01779329762"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": "Y"
+    }
+}

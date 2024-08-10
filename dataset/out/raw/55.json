@@ -1,0 +1,35 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "2 \u0995\u09bf\u09a1\u09a8\u09bf \u09a1\u09c7\u09ae\u09c7\u099c",
+    "location": "\u09b6\u09ae\u09b0\u09bf\u09a4\u09be \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2, \u09ee\u09ef/\u09e7, \u09aa\u09be\u09a8\u09cd\u09a5\u09aa\u09a5, \u09a2\u09be\u0995\u09be-\u09e7\u09e8\u09e7\u09eb",
+    "probable_day": "29/05/2023",
+    "probable_time": "morning",
+    "contacts": [
+        {
+            "name": "\u09b8\u09bf\u09ae\u09c2\u09b2",
+            "contact_numbers": [
+                "\u09e6\u09e7\u09ed\u09e7\u09e6\u09ea\u09ee\u09e7\u09e6\u09e9\u09ee"
+            ],
+            "relation_with_patient": ""
+        },
+        {
+            "name": "\u09a8\u09bf\u09ac\u09bf\u09dc",
+            "contact_numbers": [
+                "\u09e6\u09e7\u09ee\u09e7\u09ef\u09eb\u09ee\u09e7\u09ea\u09e7\u09eb"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

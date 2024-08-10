@@ -1,0 +1,28 @@
+{
+    "blood_group": "AB+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Brain Tumour Operation",
+    "location": "Popular Hospital, Dhannmondi-2",
+    "probable_day": "14/10/2023",
+    "probable_time": "8am-10am",
+    "contacts": [
+        {
+            "name": "Arpon",
+            "contact_numbers": [
+                "01761930979"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

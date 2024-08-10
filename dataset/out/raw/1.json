@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "2",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Pregnancy issues",
+    "location": "Health Aid Lalbagh road beside Ebne Sina hospital",
+    "probable_day": "11/7/24",
+    "probable_time": "Morning around 9 am",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01710- 827726"
+            ],
+            "relation_with_patient": "Patient's husband"
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

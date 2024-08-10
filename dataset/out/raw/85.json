@@ -1,0 +1,35 @@
+{
+    "blood_group": "B+",
+    "bags_needed": "2",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "\u09ae\u09cc\u09ae\u09bf\u09a4\u09be \u09b8\u09be\u09b9\u09be",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "\u09b6\u09c7\u0996 \u09b9\u09be\u09b8\u09bf\u09a8\u09be \u099c\u09be\u09a4\u09c0\u09af\u09bc \u09ac\u09be\u09b0\u09cd\u09a8 \u098f\u09a8\u09cd\u09a1 \u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09be\u09b0\u09cd\u099c\u09be\u09b0\u09bf \u0987\u09a8\u09b8\u09cd\u099f\u09bf\u099f\u09bf\u0989\u099f",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "Nishi",
+            "contact_numbers": [
+                "01723894728"
+            ],
+            "relation_with_patient": ""
+        },
+        {
+            "name": "Joy",
+            "contact_numbers": [
+                "+880 1627-690977"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

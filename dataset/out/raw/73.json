@@ -1,0 +1,29 @@
+{
+    "blood_group": "B-",
+    "bags_needed": "1",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "Dental surgery",
+    "location": "Al-Manar Hospital, Mohammedpur, Dhaka",
+    "probable_day": "02/02/2023",
+    "probable_time": "\u0986\u099c",
+    "contacts": [
+        {
+            "name": "\u09b0\u09cb\u0997\u09c0\u09b0 \u099b\u09c7\u09b2\u09c7",
+            "contact_numbers": [
+                "01788-280216",
+                "01877766692"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

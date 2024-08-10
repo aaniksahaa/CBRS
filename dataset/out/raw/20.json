@@ -1,0 +1,28 @@
+{
+    "blood_group": "",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "\u09ac\u09cd\u09b0\u09c7\u09b8\u09cd\u099f \u099f\u09bf\u0989\u09ae\u09be\u09b0",
+    "location": "",
+    "probable_day": "",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "\u0997\u09b0\u09c0\u09ac \u0986\u09a8\u09cd\u099f\u09bf",
+            "contact_numbers": [
+                "01553831210"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

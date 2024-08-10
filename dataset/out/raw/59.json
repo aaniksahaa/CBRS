@@ -1,0 +1,28 @@
+{
+    "blood_group": "O(-ve)",
+    "bags_needed": "2",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "\u0995\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u09b6\u09be\u09a8",
+    "location": "\u09a2\u09be\u0995\u09be \u09a1\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u0995\u09b2\u09c7\u099c, \u09ae\u09c0\u09b0\u09aa\u09c1\u09b0 \u09e7\u09ea, \u09a2\u09be\u0995\u09be",
+    "probable_day": "3 \u09ac\u09be 4 \u098f\u09aa\u09cd\u09b0\u09bf\u09b2",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "\u099c\u09a8\u09bf \u0998\u09cb\u09b7",
+            "contact_numbers": [
+                "01575602923"
+            ],
+            "relation_with_patient": "\u09ab\u09cd\u09b0\u09c7\u09a8\u09cd\u09a1"
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

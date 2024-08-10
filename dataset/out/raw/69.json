@@ -1,0 +1,28 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "Bradem Hospital",
+    "probable_day": "13/03/23",
+    "probable_time": "before morning :10 am",
+    "contacts": [
+        {
+            "name": "",
+            "contact_numbers": [
+                "01622614164"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

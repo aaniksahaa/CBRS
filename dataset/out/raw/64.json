@@ -1,0 +1,35 @@
+{
+    "blood_group": "O+",
+    "bags_needed": "",
+    "mediator": {
+        "username": ""
+    },
+    "patient": {
+        "name": "",
+        "age-group": ""
+    },
+    "condition": "",
+    "location": "BSMMU(PG Hospital)",
+    "probable_day": "Between 3-10 April",
+    "probable_time": "",
+    "contacts": [
+        {
+            "name": "Siddharth",
+            "contact_numbers": [
+                "01791578022"
+            ],
+            "relation_with_patient": "patients brother"
+        },
+        {
+            "name": "Patients mother",
+            "contact_numbers": [
+                "01708745525"
+            ],
+            "relation_with_patient": ""
+        }
+    ],
+    "compensation": {
+        "transportation": "",
+        "allowance": ""
+    }
+}

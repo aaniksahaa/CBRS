@@ -1,0 +1,11 @@
+1.	Time
+	- often some messages state 'withing 3 hours' etc, which is impossible to tackle without rapid dissemination
+	- 
+	
+2.	Sometimes user updates the message as managed 
+	
+	is_platelete
+	feed llm with today's date, current time 
+	commenting in a group post with matches and asking for permission may also be done 
+	very often a user wants that we notify him/her... so stroing the sender's contacts is necessary 
+	sometimes it says tuesday/monday etc, parse that to date 

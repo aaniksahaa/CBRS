@@ -1,18 +1,12 @@
-import csv
+import json 
+from utils import * 
 
-def read_csv(file_path):
-    """
-    Reads a CSV file and returns its contents as a list of dictionaries.
+t = read_txt('','./a.txt')
+# Replace invalid Unicode escape sequences with a placeholder or correct them
+t = re.sub(r'\\u[0-9a-fA-F]{0,3}[^0-9a-fA-F]', '', t)
+d = json.loads(t)
 
-    :param file_path: The path to the CSV file.
-    :return: A list of dictionaries representing the rows in the CSV file.
-    """
-    with open(file_path, mode='r', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        data = [row for row in reader]
-    return data
+write_json('','test.json',d)
 
-# Example usage
-csv_data = read_csv('output.csv')
-for row in csv_data:
-    print(row)
+print(d)
+

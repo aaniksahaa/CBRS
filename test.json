@@ -1,0 +1,31 @@
+{
+  "blood_group": "B-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Surgery, RTA case",
+  "location": "\u09aa\u0999\u09c7 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2, \u0986\u0987\u0997\u09be\u09b0\u0997\u09be\u0993, \u09a2\u09be\u0995\u09be\u0964",
+  "hospital_name": "\u09aa\u0999\u09c7 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2, \u0986\u0987\u0997\u09be\u09b0\u0997\u09be\u0993, \u09a2\u09be\u0995\u09be",
+  "location_markers": [
+    "\u09aa\u0999\u09c7",
+    "\u0986\u0987\u0997\u09be\u09b0\u0997\u09be\u0993"
+  ],
+  "probable_day": "07/06/2024",
+  "probable_time": "after 17:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01728108552"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

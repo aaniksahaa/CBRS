@@ -1,0 +1,32 @@
+{
+  "message": "B(-) Ve blood needed.\nAmount :2 bag\n\nDate: 07.06.24(Tomorrow )\nTime: After 2 pm\nLocation: \u09aa\u0999\u09cd\u0997\u09c1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2, \u0986\u0997\u09be\u09b0\u0997\u09be\u0981\u0993, \u09a2\u09be\u0995\u09be\u0964\nContact: 01728108552\nNote:  Surgery hbe  blood arrange krte bola hoise.(RTA case)\n\n\u0986\u09ae\u09be\u09b0 \u09ab\u09c1\u09aa\u09be \u098f\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u09b6\u09a8\u0964 \u09aa\u09cd\u09b2\u09c0\u099c \u0995\u09c7\u0989 \u09aa\u09be\u09b0\u09b2\u09c7 \u0985\u09cd\u09af\u09be\u09b0\u09c7\u099e\u09cd\u099c \u0995\u09b0\u09c7 \u09a6\u09c7\u09a8\u0964 \u0996\u09c1\u09ac urgent\u0964",
+  "blood_group": "B-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Surgery, RTA case",
+  "location": "\u09aagan \u09b9\u09be\u09b8\u09aa\u09bf\u09af\u09be\u09b2, \u0986\u0997\u09be\u09b0\u0997\u0981, \u09a2\u09be\u0995\u09be",
+  "hospital_name": "\u09aagan \u09b9\u09be\u09b8ad\u09bf\u09af\u09be\u09b2",
+  "location_markers": [
+    "\u0986\u0997\u09be\u09b0\u0997\u0981",
+    "\u09a2\u09be\u0995\u09be"
+  ],
+  "probable_day": "07/06/2024",
+  "probable_time": "after 14:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01728108552"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

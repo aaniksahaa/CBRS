@@ -1,0 +1,29 @@
+{
+  "message": "Need AB+ blood group. \nLocation : Square Hospital \nContact number : 01720577580\nCar facility included",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Square Hospital",
+  "hospital_name": "Square Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01720577580"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "Y",
+    "allowance": ""
+  }
+}

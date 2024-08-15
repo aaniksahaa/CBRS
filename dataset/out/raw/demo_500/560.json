@@ -1,0 +1,31 @@
+{
+  "message": "\u09b0\u09cb\u0997\u09c0\u09b0(Female) \u09b8\u09ae\u09b8\u09cd\u09af\u09be: \u09b9\u09bf\u09ae\u09cb\u0997\u09cd\u09b2\u09cb\u09ac\u09bf\u09a8\u09c7\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa: AB+\n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3: \u09e7 \u09ac\u09cd\u09af\u09be\u0997\n\u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09a8\u09be\u09ae\u09cd\u09ac\u09be\u09b0: 01308816959\n\u09a0\u09bf\u0995\u09be\u09a8\u09be: \u09a6\u09b6 \u0986\u09a8\u09bf\u09b0 \u09ae\u09cb\u09dc,\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f\n\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996: 9 Aug \u09a5\u09c7\u0995\u09c7 15 Aug",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age_group": ""
+  },
+  "condition": "Hemoglobin problem",
+  "location": "\u09a6\u09b6 \u0986\u09a8\u09bf\u09b0 \u09ae\u09cb\u09dc,\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f",
+  "hospital_name": "",
+  "location_markers": [
+    "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f"
+  ],
+  "probable_day": "09/08-15/08",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01308816959"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

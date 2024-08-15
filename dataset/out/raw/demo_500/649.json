@@ -1,0 +1,32 @@
+{
+  "message": "Need O+ blood \ud83e\ude78\nLocation Dhaka Farmgate\nscissor patient. \ndate- 17-08-24\ncontact with me.\n01744343615",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Scissor patient",
+  "location": "Dhaka Farmgate",
+  "hospital_name": "",
+  "location_markers": [
+    "Dhaka",
+    "Farmgate"
+  ],
+  "probable_day": "17/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01744343615"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

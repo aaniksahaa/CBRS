@@ -1,0 +1,31 @@
+{
+  "message": "emergency blood lagbe\nbullet\ufffc lagse\nBlood B+\nsavar Enam medical\n01959888559",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Bullet injury",
+  "location": "savar Enam medical",
+  "hospital_name": "savar Enam medical",
+  "location_markers": [
+    "savar"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01959888559"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

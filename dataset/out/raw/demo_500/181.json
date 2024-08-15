@@ -1,0 +1,31 @@
+{
+  "message": "\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be: \u09a1\u09c7\u0999\u09c1 ( \u09ac\u09cd\u09b2\u09be\u09a1\u09c7\u09b0 \u09aa\u09cd\u09b2\u09be\u099f\u09bf\u09b2\u09c7\u099f \u0995\u09ae\u09c7 \u0997\u09c7\u099b\u09c7)\n\ud83d\uded1\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa: AB+\n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3: 3 bag\n\ud83d\udcc6\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996:6/10/2023 \n\u231a\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc: as soon as possible \n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8 : Labaid hospital, Dhanmondi \n\u260e\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997:+880 1860-305206",
+  "blood_group": "AB+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue (Platelets decreased)",
+  "location": "Labaid hospital, Dhanmondi",
+  "hospital_name": "Labaid hospital, Dhanmondi",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "06/10/2023",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1860-305206"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\nA pregnant woman at Taqwa Specialised Hospital (15 New Eskaton Road, Mogbazar Mor, above Mina Bazaar) is in critical condition and requires B-negative blood immediately to survive.\n\nIf anyone willing to donate B-negative blood, please contact urgently at +8801914220333.",
+  "blood_group": "B-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Critical condition, Pregnant woman",
+  "location": "Taqwa Specialised Hospital (15 New Eskaton Road, Mogbazar Mor, above Mina Bazaar)",
+  "hospital_name": "Taqwa Specialised Hospital",
+  "location_markers": [
+    "Mogbazar Mor",
+    "Mina Bazaar"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801914220333"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

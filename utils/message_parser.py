@@ -208,6 +208,6 @@ Reminders:
         data = json.loads(data)
     except Exception as e:
         print(f"An unexpected error occurred while parsing json: {e}")
-        data = None
+        data = {'error': 'true'}
 
     return data

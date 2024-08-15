@@ -1,0 +1,31 @@
+{
+  "message": "\u09a2\u09be\u0995\u09be \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09b0\u0995\u09cd\u09a4\u09b6\u09c2\u09a8\u09cd\u09af\u09a4\u09be \u09b0\u09cb\u0997\u09c0\u09b0 \u099c\u09a8\u09cd\u09af \u0987\u09ae\u09be\u09b0\u09cd\u099c\u09c7\u09a8\u09cd\u09b8\u09bf #\u09a6\u09c2\u09b2\u09b0\u09cd\u09ad #\u09ac\u09bf_\u09a8\u09c7\u0997\u09c7\u099f\u09bf\u09ad \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u0964\n\u09b0\u09cb\u0997\u09c0 \u09b2\u09be\u0987\u09ab \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u098f \u0986\u099b\u09c7\u0964\nLocation : Dhaka Medical \nNumber :01718-972540 (shohag )",
+  "blood_group": "B-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia, Life support",
+  "location": "Dhaka Medical",
+  "hospital_name": "Dhaka Medical",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "shohag",
+      "contact_numbers": [
+        "01718-972540"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

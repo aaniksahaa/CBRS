@@ -1,0 +1,36 @@
+{
+  "message": "B+ blood \ud83e\ude78 needed \nMorning, 8 August \n2 bags \nEmergency pregnancy\nOGSB Hospital ,Mirpur 13 \nContact 01763407082 ( Brother of patient )",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Emergency pregnancy",
+  "location": "OGSB Hospital ,Mirpur 13",
+  "hospital_name": "OGSB Hospital ,Mirpur 13",
+  "location_markers": [
+    "Mirpur 13"
+  ],
+  "probable_day": "08/08",
+  "probable_time": "after 00:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01763407082"
+      ],
+      "relation_with_patient": "Brother of patient"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

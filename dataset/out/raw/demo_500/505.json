@@ -1,0 +1,31 @@
+{
+  "message": "Urgently need blood for an elderly patient. May also need plasma. Please contact if you can help 01711348457. \nBlood type O+\nLocation York Hospital, Banani",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": "elderly"
+  },
+  "condition": "",
+  "location": "York Hospital, Banani",
+  "hospital_name": "York Hospital",
+  "location_markers": [
+    "Banani"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01711348457"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

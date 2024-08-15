@@ -1,0 +1,31 @@
+{
+  "message": "BLOOD NEEDED FOR A DENGUE PATIENT\nBlood Group - A+\nPlatelets count around 25,000\nHospital - Holy Family Red Crescent Medical College Hospital\nLocation - Mogbazar\nContact - 01628419661",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue, Platelets count around 25,000",
+  "location": "Mogbazar",
+  "hospital_name": "Holy Family Red Crescent Medical College Hospital",
+  "location_markers": [
+    "Mogbazar"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01628419661"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

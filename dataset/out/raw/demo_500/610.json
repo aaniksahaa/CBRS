@@ -1,0 +1,31 @@
+{
+  "message": "Urgent\u203c\ufe0f\u203c\ufe0f Mara jabe naile\nB+ blood\nCMH er ashepashe thako emon keo acho je B+ blood dite parbe! \nA kid from hsc 24 got shot today at ecb!!\nNumber : 01716118401",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "young"
+  },
+  "condition": "Shot injury",
+  "location": "CMH",
+  "hospital_name": "CMH",
+  "location_markers": [
+    "CMH"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01716118401"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

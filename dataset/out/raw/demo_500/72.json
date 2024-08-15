@@ -1,0 +1,25 @@
+{
+  "message": "BLOOD NEEDED \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\nAB negative \nBlood needed for a patient now located in Uttara 11,Mansur Ali Medical College.\nShe got shot in the chaos that took place in sector 11 Uttara today. (August)",
+  "blood_group": "AB-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age_group": ""
+  },
+  "condition": "Shot wound",
+  "location": "Uttara 11, Mansur Ali Medical College",
+  "hospital_name": "Mansur Ali Medical College",
+  "location_markers": [
+    "Uttara",
+    "Mansur Ali Medical College",
+    "sector 11"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

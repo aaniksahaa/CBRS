@@ -1,0 +1,31 @@
+{
+  "message": "Assalamu alaikum\nEmergency B positive blood needed in DMCH \n\nPatient name - Kismot Ali\nWard 901 Bed 59 new building \nDMCH\nPhone no - Rina- 01718266630",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Kismot Ali",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "DMCH",
+  "hospital_name": "DMCH",
+  "location_markers": [
+    "DMCH"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Rina",
+      "contact_numbers": [
+        "01718266630"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

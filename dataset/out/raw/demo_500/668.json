@@ -1,0 +1,38 @@
+{
+  "message": "A+ blood need\nlocation :impulse Hospital,Tejgaon\ncontact :01329255200\n01887333368",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "impulse Hospital,Tejgaon",
+  "hospital_name": "impulse Hospital,Tejgaon",
+  "location_markers": [
+    "Tejgaon"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01329255200"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01887333368"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

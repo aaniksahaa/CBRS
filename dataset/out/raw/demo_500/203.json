@@ -1,0 +1,38 @@
+{
+  "message": "URGENT  BLOOD NEEDED \nBlood Group: AB+\nOne of my friend has been shot and is currently admitted in ICU, Dhaka CMH. He needs 10 bags of AB positive blood as soon as possible. Please can anyone help immediately. \nIf you live nearby or can get to CMH, please call me or Ashraful (my student who is currently at CMH with his friend)  Ashraful : 01748280288 Rony: 01516017679  \nPlease help, please \ud83d\ude4f  \n10 bags AB+ blood, Location: Dhaka",
+  "blood_group": "AB+",
+  "bags_needed": "10",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Shot, Admitted in ICU",
+  "location": "Dhaka CMH",
+  "hospital_name": "Dhaka CMH",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "Ashraful",
+      "contact_numbers": [
+        "01748280288"
+      ],
+      "relation_with_patient": "student"
+    },
+    {
+      "name": "Rony",
+      "contact_numbers": [
+        "01516017679"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

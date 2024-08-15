@@ -1,0 +1,32 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09bf \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0986\u09ac\u09c7\u09a6\u09a8\ud83e\ude78\n\ud83e\udea2\u09b0\u09c1\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\u0983 \u0987\u09ae\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u09b8\u09bf \u09b8\u09be\u09b0\u09cd\u099c\u09be\u09b0\u09bf \u09b0\u09cb\u0997\n\ud83d\udd34 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u0983 O+ (\u0993 \u09aa\u099c\u09bf\u099f\u09bf\u09ad) \n\ud83d\udc89 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983 2 \u09ac\u09cd\u09af\u09be\u0997\n\ud83d\udcc6 \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996\u0983 7  \u0986\u0997\u09b8\u09cd\u099f \u09e8\u09e6\u09e8\u09ea\n\ud83c\udfe5 \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a0\u09bf\u0995\u09be\u09a8\u09be\u0983 popular medical college hospital, Dhanmondi\u2026 opposite of Dhaka city college \n\u200c\ud83d\udcf3 \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997\u0983 01620341975",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency surgery",
+  "location": "popular medical college hospital, Dhanmondi\u2026 opposite of Dhaka city college",
+  "hospital_name": "popular medical college hospital",
+  "location_markers": [
+    "Dhanmondi",
+    "Dhaka city college"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01620341975"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

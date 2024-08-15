@@ -1,0 +1,32 @@
+{
+  "message": "Urgently needed A+ blood patient admitted at uttara monsur ali hospital, uttara,Dhaka con no. 01714486193",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "uttara monsur ali hospital, uttara,Dhaka",
+  "hospital_name": "uttara monsur ali hospital",
+  "location_markers": [
+    "uttara",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01714486193"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

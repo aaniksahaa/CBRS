@@ -1,0 +1,24 @@
+{
+  "message": "O-ve blood needed \u203c\ufe0f\n\nPatient\u2019s name : Rubina Khatun \nDisease :Breast cancer,(4th  chemo)\nBlood needed on Date : 02.08.2024 \nLocation : Charpara, Mymensingh.",
+  "blood_group": "O-",
+  "bags_needed": "",
+  "patient": {
+    "name": "Rubina Khatun",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Breast cancer, (4th chemo)",
+  "location": "Charpara, Mymensingh.",
+  "hospital_name": "",
+  "location_markers": [
+    "Charpara",
+    "Mymensingh"
+  ],
+  "probable_day": "02/08/2024",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Dhaka Dhanmondite o positive blood proyojon,, plz help\nEkjon blood cancer rugir jonne,,,,,\n01870251528",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Blood cancer",
+  "location": "Dhanmondi, Dhaka",
+  "hospital_name": "",
+  "location_markers": [
+    "Dhanmondi",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01870251528"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

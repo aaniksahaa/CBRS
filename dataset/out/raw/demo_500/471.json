@@ -1,0 +1,31 @@
+{
+  "message": "\u0986\u09ac\u09c7\u09a6\u09a8\u0964\nA+ \u09b0\u0995\u09cd\u09a4 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u0964\n\ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u0983 A+\n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983 1 bag \n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u0983 mohakhali metropolitan hospital\n\u260e\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997\u0983+8801902232589",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "mohakhali metropolitan hospital",
+  "hospital_name": "mohakhali metropolitan hospital",
+  "location_markers": [
+    "mohakhali"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801902232589"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

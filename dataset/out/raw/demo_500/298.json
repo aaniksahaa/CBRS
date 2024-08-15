@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed \ud83d\udea8 \nBlood Group : A+\nLocation : National Center for Hearing and Speech for Children (SAHIC) Mohakhli \nContact: 01675344963",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "National Center for Hearing and Speech for Children (SAHIC) Mohakhli",
+  "hospital_name": "National Center for Hearing and Speech for Children (SAHIC)",
+  "location_markers": [
+    "Mohakhli"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01675344963"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

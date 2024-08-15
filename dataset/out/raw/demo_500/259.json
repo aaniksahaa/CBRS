@@ -1,0 +1,36 @@
+{
+  "message": "B+ Blood lagbe emergency \nAnwar khan modern hospital \nLocation : dhanmondi\nPatient: icu \nReference: 01612302919( nayem)",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "ICU",
+  "location": "dhanmondi",
+  "hospital_name": "Anwar khan modern hospital",
+  "location_markers": [
+    "dhanmondi"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "nayem",
+      "contact_numbers": [
+        "01612302919"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

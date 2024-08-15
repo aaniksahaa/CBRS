@@ -1,0 +1,32 @@
+{
+  "message": "Admin approve plz\ud83d\ude4f\nEmergency \nAB+ blood need.\nRater moddhei lgbe\nLocation : Central military hospital, Cantonment, Dhaka\n1 bag blood need...\nContact :  01885-404093",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Central military hospital, Cantonment, Dhaka",
+  "hospital_name": "Central military hospital, Cantonment, Dhaka",
+  "location_markers": [
+    "Cantonment",
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "in n hours",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01885-404093"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

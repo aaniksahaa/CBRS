@@ -1,0 +1,33 @@
+{
+  "message": "Update: He has been Reffered to Dhaka.. \nThere is some financial trouble in his family. So if you can help please help him.. More details in comment \n#Urgent_Blood_Donation_Request\n\nDip, IBA-RU, 8th batch was shot in the eye while peacefully protesting in Pabna. He was initially taken to Pabna Sadar Hospital. \nUnfortunately, the doctors there could not treat him, and now he is in the RMC emergency room. He urgently needs B+ blood. Please help. \n\nAlso, brothers and sisters in Rajshahi, please assist these kids in any way you can. They are all alone, as most RU aumni no longer reside in Rajshahi.\n\nContact: 017-36671809\n\nPlease help if possible.",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Dip",
+    "gender": "",
+    "age_group": "young"
+  },
+  "condition": "Shot in the eye, urgent treatment needed",
+  "location": "RMC emergency room",
+  "hospital_name": "RMC",
+  "location_markers": [
+    "Pabna",
+    "Dhaka",
+    "Rajshahi"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "017-36671809"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Emergency Blood Needed\nfor Patient of pregnancy (twin baby) \nBlood Group: O-\nLocation - Uttara Azompur, \nHospital: Uttara Crescent Hospital unit-1.\nContact : 01531830109\nit's an Emergency",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Pregnancy (twin baby)",
+  "location": "Uttara Azompur",
+  "hospital_name": "Uttara Crescent Hospital unit-1.",
+  "location_markers": [
+    "Uttara",
+    "Azompur"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01531830109"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

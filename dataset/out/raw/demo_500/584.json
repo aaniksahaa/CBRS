@@ -1,0 +1,29 @@
+{
+  "message": "B+ \u09ac\u09cd\u09b2\u09be\u09a1 \u09a6\u09b0\u0995\u09be\u09b0\u0964 \n\u09b2\u09cb\u0995\u09c7\u09b6\u09be\u09a8 : \u09ae\u09bf\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0964 \n\u09b0\u09cb\u0997\u09c0 : \u0997\u09b0\u09cd\u09ad\u09ac\u09a4\u09c0\u0964 \n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 : +8801775986088",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "",
+  "location": "\u09ae\u09bf\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "hospital_name": "\u09ae\u09bf\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801775986088"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

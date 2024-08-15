@@ -1,0 +1,31 @@
+{
+  "message": "AB negative blood needed\naddress: dhaka kurmitola hospital number: +8801988-905385",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "dhaka kurmitola hospital",
+  "hospital_name": "dhaka kurmitola hospital",
+  "location_markers": [
+    "dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801988-905385"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

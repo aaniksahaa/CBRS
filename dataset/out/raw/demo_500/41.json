@@ -1,0 +1,37 @@
+{
+  "message": "Urgent Blood Donation Request\n\nOur Junior Dip Mahbub from 8th batch was shot in the eye during a peaceful protest in Pabna and is currently in Pabna Sadar Hospital. He urgently needs B+ blood. If you can help, please contact the numbers below:\n\nLocation: Pabna Sadar Hospital\nContact: 01740890278, 01572930290\n\nYour assistance is greatly appreciated.",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Mahbub",
+    "gender": "",
+    "age_group": "young"
+  },
+  "condition": "Shot in the eye",
+  "location": "Pabna Sadar Hospital",
+  "hospital_name": "Pabna Sadar Hospital",
+  "location_markers": [
+    "Pabna"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01740890278",
+        "01572930290"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Need A- Negative Blood For Tahmid Huzaifa (IUBIAN), Its an emergency.\nPlease Contact - 0158061 7453\nHospital: Uttara 11, mansur ali medical college",
+  "blood_group": "A-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Tahmid Huzaifa",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency",
+  "location": "Uttara 11, mansur ali medical college",
+  "hospital_name": "Uttara 11, mansur ali medical college",
+  "location_markers": [
+    "Uttara"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "0158061 7453"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "message": "\"A( -ve) blood lagbe urgent DMC te. Keu thakle please contact\n01619521349\nName- Nasim Sabbir.\n\n\nEkta bacchar surgery er jonno lagbe nahole bachano possible na.",
+  "blood_group": "A-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "Nasim Sabbir",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Surgery",
+  "location": "DMC",
+  "hospital_name": "DMC",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Nasim Sabbir",
+      "contact_numbers": [
+        "01619521349"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

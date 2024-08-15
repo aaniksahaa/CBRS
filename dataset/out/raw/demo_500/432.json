@@ -1,0 +1,31 @@
+{
+  "message": "mergency Blood Needed\ud83d\udd34\nfor Patient of  bike accident \nBlood Group: O+\nLocation - Dhaka Pongu Hospital \nContact : 01922501232\nit's an Emergency \u26a0\ufe0f",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Bike accident",
+  "location": "Dhaka Pongu Hospital",
+  "hospital_name": "Dhaka Pongu Hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01922501232"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

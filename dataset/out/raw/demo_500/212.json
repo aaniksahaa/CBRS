@@ -1,0 +1,31 @@
+{
+  "message": "\u0987\u09ae\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u09b8\u09bf!!!\n  AB+ \u09aa\u099c\u09c7\u099f\u09bf\u09ad \u09b0\u0995\u09cd\u09a4 \u09a6\u09b0\u0995\u09be\u09b0 \u09e7\u09ac\u09cd\u09af\u09be\u0997\ndhaka specialized hospital\n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997:\n+880 1609-092922",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "dhaka specialized hospital",
+  "hospital_name": "dhaka specialized hospital",
+  "location_markers": [
+    "dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1609-092922"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

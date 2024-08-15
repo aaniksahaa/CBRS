@@ -1,4 +1,4 @@
-from util import * 
+from utils import * 
 import csv 
 
 messages = read_json('./dataset/demo-messages.json')

@@ -1,0 +1,32 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09c0 \u09b0\u0995\u09cd\u09a4 \u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8\n\u0985\u09a8\u09c1\u0997\u09cd\u09b0\u09b9\u09aa\u09c2\u09b0\u09cd\u09ac\u0995 \u09b8\u09c7\u099a\u09cd\u099b\u09be\u09af\u09bc \u0986\u0997\u09cd\u09b0\u09b9\u09c0\u09b0\u09be \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u0995\u09b0\u09c1\u09a8\nBlood group: AB \u2013ve\nOperation: Open heart bypass surgery \nPlace: United Hospital, Gulshan, Dhaka \nPossible date: 10-11 August, 2024\nDonners required: 4 (four)\nContact: 01736048467",
+  "blood_group": "AB-",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart bypass surgery",
+  "location": "United Hospital, Gulshan, Dhaka",
+  "hospital_name": "United Hospital, Gulshan, Dhaka",
+  "location_markers": [
+    "Gulshan",
+    "Dhaka"
+  ],
+  "probable_day": "10-11/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01736048467"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

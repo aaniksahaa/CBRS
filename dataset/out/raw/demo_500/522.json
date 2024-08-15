@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed\nBlood Group: A+\nLocation -  Dhaka Medical  \nContact : +8801620478575\nit's an Emergency \u26a0\ufe0f",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Dhaka Medical",
+  "hospital_name": "Dhaka Medical",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801620478575"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

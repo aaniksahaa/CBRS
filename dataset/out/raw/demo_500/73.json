@@ -1,0 +1,39 @@
+{
+  "message": "BLOOD NEEDED \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\nAB negative \nBlood needed for a patient now located in Uttara 11,Mansur Ali Medical College.\nShe got shot in the chaos that took place in sector 11 Uttara today. (August 2, 4 :30 pm ) She needs 3 bag of Ab negative blood  immediately. Please help, It\u2019s urgent.\n\nPlease contact -\n +8801700-627385,\n+8801939819365\n\n Uttara 11, Mansur Ali Medical College\n\nPlease step forward or pass on the message. Share and forward,  the patient is in a dire state, we couldn't find blood at blood banks.\n\nIf anyone knows any blood bank or individual with this rare blood type, please step forward.",
+  "blood_group": "AB-",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age_group": ""
+  },
+  "condition": "Shot in the chaos",
+  "location": "Uttara 11,Mansur Ali Medical College",
+  "hospital_name": "Mansur Ali Medical College",
+  "location_markers": [
+    "Uttara",
+    "sector 11"
+  ],
+  "probable_day": "02/08",
+  "probable_time": "16:30",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801700-627385"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801939819365"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "O+ blood Need ( 2 bag )\nEver Care Hospital Chittagong\nEmergency\n01617124876",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency",
+  "location": "Ever Care Hospital Chittagong",
+  "hospital_name": "Ever Care Hospital Chittagong",
+  "location_markers": [
+    "Chittagong"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01617124876"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

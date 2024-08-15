@@ -1,0 +1,31 @@
+{
+  "message": "O+ blood needed\nOld Dhaka\nNational hospital\nPlease call 01736838451",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Old Dhaka",
+  "hospital_name": "National hospital",
+  "location_markers": [
+    "Old Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01736838451"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

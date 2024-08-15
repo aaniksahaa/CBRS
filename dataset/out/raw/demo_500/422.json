@@ -1,0 +1,39 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09bf \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\ud83e\ude78\n\ud83d\uded1\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\ud83d\udc49:- \u09b0\u0995\u09cd\u09a4\u09b6\u09c2\u09a8\u09cd\u09af\u09a4\u09be \n\ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\ud83d\udc49:- B (-)\n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\ud83d\udc49:- \u09ec \u09ac\u09cd\u09af\u09be\u0997\n\ud83e\ude78\u09b9\u09bf\u09ae\u09cb\u0997\u09cd\u09b2\u09cb\u09ac\u09bf\u09a8\u0983\n\ud83d\udcc6\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996\u0983 \u09ee/\u09ee/\u09e8\u09ea\n\ud83d\udd67\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09df\u0983\n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\ud83d\udc49:- Hospita 27 Plus, Dhanmondi 27, Dhaka\n\u260e\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997\u0983 01731742365 (\u09b0\u09cb\u0997\u09c0\u09b0 \u09ad\u09be\u0987)\n\ud83d\udc64 \u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8 :- \u099c\u09bf\u09df\u09be\u09b0\u09a4 (01844535118) - \u09b0\u09cb\u0997\u09c0\u09b0 \u099a\u09be\u099a\u09be\u09a4\u09cb \u09ad\u09be\u0987",
+  "blood_group": "B-",
+  "bags_needed": "6",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Anemia",
+  "location": "Hospita 27 Plus, Dhanmondi 27, Dhaka",
+  "hospital_name": "Hospita 27 Plus, Dhanmondi 27, Dhaka",
+  "location_markers": [
+    "Dhanmondi",
+    "Dhaka"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01731742365"
+      ],
+      "relation_with_patient": "Brother"
+    },
+    {
+      "name": "\u099c\u09bf\u09df\u09be\u09b0\u09a4",
+      "contact_numbers": [
+        "01844535118"
+      ],
+      "relation_with_patient": "Cousin"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

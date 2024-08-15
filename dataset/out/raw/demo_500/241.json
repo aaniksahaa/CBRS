@@ -1,0 +1,31 @@
+{
+  "message": "\u09b8\u09bf\u099c\u09be\u09b0\u09c7\u09b0 \u09b0\u09cb\u0997\u09c0\u09b0 \u099c\u09a8\u09cd\u09af \n\u09ac\u09cd\u09b2\u09be\u09a1 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8: AB- \n\u09b8\u09cd\u09a5\u09be\u09a8: Siraj-Khaleda Memorial Cantonment Board General Hospital, Dhaka Cantonment. \n\u09b8\u09ae\u09df: 5th August \n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997: 01521487059",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Caesarean patient",
+  "location": "Siraj-Khaleda Memorial Cantonment Board General Hospital, Dhaka Cantonment.",
+  "hospital_name": "Siraj-Khaleda Memorial Cantonment Board General Hospital",
+  "location_markers": [
+    "Dhaka Cantonment"
+  ],
+  "probable_day": "05/08",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01521487059"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

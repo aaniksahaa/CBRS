@@ -1,0 +1,32 @@
+{
+  "message": "Update: he's no more \n\u203c\ufe0f It\u2019s urgent  A student in Uttara has been shot in the head. Urgently need A-negative blood.   Please find an A-negative donor in Uttara.  Contact: 01793117664 (Sumon) Patient\u2019s Name: Tamim. Hospital: Uttara Lab Aid, Sector 6 Blood Type: A- negative.",
+  "blood_group": "A-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Tamim",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Shot in the head",
+  "location": "Uttara Lab Aid, Sector 6",
+  "hospital_name": "Uttara Lab Aid",
+  "location_markers": [
+    "Uttara",
+    "Sector 6"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Sumon",
+      "contact_numbers": [
+        "01793117664"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

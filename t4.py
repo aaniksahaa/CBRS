@@ -13,7 +13,10 @@ Note:  Surgery hbe  blood arrange krte bola hoise.(RTA case)
 আমার ফুপা এর অপারেশন। প্লীজ কেউ পারলে অ্যারেঞ্জ করে দেন। খুব urgent।
 """
 
+q = "hi"
+
 d = parse_blood_seeking_message(q)
 
 write_json('','test.json',d)
+
 

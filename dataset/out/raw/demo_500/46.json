@@ -1,0 +1,23 @@
+{
+  "message": "I need AB+ (ve) blood within a week. Lemme know if anyone can help me out \nLocation: Ibrahim Cardiac hospital, Shahbagh",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Ibrahim Cardiac hospital, Shahbagh",
+  "hospital_name": "Ibrahim Cardiac hospital",
+  "location_markers": [
+    "Shahbagh"
+  ],
+  "probable_day": "n days later",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

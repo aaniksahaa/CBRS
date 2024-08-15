@@ -1,0 +1,31 @@
+{
+  "message": "Emergency O+ blood lgbe please help needed for new born baby  \nLocation : Mog bazar Adin Hospital \nPhone Number:01789852043",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "",
+  "location": "Mog bazar Adin Hospital",
+  "hospital_name": "Mog bazar Adin Hospital",
+  "location_markers": [
+    "Mog bazar"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01789852043"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

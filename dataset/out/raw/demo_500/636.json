@@ -1,0 +1,32 @@
+{
+  "message": "Emergency Blood Needed\ud83d\udd34\nfor Patient of scissor baby delivery \nBlood Group: O+\nLocation - Gournadi, Barisal\nDate: 08.08.24\nContact : 01728973403\nIt's an Emergency",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Scissor baby delivery",
+  "location": "Gournadi, Barisal",
+  "hospital_name": "",
+  "location_markers": [
+    "Gournadi",
+    "Barisal"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01728973403"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

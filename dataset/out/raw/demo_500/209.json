@@ -1,0 +1,31 @@
+{
+  "message": "Name. Golam reshad tomal\nAdress. Evercare hospital,Dhaka\nNear jamuna future park\nReason: \u09ae\u09be\u09a5\u09be\u09df \u0995\u09cb\u09aa \u09a6\u09bf\u099b\u09c7 \ud83d\ude42\nKoi bag. 2 bag ( apatoto 1 bag emergency)\nContact.01301883396\nAB(-)ve \n30 min - 1 hour's er \u09ae\u09a7\u09cd\u09af\u09c7\nPlease kindly \nHelp anyone",
+  "blood_group": "AB-",
+  "bags_needed": "1-2",
+  "patient": {
+    "name": "Golam reshad tomal",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Head injury",
+  "location": "Evercare hospital,Dhaka",
+  "hospital_name": "Evercare hospital,Dhaka",
+  "location_markers": [
+    "jamuna future park"
+  ],
+  "probable_day": "today",
+  "probable_time": "in 30 minutes",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01301883396"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

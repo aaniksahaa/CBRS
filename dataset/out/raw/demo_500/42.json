@@ -1,0 +1,31 @@
+{
+  "message": "O positive blood needed for LUCS in Dinajpur sadar.\n01725817907",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "LUCS, Dinajpur sadar",
+  "hospital_name": "LUCS",
+  "location_markers": [
+    "Dinajpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01725817907"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

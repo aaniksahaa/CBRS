@@ -1,0 +1,31 @@
+{
+  "message": "#bloodUrgent \n#adminapprove \n\n\u0997\u09b0\u09cd\u09ad\u09ac\u09a4\u09c0 \u09ae\u09be\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af.. \nO (-) Negative Blood Needed\n\n\ud83d\ude4d\u09b0\u09cb\u0997\u09c0\u09b0 \u09a8\u09be\u09ae\u0983- \u09b8\u09c1\u09b0\u09be\u0987\u09df\u09be \u0987\u09df\u09be\u09b8\u09ae\u09bf\u09a8  (\u0986\u09ae\u09be\u09b0 \u09ad\u09be\u09ac\u09c0)\n\ud83d\udc81\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\u0983- \u0997\u09b0\u09cd\u09ad\u09ac\u09a4\u09c0 \n \ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u0983- O(-) \u0993 \u09a8\u09c7\u0997\u09c7\u099f\u09bf\u09ad \n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983-  6 Bag\n \ud83d\udcc6\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996:- \u09e6\u09ee/\u09e6\u09ed/\u09e8\u09e6\u09e8\u09ea\u0987\u0982\n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8:-  BRB Hospitals Ltd , Dhaka.\n \u26fd\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u09a8\u09ae\u09cd\u09ac\u09b0: 01713735994\n87.Urgent: O+ blood needed\nMirpur 10 theke Dhaka Medical e niye jacche, guli khaise...urgent blood lagbe...\n\nContact: 0177 333 7173",
+  "blood_group": "O-",
+  "bags_needed": "6",
+  "patient": {
+    "name": "Suraiya Yasmin",
+    "gender": "F",
+    "age_group": "adult"
+  },
+  "condition": "Pregnant",
+  "location": "BRB Hospitals Ltd , Dhaka.",
+  "hospital_name": "BRB Hospitals Ltd , Dhaka.",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "08/07/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01713735994"
+      ],
+      "relation_with_patient": "sister-in-law"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

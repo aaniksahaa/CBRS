@@ -1,0 +1,31 @@
+{
+  "message": "(\ud83d\ude0e blood lagbe\nDhaka ad din hospital moghbazar\nDate:10/08/2024.time:12Am\n+8801613404210",
+  "blood_group": "",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Dhaka ad din hospital moghbazar",
+  "hospital_name": "Dhaka ad din hospital moghbazar",
+  "location_markers": [
+    "Moghbazar"
+  ],
+  "probable_day": "10/08/2024",
+  "probable_time": "00:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801613404210"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

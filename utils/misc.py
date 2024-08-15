@@ -67,7 +67,7 @@ def read_pickle(dir, filename):
 
 def read_txt(dir, filename):
     filepath = os.path.join(dir, filename)
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='utf-8') as f:
         text = f.read()
     return text
 
@@ -193,3 +193,6 @@ def get_int(value):
         return int(value)
     except (ValueError, TypeError):
         return -1
+    
+def show_banner(t):
+    return f"\n\n{'*'*20}\n\n{t}\n\n{'*'*20}\n\n"

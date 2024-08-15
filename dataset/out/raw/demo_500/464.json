@@ -1,0 +1,29 @@
+{
+  "message": "Emergency Help Post\nBlood Group: A+ \nPatient: Baby fell from 5th floor, emergency taken to the O.T. \nBag(s) needed: 3-4 (for now)\nPlace: National Institute of Neurosciences & Hospital \nContact: 01711991710",
+  "blood_group": "A+",
+  "bags_needed": "3-4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Baby fell from 5th floor, emergency taken to the O.T.",
+  "location": "National Institute of Neurosciences & Hospital",
+  "hospital_name": "National Institute of Neurosciences & Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01711991710"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

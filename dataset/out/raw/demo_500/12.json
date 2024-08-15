@@ -1,0 +1,31 @@
+{
+  "message": "Urgent Blood Needed \ud83d\udea8\n\nBlood Group:AB+\nLocation: Osmani Medical, Sylhet \nNumber: 01734746361\n\n(Share this as much as possible, condition is critical)",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Critical condition",
+  "location": "Osmani Medical, Sylhet",
+  "hospital_name": "Osmani Medical",
+  "location_markers": [
+    "Sylhet"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01734746361"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

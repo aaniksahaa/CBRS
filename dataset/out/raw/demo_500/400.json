@@ -1,0 +1,32 @@
+{
+  "message": "\u0985\u09aa\u09be\u09b0\u09c7\u09b6\u09a8\u09c7\u09b0 \u09b0\u09cb\u0997\u09c0\u09b0 \u099c\u09a8\u09cd\u09af \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8...\nBlood Group : AB+ , \nContact number  - 01711787229 ; 01712766330\nLocation - Samorita Hospital, Dhaka\nBed no. 863",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Samorita Hospital, Dhaka",
+  "hospital_name": "Samorita Hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01711787229",
+        "01712766330"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

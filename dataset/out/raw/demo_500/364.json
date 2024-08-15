@@ -1,0 +1,31 @@
+{
+  "message": "Emergency\nO(-ve) blood needed\nMirpur 2 shishu hospital\n12 din er baccha\nContact: 01625550089",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "",
+  "location": "Mirpur 2 shishu hospital",
+  "hospital_name": "Mirpur 2 shishu hospital",
+  "location_markers": [
+    "Mirpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01625550089"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

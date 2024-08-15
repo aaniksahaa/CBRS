@@ -1,0 +1,32 @@
+{
+  "message": "Emergency Blood Needed\nfor Patient of Dengue\nBlood Group: AB+\nQuantity: 5 bags\nLocation - Sutrapur (Puran Dhaka)\nHospital: Sutrapur Millennium Hospital (Near Sutrapur Thana)\nContact : 01758740651\nit's an Emergency",
+  "blood_group": "AB+",
+  "bags_needed": "5",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue",
+  "location": "Sutrapur (Puran Dhaka)",
+  "hospital_name": "Sutrapur Millennium Hospital (Near Sutrapur Thana)",
+  "location_markers": [
+    "Sutrapur",
+    "Puran Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01758740651"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

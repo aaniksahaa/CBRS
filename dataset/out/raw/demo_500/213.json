@@ -1,0 +1,29 @@
+{
+  "message": "I need a B positive blood emergency\nThelaseamia patient\nHemoglobin 6\n28/29 July\nContact number; 01991399189",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Thalassemia, Hemoglobin 6",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "28/29",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01991399189"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

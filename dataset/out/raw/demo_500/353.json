@@ -1,0 +1,32 @@
+{
+  "message": "Amr antyr jonno blood lagbe urgently...\ud83d\ude13\nKindly help please karon O- blood paoya jay na sohoje.\nJodi kew den tahole contact korben please..\n Name: Roza\nNumber:01948953305\nBlood group:O-\nReason: heart problem so blood dite hobe....\nLocation:Uttara,sector:7,RMC hospital",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Roza",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Heart problem",
+  "location": "Uttara,sector:7,RMC hospital",
+  "hospital_name": "RMC hospital",
+  "location_markers": [
+    "Uttara",
+    "sector:7"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Roza",
+      "contact_numbers": [
+        "01948953305"
+      ],
+      "relation_with_patient": "aunty"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

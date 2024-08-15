@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed\nfor Patient of Kidney Damage (both kidneys are damaged)\nBlood Group: O+\nLocation - \u09ae\u0997 \u09ac\u09be\u099c\u09be\u09b0,  Insaf Baraka Kidney & General Hospital \nContact : 01625180036 \nit's an Emergency",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Kidney Damage (both kidneys are damaged)",
+  "location": "\u09ae\u0997 \u09ac\u09be\u09b6\u09be\u09b0,  Insaf Baraka Kidney & General Hospital",
+  "hospital_name": "Insaf Baraka Kidney & General Hospital",
+  "location_markers": [
+    "\u09ae\u0997 \u09ac\u09be\u099c\u09be\u09b0"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01625180036"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

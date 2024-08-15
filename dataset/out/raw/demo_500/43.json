@@ -1,0 +1,29 @@
+{
+  "message": "Assalamualaikum \nO+ve donor needed. \nPatient is in Labaid Cancer Hospital.\nContact: 01935923635",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Labaid Cancer Hospital",
+  "hospital_name": "Labaid Cancer Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01935923635"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

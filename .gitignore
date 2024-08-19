@@ -8,3 +8,8 @@ run.py
 settings.json
 
 *.env
+
+# Ignore files from discord-bot-test
+
+discord-bot-test/node_modules/
+discord-bot-test/.env

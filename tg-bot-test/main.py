@@ -2,8 +2,10 @@ from datetime import datetime
 import json
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, MessageHandler, filters, ContextTypes
-
 from utils import *
+
+from keep_alive import keep_alive
+keep_alive()
 
 ids = []
 

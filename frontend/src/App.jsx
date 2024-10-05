@@ -1,33 +1,25 @@
-import { useEffect } from "react";
-import "./App.css";
-import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import './App.css'
+import Home from './Home'
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
 
-import Home from "./Home";
-import NotFound from "./NotFound";
-import Demo from "./Demo";
-
-function ScrollToTop() {
-  const { pathname } = useLocation();
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [pathname]);
-
-  return null;
-}
+import Demo from './Demo'
 
 function App() {
   return (
     <>
-      <BrowserRouter>
-        <ScrollToTop />
+      <HashRouter>
         <Routes>
-          <Route path="/" Component={Home} />
-          <Route path="/demo" Component={Demo} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="" Component={Home}/>
+          <Route path="/demo" Component={Demo}/>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
+
+

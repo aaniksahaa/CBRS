@@ -1,12 +1,14 @@
-import React from "react";
-import LocationComponent from "./components/LocationComponent";
+import { useEffect, useState } from 'react'
+import { primary_dark, site_title } from './Config'
 
-const Home = () => {
+export default function Home() {
+
+  useEffect(() => {
+    document.title = site_title
+  }, [])
   return (
     <>
-      <LocationComponent />
+    Hello World
     </>
-  );
-};
-
-export default Home;
+  )
+}

@@ -1,12 +1,12 @@
-import { Heading } from "@chakra-ui/react";
-import React, { useState, useEffect } from "react";
+import './App.css'
 
-const Demo = () => {
+function Demo() {
+
   return (
     <>
-      <Heading>Hello</Heading>
+    Demo
     </>
-  );
-};
+  )
+}
 
-export default Demo;
+export default Demo

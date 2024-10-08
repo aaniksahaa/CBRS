@@ -1,16 +1,11 @@
-from utils import * 
-import json
+import requests
 
-data = read_json('res.json')
+url = 'http://localhost:8080/send_message'
+data = {
+    'chat_id': '1133364176',  # Replace with actual chat_id
+    'message': 'Hello from external trigger!'
+}
 
-data = data['text']
+response = requests.post(url, json=data)
 
-data = data.replace('```','').replace('json','')
-
-print(data)
-
-j = json.loads(data)
-
-write_json('data.json',j)
-
-print(j)
+print(response.text)  # Output: Message sent to chat 123456789

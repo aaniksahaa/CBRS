@@ -1,9 +1,12 @@
 from datetime import datetime
 import json
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, KeyboardButton, ReplyKeyboardMarkup
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardRemove, Update, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, MessageHandler, filters, ContextTypes
-
 from utils import *
+
+from keep_alive import keep_alive
+
+# keep_alive()
 
 ids = []
 
@@ -72,6 +75,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     user = get_user(update)
     chat_id = update.message.chat_id
 
+    print(chat_id)
+
     u = search_user(user.username)
     if u is None:
         init_user(user.username, chat_id)
@@ -101,7 +106,13 @@ Welcome @{user.username} ! We are happy to have you. Here is a list of commands 
 ✅ We do not share your information anywhere else. Please be assured
 """
     
-    await update.message.reply_text(help_text)
+    sent_message = await update.message.reply_text(help_text)
+
+    # Wait for 5 seconds
+    await asyncio.sleep(5)
+
+    # Delete the bot's own message using chat_id and message_id
+    await context.bot.delete_message(chat_id=sent_message.chat_id, message_id=sent_message.message_id)
 
 
 async def show_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -223,7 +234,7 @@ Latitude={latitude}, Longitude={longitude}
 """
     
     # Send a response including the user's details
-    await update.message.reply_text(response)
+    await update.message.reply_text(response, reply_markup=ReplyKeyboardRemove())
 
     # await update.message.reply_text(f'Thanks! Your location: lat={latitude}, lon={longitude}')
 
@@ -288,7 +299,6 @@ Thanks for sharing, {user.first_name}! Your updated date is saved.
 
 ###############################     MESSAGE HANDLER     ###############################
 
-# Define a message handler function to respond to "hello"
 async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     user = get_user(update)
     user_text = update.message.text.lower()
@@ -343,6 +353,8 @@ def main() -> None:
 
     application.add_handler(CallbackQueryHandler(handle_date_button, pattern='year_|month_'))
     application.add_handler(CallbackQueryHandler(bg_button, pattern='bg_'))
+
+    keep_alive(application.bot)
 
     # Start the bot
     application.run_polling()

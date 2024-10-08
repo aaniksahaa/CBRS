@@ -1,0 +1,12 @@
+a. How does bot integration with popular social media platforms perform in the case of blood donation?
+	
+b. Can the bot serve equally for people with all different demographies? 
+
+c. Do chatgroup users find it convenient and secure to add such bots to messaging groups?
+
+Parsing - paid 
+Classify - free
+
+- Local Model - NLP - difficult - 
+- LLama free 
+- OpenAI api call - 0.04 / 0.5 taka / msg

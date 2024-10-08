@@ -1,0 +1,32 @@
+{
+  "message": "Emergency A+(ve) Blood Required\nIf anyone is willing to donate blood for a cancer patient today, please contact me at my number.\nBlood Group: A+\nNo of Bag: 2 (two)\nTime: Today\nLocation: BSMMU (Bangabandhu Sheikh Mujib Medical University), Shahbag, Dhaka.\nContact Person: Shyamal Biswas \nMobile No: 01988833295",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Cancer patient",
+  "location": "BSMMU (Bangabandhu Sheikh Mujib Medical University), Shahbag, Dhaka.",
+  "hospital_name": "BSMMU (Bangabandhu Sheikh Mujib Medical University)",
+  "location_markers": [
+    "Shahbag",
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "Shyamal Biswas",
+      "contact_numbers": [
+        "01988833295"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

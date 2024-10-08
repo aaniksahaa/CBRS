@@ -1,0 +1,31 @@
+{
+  "message": "Jannatu Nayem Evan \u098f\u09b0 \u099c\u09a8\u09cd\u09af \u0987\u09ae\u09be\u09b0\u09cd\u099c\u09c7\u09a8\u09cd\u09b8\u09bf O+ blood \u09b2\u09be\u0997\u09ac\u09c7\n\nEmergency 10 bag o+ blood lagbe \nOnk serious obostha amar friend er \n\nBlood group : O+ \n\nAmount : 10 bag\n\nHospital : Ever care hospital \n\nLocation : Boshudhoara \n\nPlease help.  Its urgent \n\nMobile : 01719337179\n\nContact Jawad Zahin bhaiya or call",
+  "blood_group": "O+",
+  "bags_needed": "10",
+  "patient": {
+    "name": "Jannatu Nayem Evan",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Serious condition",
+  "location": "Boshudhoara",
+  "hospital_name": "Ever care hospital",
+  "location_markers": [
+    "Boshudhoara"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Jawad Zahin bhaiya",
+      "contact_numbers": [
+        "01719337179"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

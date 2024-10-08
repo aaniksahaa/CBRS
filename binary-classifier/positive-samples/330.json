@@ -1,0 +1,31 @@
+{
+  "message": "B-(B negative)\nBlood dorkar azk july 30 urgent\nLocation: Lab zone Hospital,savar.\nKaro thakle aktu knock diyen pls urgent lagbe\nMobile:016002-28227",
+  "blood_group": "B-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "Lab zone Hospital,savar.",
+  "hospital_name": "Lab zone Hospital",
+  "location_markers": [
+    "savar"
+  ],
+  "probable_day": "30/07",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "016002-28227"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

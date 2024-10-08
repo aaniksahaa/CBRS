@@ -1,0 +1,29 @@
+{
+  "message": "Hi everyone Hope you all are well\nA- negative blood Required urgent for New Born baby \nPlease contact \n03076461242",
+  "blood_group": "A-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "03076461242"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

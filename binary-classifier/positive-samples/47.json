@@ -1,0 +1,29 @@
+{
+  "message": "Assalamu Alaikum!\nURGENT 1 bag A+ blood needed\nFemale Patient er kidney stone operation\nShamoli CKDU hospital\n01776-369066\nLabonno(Patient er Bon)",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age-group": ""
+  },
+  "condition": "Kidney stone operation",
+  "location": "Shamoli CKDU hospital",
+  "hospital_name": "Shamoli CKDU hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Labonno",
+      "contact_numbers": [
+        "01776-369066"
+      ],
+      "relation_with_patient": "Patient's sister"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

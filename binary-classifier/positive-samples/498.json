@@ -1,0 +1,31 @@
+{
+  "message": "A+ blood dorker\nBsmmu(PG hospital),Dhaka\nDate:10 tarikh sokal 9 ta\nPhone:01840635869",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Bsmmu(PG hospital),Dhaka",
+  "hospital_name": "Bsmmu(PG hospital)",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "10",
+  "probable_time": "09:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01840635869"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

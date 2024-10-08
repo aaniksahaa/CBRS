@@ -1,0 +1,31 @@
+{
+  "message": "Help!\n\nURGENT O +ve BLOOD  needed \n\n Amar chachar jonno 3 bag blood lagbe.Uni CML er patient. ICU te vorti klk theke.Already 4 bag blood deya hoise.Aro 3 bag lagbe.\nLOCATION : Anwar Khan modern Hospital \nKeu dite parle kindly amk 01739710687 phn dao.",
+  "blood_group": "O+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "CML, ICU patient",
+  "location": "Anwar Khan modern Hospital",
+  "hospital_name": "Anwar Khan modern Hospital",
+  "location_markers": [
+    "Anwar Khan"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01739710687"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

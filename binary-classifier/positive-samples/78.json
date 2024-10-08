@@ -1,0 +1,32 @@
+{
+  "message": "Urgent A- blood dorkar\nLocation mirpur 10 Ajmol hospital \nContact:01932993314\nAdmin please approve this post fast, urgent.",
+  "blood_group": "A-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "mirpur 10 Ajmol hospital",
+  "hospital_name": "Ajmol hospital",
+  "location_markers": [
+    "mirpur",
+    "Ajmol"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01932993314"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

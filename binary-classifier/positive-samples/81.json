@@ -1,0 +1,31 @@
+{
+  "message": "Urgent B POSITIVE (B+) blood needed.\n\nReason: Bleeding\n\nLocation : Dhaka Medical College (admitted in ICU)\n\nPhone: 01723639773",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Bleeding",
+  "location": "Dhaka Medical College (admitted in ICU)",
+  "hospital_name": "Dhaka Medical College",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01723639773"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

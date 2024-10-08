@@ -1,0 +1,31 @@
+{
+  "message": "Dhaka medical College hospital a amr husband khub osustho \nB+ blood proyojon plzzz help...\n\nA+ blood pryojon 2 bag location dhaka medical,  keu thakle plz contact korben- 01400903096",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "husband",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Husband is very ill",
+  "location": "dhaka medical",
+  "hospital_name": "Dhaka medical College hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01400903096"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "message": "\ud83d\udea8 URGENT \ud83d\udea8\nNeed : O positive blood for a women for a surgery Today \nPatient name : Sureena Mohammed \nDonor : 1\nlocation : IGMH \nContact: 9173561\nNeed date : 4th August 2024\n97.Urgent A- blood dorkar\nLocation mirpur 10 Ajmol hospital \nContact:01932993314\nAdmin please approve this post fast, urgent.",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "Sureena Mohammed",
+    "gender": "F",
+    "age_group": ""
+  },
+  "condition": "Surgery",
+  "location": "IGMH",
+  "hospital_name": "IGMH",
+  "location_markers": [],
+  "probable_day": "04/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "9173561"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "message": "(((Urgent blood needed)))\n\nPlace-Shaheed SuhrawardyMedical College and\nHospital\nBlood Group- O+\nWard no-211, Ent unit-1, Bed no-03\nContact information: Ferdousi Zannat Rumi\n                                              +8801718225081\n                                          +8801601799798\n\nIf you need more information, contact with me in inbox otherwise you can call.",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "Shaheed Suhrawardy Medical College and Hospital",
+  "hospital_name": "Shaheed Suhrawardy Medical College and Hospital",
+  "location_markers": [
+    "Shaheed Suhrawardy Medical College",
+    "Hospital"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Ferdousi Zannat Rumi",
+      "contact_numbers": [
+        "+8801718225081",
+        "+8801601799798"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

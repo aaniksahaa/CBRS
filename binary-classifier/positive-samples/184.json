@@ -1,0 +1,32 @@
+{
+  "message": "\u0996\u09c1\u09ac \u099c\u09b0\u09c1\u09b0\u09c0 \u09ad\u09bf\u09a4\u09cd\u09a4\u09bf\u09a4\u09c7 \u09a2\u09be\u0995\u09be\u09b0 \u0989\u09a4\u09cd\u09a4\u09b0\u09be\u09df B+ \u09b0\u0995\u09cd\u09a4 \u09a6\u09b0\u0995\u09be\u09b0\u0983\n\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be : \u09a1\u09c7\u0982\u0997\u09c1 ( \u09aa\u09cd\u09b2\u09be\u099f\u09bf\u09b2\u09c7\u099f \u0995\u09be\u0989\u09a8\u09cd\u099f \u0985\u09a8\u09c7\u0995 \u0995\u09ae)  \n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa: B+ \n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3 : \u09ee \u09ac\u09cd\u09af\u09be\u0997 \n\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09df : \u09af\u09a4 \u09a6\u09cd\u09b0\u09c1\u09a4 \u09b8\u09ae\u09cd\u09ad\u09ac \n\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8 : Lubana hospital, uttara, sector 13 \n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 : +8801814903787",
+  "blood_group": "B+",
+  "bags_needed": "8",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue (Platelet count very low)",
+  "location": "Lubana hospital, uttara, sector 13",
+  "hospital_name": "Lubana hospital",
+  "location_markers": [
+    "uttara",
+    "sector 13"
+  ],
+  "probable_day": "today",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801814903787"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

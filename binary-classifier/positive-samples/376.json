@@ -1,0 +1,21 @@
+{
+  "message": "\u098f\u0995 \u09ac\u09cd\u09af\u09be\u0997 \u09ac\u09bf \u09aa\u099c\u09bf\u099f\u09bf\u09ad \u09b0\u0995\u09cd\u09a4 \u09b2\u09be\u0997\u09ac\u09c7\u0964 \u09aa\u0999\u09cd\u0997\u09c1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7\u0964",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "\u09aa\u0999\u09cd\u0997\u09c1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7",
+  "hospital_name": "\u09aa\u0999\u09cd\u0997\u09c1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

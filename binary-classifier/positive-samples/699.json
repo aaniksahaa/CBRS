@@ -1,0 +1,31 @@
+{
+  "message": "AB+ Possitive blood lagbe\nLocation - Narsingdi Sadar\nContact number- +8801770231204",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Narsingdi Sadar",
+  "hospital_name": "",
+  "location_markers": [
+    "Narsingdi"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801770231204"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

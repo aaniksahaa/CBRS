@@ -1,0 +1,34 @@
+{
+  "message": "Emergency A- Blood need!\nLocation: \u09b6\u09be\u09b9\u09ac\u09be\u0997 \u09ac\u09be\u09b0\u09cd\u09a1\u09c7\u09ae \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0964\ncontact number: 01637338554\nAdmin approve please.",
+  "blood_group": "A-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "\u09b6outwardtr'o\u00f9\u09b8\u09a6\u09cd\u09a8 \u09ac\u09be\u09b0\u09cd\u09a1\u09c7\u09ae \u09b9\u09be\u09b8\u09aa\u09bf\u099f\u09be\u09b2\u300e",
+  "hospital_name": "\u09b6notice\u09b1\u09cd\u09a8\u09c7\u09b8\u09a6\u09cd\u09a8 \u09b8\u09b0\u09c1\u09b9\u09c7\u09b9\u09c7\u09c7\u09b8\u099cathi\u09b7\u09a4",
+  "location_markers": [
+    "\u09b6view\u09b0\u09cd\u09a8",
+    "\u09b0\u09ab\u09b0\u09c1",
+    "\u09b8\u093b\u09b0\u09aa\u09b0\u09cc",
+    "\u09b8\u090e\u09b1\u09c1"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01637338554"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

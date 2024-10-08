@@ -1,0 +1,32 @@
+{
+  "message": "A(negative) blood needed for a cancer patient .\nLocation : Delta Hospital \nAddress: 26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka-1216.\nMobile : 01779975170",
+  "blood_group": "A-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "Delta Hospital",
+  "hospital_name": "Delta Hospital",
+  "location_markers": [
+    "Mirpur",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01779975170"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

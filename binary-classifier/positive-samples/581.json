@@ -1,0 +1,36 @@
+{
+  "message": "\u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u0986\u09b2\u09cb\u0995 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09b0\u09cb\u0997\u09c0\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u0964\n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa: AB+\n\u09b8\u09ae\u09df: \u0995\u09be\u09b2\n\u09b8\u09ae\u09b8\u09cd\u09af\u09be: \u09b8\u09bf\u099c\u09be\u09b0\n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u09a8\u09be\u09ae\u09cd\u09ac\u09be\u09b0: +880 1707-152572 ( \u09ac\u09cb\u09a8 )",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Caesarean",
+  "location": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u0986\u09b2\u09cb\u0995 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "hospital_name": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u0986\u09b2\u09cb\u0995 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "location_markers": [
+    "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "\u09ac\u09cb\u09a8",
+      "contact_numbers": [
+        "+880 1707-152572"
+      ],
+      "relation_with_patient": "\u09ac\u09cb\u09a8"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

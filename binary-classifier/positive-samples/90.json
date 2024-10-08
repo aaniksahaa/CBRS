@@ -1,0 +1,29 @@
+{
+  "message": "Blood Needed\u203c\ufe0f\n\nBlood group: B positive\nQuantity: 2\nLocation: Thalassemia center\nContact numbers: 7990097 \nPatient's name: Mohamed Shahudh\nRegister number:140\nNeeded date: 04-08-2024",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "Mohamed Shahudh",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Thalassemia center",
+  "hospital_name": "Thalassemia center",
+  "location_markers": [],
+  "probable_day": "04/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "7990097"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

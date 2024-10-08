@@ -1,0 +1,32 @@
+{
+  "message": "Emergency \ud83e\uddba ; AB+ blood lage \n01408108739\nLocation : National institute of cancer research & hospital . Mohakhali. Dhaka",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "National institute of cancer research & hospital . Mohakhali. Dhaka",
+  "hospital_name": "National institute of cancer research & hospital",
+  "location_markers": [
+    "Mohakhali",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01408108739"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

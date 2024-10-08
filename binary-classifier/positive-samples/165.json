@@ -1,0 +1,33 @@
+{
+  "message": "(O+) \u0993 \u09aa\u099c\u09bf\u099f\u09bf\u09ad \u099a\u09be\u09b0 \u09ac\u09cd\u09af\u09be\u0997 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8 \u09af\u09a6\u09bf \u0995\u09be\u09b0\u09cb \u09a5\u09be\u0995\u09c7 \u09ac\u09be \u09af\u09a6\u09bf \u09b8\u0982\u0997\u09cd\u09b0\u09b9 \u0995\u09b0\u09c7 \u09a6\u09bf\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u09a8 \u09aa\u09cd\u09b2\u09bf\u099c \u09b9\u09c7\u09b2\u09cd\u09aa\u0964 \u09a1\u09c7\u09a8\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0 \u09b9\u0987\u099b\u09c7\u0964\u0964\n01877513501/01911664035\n(Mitford Hospital- Babu Bazar Dhaka)",
+  "blood_group": "O+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "M",
+    "age_group": ""
+  },
+  "condition": "Dengue fever",
+  "location": "Mitford Hospital- Babu Bazar Dhaka",
+  "hospital_name": "Mitford Hospital- Babu Bazar Dhaka",
+  "location_markers": [
+    "Babu Bazar",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01877513501",
+        "01911664035"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

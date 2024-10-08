@@ -1,0 +1,31 @@
+{
+  "message": "Blood Needed\u203c\ufe0f\n\nBlood group: B positive\nQuantity: 2\nLocation: Thalassemia center\nContact numbers: 7990097",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Thalassemia center",
+  "hospital_name": "",
+  "location_markers": [
+    "Thalassemia"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "7990097"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

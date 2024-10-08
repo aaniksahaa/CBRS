@@ -1,0 +1,32 @@
+{
+  "message": "mergency blood needed for my mother (Dialysis Patient)\nBlood Group : B+ (positive)\nHemoglobin : 8.5\nPlace : Gonosastho Nagar hospital, Dhanondi 6, Dhaka.\nTime : Thursday\nNumber : 01723038090",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "mother",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dialysis Patient",
+  "location": "Gonosastho Nagar hospital, Dhanondi 6, Dhaka.",
+  "hospital_name": "Gonosastho Nagar hospital",
+  "location_markers": [
+    "Dhanondi",
+    "Dhaka"
+  ],
+  "probable_day": "Thursday",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01723038090"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

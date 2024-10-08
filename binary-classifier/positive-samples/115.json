@@ -1,0 +1,21 @@
+{
+  "message": "Adab apu\nEmergency A+ blood drkr amar  akta aunty er jonno.pregnant patient, HB : 3.5, platelet :40 k\nAkhon almost sobi basay.plz  Kew local thakle help korle khubi vlo hoto",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Pregnant, HB: 3.5, Platelet: 40k",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

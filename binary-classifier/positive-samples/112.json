@@ -1,0 +1,39 @@
+{
+  "message": "Emergency O- blood need\n(Uterus tumour) \nPlace : Siraj Khaleda Board Hospital, Cantonment,Dhaka-1206\nTime : Friday 8/9 AM\n01845466566\n+880 1819-744844",
+  "blood_group": "O-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Uterus tumour",
+  "location": "Siraj Khaleda Board Hospital, Cantonment,Dhaka-1206",
+  "hospital_name": "Siraj Khaleda Board Hospital, Cantonment,Dhaka-1206",
+  "location_markers": [
+    "Dhaka",
+    "Cantonment"
+  ],
+  "probable_day": "",
+  "probable_time": "Friday 08:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01845466566"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1819-744844"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

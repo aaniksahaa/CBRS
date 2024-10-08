@@ -1,0 +1,32 @@
+{
+  "message": "\ud83d\uded1 Emergency \ud83d\uded1\n\nAssalamualaikum. Emergency blood needed.\nDayalisis patient.Age:60 (Female)\nBlood Group:B+ (B Positive)\nLocation: Chittagong Medical College.Chawkbazar.Chittagong.\nPhone Number:01818443539",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age_group": "adult"
+  },
+  "condition": "Dialysis patient",
+  "location": "Chittagong Medical College.Chawkbazar.Chittagong.",
+  "hospital_name": "Chittagong Medical College",
+  "location_markers": [
+    "Chawkbazar",
+    "Chittagong"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01818443539"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

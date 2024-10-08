@@ -1,0 +1,31 @@
+{
+  "message": "Friend er ammur dialysis er jonno B+ rokto lagbe urgent. At Better life hospital, rampura.\nContact- 01795099521 (Asif, amar friend)",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dialysis",
+  "location": "Better life hospital, rampura",
+  "hospital_name": "Better life hospital",
+  "location_markers": [
+    "rampura"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Asif",
+      "contact_numbers": [
+        "01795099521"
+      ],
+      "relation_with_patient": "friend"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09bf \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8 \n\ud83d\udeab \u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be :- \u099f\u09bf\u0989\u09ae\u09be\u09b0\n\ud83d\udd34 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa :- A+\n\ud83d\udc89 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a8 :- 2 \u09ac\u09cd\u09af\u09be\u0997\n\ud83d\udcc6 \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996\u0983 08-8-2024\n      \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09df\u0983 9 am\n\ud83c\udfe5 \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u0983 Model clinic , Aftabnagar\n\u260e \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997\u09c7\u09b0 \u09a8\u09be\u09ae\u09cd\u09ac\u09be\u09b0\u0983 01636285793",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Tumor",
+  "location": "Model clinic , Aftabnagar",
+  "hospital_name": "Model clinic , Aftabnagar",
+  "location_markers": [
+    "Aftabnagar"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "09:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01636285793"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "message": "Emergency blood lagbe. \nBlood group: AB+\nPatient Bangladesh Specialized Hospital,Shamoli te asen. \nKeu Jodi blood dite paro please contact with me",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Bangladesh Specialized Hospital,Shamoli te",
+  "hospital_name": "Bangladesh Specialized Hospital",
+  "location_markers": [
+    "Shamoli"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

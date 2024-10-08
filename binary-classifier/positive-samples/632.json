@@ -1,0 +1,31 @@
+{
+  "message": "Emergency blood lagbe\n(O- negative) Deliver baby jonno lagbe please kew dita chaile bolen..\nLocation : Jurain,  real  ghet er samna , addin hospital.\nNumbar : 01940276439",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "For delivering baby",
+  "location": "Jurain,  real  ghet er samna , addin hospital",
+  "hospital_name": "addin hospital",
+  "location_markers": [
+    "Jurain"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01940276439"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

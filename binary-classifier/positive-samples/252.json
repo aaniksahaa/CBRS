@@ -1,0 +1,29 @@
+{
+  "message": "\u098f\u0995\u099f\u09bf \u09ae\u09be\u09a8\u09ac\u09bf\u0995 \u0986\u09ac\u09c7\u09a6\u09a8 \n\u098f\u0995\u09c7\u09b0 \u09b0\u0995\u09cd\u09a4 \u0985\u09a8\u09cd\u09af\u09c7\u09b0 \u099c\u09c0\u09ac\u09a8 \u09b0\u0995\u09cd\u09a4\u0987 \u09b9\u09cb\u0995 \u09b0\u0995\u09cd\u09a4\u09b8\u09c8\u09a8\u09bf\u0995\u09c7\u09b0 \u09ac\u09a8\u09cd\u09a7\u09a8\u2764\ufe0f\n\ud83d\udc78\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\u0983 Blood Cancer\n\ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u0983 B negative \n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a8\u0983 1 bag\n \u09b9\u09bf\u09ae\u09cb\u0997\u09cd\u09b2\u09cb\u09ac\u09bf\u09a8\u09837\n\ud83d\udd53\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09df\u0983 Today\n\ud83d\udcc6\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996\u0983 Today\n\ud83c\udfe3\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u0983 PG Hospital \n\u09ab\u09cb\u09a8: 01316512391",
+  "blood_group": "B-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Blood Cancer",
+  "location": "PG Hospital",
+  "hospital_name": "PG Hospital",
+  "location_markers": [],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01316512391"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

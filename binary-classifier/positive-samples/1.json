@@ -1,0 +1,31 @@
+{
+  "message": "One of the protesters needs 10 Bags of AB(+) positive blood to survive. He is at CMH now. Please help if possible\u2014please call 01748-280288 (Ashraf, AIS5, BUP). Please spread this information. \n\nDr. Md Tapan Mahmud",
+  "blood_group": "AB+",
+  "bags_needed": "10",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "CMH",
+  "hospital_name": "",
+  "location_markers": [
+    "CMH"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Ashraf",
+      "contact_numbers": [
+        "01748-280288"
+      ],
+      "relation_with_patient": "AIS5, BUP"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

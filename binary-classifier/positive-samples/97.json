@@ -1,0 +1,29 @@
+{
+  "message": "\ud83c\udd98 Urgent need of 2 O-ve blood points at skims | Patient name munshi khan | Admitted in emergency ward .\n9682510062 .",
+  "blood_group": "O-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "munshi khan",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Admitted in emergency ward",
+  "location": "skims",
+  "hospital_name": "skims",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "9682510062"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

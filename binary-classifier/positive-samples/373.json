@@ -1,0 +1,37 @@
+{
+  "message": "One of my friend's sister\nEMERGENCY A+ DONOR NEEDED\nMy sister is undergoing an operation at Ibn sina medical college hospital, Kallyanpur. She needs someone to donate blood RIGHT NOW.\nPlease contact me or the numbers below as soon as possible.\n01716-209915\n01721-730887\nZahin Raidah",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "Zahin Raidah",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Undergoing an operation",
+  "location": "Ibn sina medical college hospital, Kallyanpur",
+  "hospital_name": "Ibn sina medical college hospital",
+  "location_markers": [
+    "Kallyanpur"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "Zahin Raidah",
+      "contact_numbers": [],
+      "relation_with_patient": "sister"
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01716-209915",
+        "01721-730887"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

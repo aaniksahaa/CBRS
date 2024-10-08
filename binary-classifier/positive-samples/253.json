@@ -1,0 +1,31 @@
+{
+  "message": "\u09b0\u09c7\u09be\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\u0983 \u09b8\u09bf\u099c\u09be\u09b0 \n\ud83d\udcd5\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa: ( B+ )\n\ud83e\udd4a\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983 \u09e7 \u09ac\u09cd\u09af\u09be\u0997\n\u23f1\ufe0f\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc\u0983 \u0986\u099c\u0995\u09c7\u0987  \n\ud83d\uddbc\ufe0f\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09b9\u09be\u09a8\u0983 \u09a2\u09be\u0995\u09be \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2 \n\u260e\ufe0f\u09af\u09c7\u09be\u0997\u09be\u09af\u09c7\u09be\u0997\u0983 01972931649",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cesar",
+  "location": "\u09a2\u09be\u0995\u09be \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2",
+  "hospital_name": "\u09a2\u09be\u0995\u09be \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2",
+  "location_markers": [
+    "\u09a2\u09be\u0995\u09be"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01972931649"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "\u09aa\u09cd\u09b2\u09bf\u099c \u09b9\u09c7\u09b2\u09cd\u09aa\n\nA+ \nBlood needed.\nParkview Hospital , Chittagong \nEmergency\nContact :- +8801818134933\n\u099c\u09bf\u09b9\u09be\u09a8\nRef: \u0986\u09ab\u09b8\u09be\u09a8 \u09b8\u09be\u09b0\u09ac\u09bf\u0964",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency",
+  "location": "Parkview Hospital , Chittagong",
+  "hospital_name": "Parkview Hospital , Chittagong",
+  "location_markers": [
+    "Chittagong"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "\u099c\u09bf\u09b9\u09be\u09a8",
+      "contact_numbers": [
+        "+8801818134933"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

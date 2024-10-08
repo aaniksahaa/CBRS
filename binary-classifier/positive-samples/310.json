@@ -1,0 +1,23 @@
+{
+  "message": "Urgently 1 bag A- blood needed for tomorrow in Dhaka\nIbrahim Cardiac Hospital, . Kindly Anyone \nPlease inbox.....",
+  "blood_group": "A-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Dhaka",
+  "hospital_name": "Ibrahim Cardiac Hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

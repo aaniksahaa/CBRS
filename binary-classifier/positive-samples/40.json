@@ -1,0 +1,31 @@
+{
+  "message": "\u203c\ufe0fO+ BLOOD NEEDED\u203c\n\nUttara Adhunik medical College and hospital-\nContact : 01571-453729\n\n\ud83d\udd34\u26aaHEADSHOT INJURY\u26aa\ud83d\udd34",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Headshot injury",
+  "location": "Uttara Adhunik medical College and hospital",
+  "hospital_name": "Uttara Adhunik medical College and hospital",
+  "location_markers": [
+    "Uttara"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01571-453729"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

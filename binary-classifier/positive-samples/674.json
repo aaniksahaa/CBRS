@@ -1,0 +1,32 @@
+{
+  "message": "Emergency AB+ blood dorkar1 hour ar moddhei lagbe.\nSantinagar, Dhaka\nToqi Tahmid\nPlease contact 01741866252",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "Santinagar, Dhaka",
+  "hospital_name": "",
+  "location_markers": [
+    "Santinagar",
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "in 1 hour",
+  "contacts": [
+    {
+      "name": "Toqi Tahmid",
+      "contact_numbers": [
+        "01741866252"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

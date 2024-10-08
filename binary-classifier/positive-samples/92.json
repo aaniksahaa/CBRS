@@ -1,0 +1,31 @@
+{
+  "message": "Help!!!\nO positive  blood required urgently at\nB & c hospital,(only male blood needed)birtamode \n(Sano 1.5 month ko baby ventilator ma rakheko xa soo blood dherai jana ley di rakhnu parney vayera)\nContact number-\u202a9707319907(uma rai)",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "M",
+    "age_group": "child"
+  },
+  "condition": "1.5 month old baby on ventilator",
+  "location": "B & c hospital, birtamode",
+  "hospital_name": "B & c hospital",
+  "location_markers": [
+    "birtamode"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Uma Rai",
+      "contact_numbers": [
+        "9707319907"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

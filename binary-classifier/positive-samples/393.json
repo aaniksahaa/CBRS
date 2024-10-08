@@ -1,0 +1,32 @@
+{
+  "message": "Emergency blood needed \nBlood Group: A+ ( A Positive) \nNeed: 4/5 bag\nHospital: Birdem General Hospital, Shahbag, Dhaka\nContact: 01863956212 ( Patient ar Husband, Ashik bhai)\nPatient type: Caesar Patient",
+  "blood_group": "A+",
+  "bags_needed": "4-5",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Caesar Patient",
+  "location": "Birdem General Hospital, Shahbag, Dhaka",
+  "hospital_name": "Birdem General Hospital, Shahbag, Dhaka",
+  "location_markers": [
+    "Shahbag",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Ashik bhai",
+      "contact_numbers": [
+        "01863956212"
+      ],
+      "relation_with_patient": "Husband"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

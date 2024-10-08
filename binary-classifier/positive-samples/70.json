@@ -1,0 +1,31 @@
+{
+  "message": "( B+)  blood 4 bags\n\nUrgent blood needed for ICU patient \nBlood group:B+\n\nLocation: Homecare hospital katabon babupura lane, Dhaka\n\nNumber: +880 1677-111231",
+  "blood_group": "B+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "ICU patient",
+  "location": "Homecare hospital katabon babupura lane, Dhaka",
+  "hospital_name": "Homecare hospital katabon babupura lane, Dhaka",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1677-111231"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

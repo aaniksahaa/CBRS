@@ -1,0 +1,31 @@
+{
+  "message": "O+ blood 3 bags needed for a cancer patient at Ahsania Mission Cancer and General Hospital or Seba Diagnostic Center and Doctors Chamber\nAshulia..\nContact: 01787140236",
+  "blood_group": "O+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Cancer",
+  "location": "Ahsania Mission Cancer and General Hospital or Seba Diagnostic Center and Doctors Chamber, Ashulia",
+  "hospital_name": "Ahsania Mission Cancer and General Hospital or Seba Diagnostic Center and Doctors Chamber",
+  "location_markers": [
+    "Ashulia"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01787140236"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Urgent B+ blood lagbe \nLocation- BIHS Mirpur Hospital \nPatient (my own aunt)is in ICU \nVery critical condition \nYour blood can save a life \nPlease!!\nContact \n+880 17 6770 3355",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Very critical condition, ICU",
+  "location": "BIHS Mirpur Hospital",
+  "hospital_name": "BIHS Mirpur Hospital",
+  "location_markers": [
+    "Mirpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 17 6770 3355"
+      ],
+      "relation_with_patient": "aunt"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "\u098f\u0995\u099c\u09a8 \u0985\u09b8\u09b9\u09be\u09af\u09bc \u09ad\u09be\u0987\u09af\u09bc\u09c7\u09b0 \u09ac\u09cd\u09b2\u09be\u09a1 \u09a6\u09b0\u0995\u09be\u09b0 B+ \nEmergency help please\nContact: 016 2594 3179\nLocation: Mirpur 14 dental hospital",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Mirpur 14 dental hospital",
+  "hospital_name": "Mirpur 14 dental hospital",
+  "location_markers": [
+    "Mirpur 14"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "016 2594 3179"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed\ud83d\udd34\nBlood Group: O+\nLocation - Dhaka PG Hospital \nContact : 016-707-71210\nit's an Emergency \u26a0\ufe0f",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Emergency",
+  "location": "Dhaka PG Hospital",
+  "hospital_name": "Dhaka PG Hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "016-707-71210"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

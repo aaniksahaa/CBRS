@@ -1,0 +1,29 @@
+{
+  "message": "\u09a2\u09be\u0995\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 O- (negative) \u09ac\u09cd\u09b2\u09be\u09a1 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8 \u0986\u09b0\u09cd\u099c\u09c7\u09a8\u09cd\u099f, \u0995\u09c7\u0989 \u09a6\u09bf\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7\u09a8? \u09b0\u09cb\u0997\u09c0\u09b0 \u0985\u09ac\u09b8\u09cd\u09a5\u09be \u0996\u09c1\u09ac\u0987 \u0996\u09be\u09b0\u09be\u09aa\n01926151536",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Patient's condition is very critical",
+  "location": "\u09a2\u09be\u0995\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01926151536"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

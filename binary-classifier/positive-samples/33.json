@@ -1,0 +1,31 @@
+{
+  "message": "\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f**URGENT** \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\n\nA 14-year-old boy will die without blood.\nEmergency AB+ blood is needed at Rajshahi Medical College. If anyone is willing to donate, please contact this number: +880 1325-785127 (the boy\u2019s mother).\n\nEveryone, please try to help.",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "teenager"
+  },
+  "condition": "",
+  "location": "Rajshahi Medical College",
+  "hospital_name": "Rajshahi Medical College",
+  "location_markers": [
+    "Rajshahi"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1325-785127"
+      ],
+      "relation_with_patient": "mother"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

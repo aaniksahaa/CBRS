@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed\nBlood Group: A+\nLocation -  Mirpur Heart Foundation \nContact : 01877770982\nOpening heart surgery \nTime : 10.08.2024",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Opening heart surgery",
+  "location": "Mirpur Heart Foundation",
+  "hospital_name": "Mirpur Heart Foundation",
+  "location_markers": [
+    "Mirpur"
+  ],
+  "probable_day": "10/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01877770982"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "#help Rangpur e AB+ blood lagbe kaw jodi Rangpur kaw take taken plz 01705276588 call din ba apnader number dia shojogita korun plz",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "Rangpur",
+  "hospital_name": "",
+  "location_markers": [
+    "Rangpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01705276588"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

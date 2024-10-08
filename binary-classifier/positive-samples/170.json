@@ -1,0 +1,36 @@
+{
+  "message": "\u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2 \u0987\u09ae\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u09b8\u09bf \u09e7 \u09ac\u09cd\u09af\u09be\u0997 \u0993 \u09aa\u099c\u09bf\u099f\u09bf\u09ad ( O+) \u09ac\u09cd\u09b2\u09be\u09a1 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8 \u0964\n\u0987\u09ac\u09a8\u09c7 \u09b8\u09bf\u09a8\u09be \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2, \u09a7\u09be\u09a8\u09ae\u09a3\u09cd\u09a1\u09bf\n\u09ae\u09cb\u09ac\u09be\u0987\u09b2 : 01717489295\n\u09aa\u09cd\u09b2\u09bf\u099c \u09b8\u09be\u09b9\u09be\u09af\u09cd\u09af \u0995\u09b0\u09c1\u09a8 \ud83d\ude13\n\u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8 : MahFuj MohaMmad Shamim",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "\u0987\u09ac\u09a8\u09c7 \u09b8\u09bf\u09a8\u09be \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2, \u09a7\u09be\u09a8\u09ae\u09a3\u09cd\u09a1\u09bf",
+  "hospital_name": "\u0987\u09ac\u09a8\u09c7 \u09b8\u09bf\u09a8\u09be \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2",
+  "location_markers": [
+    "\u09a7\u09be\u09a8\u09ae\u09a3\u09cd\u09a1\u09bf"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01717489295"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "MahFuj MohaMmad Shamim",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

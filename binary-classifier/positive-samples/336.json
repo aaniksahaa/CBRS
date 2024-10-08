@@ -1,0 +1,33 @@
+{
+  "message": "Emergency Blood need\nHospital name: mirpur 1 darusalam hospital \nBlood group: B negative \nNumber:01842074322, 01683288806 \nKalke sokal 10 tay lagbe",
+  "blood_group": "B-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "mirpur 1 darusalam hospital",
+  "hospital_name": "mirpur 1 darusalam hospital",
+  "location_markers": [
+    "mirpur",
+    "darusalam"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "10:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01842074322",
+        "01683288806"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

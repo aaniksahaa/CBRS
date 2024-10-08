@@ -1,0 +1,31 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09bf \u09b0\u0995\u09cd\u09a4 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\ud83d\udd34\n\u26a0\ufe0f\u0993\u09aa\u09c7\u09a8 \u09b9\u09be\u09b0\u09cd\u099f \u09b0\u09cb\u0997\u09c0\n\ud83e\ude78\u09b0\u0995\u09cd\u09a4 \u0997\u09cd\u09b0\u09c1\u09aa- A+ \n\u09a0\u09bf\u0995\u09be\u09a8\u09be - \u09b2\u09cd\u09af\u09be\u09ac \u098f\u0987\u09a1, \u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09b0\u09cb\u09a1 \u09a2\u09be\u0995\u09be\n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 - 01933-523610(\u09b0\u09be\u09b9\u09be\u09a4)",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Open heart patient",
+  "location": "\u09b2\u09cd\u09af\u09be\u09ac \u098f\u0987\u09a1, \u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09b0\u09cb\u09a1 \u09a2\u09be\u0995\u09be",
+  "hospital_name": "\u09b2\u09cd\u09af\u09be\u09ac \u098f\u0987\u09a1",
+  "location_markers": [
+    "\u09a2\u09be\u0995\u09be"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "\u09b0\u09be\u09b9\u09be\u09a4",
+      "contact_numbers": [
+        "01933-523610"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed\nBlood Group: A-\nLocation -  Mirpur 2 Kidney Foundation \nContact : 01685967444\nit's an Emergency \u26a0\ufe0f",
+  "blood_group": "A-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency",
+  "location": "Mirpur 2 Kidney Foundation",
+  "hospital_name": "Mirpur 2 Kidney Foundation",
+  "location_markers": [
+    "Mirpur 2"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01685967444"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

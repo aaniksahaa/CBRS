@@ -1,0 +1,21 @@
+{
+  "message": "1bag B+ blood needed \nPatient er ajkei ankle fracture er surgery \nHospital:Reliance general and renal hospital",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Ankle fracture, surgery",
+  "location": "",
+  "hospital_name": "Reliance general and renal hospital",
+  "location_markers": [],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

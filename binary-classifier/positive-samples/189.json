@@ -1,0 +1,23 @@
+{
+  "message": "Amar b+ blood onek dorkar Nanu er dialysis er jonno mugda hospital a klk morning a khub dorkar akjon thik hoyechilo but tar kichu problem ar jonno dite parbe na plz k o Ashe pashe. Thakle plz janaben",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "Nanu",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dialysis",
+  "location": "Mugda hospital",
+  "hospital_name": "Mugda hospital",
+  "location_markers": [
+    "Mugda"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "morning",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

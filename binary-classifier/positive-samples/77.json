@@ -1,0 +1,23 @@
+{
+  "message": "B (-) Negative Blood urgent darkar. \n\nPatient Ghatal hospital e admit .\n\u0995\u09c7\u0989 \u09a1\u09cb\u09a8\u09c7\u099f \u0995\u09b0\u09a4\u09c7 \u0987\u099a\u09cd\u099b\u09c1\u0995 \u09a5\u09be\u0995\u09c7 Please \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u0995\u09b0\u09c1\u09a8..",
+  "blood_group": "B-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Ghatal hospital",
+  "hospital_name": "Ghatal hospital",
+  "location_markers": [
+    "Ghatal"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

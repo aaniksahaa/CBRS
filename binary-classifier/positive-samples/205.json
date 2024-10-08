@@ -1,0 +1,32 @@
+{
+  "message": "Blood group : A (-) negative\nReason : unstable for operation Hemoglobin low\nHospital name : Bardem  (12tola) ward -123, Seat no. 1246.\nMbl no: 01710678232",
+  "blood_group": "A-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Unstable for operation, Hemoglobin low",
+  "location": "Bardem  (12tola) ward -123, Seat no. 1246.",
+  "hospital_name": "Bardem  (12tola) ward -123, Seat no. 1246.",
+  "location_markers": [
+    "12tola",
+    "ward -123"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01710678232"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

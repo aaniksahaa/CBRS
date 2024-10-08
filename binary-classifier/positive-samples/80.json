@@ -1,0 +1,31 @@
+{
+  "message": "(\ud83d\udfe5 Emergency)\n\nUrgent blood need \nB+(ve) \n\nDengue patient platelets \n\ud83d\uded120k still decreasing \n\nIslami bank central hospital, Kakrail\nNumbers : 018-688-95227",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue patient platelets, 20k still decreasing",
+  "location": "Islami bank central hospital, Kakrail",
+  "hospital_name": "Islami bank central hospital",
+  "location_markers": [
+    "Kakrail"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "018-688-95227"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

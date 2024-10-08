@@ -1,0 +1,32 @@
+{
+  "message": "\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be:-Blood cancer & currently Dengue Patient \n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa:- O+\n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3:- 2 Bag\n\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8:- Uttara Crescent Hospital\nAzompur, Uttara.\n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997:- 01331499237\nIt's an emergency",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Blood cancer & currently Dengue Patient",
+  "location": "Uttara Crescent Hospital\nAzompur, Uttara.",
+  "hospital_name": "Uttara Crescent Hospital",
+  "location_markers": [
+    "Uttara",
+    "Azompur"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01331499237"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

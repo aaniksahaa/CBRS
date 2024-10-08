@@ -1,0 +1,31 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09c0 \u09ad\u09bf\u09a4\u09cd\u09a4\u09bf\u09a4\u09c7 \u09b0\u0995\u09cd\u09a4 \u09b2\u09be\u0997\u09ac\u09c7 A+ \u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09be\u09b0 \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2 - Urgent \ud83d\udea8 Contact Number - 01778888236",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "\u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09be\u09b0 \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2",
+  "hospital_name": "\u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09be\u09b0 \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2",
+  "location_markers": [
+    "\u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01778888236"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

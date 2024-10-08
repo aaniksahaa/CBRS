@@ -1,0 +1,29 @@
+{
+  "message": "Urgent  O+(Positive)  Blood Needed..\nPatient admitted in Bangladesh Specialized Hospital.\n\nMobile: 01670331698",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Bangladesh Specialized Hospital",
+  "hospital_name": "Bangladesh Specialized Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01670331698"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

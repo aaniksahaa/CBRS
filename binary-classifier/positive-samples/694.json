@@ -1,0 +1,31 @@
+{
+  "message": "Emergency \ud83d\udea8 Blood Needed \nBlood group: AB(-)\nlocation: Khidmah Hospital, Khilgaon\nContact: 01726702489 (Shohanur Rahman)",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "Khidmah Hospital, Khilgaon",
+  "hospital_name": "Khidmah Hospital",
+  "location_markers": [
+    "Khilgaon"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Shohanur Rahman",
+      "contact_numbers": [
+        "01726702489"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

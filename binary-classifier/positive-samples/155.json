@@ -1,0 +1,36 @@
+{
+  "message": "\u09b0\u0995\u09cd\u09a4 \u09a6\u09bf\u09a8 \u099c\u09c0\u09ac\u09a8 \u09ac\u09be\u0981\u099a\u09be\u09a8\u0964\n\ud83d\udc68\u200d\u2695\ufe0f\u09b0\u09cb\u0997\u09c0\u09b0 \u09a8\u09be\u09ae\u0983Md.Abul Hossain\n\ud83d\udc68\u200d\u2695\ufe0f \u09ac\u09df\u09b8\u098342\n\ud83d\udc81\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be\u0983kidney damage \n\ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u09830 positive\n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3:03 bag\n\ud83d\udc8a(HB%)\u09b9\u09bf\u09ae\u09cb\u0997\u09cd\u09b2\u09cb\u09ac\u09bf\u09a8\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983 \n\ud83d\udcc6\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996\u098306.01.2024\n\u231a\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc\u09832pm to 6pm\n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u0983Dhaka medical College \n\u260e\u09b0\u09cb\u0997\u09c0\u09b0 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0 \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u09a8\u0982\u0983 01715941034\n\ud83d\udcf2\u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8\u0983",
+  "blood_group": "O+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "Md.Abul Hossain",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Kidney damage",
+  "location": "Dhaka medical College",
+  "hospital_name": "Dhaka medical College",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "06/01/2024",
+  "probable_time": "14:00-18:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01715941034"
+      ],
+      "relation_with_patient": "Family"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

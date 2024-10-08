@@ -1,0 +1,21 @@
+{
+  "message": "A+ Blood needed for a father! \nPatient Name : Abdul Mannan. \nAge- 68 years.\nHospital: United Hospital\nBlood Group: A +.\n\u0997\u09c1\u09b2\u09bf\u09ac\u09bf\u09a6\u09cd\u09a7 \u098f\u0987 \u09ac\u09be\u09ac\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09b0\u0995\u09cd\u09a4 \u09a6\u09b0\u0995\u09be\u09b0\u0964",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "Abdul Mannan",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Gunshot wounded",
+  "location": "",
+  "hospital_name": "United Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

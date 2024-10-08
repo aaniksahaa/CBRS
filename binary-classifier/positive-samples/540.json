@@ -1,0 +1,32 @@
+{
+  "message": "Urgent: O+ blood needed\nMirpur 10 theke Dhaka Medical e niye jacche, guli khaise...urgent blood lagbe...\nContact: 0177 333 7173",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Urgent blood needed",
+  "location": "Dhaka Medical",
+  "hospital_name": "Dhaka Medical",
+  "location_markers": [
+    "Mirpur",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "0177 333 7173"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

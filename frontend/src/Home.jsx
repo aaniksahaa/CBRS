@@ -35,13 +35,13 @@ const DonorForm = () => {
       (position) => {
         const lat = position.coords.latitude;
         const lon = position.coords.longitude;
-        console.log(lat, lon);
+        // console.log(lat, lon);
         setDonorData({
           ...donorData,
           latitude: lat,
           longitude: lon,
         });
-        toast.success(`Location successfuly updated to ${lat}°N, ${lon}°E`);
+        toast.success(`Location successfuly grabbed as ${lat}°N, ${lon}°E`);
         setError(null); // Clear any previous errors
       },
       (err) => {
@@ -224,9 +224,9 @@ const DonorForm = () => {
             </FormControl> */}
 
             <FormControl>
-              <FormLabel>Share your Location</FormLabel>
-              <Button onClick={handleShareLocation} colorScheme="teal" mt={0}>
-                Click Here to Update Location
+              <FormLabel>Your Location</FormLabel>
+              <Button onClick={handleShareLocation} colorScheme="green" mt={0}>
+                Share Current Location
               </Button>
             </FormControl>
 

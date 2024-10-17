@@ -9,7 +9,7 @@ require("dotenv").config();
 // Routes
 
 const donorRouter = require("./routes/donor");
-// const bloodrequestRouter = require("./routes/bloodrequest");
+const bloodrequestRouter = require("./routes/bloodrequest");
 // const notificationRouter = require("./routes/notification");
 
 // Middleswares
@@ -37,7 +37,7 @@ app.get("/knock", (req, res) => res.json({ alive: true }));
 app.get("/heartbeat", (req, res) => res.json({ alive: true }));
 
 app.use("/donor", donorRouter);
-// app.use("/bloodrequest", bloodrequestRouter);
+app.use("/bloodrequest", bloodrequestRouter);
 // app.use("/notification", notificationRouter);
 
 // Use errorhandler

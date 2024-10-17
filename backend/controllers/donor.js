@@ -15,28 +15,6 @@ const getSingleDonor = async (payload) => {
   }
 };
 
-// const getDonors = async (payload) => {
-//   const page = payload.page || 1;
-//   const perPage = payload.per_page || 10;
-//   const sortBy = payload.orderby || "name";
-//   const sortOrder = payload.ordertype === "desc" ? "desc" : "asc";
-
-//   try {
-//     const donors = await prisma.donor.findMany({
-//       take: perPage,
-//       skip: (page - 1) * perPage,
-//       orderBy: {
-//         [sortBy]: sortOrder,
-//       },
-//     });
-
-//     return donors;
-//   } catch (error) {
-//     console.error(error);
-//     throw error;
-//   }
-// };
-
 const getDonors = async (payload) => {
   const page = payload.page || 1;
   const perPage = payload.per_page || 10;
@@ -181,6 +159,137 @@ const deleteDonorPermanent = async (payload) => {
   }
 };
 
+
+
+
+
+// Haversine formula to calculate distance between two points on Earth
+function calculateHaversineDistance(lat1, lon1, lat2, lon2) {
+  const R = 6371; // Earth's radius in kilometers
+
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
+            Math.sin(dLon/2) * Math.sin(dLon/2);
+  
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  const distance = R * c; // Distance in kilometers
+  
+  return distance;
+}
+
+const findProbableDonors = async (payload) => {
+  try {
+      // First, get the blood request details
+      const bloodrequest = await prisma.bloodrequest.findUnique({
+          where: {
+              id: payload.bloodrequest_id
+          }
+      });
+
+      if (!bloodrequest) {
+          throw new Error("Blood request not found");
+      }
+
+      if (!bloodrequest.bloodGroup) {
+          throw new Error("Blood group not specified in the request");
+      }
+
+      // Calculate the date 4 months ago
+      const fourMonthsAgo = new Date();
+      fourMonthsAgo.setMonth(fourMonthsAgo.getMonth() - 4);
+
+      // Get all eligible donors based on blood group and donation history
+      const eligibleDonors = await prisma.donor.findMany({
+          where: {
+              // bloodGroup: bloodrequest.bloodGroup
+              AND: [
+                  { bloodGroup: bloodrequest.bloodGroup },
+                  {
+                      OR: [
+                          { lastDonated: { lt: fourMonthsAgo } },
+                          { lastDonated: null }
+                      ]
+                  },
+                  // { deletedAt: null },
+                  { isNotificationDisabled: false }
+              ]
+          }
+      });
+
+      console.log(eligibleDonors);
+
+      // Process donors and calculate distances
+      const processedDonors = eligibleDonors.map(donor => {
+          if (donor.latitude && donor.longitude && bloodrequest.latitude && bloodrequest.longitude) {
+              const distance = calculateHaversineDistance(
+                  donor.latitude,
+                  donor.longitude,
+                  bloodrequest.latitude,
+                  bloodrequest.longitude
+              );
+              return { ...donor, distance };
+          }
+          return { ...donor, distance: null };
+      });
+
+      // Separate donors with and without location data
+      const donorsWithLocation = processedDonors
+          .filter(donor => donor.distance !== null)
+          .filter(donor => donor.distance <= 40) // Filter donors within 4km
+          .sort((a, b) => a.distance - b.distance); // Sort by distance
+
+      const donorsWithoutLocation = processedDonors
+          .filter(donor => donor.distance === null);
+
+      // Combine the results
+      const result = {
+          bloodRequest: {
+              id: bloodrequest.id,
+              bloodGroup: bloodrequest.bloodGroup,
+              location: {
+                  latitude: bloodrequest.latitude,
+                  longitude: bloodrequest.longitude
+              }
+          },
+          nearbyDonors: donorsWithLocation.map(donor => ({
+              id: donor.id,
+              name: donor.name,
+              bloodGroup: donor.bloodGroup,
+              distance: Number(donor.distance.toFixed(2)), // Round to 2 decimal places
+              lastDonated: donor.lastDonated,
+              chatPlatform: donor.chatPlatform,
+              telegramUsername: donor.telegramUsername,
+              discordUserId: donor.discordUserId,
+              telegramChatId: donor.telegramChatId
+          })),
+          otherEligibleDonors: donorsWithoutLocation.map(donor => ({
+              id: donor.id,
+              name: donor.name,
+              bloodGroup: donor.bloodGroup,
+              lastDonated: donor.lastDonated,
+              chatPlatform: donor.chatPlatform,
+              telegramUsername: donor.telegramUsername,
+              discordUserId: donor.discordUserId,
+              telegramChatId: donor.telegramChatId
+          })),
+          stats: {
+              totalEligibleDonors: eligibleDonors.length,
+              nearbyDonorsCount: donorsWithLocation.length,
+              otherEligibleDonorsCount: donorsWithoutLocation.length
+          }
+      };
+
+      return result;
+  } catch (error) {
+      console.error("Error in findProbableDonors:", error);
+      throw error;
+  }
+};
+
+
 module.exports = {
   getSingleDonor,
   getDonors,
@@ -188,6 +297,7 @@ module.exports = {
   updateDonor,
   deleteDonor,
   deleteDonorPermanent,
+  findProbableDonors
 };
 
 /**

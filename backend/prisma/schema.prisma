@@ -57,6 +57,9 @@ model Bloodrequest {
   contacts              Contact[]
   notifications         Notification[]
 
+  latitude               Float?
+  longitude              Float?
+
   createdAt             DateTime  @default(now())
   updatedAt             DateTime  @updatedAt
   deletedAt             DateTime?

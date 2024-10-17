@@ -244,35 +244,43 @@ Thank you!
 
 ###############################     MESSAGE HANDLER     ###############################
 
-# async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-#     user = get_user(update)
-#     user_text = update.message.text.lower()
-#     # for now, using a naive approach
-#     patterns = ['blood', 'ব্লাড', 'রক্ত']
-#     flag = False
-#     for p in patterns:
-#         if p in user_text:
-#             flag = True
-#             break 
-#     if flag:
-#         info = get_info(user_text)
-#         users = read_users()
-#         matches = []
-#         for u in users:
-#             if(u['blood_group'] == info['blood_group']):
-#                 matches.append(u)
+def initial_screening(text):
+    patterns = ['blood', 'ব্লাড', 'রক্ত', 'emergency']
+    flag = False
+    for p in patterns:
+        if p in text:
+            flag = True
+            break
+    return flag
 
-#         response = ''
-#         if len(matches) == 0:
-#             response = 'Sorry! No matching donor found'
-#         else:
-#             response = f'{len(matches)} matching donor found. I am notifying...'
+async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    user = get_user(update)
+    username = user.username
+    chat_id = update.message.chat_id
+    
+    user_text = update.message.text.lower()
 
-#         await update.message.reply_text(response)
+    flag = initial_screening(user_text)
+    
+    if flag:
+        info = get_info(user_text)
+        users = read_users()
+        matches = []
+        for u in users:
+            if(u['blood_group'] == info['blood_group']):
+                matches.append(u)
 
-#         for u in matches:
-#             text = f'A matching blood seeking request from {get_full_name(user)}! Please help if you can.\n\n{user_text}'
-#             await context.bot.send_message(chat_id=u['chat_id'], text=text)
+        response = ''
+        if len(matches) == 0:
+            response = 'Sorry! No matching donor found'
+        else:
+            response = f'{len(matches)} matching donor found. I am notifying...'
+
+        await update.message.reply_text(response)
+
+        for u in matches:
+            text = f'A matching blood seeking request from {get_full_name(user)}! Please help if you can.\n\n{user_text}'
+            await context.bot.send_message(chat_id=u['chat_id'], text=text)
 
 
 ####################################################################################

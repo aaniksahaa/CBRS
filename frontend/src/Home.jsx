@@ -76,8 +76,8 @@ const DonorForm = () => {
     telegramUsername: "",
     discordUserId: "",
     telegramChatId: "",
-    latitude: "",
-    longitude: "",
+    latitude: null,
+    longitude: null,
     lastDonated: "",
     bloodGroup: "",
     isNotificationDisabled: false,
@@ -117,17 +117,30 @@ const DonorForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
+      const x = donorData;
+      if (
+        x.latitude == null ||
+        x.longitude == null ||
+        x.bloodGroup == null ||
+        x.bloodGroup == ""
+      ) {
+        let desc = "Error";
+        if (x.latitude == null || x.longitude == null) {
+          desc = "Please share your current location...";
+        } else if (x.bloodGroup == null || x.bloodGroup == "") {
+          desc = "Please fill up your blood-group...";
+        }
+        toast.error(`${desc}`);
+        return;
+      }
       const data = await updateDonor(donorId, donorData);
       if (data.ERROR) {
         return;
       }
       toast.success("Donor info updated successfully!");
       // console.log(data);
-      // await axios.put(`http://localhost:3000/donor/${donor_id}`, donorData); // Update donor data
-      // Handle success (e.g., redirect or show a success message)
     } catch (error) {
       console.error("Error updating donor data:", error);
-      // Handle error (e.g., show an error message)
     }
   };
 
@@ -223,7 +236,7 @@ const DonorForm = () => {
               />
             </FormControl> */}
 
-            <FormControl>
+            <FormControl isRequired>
               <FormLabel>Your Location</FormLabel>
               <Button onClick={handleShareLocation} colorScheme="green" mt={0}>
                 Share Current Location

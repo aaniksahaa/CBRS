@@ -15,6 +15,7 @@ import {
 } from "@chakra-ui/react";
 import { getDonor, updateDonor } from "./API";
 import { toast } from "react-toastify";
+import LoadingBubbles from "./components/LoadingBubbles";
 
 const DonorForm = () => {
   const { donorId } = useParams(); // Extract donor_id from URL
@@ -156,6 +157,10 @@ const DonorForm = () => {
     if (!isoString) return ""; // Handle empty case
     return isoString.split("T")[0]; // Extract date part
   };
+
+  if (donorData.name === "") {
+    return <LoadingBubbles />;
+  }
 
   return (
     <>

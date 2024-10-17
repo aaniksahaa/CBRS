@@ -121,7 +121,14 @@ const updateDonor = async (payload) => {
         updatedAt: new Date(),
       },
     });
-    return donor;
+    
+    const response = {
+      success: true,
+      donor: donor,
+    };
+
+    return response;
+
   } catch (error) {
     console.error(error);
     throw error;
@@ -182,6 +189,9 @@ function calculateHaversineDistance(lat1, lon1, lat2, lon2) {
 
 const findProbableDonors = async (payload) => {
   try {
+      // THRESHOLD_MONTHS = 4;
+      THRESHOLD_DAYS = 120;
+
       // First, get the blood request details
       const bloodrequest = await prisma.bloodrequest.findUnique({
           where: {
@@ -198,8 +208,9 @@ const findProbableDonors = async (payload) => {
       }
 
       // Calculate the date 4 months ago
-      const fourMonthsAgo = new Date();
-      fourMonthsAgo.setMonth(fourMonthsAgo.getMonth() - 4);
+      const thresholdDate = new Date();
+      // thresholdDate.setMonth(thresholdDate.getMonth() - THRESHOLD_MONTHS);
+      thresholdDate.setDate(thresholdDate.getDate() - THRESHOLD_DAYS);
 
       // Get all eligible donors based on blood group and donation history
       const eligibleDonors = await prisma.donor.findMany({
@@ -209,7 +220,7 @@ const findProbableDonors = async (payload) => {
                   { bloodGroup: bloodrequest.bloodGroup },
                   {
                       OR: [
-                          { lastDonated: { lt: fourMonthsAgo } },
+                          { lastDonated: { lt: thresholdDate } },
                           { lastDonated: null }
                       ]
                   },

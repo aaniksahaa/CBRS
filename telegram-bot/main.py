@@ -70,6 +70,10 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     new_user = None
 
     if matching_donor:
+        update_donor({
+            "donor_id": matching_donor['id'],
+            "isNotificationDisabled": True
+        })
         if not matching_donor['hasCompleteInfo']:
             new_user = matching_donor    
     else:
@@ -124,6 +128,10 @@ async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) 
     new_user = None
 
     if matching_donor:
+        update_donor({
+            "donor_id": matching_donor['id'],
+            "isNotificationDisabled": False
+        })
         if not matching_donor['hasCompleteInfo']:
             new_user = matching_donor    
     else:
@@ -147,7 +155,7 @@ Thank you!
         await update.message.reply_text(registration_text)
     else:
         reply_text = f"""
-Dear @{username}, you are already registered as a donor.
+Dear @{username}, you are already registered as a donor and your notifications have been enabled.
 """
         await update.message.reply_text(reply_text)
 
@@ -242,6 +250,28 @@ Thank you!
         await update.message.reply_text(reply_text)
     
 
+async def unregister(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    user = get_user(update)
+    username = user.username
+    chat_id = update.message.chat_id
+
+    matching_donor = search_telegram_user(username, chat_id)
+
+    reply_text = GENERIC_ERROR_MSG
+
+    if matching_donor:
+        response = update_donor({
+            "donor_id": matching_donor['id'],
+            "isNotificationDisabled": True
+        })
+
+        if response['success']:
+            reply_text = f"""
+You are successfully unregistered and you won't receive further notifications. If you change your mind, just click on /register_as_donor again.
+"""
+
+    await update.message.reply_text(reply_text)
+
 ###############################     MESSAGE HANDLER     ###############################
 
 def initial_screening(text):
@@ -257,11 +287,13 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
+
+    return 
     
     user_text = update.message.text.lower()
 
     flag = initial_screening(user_text)
-    
+
     if flag:
         info = get_info(user_text)
         users = read_users()
@@ -293,9 +325,12 @@ def main() -> None:
     # Register handlers
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", start))
-    application.add_handler(CommandHandler("register_as_donor", register_as_donor))
+    
     application.add_handler(CommandHandler("show_my_info", show_my_info))
     application.add_handler(CommandHandler("update_my_info", update_my_info))
+
+    application.add_handler(CommandHandler("register_as_donor", register_as_donor))
+    application.add_handler(CommandHandler("goodbye", unregister))
 
     # Register the message handler for responding to "hello"
     # application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, process_text))

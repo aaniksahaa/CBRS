@@ -133,7 +133,14 @@ const DonorForm = () => {
         toast.error(`${desc}`);
         return;
       }
-      const data = await updateDonor(donorId, donorData);
+      updatedData = {
+        latitude: donorData.latitude,
+        longitude: donorData.longitude,
+        lastDonated: donorData.lastDonated,
+        bloodGroup: donorData.bloodGroup,
+        isNotificationDisabled: donorData.isNotificationDisabled,
+      };
+      const data = await updateDonor(donorId, updatedData);
       if (data.ERROR) {
         return;
       }

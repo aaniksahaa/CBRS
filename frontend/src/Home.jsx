@@ -133,7 +133,7 @@ const DonorForm = () => {
         toast.error(`${desc}`);
         return;
       }
-      updatedData = {
+      const updatedData = {
         latitude: donorData.latitude,
         longitude: donorData.longitude,
         lastDonated: donorData.lastDonated,

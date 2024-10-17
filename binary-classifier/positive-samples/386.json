@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood Needed\ud83d\udea8\nBlood Group: AB+\nDengue patient\nLocation: Mirpur 10 Alok Hospital. \nContact : 01762565141.",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue patient",
+  "location": "Mirpur 10 Alok Hospital.",
+  "hospital_name": "Mirpur 10 Alok Hospital.",
+  "location_markers": [
+    "Mirpur 10"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01762565141"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

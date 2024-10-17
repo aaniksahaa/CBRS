@@ -1,0 +1,30 @@
+{
+  "message": "ASSALAMUALAIKUM.  \nOpen heart surgery er jonno\nA+ \nBlood dorkar.  4 bag.\nContact : 01722765692,01533885896",
+  "blood_group": "A+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart surgery",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01722765692",
+        "01533885896"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

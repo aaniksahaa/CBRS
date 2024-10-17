@@ -1,0 +1,32 @@
+{
+  "message": "Emergency B (+ve) Blood Needed. \nDate: 06 Aug 2024\nLocation: Dhaka Trauma Center And Specialised Orthopedic Hospital (Shymoli)\nContact: 01744886975\nReason: Spine Operation\n@highlight",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Spine Operation",
+  "location": "Dhaka Trauma Center And Specialised Orthopedic Hospital (Shymoli)",
+  "hospital_name": "Dhaka Trauma Center And Specialised Orthopedic Hospital (Shymoli)",
+  "location_markers": [
+    "Dhaka",
+    "Shymoli"
+  ],
+  "probable_day": "06/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01744886975"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

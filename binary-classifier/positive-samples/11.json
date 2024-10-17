@@ -1,0 +1,31 @@
+{
+  "message": "Urgent please help! Save a life!  Please\n\nEmergency blood needed \nBlood group:O+ve (3bags)\nLocation:Mirpur Islami Bank hospital\nContact number:01729072748\nThanks in advance.",
+  "blood_group": "O+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Mirpur Islami Bank hospital",
+  "hospital_name": "Mirpur Islami Bank hospital",
+  "location_markers": [
+    "Mirpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01729072748"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

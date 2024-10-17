@@ -1,0 +1,32 @@
+{
+  "message": "Urgent blood needed \ud83e\ude78\ud83d\udea8\u203c\ufe0f\nBLOOD GROUP (O+) \nUttara Adhunik Medical College hospital.\nDengue (platelets 14k)\nUttara sector -11\nPhn:01718364778",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "young"
+  },
+  "condition": "Dengue, platelets 14k",
+  "location": "Uttara Adhunik Medical College hospital",
+  "hospital_name": "Uttara Adhunik Medical College hospital",
+  "location_markers": [
+    "Uttara",
+    "sector -11"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01718364778"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

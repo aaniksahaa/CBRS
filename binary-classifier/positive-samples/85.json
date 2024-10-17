@@ -1,0 +1,31 @@
+{
+  "message": "\u203c\ufe0f\u203c\ufe0f Emergency Blood Needed\u203c\ufe0f\u203c\ufe0f\nAB+ (10-12bags) atleast at Dhaka CMH.\nGot shot on head in today's protest.\nContact: 01634-926345",
+  "blood_group": "AB+",
+  "bags_needed": "10-12",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Shot on head, protest incident",
+  "location": "Dhaka CMH",
+  "hospital_name": "Dhaka CMH",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01634-926345"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

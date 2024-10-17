@@ -1,0 +1,29 @@
+{
+  "message": "B Positive blood need.\nPls \n\u09ac\u09be\u09b0\u09a1\u09c7\u09ae \u098f \u0986\u099b\u09c7\u09a8\u0964\n\u0996\u09c1\u09ac \u099c\u09b0\u09c1\u09b0\u09bf \n+880 1611-967767\n\u09b0\u09cb\u0997\u09c0\u09b0 \u099b\u09c7\u09b2\u09c7 \n\u09aa\u09cd\u09b2\u09bf\u099c \u09a6\u09c7\u0996\u09ac\u09c7\u09a8 \u098f\u0995\u099f\u09c1\u0964\n\u09a7\u09a8\u09cd\u09af\u09ac\u09be\u09a6\u0964",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "\u09ac\u09be\u09b0\u09a1\u09c7\u09ae",
+  "hospital_name": "\u09ac\u09be\u09b0\u09a1\u09c7\u09ae",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1611-967767"
+      ],
+      "relation_with_patient": "son"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

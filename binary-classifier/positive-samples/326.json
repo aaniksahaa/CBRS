@@ -1,0 +1,32 @@
+{
+  "message": "Blood is needed for a Tumor Patient\n\ud83d\udd34Blood Group: B+\n\ud83d\udc89Blood amount: 3 bags\n\ud83d\udcc6 Date: 14/06/24  (Tomorrow)\n\u231a Time:2pm to 4pm \n\ud83c\udfe5 Place:BIRDEM General Hospital 2 (Child and Mother)\n\u260e Phone number: 01889694751",
+  "blood_group": "B+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Tumor Patient",
+  "location": "BIRDEM General Hospital 2 (Child and Mother)",
+  "hospital_name": "BIRDEM General Hospital 2 (Child and Mother)",
+  "location_markers": [
+    "BIRDEM General Hospital 2",
+    "Child and Mother"
+  ],
+  "probable_day": "14/06/2024",
+  "probable_time": "14:00-16:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01889694751"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "message": "Moghbazar Ad-din hostipal a emergency ak rugir jonno Ab+ blood lagbe.",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Moghbazar Ad-din hostipal",
+  "hospital_name": "Moghbazar Ad-din hostipal",
+  "location_markers": [
+    "Moghbazar"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Urgent Blood Needed\ud83e\ude78\nBlood Group: \"O Positive\"\nLocation: Gonoshasthaya Nagar Hospital, Dhanmondi \nTime: Within 8 pm\nContact: 01890095910",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Gonoshasthaya Nagar Hospital, Dhanmondi",
+  "hospital_name": "Gonoshasthaya Nagar Hospital",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "",
+  "probable_time": "after 20:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01890095910"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Urgent \n\u09b0\u0995\u09cd\u09a4 \u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8: Sher-E-Bangla Medical College Hospital, Barishal \n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u0983 AB+\n\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983 1 \u09ac\u09cd\u09af\u09be\u0997\n\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996\u0983 07/08/2024\n\u260e\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997\u0983 01518920900 (\u099c\u09c1\u09b2\u09b9\u09be\u09b8 \u0986\u09ae\u09be\u09b0 \u09ac\u09a8\u09cd\u09a7\u09c1)",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Sher-E-Bangla Medical College Hospital, Barishal",
+  "hospital_name": "Sher-E-Bangla Medical College Hospital, Barishal",
+  "location_markers": [
+    "Barishal"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "\u099c\u09c1\u09b2\u09b9\u09be\u09b8",
+      "contact_numbers": [
+        "01518920900"
+      ],
+      "relation_with_patient": "friend"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

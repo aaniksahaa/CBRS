@@ -1,0 +1,23 @@
+{
+  "message": "Emergency 2 bag A+ blood dorkar \nLocation: Rangpur doctors hospital \nTime : 2 Aug sokal 10tar age\nCan anyone help me please?",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Rangpur doctors hospital",
+  "hospital_name": "Rangpur doctors hospital",
+  "location_markers": [
+    "Rangpur"
+  ],
+  "probable_day": "02/08",
+  "probable_time": "before 10:00",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "\ud83d\udea8URGENT\ud83d\udea8\nNeed O+ blood for a patient at Fuvahmulah \nContact 7376985",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Fuvahmulah",
+  "hospital_name": "",
+  "location_markers": [
+    "Fuvahmulah"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "7376985"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

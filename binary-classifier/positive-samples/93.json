@@ -1,0 +1,31 @@
+{
+  "message": "\ud83d\udd34Urgent Blood Donor Needed (B+)\ud83d\udd34\n\nHospital: Amrita Hospital, Ernakulam\nTime: Tomorrow, 8 AM\n\nPatient: Ashraf NK\nAge: 47\nNative Place: Kannur Puratheel\nSurgery: Liver Transplant\nUnit: SDP\nHospital ID: 2737401\n\nContact: Nazil - +918593880204\n\nPlease come forward if you can help!",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "Ashraf NK",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Liver Transplant, Surgery",
+  "location": "Amrita Hospital, Ernakulam",
+  "hospital_name": "Amrita Hospital, Ernakulam",
+  "location_markers": [
+    "Ernakulam"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "08:00",
+  "contacts": [
+    {
+      "name": "Nazil",
+      "contact_numbers": [
+        "+918593880204"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

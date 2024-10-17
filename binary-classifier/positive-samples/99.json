@@ -1,0 +1,21 @@
+{
+  "message": "@everyone dmc emergency to overwhelmed with patient tonight as you all know. B+ or O+ blood lagbe onek, onek patient blood pacche na.\nBivinno group gulate ektu janaye de je ashe pashe thake emon keo blood dite parle jaate dey please",
+  "blood_group": "B+",
+  "bags_needed": "hyphen",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

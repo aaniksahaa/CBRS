@@ -1,0 +1,31 @@
+{
+  "message": "Dhanmondi ibne sina\n10 am Ab+\n2 bag cancer patient\nContact No: 01315052238",
+  "blood_group": "AB+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Cancer patient",
+  "location": "Dhanmondi ibne sina",
+  "hospital_name": "Dhanmondi ibne sina",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "",
+  "probable_time": "10:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01315052238"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

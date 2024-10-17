@@ -1,0 +1,37 @@
+{
+  "message": "\u09a2\u09be\u0995\u09be\u09b0 \u09ac\u09a8\u09cd\u09a7\u09c1\u0997\u09a8 \u09aa\u09cd\u09b2\u09bf\u099c \u09b9\u09c7\u09b2\u09cd\u09aa\u0964\nBLOOD NEEDED!!!  Rare group of blood (AB-). Spread as many as possible so that she can get the help ASAP.\nSamiya Khan is in Uttara 11,Mansur Ali Medical College after Quota Andolon. She needs 3 bag of Ab negative blood  immediately. Please help, It\u2019s urgent \nPlease contact -\n +8801700-627385,\n+8801939819365\n Uttara 11, Mansur Ali Medical College\n@everyone",
+  "blood_group": "AB-",
+  "bags_needed": "3",
+  "patient": {
+    "name": "Samiya Khan",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Uttara 11, Mansur Ali Medical College",
+  "hospital_name": "Mansur Ali Medical College",
+  "location_markers": [
+    "Uttara 11"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801700-627385",
+        "+8801939819365"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

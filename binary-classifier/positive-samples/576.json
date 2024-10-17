@@ -1,0 +1,32 @@
+{
+  "message": "Repost:\nO+ Blood Needed\nLocation: United Hospital, Gulshan 2\nContact Person: +8801521204902, +8801709370882\nDate: Today will be better otherwise tomorrow\nNB: Patient is in the CCU. Platelet level is very poor.",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Patient is in the CCU. Platelet level is very poor.",
+  "location": "United Hospital, Gulshan 2",
+  "hospital_name": "United Hospital, Gulshan 2",
+  "location_markers": [
+    "Gulshan 2"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801521204902",
+        "+8801709370882"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

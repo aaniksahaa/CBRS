@@ -1,0 +1,21 @@
+{
+  "message": "DMCH e 6 months er babyr jonno 200ml B+ blood lagbe ekhn.. keu acho hall e dte parba?",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "",
+  "location": "DMCH",
+  "hospital_name": "DMCH",
+  "location_markers": [],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

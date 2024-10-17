@@ -1,0 +1,31 @@
+{
+  "message": "B(+ve) \nRokto lagbe 1 bag\nLocation:Kormitula genarel hospotal\nPhone number:01948220045",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Kormitula genarel hospotal",
+  "hospital_name": "Kormitula genarel hospotal",
+  "location_markers": [
+    "Kormitula"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01948220045"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

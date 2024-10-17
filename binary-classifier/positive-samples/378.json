@@ -1,0 +1,29 @@
+{
+  "message": "Urgent 1 bag AB+, Bangladesh Specialized Hospital, Shyamoli - 12 batch er vai (Vai er father cancer patient)",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer patient",
+  "location": "Bangladesh Specialized Hospital, Shyamoli",
+  "hospital_name": "Bangladesh Specialized Hospital, Shyamoli",
+  "location_markers": [
+    "Shyamoli"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Vai",
+      "contact_numbers": [],
+      "relation_with_patient": "brother"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

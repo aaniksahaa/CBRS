@@ -1,0 +1,31 @@
+{
+  "message": "Urgent B+Blood needed\nPG Hospital. Sahabag\n01611335213",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "PG Hospital. Sahabag",
+  "hospital_name": "PG Hospital",
+  "location_markers": [
+    "Sahabag"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01611335213"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

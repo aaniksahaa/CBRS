@@ -1,0 +1,23 @@
+{
+  "message": "A+ blood needed\nLocation: Dhaka Medical College",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Dhaka Medical College",
+  "hospital_name": "Dhaka Medical College",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

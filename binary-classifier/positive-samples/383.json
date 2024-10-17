@@ -1,0 +1,29 @@
+{
+  "message": "0/08/24\n\u098f\u0995\u099c\u09a8 \u09ae\u09be\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \nA+ \u09b0\u0995\u09cd\u09a4 \u09b2\u09be\u0997\u09ac\u09c7\u0964\nLocation: \u09ae\u09bf\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\nContact: 01405505837",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "",
+  "location": "\u09ae\u09bf\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "hospital_name": "\u09ae\u09bf\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+  "location_markers": [],
+  "probable_day": "00/08/24",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01405505837"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

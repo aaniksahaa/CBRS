@@ -1,0 +1,38 @@
+{
+  "message": "Urgent B+ blood lagbe (\u09ae\u09c7\u09b2 \u09a1\u09cb\u09a8\u09be\u09b0 )\nLocation- BIHS Mirpur Hospital \nPatient (my own aunt)is in ICU \nVery critical condition \nYour blood can save a life \nPlease!!\nContact \n+8801677197860\nSohel\n01778113174\nJewel\n****\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u098f\u09b0 \u0986\u09b6\u09c7 \u09aa\u09be\u09b6\u09c7 \u09b9\u09b2\u09c7 \u09ad\u09be\u09b2\u09cb \u09b9\u09af\u09bc \u09af\u09c7\u09b9\u09c7\u09a4\u09c1 \u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09b0 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf \u09ad\u09be\u09b2\u09cb \u09a8\u09be\u0987 ****",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age_group": "adult"
+  },
+  "condition": "Very critical condition, ICU",
+  "location": "BIHS Mirpur Hospital",
+  "hospital_name": "BIHS Mirpur Hospital",
+  "location_markers": [
+    "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Sohel",
+      "contact_numbers": [
+        "+8801677197860"
+      ],
+      "relation_with_patient": "aunt"
+    },
+    {
+      "name": "Jewel",
+      "contact_numbers": [
+        "01778113174"
+      ],
+      "relation_with_patient": "aunt"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

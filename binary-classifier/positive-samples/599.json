@@ -1,0 +1,34 @@
+{
+  "message": "\u099c\u09b0\u09c1\u09b0\u09bf \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8 \n\ud83d\udc81\u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af:- \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \n\ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa:- A- (Negative)\n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3:- \u09ea \u09ac\u09cd\u09af\u09be\u0997\n\ud83d\udcc6\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996: \u09e6\u09ee/\u09e6\u09ee/\u09e8\u09e6\u09e8\u09ea\n\u231a\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc: \u09b8\u0995\u09be\u09b2 \u09e7\u09e7 \u09aa\u09b0\n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8 Islami Bank Central Hospital, Kakrail\n\u260e\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \n01727747183,,\n01878864940\n\ud83d\udca0\u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8\ud83d\udc49:-01765370205\n                            01601190964",
+  "blood_group": "A-",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue",
+  "location": "Islami Bank Central Hospital, Kakrail",
+  "hospital_name": "Islami Bank Central Hospital, Kakrail",
+  "location_markers": [
+    "Kakrail"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "after 11:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01727747183",
+        "01878864940",
+        "01765370205",
+        "01601190964"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

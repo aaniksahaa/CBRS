@@ -1,0 +1,29 @@
+{
+  "message": "A kid got shot !\nUrgent B positive blood needed in CMH!\nContact no:\n01716118401",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Shot",
+  "location": "CMH",
+  "hospital_name": "CMH",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01716118401"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

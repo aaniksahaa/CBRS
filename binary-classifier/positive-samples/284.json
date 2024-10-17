@@ -1,0 +1,31 @@
+{
+  "message": "Emergency blood need!!\u2666\ufe0f\u2666\ufe0f\n\u0986\u09b8\u09b8\u09be\u09b2\u09be\u09ae\u09c1 \u0986\u09b2\u09be\u0987\u0995\u09c1\u09ae\u0964 \n\u099c\u09b0\u09c1\u09b0\u09bf \u09ad\u09bf\u09a4\u09cd\u09a4\u09bf\u09a4\u09c7 O negative \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u0964 \n\u09b0\u09cb\u0997\u09c0\u09b0 \u09a1\u09be\u09df\u09be\u09b2\u09be\u0987\u09b8\u09bf\u09b8 \u0995\u09b0\u09be\u09a8\u09cb \u09b9\u09ac\u09c7\u0964 \n\u09b8\u09cd\u09a5\u09be\u09a8: \u09b6\u09be\u09b9\u09ac\u09be\u0997 \u09ac\u09be\u09b0\u09a1\u09c7\u09ae \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2\u0964 \n\u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 : 01761398729",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dialysis",
+  "location": "\u09b6\u09be\u09b9\u09ac\u09be\u0997 \u09ac\u09be\u09b0\u09a1\u09c7\u09ae \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2",
+  "hospital_name": "\u09b6\u09be\u09b9\u09ac\u09be\u0997 \u09ac\u09be\u09b0\u09a1\u09c7\u09ae \u09b9\u09b8\u09aa\u09bf\u099f\u09be\u09b2",
+  "location_markers": [
+    "\u09b6\u09be\u09b9\u09ac\u09be\u0997"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01761398729"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

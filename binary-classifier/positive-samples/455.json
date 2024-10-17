@@ -1,0 +1,31 @@
+{
+  "message": "\u098f\u0995\u099f\u09bf \u09ae\u09be\u09a8\u09ac\u09bf\u0995 \u0986\u09ac\u09c7\u09a6\u09a8\n\ud83d\udd90\ud83c\udffc \u099c\u09c0\u09ac\u09a8 \u09ac\u09be\u0981\u099a\u09be\u09a4\u09c7 \u09b0\u0995\u09cd\u09a4 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\n\u2022 \u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be:\u09b8\u09bf\u09b7\u09cd\u099f\n\u2022 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa: 0+\n\u2022 \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3: 3\u09ac\u09c7\u0997\n\u2022 \u09b9\u09bf\u09ae\u09cb\u0997\u09cd\u09b2\u09cb\u09ac\u09bf\u09a8\u0983-6\n\u2022 \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09a4\u09be\u09b0\u09bf\u0996:15-07-24\n\u2022 \u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8: Dhaka Adhunik Medical College Hospital \n\u2022 \u09ab\u09cb\u09a8 \u09a8\u09be\u09ae\u09cd\u09ac\u09be\u09b0 : +8801764474746",
+  "blood_group": "O+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Syst",
+  "location": "Dhaka Adhunik Medical College Hospital",
+  "hospital_name": "Dhaka Adhunik Medical College Hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "15/07/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801764474746"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "message": "Emergency blood needed \nAddress: mirpur 14,  Dhaka CMH, Cantonment \nContact : 01306742853\nBlood group: O-",
+  "blood_group": "O-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "mirpur 14,  Dhaka CMH, Cantonment",
+  "hospital_name": "CMH",
+  "location_markers": [
+    "mirpur",
+    "Dhaka",
+    "Cantonment"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01306742853"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

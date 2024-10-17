@@ -1,0 +1,31 @@
+{
+  "message": "emergency blood needed in dhaka medical\nblood group: O+\ncontact no : +8801788750423",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "dhaka medical",
+  "hospital_name": "dhaka medical",
+  "location_markers": [
+    "dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801788750423"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

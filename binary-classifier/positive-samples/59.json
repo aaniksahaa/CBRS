@@ -1,0 +1,31 @@
+{
+  "message": "Need 5-6 bag A+ blood \n\nLocation rangpur community medical college (doctors clinic) as soon as possible\n\nImmediate blood dite na parle organ failure er chance ace...\n\nContact - +8801725226221",
+  "blood_group": "A+",
+  "bags_needed": "5-6",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Chance of organ failure",
+  "location": "rangpur community medical college (doctors clinic)",
+  "hospital_name": "rangpur community medical college (doctors clinic)",
+  "location_markers": [
+    "Rangpur"
+  ],
+  "probable_day": "",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801725226221"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

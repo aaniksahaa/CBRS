@@ -1,0 +1,36 @@
+{
+  "message": "Emergency \ud83d\udea8 Blood Needed \nPatient name: Dilip kumar Dey.\nAge   .             : 65.\nBlood Group: AB+.\nNeeded.        : 2 bag\nHemoglobin : 13.7.\nReason          :Bypass hobe.\nLocation        : United hospital \nContact          :01832656500",
+  "blood_group": "AB+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "Dilip kumar Dey",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Bypass surgery",
+  "location": "United hospital",
+  "hospital_name": "United hospital",
+  "location_markers": [
+    "United"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01832656500"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

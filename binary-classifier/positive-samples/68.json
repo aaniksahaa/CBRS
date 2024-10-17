@@ -1,0 +1,31 @@
+{
+  "message": "0+ blood needed \nRangpur medical College. \nEmergency \nContact : 01972823680",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Emergency",
+  "location": "Rangpur medical College",
+  "hospital_name": "Rangpur medical College",
+  "location_markers": [
+    "Rangpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01972823680"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

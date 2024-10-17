@@ -1,0 +1,23 @@
+{
+  "message": "O+ blood immediately needed at Munshiganj General Hospital\nplease help them out!\n#savemunshiganj",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Munshiganj General Hospital",
+  "hospital_name": "Munshiganj General Hospital",
+  "location_markers": [
+    "Munshiganj"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

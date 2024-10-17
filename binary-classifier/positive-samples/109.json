@@ -1,0 +1,24 @@
+{
+  "message": "Emergency\u26a0\ufe0f\u26a0\ufe0f\nBlood Group: O Negative\n\nBRB Hospital, West Panthapath, Dhaka\nQuick response please\n\nWithin one hour please",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "BRB Hospital, West Panthapath, Dhaka",
+  "hospital_name": "BRB Hospital",
+  "location_markers": [
+    "West Panthapath",
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "in 1 hour",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

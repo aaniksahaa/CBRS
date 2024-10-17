@@ -1,0 +1,31 @@
+{
+  "message": "Urgent AB+ blood is needed for cancer patient in Square Hospital. Ur support is very important for saving this life.\nPlease call Minhaj - +8801715279600",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "Square Hospital",
+  "hospital_name": "Square Hospital",
+  "location_markers": [
+    "Square"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Minhaj",
+      "contact_numbers": [
+        "+8801715279600"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "message": "Ab+ blood lagbe 2 beg\nDoya kore kew dile khub upokar hobe\nInternetional hospital in Rangpur",
+  "blood_group": "AB+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Internetional hospital in Rangpur",
+  "hospital_name": "Internetional hospital in Rangpur",
+  "location_markers": [
+    "Rangpur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

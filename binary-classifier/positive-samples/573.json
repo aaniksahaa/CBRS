@@ -1,0 +1,32 @@
+{
+  "message": "Name:Nasima Akter\nMobile number:01584052262\nBlood group=B+\nDate: 8 August \nHospital:Holy Family \nReason: Dangu jor tai emergency blood lagba, Rugir obosta khub e critical so please help her.\n\u0985\u09ac\u09b8\u09cd\u09a5\u09be\u09a8: \u0987\u09b8\u09cd\u0995\u09be\u099f\u09a8 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u09b0\u09cb\u09a1, \u09b0\u09ae\u09a8\u09be, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "Nasima Akter",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue fever, critical condition",
+  "location": "\u0987\u09b8\u0995\u09be\u09a4\u09a8 \u0997\u093e\u09b0\u094d\u09a1\u0967\u09a8 \u09b0\u09b8\u09c1\u09a8, \u09b0\u09ae\u09a8\u09be, \u09a2\u09be\u0995\u0a1c,\u09a6\u09be\u0995\u09be \u0a9c\u09cd\u09be\u09a8\u09cd\u09af",
+  "hospital_name": "Holy Family",
+  "location_markers": [
+    "\u09b0\u09ae\u09a8\u09be",
+    "\u09a6\u09be\u0995\u09be"
+  ],
+  "probable_day": "08/08",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01584052262"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "O+ Blood Needed \nHospital- Central Police Hospital, Rajarbag\nContact : 01712715872\nUrgent",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Central Police Hospital, Rajarbag",
+  "hospital_name": "Central Police Hospital, Rajarbag",
+  "location_markers": [
+    "Rajarbag"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01712715872"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

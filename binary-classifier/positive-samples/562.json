@@ -1,0 +1,24 @@
+{
+  "message": "\u0987\u09ae\u09be\u09b0\u09cd\u099c\u09c7\u09a8\u09cd\u09b8\u09bf A+ (\u09aa\u099c\u09c7\u099f\u09bf\u09ad) \u09b0\u0995\u09cd\u09a4 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u0964 \n\u09b8\u09b9\u09af\u09cb\u0997\u09bf\u09a4\u09be \u0995\u09b0\u09c1\u09a8 \u09aa\u09cd\u09b2\u09bf\u099c\u0964\n\u09b2\u09cb\u0995\u09c7\u09b6\u09a8: \u09a8\u09be\u0993\u099c\u09cb\u09b0,\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0\u0964",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "\u09a8\u09be\u0993\u099c\u09cb\u09b0,\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0\u0964",
+  "hospital_name": "",
+  "location_markers": [
+    "\u09a8\u09be\u0993\u099c\u09cb\u09b0",
+    "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

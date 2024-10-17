@@ -1,0 +1,31 @@
+{
+  "message": "Emergency blood needed for low hemoglobin\nBlood group: O+ \nLocation- Gazipur, sadar\nHospital : gazipur sadar hospital \nQuantity : 1 bag\nContact : 01303389841\nIt's an Emergency",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Low hemoglobin, Emergency",
+  "location": "Gazipur, sadar",
+  "hospital_name": "gazipur sadar hospital",
+  "location_markers": [
+    "Gazipur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01303389841"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

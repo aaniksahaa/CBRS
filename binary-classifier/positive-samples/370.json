@@ -1,0 +1,31 @@
+{
+  "message": "\"#AB+ blood needed\n\u09a2\u09be\u09ae\u09c7\u0995\u09c7 \u09ea \u09ac\u09cd\u09af\u09be\u0997 \u09b2\u09be\u0997\u09ac\u09c7\u0964 \u098f\u0996\u09a8\u0987-\u0987\u09ae\u09be\u09b0\u09cd\u099c\u09c7\u09a8\u09cd\u09b8\u09bf\u0964\nLocation:  Dhaka Medical\nContact:  +8801515-225968\nName: Lopa",
+  "blood_group": "AB+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "Lopa",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Dhaka Medical",
+  "hospital_name": "Dhaka Medical",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "Lopa",
+      "contact_numbers": [
+        "+8801515-225968"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "B(+) \u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\n\ud83d\udd34\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa\u0983  \u09ac\u09bf \u09aa\u099c\u09c7\u099f\u09bf\u09ad\n\ud83d\udc89\u09b0\u0995\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3:1 \u09ac\u09cd\u09af\u09be\u0997\n\u231a\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc:  \u09e6\u09e9 \u0986\u0997\u09b8\u09cd\u099f\n\ud83c\udfe5\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a8\u09c7\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8 : CKD \u09b6\u09be\u09ae\u09b2\u09bf, \u09a2\u09be\u0995\u09be\u0964\n\u260e\u09af\u09c7\u09be\u0997\u09be\u09af\u09c7\u09be\u0997 :01571269394",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "CKD \u09b6\u09be\u09ae\u09b2\u09bf, \u09a2\u09be\u0995\u09be\u0964",
+  "hospital_name": "CKD \u09b6\u09be\u09ae\u09b2\u09bf, \u09a2\u09be\u0995\u09be\u0964",
+  "location_markers": [
+    "\u09a2\u09be\u0995\u09be"
+  ],
+  "probable_day": "03/08",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01571269394"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "message": "Emergency Blood dorkar vai era...Serious patient...khub kharap obostha vai..kew parle donate koren...dhanmondi er kase kew thakle\nBlood group: B+\nLocation: Anowerkhan modern college hospital\nContact:01775609547",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Serious condition",
+  "location": "Anowerkhan modern college hospital",
+  "hospital_name": "Anowerkhan modern college hospital",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01775609547"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

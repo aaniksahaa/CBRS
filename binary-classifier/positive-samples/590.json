@@ -1,0 +1,32 @@
+{
+  "message": "o+ blood lagla call 018287856620 koron sudhu (abdullahpur,gajipur)",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "abdullahpur,gajipur",
+  "hospital_name": "",
+  "location_markers": [
+    "abdullahpur",
+    "gajipur"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "018287856620"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

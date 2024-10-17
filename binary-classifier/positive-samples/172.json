@@ -1,0 +1,31 @@
+{
+  "message": "\"\u09a2\u09be\u0995\u09be\u09df\" #\u09a6\u09c1\u09b0\u09cd\u09b2\u09ad A- \u09b0\u0995\u09cd\u09a4 \u09a6\u09b0\u0995\u09be\u09b0\u0983\n\u0986\u099c\u0995\u09c7\u09b0 [02-11-2023] \u09ae\u09a7\u09cd\u09af\u09c7 \u09e7 \u09ac\u09cd\u09af\u09be\u0997 \"\u098f \u09a8\u09c7\u0997\u09c7\u099f\u09bf\u09ad\" \u09b0\u0995\u09cd\u09a4 \u09a6\u09b0\u0995\u09be\u09b0\u0964 [\u09b0\u0995\u09cd\u09a4\u09a6\u09be\u09a4\u09be \u09aa\u09be\u0993\u09df\u09be \u0997\u09c7\u09b2\u09c7 \u09b0\u09cb\u0997\u09c0\u0995\u09c7 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09a8\u09c7\u09df\u09be \u09b9\u09ac\u09c7]\u0964 \u09ab\u09cb\u09a8\u0983 01838723706 (\u09b0\u09cb\u0997\u09c0\u09b0 \u0986\u09a4\u09cd\u09ae\u09c0\u09df)",
+  "blood_group": "A-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "\u09a2\u09be\u0995\u09be\u09df",
+  "hospital_name": "",
+  "location_markers": [
+    "\u09a2\u09be\u0995\u09be"
+  ],
+  "probable_day": "02/11/2023",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01838723706"
+      ],
+      "relation_with_patient": "\u09b0\u09cb\u0997\u09c0\u09b0 \u0986\u09a4\u09cd\u09ae\u09c0\u09df"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

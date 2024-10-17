@@ -1,0 +1,31 @@
+{
+  "message": "Emergency AB+ve blood needed for a dengue patient right now. Gari pick and drop off korbe.\nLocation: Square Hospital, Dhanmondi\nContact: 01781172996\nOr inbox me",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue",
+  "location": "Square Hospital, Dhanmondi",
+  "hospital_name": "Square Hospital",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01781172996"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "Y",
+    "allowance": ""
+  }
+}

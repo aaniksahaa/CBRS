@@ -1,0 +1,31 @@
+{
+  "message": "1 bag A+ blood lagbe Dhanmondi Popular e. Patient pet e guli khaise. \nContact: +8801840857349 (Shuvro)\n\nPlease see if anyone of you can help. And spread the text\n@everyone",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Eaten some stones",
+  "location": "Dhanmondi Popular",
+  "hospital_name": "Dhanmondi Popular",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Shuvro",
+      "contact_numbers": [
+        "+8801840857349"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

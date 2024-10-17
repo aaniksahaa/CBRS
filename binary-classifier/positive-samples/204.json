@@ -1,0 +1,37 @@
+{
+  "message": "BLOOD NEEDED !!!!!!\nSamiya Khan is in Uttara 11, Mansur Ali Medical College after Quota Andolon. She needs 3 bag of Ab negative blood immediately. Please help, It's urgent\nPlease contact - +8801700-627385, +8801939819365\nUttara 11, Mansur Ali Medical College",
+  "blood_group": "AB-",
+  "bags_needed": "3",
+  "patient": {
+    "name": "Samiya Khan",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Uttara 11, Mansur Ali Medical College",
+  "hospital_name": "Mansur Ali Medical College",
+  "location_markers": [
+    "Uttara 11"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801700-627385",
+        "+8801939819365"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

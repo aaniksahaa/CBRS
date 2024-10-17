@@ -1,0 +1,31 @@
+{
+  "message": "O+ve blood needed for a dengue patient (7 years old)\nSDP lagbe. Male donor required. \nLocation : CMH Dhaka\nFather's number : +8801614091105",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "M",
+    "age_group": "child"
+  },
+  "condition": "Dengue",
+  "location": "CMH Dhaka",
+  "hospital_name": "CMH Dhaka",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801614091105"
+      ],
+      "relation_with_patient": "Father"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

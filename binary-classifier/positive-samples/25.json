@@ -1,0 +1,31 @@
+{
+  "message": "Urgent AB-(ve) blood needed\nPlatelet: 15000\nTime: Today \nKhidmah Hospital Pvt Limited, Khilgaon\nContact: 01997-500131",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Platelet: 15000",
+  "location": "Khidmah Hospital Pvt Limited, Khilgaon",
+  "hospital_name": "Khidmah Hospital Pvt Limited",
+  "location_markers": [
+    "Khilgaon"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01997-500131"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

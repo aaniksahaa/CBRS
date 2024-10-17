@@ -1,0 +1,31 @@
+{
+  "message": "Urgent \u203c\ufe0f\u203c\ufe0f\nB+ blood needed \nUnited hospital gulsan 2 \n01738779210",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "United hospital gulsan 2",
+  "hospital_name": "United hospital gulsan 2",
+  "location_markers": [
+    "gulsan"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01738779210"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

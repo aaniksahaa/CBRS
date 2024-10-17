@@ -1,0 +1,23 @@
+{
+  "message": "assalamualaikum vaiya.. Emergency O- blood lagbe.. Location nikunjo 2... Dialysis patient.. Obostha onk kharap... Dite parle kindly janaben... Direct eshe dekhe diben..\n\nAmr baba cancer patients with lung infection. Admitted in square hospital dhanmondi. A+ blood need",
+  "blood_group": "O-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dialysis patient, condition very bad",
+  "location": "nikunjo 2",
+  "hospital_name": "",
+  "location_markers": [
+    "nikunjo"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  }
+}

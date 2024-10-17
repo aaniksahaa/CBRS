@@ -15,14 +15,66 @@ const getSingleDonor = async (payload) => {
   }
 };
 
+// const getDonors = async (payload) => {
+//   const page = payload.page || 1;
+//   const perPage = payload.per_page || 10;
+//   const sortBy = payload.orderby || "name";
+//   const sortOrder = payload.ordertype === "desc" ? "desc" : "asc";
+
+//   try {
+//     const donors = await prisma.donor.findMany({
+//       take: perPage,
+//       skip: (page - 1) * perPage,
+//       orderBy: {
+//         [sortBy]: sortOrder,
+//       },
+//     });
+
+//     return donors;
+//   } catch (error) {
+//     console.error(error);
+//     throw error;
+//   }
+// };
+
 const getDonors = async (payload) => {
   const page = payload.page || 1;
   const perPage = payload.per_page || 10;
   const sortBy = payload.orderby || "name";
   const sortOrder = payload.ordertype === "desc" ? "desc" : "asc";
 
+  // Dynamically build the filters object
+  const filters = {};
+
+  if (payload.chatPlatform) {
+    filters.chatPlatform = payload.chatPlatform;
+  }
+  
+  if (payload.telegramUsername) {
+    filters.telegramUsername = payload.telegramUsername;
+  }
+
+  if (payload.discordUserId) {
+    filters.discordUserId = payload.discordUserId;
+  }
+
+  if (payload.telegramChatId) {
+    filters.telegramChatId = payload.telegramChatId;
+  }
+
+  if (payload.bloodGroup) {
+    filters.bloodGroup = payload.bloodGroup;
+  }
+
+  // Add more filters as needed
+  // Example: if filtering by name
+  if (payload.name) {
+    filters.name = { contains: payload.name, mode: 'insensitive' }; // Partial match and case insensitive
+  }
+
   try {
     const donors = await prisma.donor.findMany({
+      where: filters, // Use the dynamic filters object
       take: perPage,
       skip: (page - 1) * perPage,
       orderBy: {
@@ -36,6 +88,7 @@ const getDonors = async (payload) => {
     throw error;
   }
 };
+
 
 const createDonor = async (payload) => {
   try {

@@ -5,7 +5,7 @@ let api_base;
 // const localhost_backend_url = 'http://192.168.229.36:3000'
 const localhost_backend_url = "http://localhost:3000";
 // const remote_backend_url = "https://qlearn.onrender.com";
-const remote_backend_url = "https://qlearn-backend-6ce3ea37092c.herokuapp.com";
+const remote_backend_url = "https://delta-blood-bot-backend.onrender.com";
 
 if (process.env.NODE_ENV === "development") {
   api_base = localhost_backend_url;

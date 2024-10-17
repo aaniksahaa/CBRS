@@ -1,59 +1,41 @@
-import asyncio
-import logging
-import sys
-from os import getenv
+from dotenv import load_dotenv
+load_dotenv()
 
-from aiogram import Bot, Dispatcher, html
-from aiogram.client.default import DefaultBotProperties
-from aiogram.enums import ParseMode
-from aiogram.filters import CommandStart, Command
-from aiogram.types import Message
-from utils import *
+from langchain_core.output_parsers import JsonOutputParser
+from langchain.prompts import PromptTemplate
+from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
+from langchain_community.callbacks.manager import get_openai_callback
 
-# All handlers should be attached to the Router (or Dispatcher)
+llm = ChatOpenAI(temperature=0, model_name="gpt-4o-mini")
 
-dp = Dispatcher()
+def get_coordinates(place_name):
+    class Coordinates(BaseModel):
+        latitude: float = Field(description="Latitude of the location")
+        longitude: float = Field(description="Longitude of the location")
 
+    parser = JsonOutputParser(pydantic_object=Coordinates)
 
-@dp.message(CommandStart())
-async def command_start_handler(message: Message) -> None:
-    """
-    This handler receives messages with `/start` command
-    """
-    # Most event objects have aliases for API methods that can be called in events' context
-    # For example if you want to answer to incoming message you can use `message.answer(...)` alias
-    # and the target chat will be passed to :ref:`aiogram.methods.send_message.SendMessage`
-    # method automatically or call API method directly via
-    # Bot instance: `bot.send_message(chat_id=message.chat.id, ...)`
-    await message.answer(f"Hello, {html.bold(message.from_user.full_name)}!")
+    prompt = PromptTemplate(
+        template="""
+    You have to correctly provide the latitude and longitude of a place in Bangladesh in
+    a JSON format.
 
-@dp.message(Command(commands=['help', 'register', 'my_info', 'blood_group', 'last_donated', 'location']))
-async def command_handler(message: Message) -> None:
-    await message.answer("Here is some help text!")
+    Name of the place: {place_name}
 
-@dp.message()
-async def echo_handler(message: Message) -> None:
-    """
-    Handler will forward receive a message back to the sender
+    Now provide nothing but the required JSON.
+    {format_instructions}
+    """,
+        input_variables=["place_name"],
+        partial_variables={"format_instructions": parser.get_format_instructions()},
+    )
 
-    By default, message handler will handle all message types (like a text, photo, sticker etc.)
-    """
-    try:
-        # Send a copy of the received message
-        await message.send_copy(chat_id=message.chat.id)
-    except TypeError:
-        # But not all the types is supported to be copied so need to handle it
-        await message.answer("Nice try!")
+    chain = prompt | llm | parser
 
-
-async def main() -> None:
-    # Initialize Bot instance with default bot properties which will be passed to all API calls
-    bot = Bot(token=TG_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
-
-    # And the run events dispatching
-    await dp.start_polling(bot)
-
-
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO, stream=sys.stdout)
-    asyncio.run(main())
+    with get_openai_callback() as cb:
+        # place_name = "Uttara 11, Mansur Ali Medical College"
+        response = chain.invoke({"place_name": place_name})
+        print(cb)
+        return response
+    
+print(get_coordinates("Dhaka Medical College"))

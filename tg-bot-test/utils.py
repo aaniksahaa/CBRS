@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+load_dotenv()
 import os 
 import calendar
 import json 
@@ -6,7 +7,14 @@ import json
 from openai import OpenAI
 import tiktoken
 
-load_dotenv()
+from langchain_core.output_parsers import JsonOutputParser
+from langchain.prompts import PromptTemplate
+from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
+from langchain_community.callbacks.manager import get_openai_callback
+
+llm = ChatOpenAI(temperature=0, model_name="gpt-4o-mini")
+
 TG_TOKEN = os.getenv('TG_TOKEN')
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 LLAMA_API_KEY = os.getenv('LLAMA_API_KEY')
@@ -20,6 +28,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 logger = logging.getLogger(__name__)
+
 
 def debug(x):
     if ENV == 'development':
@@ -68,7 +77,6 @@ def count_tokens(text, model_name="gpt-3.5-turbo"):
 
 
 def get_response(user_text):
-
     sample_text = """
 জরুরী ভিত্তিতে  AB(-)রক্তের প্রয়োজন।
 
@@ -113,7 +121,7 @@ def get_response(user_text):
     prompt = f""" 
 {sample_text}
 
-See I have this text, and from it, i manually generated this json
+See I have this text message, and from it, i manually generated this json
 
 {json.dumps(sample_json)}
 

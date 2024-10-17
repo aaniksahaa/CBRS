@@ -1,0 +1,761 @@
+[
+  {
+    "id": "6505cc6b7dd540cb59901196",
+    "statement": "Consider a quantum circuit with a single qubit initially in the state \\( \\frac{i}{\\sqrt{2}}|0\\rangle - \\frac{1}{\\sqrt{2}}|1\\rangle \\). If a Hadamard gate \\(H\\) is applied to this qubit, what will be the resulting state?",
+    "statement_image_urls": "",
+    "options": "\\( \\frac{1}{2}(|0\\rangle - |1\\rangle) \\)\n#\n\\( \\frac{1}{2}(|0\\rangle + |1\\rangle) \\)\n#\n\\( -\\frac{i}{2}(|0\\rangle + |1\\rangle) \\)\n#\n\\( -\\frac{i}{2}(|0\\rangle - |1\\rangle) \\)\n",
+    "option_image_urls": "",
+    "hints": "Use the matrix representation of the Hadamard gate \\(H\\) to perform the operation on the given initial state.\n#\nPay close attention to the coefficients and signs that appear in the calculation.\n#\nConsider the quantum superposition principle when combining states.",
+    "correct_option_index": 2,
+    "difficulty": "Medium",
+    "explanation": "The Hadamard gate \\(H\\) has the matrix representation:\n\n\\[\nH = \\frac{1}{\\sqrt{2}} \\begin{bmatrix}\n1 & 1 \\\\\n1 & -1\n\\end{bmatrix}\n\\]\n\nGiven the initial state \\( \\frac{i}{\\sqrt{2}}|0\\rangle - \\frac{1}{\\sqrt{2}}|1\\rangle \\), applying \\(H\\) yields:\n\n\\[\nH \\left( \\frac{i}{\\sqrt{2}}|0\\rangle - \\frac{1}{\\sqrt{2}}|1\\rangle \\right) = -\\frac{i}{2}(|0\\rangle + |1\\rangle)\n\\]\n\nThis results in the state \\( -\\frac{i}{2}(|0\\rangle + |1\\rangle) \\).",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-09-16T15:40:27.650Z",
+    "updated_at": "2023-11-25T19:32:24.195Z",
+    "deleted_at": null,
+    "lesson_id": "650228bba91bf52650ee94af",
+    "answered_by": [
+      {
+        "id": "6567770e3a150195022afeb4",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "6505cc6b7dd540cb59901196",
+        "chosen_option_index": 0,
+        "created_at": "2023-11-29T17:38:22.229Z",
+        "updated_at": "2023-11-29T17:38:22.229Z",
+        "deleted_at": null
+      },
+      {
+        "id": "662df8ba25600b5d5243571d",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "6505cc6b7dd540cb59901196",
+        "chosen_option_index": 2,
+        "created_at": "2024-04-28T07:20:26.058Z",
+        "updated_at": "2024-04-28T07:20:26.058Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "655e11a66a981188fd44874b",
+    "statement": "Assume that a superposition of tqo qubits is as follows, \\(0.3|00\\rangle+0.1|01\\rangle+0.2|10\\rangle+d|11\\rangle\\),\n\nWhat should be the coefficient of the state \\(|01\\rangle\\) if we feed them thorugh the following gate?\n",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fswap-gate.png?alt=media&token=c32f1bd5-b57f-48c3-9153-8577d22aa246",
+    "options": "0.1\n#\n0.2\n#\n0.3\n#\n0.4",
+    "option_image_urls": "",
+    "hints": "Can you indentify the gate?\n#\nOnly which states should change?\n#\nHow should they change?",
+    "correct_option_index": 1,
+    "difficulty": "medium",
+    "explanation": "The shown gate is a SWAP gate. For this gate, only the states \\(|01\\rangle\\) and \\(|10\\rangle\\) should exchange coefficients.\n\nTherefore the coefficient of  \\(|01\\rangle\\)  will be 0.2.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-22T14:35:18.148Z",
+    "updated_at": "2023-11-22T14:35:18.148Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe8bec901f17370a9261",
+    "answered_by": [
+      {
+        "id": "6564a6efc2e609b8c665d62d",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "655e11a66a981188fd44874b",
+        "chosen_option_index": 0,
+        "created_at": "2023-11-27T14:25:50.954Z",
+        "updated_at": "2023-11-27T14:25:50.954Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "655e16a76a981188fd44874c",
+    "statement": "In Qiskit, which of the following pieces of codes will generate the following circuit consisting of SWAP gates?\n\nThe first line is obviously \n\nqc = QuantumCircuit(3)",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fswap-cycle-circ.png?alt=media&token=b5776b05-1aed-4a14-9914-c0a5fdec6a11",
+    "options": "qc.swap(0, 1)  \nqc.swap(1, 2)  \nqc.swap(2, 0)\n#\nqc.swap(0, 1)  \nqc.swap(1, 0)  \nqc.swap(2, 0)\n#\nqc.swap(0, 1)  \nqc.swap(1, 0)  \n#\nqc.swap(0, 1)  \nqc.swap(1, 2)  \nqc.swap(2, 1)",
+    "option_image_urls": "",
+    "hints": "How many qubits?\n#\nWhich pairs demand a gate between them?",
+    "correct_option_index": 0,
+    "difficulty": "medium",
+    "explanation": "This is pretty simple.\\n\\n You just need to introduce gates between the pairs (0,1), (1,2), (2,0). You may also consider simulating the circuit in Qiskit. Then run qc.draw('mpl') to obtain the given picture.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-22T14:56:39.251Z",
+    "updated_at": "2023-11-22T15:11:26.623Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe8bec901f17370a9261",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "655e2fc66a981188fd44874d",
+    "statement": "Which of the following circuits is equivalent to that consisting of only one SWAP gate?",
+    "statement_image_urls": "",
+    "options": "#\n#\nBoth\n#\nNone",
+    "option_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fc4.png?alt=media&token=3ba25c3a-05a1-45df-ab92-7ba936cfed30\n#\nhttps://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fimage%20(6).png?alt=media&token=766e39d4-4644-4f05-9100-793c28cef73d",
+    "hints": "How could we check if a given circuit is correct?\n#\nCan we just check the resulting matrix?\n#\nFor which does the matrix match with that of SWAP gate",
+    "correct_option_index": 2,
+    "difficulty": "Hard",
+    "explanation": "This is in fact a common implementation of SWAP gate with the help of CNOT gates.\n\nThe proof is as follows:\n\nLet's denote the states of two qubits as \\(|a\\rangle\\) and \\(|b\\rangle\\). The CNOT gate operates on two qubits, the control qubit (denoted as \\(c\\)) and the target qubit (denoted as \\(t\\)).\n\nThe SWAP gate swaps the states of two qubits. The matrix representation of the SWAP gate is:\n\n\\[\n\\text{SWAP} = \\begin{bmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 0 & 1 & 0 \\\\\n0 & 1 & 0 & 0 \\\\\n0 & 0 & 0 & 1 \\\\\n\\end{bmatrix}\n\\]\n\nNow, let's implement the SWAP gate using three CNOT gates. \n\n1. Apply CNOT gate with control qubit \\(a\\) and target qubit \\(b\\):\n\\[\n\\text{CNOT}_{ab} = \\begin{bmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 1 & 0 & 0 \\\\\n0 & 0 & 0 & 1 \\\\\n0 & 0 & 1 & 0 \\\\\n\\end{bmatrix}\n\\]\n\n2. Apply CNOT gate with control qubit \\(b\\) and target qubit \\(a\\):\n\\[\n\\text{CNOT}_{ba} = \\begin{bmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 0 & 0 & 1 \\\\\n0 & 0 & 1 & 0 \\\\\n0 & 0 & 0 & 1 \\\\\n\\end{bmatrix}\n\\]\n\n3. Apply CNOT gate with control qubit \\(a\\) and target qubit \\(b\\) again:\n\\[\n\\text{CNOT}_{ab} = \\begin{bmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 1 & 0 & 0 \\\\\n0 & 0 & 0 & 1 \\\\\n0 & 0 & 1 & 0 \\\\\n\\end{bmatrix}\n\\]\n\nNow, let's multiply these matrices to get the overall transformation:\n\n\\[\n\\text{SWAP} = \\text{CNOT}_{ab} \\times \\text{CNOT}_{ba} \\times \\text{CNOT}_{ab}\n\\]\n\nMultiplying these matrices will give the SWAP gate matrix. The result of this multiplication should match the matrix representation of the SWAP gate provided above.\n",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-22T16:43:50.451Z",
+    "updated_at": "2023-11-22T16:43:50.451Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe8bec901f17370a9261",
+    "answered_by": [
+      {
+        "id": "6564a6c3c2e609b8c665d62c",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "655e2fc66a981188fd44874d",
+        "chosen_option_index": 1,
+        "created_at": "2023-11-27T14:25:07.178Z",
+        "updated_at": "2023-11-27T14:25:07.178Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "655e36266a981188fd44874e",
+    "statement": "Hadamard Gate rotates the qubit by 180 degrees around an axis. If we represent it using \\(i\\), \\(j\\), and \\(k\\), which of the following matrix representations corresponds to the Hadamard Gate in terms of \\(i\\), \\(j\\), and \\(k\\)?",
+    "statement_image_urls": "",
+    "options": "\\( \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix} \\)\n#\n\\( \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix} \\)\n#\n\\( \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix} \\)\n#\n\\( \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix} \\)",
+    "option_image_urls": "",
+    "hints": "Recall the picture from the slides.\n#\nHow do we represent it using vectors?",
+    "correct_option_index": 0,
+    "difficulty": "Easy",
+    "explanation": "The vector in Bloch Sphere is denoted by the bisector if x and z axis. So clearly, the first one is correct.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-22T17:11:02.861Z",
+    "updated_at": "2023-11-22T17:11:02.861Z",
+    "deleted_at": null,
+    "lesson_id": "650228bba91bf52650ee94af",
+    "answered_by": [
+      {
+        "id": "662e164f25600b5d5243571f",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "655e36266a981188fd44874e",
+        "chosen_option_index": 1,
+        "created_at": "2024-04-28T09:26:38.962Z",
+        "updated_at": "2024-04-28T09:26:38.962Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "655e37f16a981188fd44874f",
+    "statement": "What is the Hadamard gate most commonly used for in quantum circuits?",
+    "statement_image_urls": "",
+    "options": "Quantum entanglement\n#\nQuantum error correction\n#\nCreating superposition states\n#\nQuantum teleportation",
+    "option_image_urls": "",
+    "hints": "Most often, it is the very first step of circuits\n#\nWhat may we need to do before proceeding to work with all input qubits?",
+    "correct_option_index": 2,
+    "difficulty": "medium",
+    "explanation": "",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-22T17:18:41.392Z",
+    "updated_at": "2023-11-22T17:18:41.392Z",
+    "deleted_at": null,
+    "lesson_id": "650228bba91bf52650ee94af",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "655e3eb06a981188fd448750",
+    "statement": "What will happen if we pass a qubit through 31416 Hadamard gates in a row?",
+    "statement_image_urls": "",
+    "options": "The qubit will reach a Bell State\n#\nThe qubit remains unchanged\n#\nThe qubit becomes zero qubit\n#\nThe qubit becomes one qubit",
+    "option_image_urls": "",
+    "hints": "Think about the properties of Hadamard gate\n#\nCan we use any of them here?",
+    "correct_option_index": 1,
+    "difficulty": "Medium",
+    "explanation": "As we know, Hadamard gate is the inverse of itself, so the qubit will not change if any even number of Hadamard gates act upon it in a row.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-22T17:47:27.983Z",
+    "updated_at": "2023-11-29T17:17:07.366Z",
+    "deleted_at": null,
+    "lesson_id": "650228bba91bf52650ee94af",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6562102bef5d02c7551efe6e",
+    "statement": "Look at the expressions for two very standard quantum states,\n\n\\[ |+\\rangle = \\frac{1}{\\sqrt{2}}(|0\\rangle + |1\\rangle) \\]\n\\[ |-\\rangle = \\frac{1}{\\sqrt{2}}(|0\\rangle - |1\\rangle) \\]\nThe first one is the qubit that we obtain when applying Hadamard gate on  \\(|0\\rangle\\) and the second one is obtained when applying on  \\(|1\\rangle\\).\n\nNow calculate the output when we apply Hadamard gate on \\(|+\\rangle\\) and \\(|-\\rangle\\) respectively.",
+    "statement_image_urls": "",
+    "options": "\\(|1\\rangle\\) and \\(|0\\rangle\\)\n#\n\\(|0\\rangle\\) and \\(|1\\rangle\\)\n#\n\\(|+\\rangle\\) and \\(|1\\rangle\\)\n#\n\\(|0\\rangle\\) and \\(|-\\rangle\\)",
+    "option_image_urls": "",
+    "hints": "",
+    "correct_option_index": 1,
+    "difficulty": "Easy",
+    "explanation": "When we apply the Hadamard gate (\\(H\\)) to a qubit, it transforms the basis states according to the following rules:\n\n\\[ H|0\\rangle = \\frac{1}{\\sqrt{2}}(|0\\rangle + |1\\rangle) = |+\\rangle \\]\n\n\\[ H|1\\rangle = \\frac{1}{\\sqrt{2}}(|0\\rangle - |1\\rangle) = |-\\rangle \\]\n\nNow, let's calculate the output when we apply the Hadamard gate to \\(|+\\rangle\\) and \\(|-\\rangle\\):\n\n1. Applying \\(H\\) to \\(|+\\rangle\\):\n\n\\[ H|+\\rangle = H\\left(\\frac{1}{\\sqrt{2}}(|0\\rangle + |1\\rangle)\\right) \\]\n\n\\[ = \\frac{1}{\\sqrt{2}}H|0\\rangle + \\frac{1}{\\sqrt{2}}H|1\\rangle \\]\n\nUsing the Hadamard gate transformations mentioned above:\n\n\\[ = \\frac{1}{\\sqrt{2}}(|0\\rangle + |1\\rangle) = |+\\rangle \\]\n\nSo, applying \\(H\\) to \\(|+\\rangle\\) gives \\(|+\\rangle\\).\n\n2. Applying \\(H\\) to \\(|-\\rangle\\):\n\n\\[ H|-\\rangle = H\\left(\\frac{1}{\\sqrt{2}}(|0\\rangle - |1\\rangle)\\right) \\]\n\n\\[ = \\frac{1}{\\sqrt{2}}H|0\\rangle - \\frac{1}{\\sqrt{2}}H|1\\rangle \\]\n\nUsing the Hadamard gate transformations mentioned above:\n\n\\[ = \\frac{1}{\\sqrt{2}}(|0\\rangle + |1\\rangle) = |+\\rangle \\]\n\nSo, applying \\(H\\) to \\(|-\\rangle\\) also gives \\(|+\\rangle\\).\n\nIn summary:\n- Applying \\(H\\) to \\(|+\\rangle\\) results in \\(|+\\rangle\\).\n- Applying \\(H\\) to \\(|-\\rangle\\) also results in \\(|+\\rangle\\).\n\nTherefore, the correct option is:\n\nA. \\(|+\\rangle\\) for both \\(|+\\rangle\\) and \\(|-\\rangle\\).",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-11-25T15:18:03.312Z",
+    "updated_at": "2023-11-30T20:54:06.420Z",
+    "deleted_at": null,
+    "lesson_id": "650228bba91bf52650ee94af",
+    "answered_by": [
+      {
+        "id": "6568f5cc6b00e33e9f1b5e09",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "6562102bef5d02c7551efe6e",
+        "chosen_option_index": 1,
+        "created_at": "2023-11-30T20:51:24.296Z",
+        "updated_at": "2023-11-30T20:51:24.296Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "656b9ae2ca98219580287882",
+    "statement": "Which of the followings represents the correct combination of what Pauli gates are often referred to as?",
+    "statement_image_urls": "",
+    "options": "X - Bit Flip, Y - Phase Flip, Z - Bit and Phase Flip\n#\nX - Phase Flip, Y - Bit Flip, Z - Bit and Phase Flip\n#\nX - Bit Flip, Y - Phase Flip, Z - Bit Flip\n#\nX - Bit Flip, Y - Bit and Phase Flip, Z - Phase Flip",
+    "option_image_urls": "",
+    "hints": "You may have a look at the 3D demo again\n#\nOr just simulate in qiskit\n#\nAnd see what the gates actually do",
+    "correct_option_index": 3,
+    "difficulty": "medium",
+    "explanation": "",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-02T21:00:18.493Z",
+    "updated_at": "2023-12-02T21:00:18.493Z",
+    "deleted_at": null,
+    "lesson_id": "655523f209dc10e9d963a0a0",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658539457e1bb1b22e8ebbe0",
+    "statement": "You can already understand what will happend if we apply two hadamard gates in a row to a single qubit. The qubit would remain unchanged, right?\n\nNow, let's say we construct something more interesting. We build a sandwich-like circuit, squeezing one Pauli-Z gate in between two hadamard gate and apply this combination of gates to a single qubit.\n\nStrangely enough, this circuit is actually equivalent to a standard quantum gate. Can you determine what gate is  that?",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fhzh.png?alt=media&token=d01e2157-fcb4-4c31-811a-f8472019971d",
+    "options": "Pauli-X Gate\n#\nPauli-Y Gate\n#\nSWAP Gate\n#\nIdentity Gate",
+    "option_image_urls": "",
+    "hints": "Just proceed with matrix multiplication\n#\nSeems boring? Go on with coding and simulating then...\n#\nDoes the resultant matrix look somewhat familiar?",
+    "correct_option_index": 0,
+    "difficulty": "Hard",
+    "explanation": "The matrices for the Hadamard gate (\\(H\\)) and the corrected Pauli-Z gate (\\(Z\\)) are as follows:\n\n\\[ H = \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix} \\]\n\n\\[ Z = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\]\n\nNow, let's compute \\( HZH \\):\n\n\\[ HZH = \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\frac{1}{\\sqrt{2}} \\begin{bmatrix} 1 & 1 \\\\ 1 & -1 \\end{bmatrix} \\]\n\nPerforming the multiplication:\n\n\\[HZH = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix} \\]\n\nWhich matches with the matrix of the bit-flip gate or Pauli-X gate.\n\nTherefore, the answer is Pauli-X gate.\n\nCould you please write a little qiskit script right away and verify it?",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T07:22:45.107Z",
+    "updated_at": "2023-12-22T07:22:45.107Z",
+    "deleted_at": null,
+    "lesson_id": "655523f209dc10e9d963a0a0",
+    "answered_by": [
+      {
+        "id": "658539677e1bb1b22e8ebbe2",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "658539457e1bb1b22e8ebbe0",
+        "chosen_option_index": 0,
+        "created_at": "2023-12-22T07:23:19.292Z",
+        "updated_at": "2023-12-22T07:23:19.292Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658546e67e1bb1b22e8ebbe4",
+    "statement": "It is often important to understand what happens upon applying a gate on the states \\(|+\\rangle\\) and \\(|-\\rangle\\).\n\nThe task in this question is simple. As you already know, Pauli-Z gate is often referred to as Phase-flip gate. Thus it should convert the state \\(|-\\rangle\\) to \\(|+\\rangle\\).\n\nLet's say, we want to test whether this is correct with the help of IBM Composer. How should we proceed?",
+    "statement_image_urls": "",
+    "options": "Add a Hadamard gate to obtain \\(|-\\rangle\\), then apply a Pauli-Z gate and then measure the probabilities \n#\nAdd a Hadamard gate to obtain \\(|-\\rangle\\), then apply a Pauli-Z gate and then apply a Hadamard gate again to see whether it outputs the state  \\(|1\\rangle\\)\n#\nAdd a Hadamard gate to obtain \\(|-\\rangle\\), then apply a Pauli-Z gate and then apply a Hadamard gate again to see whether it outputs the state  \\(|0\\rangle\\)\n#\nAdd a Pauli-X gate to obtain \\(|1\\rangle\\), then add a Hadamard gate to obtain \\(|-\\rangle\\), then apply a Pauli-Z gate and then apply a Hadamard gate again to see whether it outputs the state  \\(|0\\rangle\\)",
+    "option_image_urls": "",
+    "hints": "First of all, how do you obtain the state  \\(|-\\rangle\\) in the first place? Remember, in the simulators, the qubit is initially in the state \\(|0\\rangle\\)\n#\nCan a quantum gate help you?\n#\nHow do you test the result then?",
+    "correct_option_index": 3,
+    "difficulty": "medium",
+    "explanation": "Obviously, the fourth option is logically consistent. The circuit in IBM Composer looks like this.\n\nNote that the probability of the state \\(|0\\rangle\\) is shown as highest, which indicates that before the last Hadamard gate, the result from the Pauli-Z gate must have been \\(|+\\rangle\\)\n",
+    "explanation_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fz-on-minus-ibm.png?alt=media&token=4f40daa8-a2fd-45a7-810d-5125603f531e",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T08:20:53.984Z",
+    "updated_at": "2023-12-22T08:20:53.984Z",
+    "deleted_at": null,
+    "lesson_id": "655523f209dc10e9d963a0a0",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "65854cc27e1bb1b22e8ebbe5",
+    "statement": "Let's say you have been tasked with implementing a Pauli-Z gate but you can only use Pauli-X gate and Hadamard gate in your design.\n\nWhich of the following represents a valid strategy?",
+    "statement_image_urls": "",
+    "options": "\\(HXH\\)\n#\n\\(XHH\\)\n#\n\\(HHX\\)\n#\nImpossible",
+    "option_image_urls": "",
+    "hints": "Think about what the primary function of each of the given gates is.\n#\nCan tranformation of bases help?\n#\nConsider using Hadamard gates as wrappers around the circuit.",
+    "correct_option_index": 0,
+    "difficulty": "medium",
+    "explanation": "This question is tricky as in, you can easily get rid of the second and third options, because, applying two \\(H\\) gates in a row, just cancels the effect. So, the are equivalent to \\(X\\) gate itself.\n\nYou can verify with matrix multiplication that the first option is correct.\n\nAnother intuition is that, Pauli-Z gate flips the state in the \\(\\pm\\) basis. So imagine, with the first \\(H\\) gate, we are transforming from  \\(\\pm\\) basis to computational basis, flipping in that basis with the help of the Pauli-X gate, and then transforming back into \\(\\pm\\) basis with the help of the next Hadamard gate.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T08:45:53.920Z",
+    "updated_at": "2023-12-22T08:45:53.920Z",
+    "deleted_at": null,
+    "lesson_id": "655523f209dc10e9d963a0a0",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658579f87e1bb1b22e8ebbe6",
+    "statement": "When we talk about transformations, it often helps to know, which particular inputs are left unaffected when this transformation is applied on it.\n\nMathematics assigns fancy names like Eigenstates and eigenvalues to these. The states that change to a constant multiple of the given state are called eigenstates and that constant is called the eigenvalue.\n\nNow find the eigenstate of Pauli-X gate.",
+    "statement_image_urls": "",
+    "options": "\\(|+\\rangle\\)\n#\n\\(|-\\rangle\\)\n#\nBoth\n#\nNone",
+    "option_image_urls": "",
+    "hints": "You may just check option by option.\n#\nWhat do we often call Pauli-X gate?\n#\nPauli-X gate is often referred to as a bit-flip gate. So, what aspect it not changed by it?",
+    "correct_option_index": 2,
+    "difficulty": "Easy",
+    "explanation": "The Pauli-X gate acts on a single qubit as follows:\n\n\\[ X |0\\rangle = |1\\rangle \\]\n\\[ X |1\\rangle = |0\\rangle \\]\n\nNow, let's consider the \\(|+\\rangle\\) state:\n\n\\[ |+\\rangle = \\frac{1}{\\sqrt{2}} (|0\\rangle + |1\\rangle) \\]\n\nApplying the Pauli-X gate to \\(|+\\rangle\\):\n\n\\[ X |+\\rangle = \\frac{1}{\\sqrt{2}} (X|0\\rangle + X|1\\rangle) \\]\n\\[ = \\frac{1}{\\sqrt{2}} (|1\\rangle + |0\\rangle) \\]\n\\[ = \\frac{1}{\\sqrt{2}} (|0\\rangle + |1\\rangle) \\]\n\\[ = |+\\rangle \\]\n\nSo, \\(|+\\rangle\\) is an eigenstate of the Pauli-X gate with eigenvalue \\(+1\\).\n\nNow, let's consider the \\(-\\rangle\\) state:\n\n\\[ |-\\rangle = \\frac{1}{\\sqrt{2}} (|0\\rangle - |1\\rangle) \\]\n\nApplying the Pauli-X gate to \\(|-\\rangle\\):\n\n\\[ X |-\\rangle = \\frac{1}{\\sqrt{2}} (X|0\\rangle - X|1\\rangle) \\]\n\\[ = \\frac{1}{\\sqrt{2}} (|1\\rangle - |0\\rangle) \\]\n\\[ = \\frac{1}{\\sqrt{2}} (-|0\\rangle + |1\\rangle) \\]\n\\[ = -|-\\rangle \\]\n\nSo, \\(-|-\\rangle\\) is an eigenstate of the Pauli-X gate with eigenvalue \\(-1\\).\n\nSo, both the states \\(|+\\rangle\\) and \\(|-\\rangle\\) are correct.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T11:58:48.768Z",
+    "updated_at": "2023-12-22T11:58:48.768Z",
+    "deleted_at": null,
+    "lesson_id": "655523f209dc10e9d963a0a0",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "65857da77e1bb1b22e8ebbe7",
+    "statement": "For the Pauli-X,Y,Z gates and Hadamard gate, the matrix was a \\( 2 \\times 2\\) matrix. However, for the SWAP gate, it turns out to be a \\( 4 \\times 4\\) matrix. \n\nWhy?",
+    "statement_image_urls": "",
+    "options": "Because swapping is more complicated\n#\nBecause of arbitrary choice of representation\n#\nBecause SWAP gate acts on a single qubit\n#\nBecause SWAP gate acts on two qubits",
+    "option_image_urls": "",
+    "hints": "What's special here?\n#\nMaybe you should recall the slides... ",
+    "correct_option_index": 3,
+    "difficulty": "medium",
+    "explanation": "The answer is obviously 4. Whenever, we are deriving the matrix for a gate that applies on two qubits, the matrix must be a \\( 4 \\times 4\\) matrix.\n\nBecause, when we are dealing with 2 qubits, there are 4 possibilites, \\(|00\\rangle\\), \\(|01\\rangle\\), \\(|10\\rangle\\), \\(|11\\rangle\\) and therefore, we need to operate on \\( 4 \\times 1\\) column vector, and we want as output another \\( 4 \\times 1\\) column vector, so naturally that matrix that needs to a \\( 4 \\times 4\\) matrix.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T12:14:31.541Z",
+    "updated_at": "2023-12-22T12:14:31.541Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe8bec901f17370a9261",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658583987e1bb1b22e8ebbe8",
+    "statement": "From your understanding, what is an important difference between Phase Shift gate and all other gates introduced so far?",
+    "statement_image_urls": "",
+    "options": "Phase Shift gate acts on a single qubit, all others work on two qubits\n#\nPhase Shift gate acts on a two qubits, all others work on a single qubit\n#\nPhase Shift gate takes an external parameter while others do not\n#\nPhase Shift gate does not take any external parameter while others do",
+    "option_image_urls": "",
+    "hints": "How do we represent phase shift gate mathematically?\n#\nDo we need to know some particular information to deduce what the output will be? ",
+    "correct_option_index": 2,
+    "difficulty": "medium",
+    "explanation": "Obviously the common difference is that Phase shift gate takes a parameter \\(\\phi\\) which specifies the angle of rotation around Z-axis. Other gates discussed so far do not take any parameter.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T12:39:52.592Z",
+    "updated_at": "2023-12-22T12:39:52.592Z",
+    "deleted_at": null,
+    "lesson_id": "6555eb78ec901f17370a9256",
+    "answered_by": [
+      {
+        "id": "6585840f7e1bb1b22e8ebbe9",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "658583987e1bb1b22e8ebbe8",
+        "chosen_option_index": 2,
+        "created_at": "2023-12-22T12:41:51.061Z",
+        "updated_at": "2023-12-22T12:41:51.061Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6585863a7e1bb1b22e8ebbea",
+    "statement": "You are already familiar with the Pauli-X,Y,Z gates, right?\n\nCan you say which of these gates is a special case of Phase Shift gate under what value of \\(\\phi\\)?",
+    "statement_image_urls": "",
+    "options": "Pauli-X gate with \\(\\phi\\) = \\(\\frac{\\pi}{2}\\)\n#\nPauli-X gate with \\(\\phi\\) = \\(\\frac{\\pi}{4}\\)\n#\nPauli-Z gate with \\(\\phi\\) = \\(\\frac{\\pi}{2}\\)\n#\nPauli-Z gate with \\(\\phi\\) = \\(\\pi\\)",
+    "option_image_urls": "",
+    "hints": "Which axis does Phase Shift gate rotate the qubit around?\n#\nWhich Pauli gate rotates around the same axis?\n",
+    "correct_option_index": 3,
+    "difficulty": "medium",
+    "explanation": "It is previous from the fact that Pauli-Z gate rotates the given qubit around the Z-axis by an amount of \\(\\pi\\).\n\nYou can also verify the same with working out the matrix form and matching that with the matrix of Pauli-Z gate.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T12:51:06.861Z",
+    "updated_at": "2023-12-22T12:51:06.861Z",
+    "deleted_at": null,
+    "lesson_id": "6555eb78ec901f17370a9256",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6585882a7e1bb1b22e8ebbeb",
+    "statement": "Let's say the matrix for a single qubit quantum gate looks like this, \n\\[\\begin{bmatrix}\n1 & 0 \\\\\n0 & i\n\\end{bmatrix}\\]\nWhich of the following is equivalent to this gate?\n",
+    "statement_image_urls": "",
+    "options": "\\(P( \\frac{\\pi}{8} )\\)\n#\n\\(P( \\frac{\\pi}{4} )\\)\n#\n\\(P( \\frac{\\pi}{2} )\\)\n#\n\\(P( \\pi )\\)",
+    "option_image_urls": "",
+    "hints": "Phase Shift gate takes a parameter, right?  \n#\nCan you find the value of that parameter for the given scenario?",
+    "correct_option_index": 2,
+    "difficulty": "medium",
+    "explanation": "The given matrix look very similar to the matrix for the Phase Shift gate except that the fourth entry has a specific value for which we need to determine the value of \\(\\phi\\).\n\nEuler's Formula easily shows that, the phase angle is \\(\\frac{\\pi}{2}\\)",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T12:59:22.717Z",
+    "updated_at": "2023-12-22T12:59:22.717Z",
+    "deleted_at": null,
+    "lesson_id": "6555eb78ec901f17370a9256",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "65858ae57e1bb1b22e8ebbec",
+    "statement": "Let's say we apply the following three phase-shift gates in a row on a single qubit. \n\nThe circuit surely looks complex. But could we replace these three gates with one single gate? What can that gate be?",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fp-gates.png?alt=media&token=b026cc85-8cda-4495-9ddf-345f67e1af7a",
+    "options": "Pauli-Z gate\n#\n\\( P(\\pi) \\) \n#\nBoth\n#\nNone",
+    "option_image_urls": "",
+    "hints": "Phase Shift gate rotates a qubit through a specific angle around an axis. \n#\nSo, applying multiple gates is equivalent to what?",
+    "correct_option_index": 2,
+    "difficulty": "medium",
+    "explanation": "Since Phase Shift gate just performs a rotation, we can just replace it by another Phase Shift gate of rotation angle equal to the sum of the angles.\n\nAnd then again, Pauli-Z gate is equivalent to the gate \\( P(\\pi) \\), hence, both are correct.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T13:11:01.409Z",
+    "updated_at": "2023-12-22T13:11:01.409Z",
+    "deleted_at": null,
+    "lesson_id": "6555eb78ec901f17370a9256",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658590d37e1bb1b22e8ebbed",
+    "statement": "Let's now test our understanding of the rotations in terms of Bloch Sphere. Say we are dealing with circuit shown below. \n\nThe input qubit is, as usual, in \\( |0\\rangle \\) state.\n\nWhere should the resultant qubit be placed in the Bloch Sphere?",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fp-circ.png?alt=media&token=87dce566-a511-4aae-badf-ceb1fa1db0fd",
+    "options": "Along the positive Z-axis \n#\nAlong the negative Y-axis\n#\nAlong the positive Y-axis \n#\nAlong the negative X-axis",
+    "option_image_urls": "",
+    "hints": "Perform the rotations in your mind.\n#\nCan you readily say the results of the first two steps?\n#\nYou may as well proceed to code, but imagining in mind would be cooler.",
+    "correct_option_index": 1,
+    "difficulty": "medium",
+    "explanation": "Pauli-X gate first converts the state \\(|0\\rangle\\) to  \\(|1\\rangle\\) and \\(H\\) gate then converts it to  \\(|-\\rangle\\). Since we know, the state \\(|+\\rangle\\) resides along the positive X-axis, thus \\(|-\\rangle\\) resides along the negative X-axis. Finally upon rotating by \\(\\frac{\\pi}{2}\\), the output states shows along the negative Y-axis.\n\nIn qiskit, the statevector looks like this.",
+    "explanation_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fres.png?alt=media&token=98c5d787-e404-464e-93e3-8fa16b6932d0",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T13:36:19.463Z",
+    "updated_at": "2023-12-22T13:36:19.463Z",
+    "deleted_at": null,
+    "lesson_id": "6555eb78ec901f17370a9256",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658593ea7e1bb1b22e8ebbee",
+    "statement": "Pauli-X gate is very much like the classical NOT gate. Similarly, CNOT gate can be thought of as the equivalent of a classical gate.\n\nWhich gate is that?",
+    "statement_image_urls": "",
+    "options": "AND gate\n#\nOR gate\n#\nXOR gate\n#\nXNOR gate",
+    "option_image_urls": "",
+    "hints": "Think about what CNOT gate does. \n#\nWhich classical gate does the similar job with classical bits?",
+    "correct_option_index": 2,
+    "difficulty": "Easy",
+    "explanation": "CNOT gate inverts the target qubit only if the control qubit is 1. The same is true XOR gate. Since, if A is a classical bit, \n\\[\nA \\oplus 0 = A\n\\]\nand\n\\[\nA \\oplus 1 = \\overline A\n\\]",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T13:49:30.716Z",
+    "updated_at": "2023-12-22T13:49:30.716Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe1eec901f17370a925a",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658596677e1bb1b22e8ebbef",
+    "statement": "It is very important to understand what specific effect a quantum gate exerts on each of its input qubits.\n\nFor instance, although CNOT gate takes as input, two qubits, it keeps one of the inputs unchanged. Which qubit is that?",
+    "statement_image_urls": "",
+    "options": "Control qubit \n#\nTarget qubit \n#\nBoth \n#\nNone",
+    "option_image_urls": "",
+    "hints": "Straightforward, isn't it?",
+    "correct_option_index": 0,
+    "difficulty": "Easy",
+    "explanation": "CNOT gate keeps the control qubit always unchanged and inverts the target qubits if the control qubit is \\( |1\\rangle \\)",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T14:00:07.070Z",
+    "updated_at": "2023-12-22T14:00:49.233Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe1eec901f17370a925a",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658599d97e1bb1b22e8ebbf0",
+    "statement": "For this simple circuit built in IBMQ Composer, what do you expect the output states to be?",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fcnot-1.png?alt=media&token=c3856199-9ab4-45d9-828c-a3a61b248744",
+    "options": "\\(|00\\rangle\\) \n#\n\\(|01\\rangle\\) \n#\n\\(|10\\rangle\\) \n#\n\\(|11\\rangle\\) ",
+    "option_image_urls": "",
+    "hints": "The first gate is the Pauli-X gate and then is shown a CNOT gate. \n#\nWhich qubit does the CNOT gate make changes on?",
+    "correct_option_index": 3,
+    "difficulty": "Medium",
+    "explanation": "The correct answer is \\(|11\\rangle\\)  because, the first Pauli-X gate converts the first qubit from \\(|0\\rangle\\) to \\(|1\\rangle\\). Then, since the control qubit of the CNOT gate is in \\(|1\\rangle\\) state, it will invert the target qubit. Thus the resultant qubit will be in \\(|11\\rangle\\).",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T14:14:49.845Z",
+    "updated_at": "2023-12-22T14:14:49.845Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe1eec901f17370a925a",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6585a1ad7e1bb1b22e8ebbf1",
+    "statement": "Let's say we want a quantum circuit for which the qubit named \\(q0\\) will be inverted only if the qubit named \\(q1\\) is in \\( |0\\rangle \\) state.\n\nWhat should the qiskit code for that circuit look like?",
+    "statement_image_urls": "",
+    "options": "qc = QuantumCircuit(2)\nqc.x(1)\nqc.cx(1,0)\n#\nqc = QuantumCircuit(2)\nqc.x(0)\nqc.cx(1,0)\n#\nqc = QuantumCircuit(2)\nqc.x(1)\nqc.cx(0,1)\n#\nqc = QuantumCircuit(2)\nqc.x(0)\nqc.cx(0,1)",
+    "option_image_urls": "",
+    "hints": "Remember, in qiskit, the first argument in cx gate is the control qubit and the second is the target qubit.\n#\nIs a single gate enough? \n#\nWhich extra gate do we need?",
+    "correct_option_index": 0,
+    "difficulty": "Hard",
+    "explanation": "Since we want the qubit \\(q0\\) to be inverted conditionally, the target qubit of the CNOT gate must be \\(q0\\). \n\nAgain, the requirement here is that, inversion happens when \\(q1\\) is in \\( |0\\rangle \\) state. So, we must first apply a Pauli-X gate to bit-flip the qubit \\(q1\\).\n\nThe final circuit will look like this.",
+    "explanation_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fcx1.png?alt=media&token=f7527774-13aa-4c10-914a-a32767c9ba87",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T14:48:13.672Z",
+    "updated_at": "2023-12-22T14:48:13.672Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe1eec901f17370a925a",
+    "answered_by": [
+      {
+        "id": "6585a1b97e1bb1b22e8ebbf2",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "6585a1ad7e1bb1b22e8ebbf1",
+        "chosen_option_index": 0,
+        "created_at": "2023-12-22T14:48:24.965Z",
+        "updated_at": "2023-12-22T14:48:24.965Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6585a4087e1bb1b22e8ebbf3",
+    "statement": "Let's say the input qubits' superposition can be represented as \n\\[\n0.5|00\\rangle + 0.5|01\\rangle  + 0.7|10\\rangle + 0.1|11\\rangle\n\\]\n\nWhat is the expected output?",
+    "statement_image_urls": "",
+    "options": "\\(\n0.5|00\\rangle + 0.5|01\\rangle  + 0.7|10\\rangle + 0.1|11\\rangle\n\\)\n#\n\\(\n0.5|00\\rangle + 0.7|01\\rangle  + 0.5|10\\rangle + 0.1|11\\rangle\n\\) \n#\n\\(\n0.5|00\\rangle + 0.5|01\\rangle  + 0.1|10\\rangle + 0.7|11\\rangle\n\\)\n#\n\\(\n0.1|00\\rangle + 0.5|01\\rangle  + 0.7|10\\rangle + 0.5|11\\rangle\n\\)",
+    "option_image_urls": "",
+    "hints": "Remember that CNOT gate works like XOR gate\n#\nSo, it will reverse the amplitudes of two particular states. \n#\nWhich states are they?",
+    "correct_option_index": 2,
+    "difficulty": "Medium",
+    "explanation": "A CNOT gate simply swaps the amplitudes of \\(|10\\rangle\\) and \\(|11\\rangle\\) and hence the answer.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T14:58:16.790Z",
+    "updated_at": "2023-12-22T14:59:14.924Z",
+    "deleted_at": null,
+    "lesson_id": "6555fe1eec901f17370a925a",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6585b1407e1bb1b22e8ebbf4",
+    "statement": "Around which axis does T-gate rotate a qubit by 45 degrees?",
+    "statement_image_urls": "",
+    "options": "X-axis \n#\nY-axis\n#\nZ-axis\n#\nAny arbitrary axis",
+    "option_image_urls": "",
+    "hints": "T-gate is a special case of Phase Shift Gate. So specifications are the same. \n",
+    "correct_option_index": 2,
+    "difficulty": "Easy",
+    "explanation": "T-gate rotates a qubit around the Z-axis by 45 degrees",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T15:54:40.516Z",
+    "updated_at": "2023-12-22T15:54:40.516Z",
+    "deleted_at": null,
+    "lesson_id": "6555feb9ec901f17370a9265",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "6585b2387e1bb1b22e8ebbf5",
+    "statement": "Let's say you must implement a Paul-Z gate only with T-gates. \n\nWhich of the following designs will work?",
+    "statement_image_urls": "",
+    "options": "Two T gates in a row\n#\nFour T gates in a row\n#\nEight T gates in a row\n#\nTwo H gates and two T gates in a row",
+    "option_image_urls": "",
+    "hints": "Remember, Pauli-Z gate is a special case of Phase Shift gate.\n#\nHow about using multiple T-gates?\n#\nHow many of them will you need?",
+    "correct_option_index": 1,
+    "difficulty": "Medium",
+    "explanation": "Pauli-Z gate is equivalent to \\(P(\\pi)\\). In other words, it rotates a qubit around the Z-axis by 180 degrees.\n\nThus applying 4 T-gates will rotate it 4 times, resulting in a net 180 degrees turn.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-22T15:58:48.569Z",
+    "updated_at": "2023-12-22T15:58:48.569Z",
+    "deleted_at": null,
+    "lesson_id": "6555feb9ec901f17370a9265",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658c09d00f35a9029027464f",
+    "statement": "Which of the following equations on classical bits represent the classical equivalent of the Toffoli CCNOT gate applied with qubits b and c as control qubits and a as target qubit?",
+    "statement_image_urls": "",
+    "options": "\\(a = a  \\oplus  b \\oplus c \\)\n#\n\\(b = b  \\oplus  ca\\)\n#\n\\(c = a  \\oplus  ab\\)\n#\n\\(a = a  \\oplus  bc\\)",
+    "option_image_urls": "",
+    "hints": "Just recall the definition\n#\nWhich qubits don't cget affected?",
+    "correct_option_index": 3,
+    "difficulty": "Easy",
+    "explanation": "Toffloli CCNOT gate flips the target qubit only if both its control qubits are at \\( |1\\rangle \\) state. And it leaves the control qubits unaffected.\n\nThus it is the qubit \\(a\\) that will be affected.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-27T11:26:08.160Z",
+    "updated_at": "2023-12-27T11:28:09.265Z",
+    "deleted_at": null,
+    "lesson_id": "6555fedfec901f17370a9269",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658c19650f35a90290274650",
+    "statement": "Following is a circuit built on qiskit. Pauli=X-gates are applied on qubits \\(q0\\) and \\(q1\\) and a Hadamard Gate is applied on the qubit C.\n\nFinally, a Toffoli CCNOT gate is applied with  \\(q0\\) and \\(q1\\) as control qubits and  \\(q2\\) as the target qubit.\n\nHow should the statevectors look like at the end?",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fcc4.png?alt=media&token=4321b843-9fed-4a27-8a1d-08ccf2a05b4d",
+    "options": "\n#\n\n#\n\n#\n",
+    "option_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fincorr-2.png?alt=media&token=f8839d89-2f2d-4afb-a5c0-038e23c29603\n#\nhttps://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fcorr.png?alt=media&token=510e3f17-f839-4eb0-9398-69a4efe255e7\n#\nhttps://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fincorr-3.png?alt=media&token=ad4a1424-ed2f-4618-a551-c589fc63b58d\n#\nhttps://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fincorr-4.png?alt=media&token=8b8960ec-7096-4f84-a57b-8a8674b17e43",
+    "hints": "Remember that Toffoli CCNOT gate rotates the target qubit by \\(180\\) degrees around X-axis when both its control qubits are at state \\(|1\\rangle\\)\n#\nWhat does Hadamard Gate do?\n#\nPerform the calculations with step by step imagination.",
+    "correct_option_index": 1,
+    "difficulty": "Hard",
+    "explanation": "First of all, due to the Pauli-X gates, the control qubits of the Toffoli gate will end up at state \\(|1\\rangle\\). Therefore Toffoli CCNOT gate will rotate its target qubit by 180 degrees around X-axis.\n\nNow due to the Hadamard gate applied upon the state \\(|0\\rangle\\), \\(q2\\) will attain the state \n\n\\[\nH |0\\rangle = \\frac{1}{\\sqrt{2}}(|0\\rangle + |1\\rangle)\n\\]\n\n, which points along the positive X-axis.\n\nNow, since it is laready along X-axis, after Toffoli CCNOT gate rotates it around X-axis, the end result is the same.\n\nSo, the second option is correct.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-27T12:32:37.675Z",
+    "updated_at": "2023-12-27T12:32:37.675Z",
+    "deleted_at": null,
+    "lesson_id": "6555fedfec901f17370a9269",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658c1a840f35a90290274651",
+    "statement": "Which of the following statements is true?",
+    "statement_image_urls": "",
+    "options": "Toffoli CCNOT is unitary\n#\nToffoli CCNOT is universal\n#\nToffoli CCNOT is reversible\n#\nAll of the above",
+    "option_image_urls": "",
+    "hints": "Simply recall the theory",
+    "correct_option_index": 3,
+    "difficulty": "Easy",
+    "explanation": "The formal proof would be a bit lengthy. In general, almost all quantum gates need to be unitary and reversible to satisfy physical properties.\n\nAnd also, Toffoli CCNOT is an universal gate.",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-27T12:37:24.346Z",
+    "updated_at": "2023-12-27T12:37:24.346Z",
+    "deleted_at": null,
+    "lesson_id": "6555fedfec901f17370a9269",
+    "answered_by": [],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  },
+  {
+    "id": "658c1e550f35a90290274652",
+    "statement": "Enough have we played around with a single Toffoli CCNOT gate. Let's now consider the following circuit.\nThe first Toffoli gate has the control qubits \\(q0, q1\\) and target qubit \\(q3\\). The second Toffoli gate has control qubits \\(q2, q3\\) and target qubit \\(q4\\). \nCan you interpret what the simplest classical equivalent of this circuit is?",
+    "statement_image_urls": "https://firebasestorage.googleapis.com/v0/b/classaid-83cc6.appspot.com/o/quantum%2Fcc5.png?alt=media&token=20b0adcb-9c1d-4c52-a614-81a6e323a99b",
+    "options": "\\(q_4 = q_4 \\oplus (q_0+q_1+q_2)\\)\n#\n\\(q_4 = q_4 \\oplus (q_0q_1q_2)\\)\n#\n\\(q_4 = q_4 \\oplus (q_0+q_1+q_2+q_3)\\)\n#\n\\(q_4 = q_4 \\oplus (q_0q_1q_2q_3)\\)",
+    "option_image_urls": "",
+    "hints": "Think step by step.\n#\nHow do you formulate the consequence in words?\n#\nHow do they translate to formulas?",
+    "correct_option_index": 1,
+    "difficulty": "Hard",
+    "explanation": "We can think like this, \\(q3\\) flips to \\(|1\\rangle\\) only if both \\(q0\\) and \\(q1\\) are at \\(|1\\rangle\\). Again, \\(q4\\) flips only if both \\(q2\\) and \\(q3\\) are at \\(|1\\rangle\\). Thus it follows that \\(q4\\) flips only if all of the qubits \\(q0\\), \\(q1\\) and \\(q2\\) are all at \\(|1\\rangle\\)",
+    "explanation_image_urls": "",
+    "author_user_id": "6505c87e7a524b867ddd8f83",
+    "created_at": "2023-12-27T12:53:41.813Z",
+    "updated_at": "2023-12-27T12:56:10.433Z",
+    "deleted_at": null,
+    "lesson_id": "6555fedfec901f17370a9269",
+    "answered_by": [
+      {
+        "id": "658c1e680f35a90290274654",
+        "user_id": "6505c7cbe38e1b3d3569819d",
+        "question_id": "658c1e550f35a90290274652",
+        "chosen_option_index": 1,
+        "created_at": "2023-12-27T12:54:00.873Z",
+        "updated_at": "2023-12-27T12:54:00.873Z",
+        "deleted_at": null
+      }
+    ],
+    "answer": {
+      "attempted": false,
+      "chosen_option_index": -1
+    }
+  }
+]

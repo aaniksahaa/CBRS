@@ -30,6 +30,7 @@ place = "Anwar Khan Modern Hospital Bangladesh"
 # place = 'কিডনি ফাউন্ডেশন এন্ড রিসার্চ ইনস্টিটিউট, মিরপুর, ঢাকা'
 place = 'Kidney Foudation and Research Institute, Mirpur, Dhaka, Bangladesh'
 place = 'Arif Memorial Hospital, Barishal, Bangladesh'
+place = "শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ "
 
 coordinates, address = geocode(place)
 print(f"Coordinates: {coordinates}")

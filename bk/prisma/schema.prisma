@@ -1,0 +1,85 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Donor {
+  id                     String @id @default(auto()) @map("_id") @db.ObjectId
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+  deletedAt              DateTime?
+  name                   String
+  firstName              String?
+  lastName               String?
+  chatPlatform           String
+  telegramUsername       String?
+  discordUserId          String?
+  telegramChatId         String?
+  latitude               Float?
+  longitude              Float?
+  lastDonated            DateTime?
+  bloodGroup             String
+  isNotificationDisabled Boolean   @default(false)
+
+  notifications          Notification[]
+}
+
+model BloodRequest {
+  id                    String @id @default(auto()) @map("_id") @db.ObjectId
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+  deletedAt             DateTime?
+  sourceTelegramChatId  String?
+  sourceTelegramMessageId String?
+  sourceDiscordChannelId String?
+  messageText           String
+  bloodGroup            String?
+  bagsNeeded            Int?
+  patientName           String?
+  patientGender         String?
+  patientAgeGroup       String?
+  condition             String?
+  location              String?
+  hospitalName          String?
+  locationMarkers       String[]
+  probableDay           DateTime?
+  probableTime          String?
+  transportation        String?
+  allowance             String?
+  
+  contacts              Contact[]
+  notifications         Notification[]
+}
+
+model Contact {
+  id                   String @id @default(auto()) @map("_id") @db.ObjectId
+  name                 String
+  numbers              String[]
+  relationWithPatient  String
+
+  bloodRequestId       String   
+  BloodRequest         BloodRequest @relation(fields: [bloodRequestId], references: [id], onDelete: Cascade)
+}
+
+model Notification {
+  id               String @id @default(auto()) @map("_id") @db.ObjectId
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+
+  telegramMessageId String
+
+  donorId           String
+  requestId         String
+
+  Donor             Donor         @relation(fields: [donorId], references: [id], onDelete: Cascade)
+  BloodRequest      BloodRequest  @relation(fields: [requestId], references: [id], onDelete: Cascade)
+}
+
+

@@ -1,0 +1,81 @@
+model Post {
+    id         String    @id @default(auto()) @map("_id") @db.ObjectId
+    user_id    String
+  
+    lesson_id  String?   // Optional field for lesson_id
+    question_id String?  @db.ObjectId // Optional field for question_id
+    geoview_id String?   // Optional field for geoview_id
+    video_id   String?   // Optional field for video_id
+    
+    type       String
+    text       String
+    image_urls     String[]
+  
+    comments   Comment[]
+  
+    createdAt  DateTime  @default(now())
+    updatedAt  DateTime  @updatedAt
+  
+    // Define relations
+    user       User      @relation(fields: [user_id], references: [id])
+    lesson     Lesson?   @relation(fields: [lesson_id], references: [id])
+    question   Question? @relation(fields: [question_id], references: [id])
+    geoview    Geoview?  @relation(fields: [geoview_id], references: [id])
+    video      Video?    @relation(fields: [video_id], references: [id])
+  }
+  
+  model Comment {
+    id         String    @id @default(auto()) @map("_id") @db.ObjectId
+    post_id    String
+    user_id    String
+    text       String
+    image_urls     String[]
+    upvote_count Int    @default(0)
+  
+    createdAt  DateTime  @default(now())
+    updatedAt  DateTime  @updatedAt
+  
+    // Define relations
+    post       Post      @relation(fields: [post_id], references: [id])
+    user       User      @relation(fields: [user_id], references: [id])
+  }
+
+
+
+rec post 
+
+
+model Post {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  user_id     String
+
+  parent_id   String?  // Optional field for parent post ID
+
+  lesson_id   String?  // Optional field for lesson_id
+  question_id String?  @db.ObjectId // Optional field for question_id
+  geoview_id  String?  // Optional field for geoview_id
+  video_id    String?  // Optional field for video_id
+  
+  type        String?
+  text        String
+  image_urls  String[]
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Define relations
+  user        User     @relation(fields: [user_id], references: [id])
+
+  lesson      Lesson?  @relation(fields: [lesson_id], references: [id])
+  question    Question?@relation(fields: [question_id], references: [id])
+  geoview     Geoview? @relation(fields: [geoview_id], references: [id])
+  video       Video?   @relation(fields: [video_id], references: [id])
+
+  parentPost  Post?    @relation("PostToChildren", fields: [parent_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  children    Post[]   @relation("PostToChildren")
+
+}
+
+2
+  

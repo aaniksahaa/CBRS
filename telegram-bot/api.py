@@ -1,6 +1,14 @@
 import requests
 import json
 from typing import Dict, Any, Optional
+from utils import *
+localhost_backend_url = "http://localhost:3000"
+remote_backend_url = "https://delta-blood-bot-backend.onrender.com"
+
+base_url = remote_backend_url
+
+# if ENV == 'development':
+#     base_url = localhost_backend_url
 
 class ApiClient:
     def __init__(self, base_url: str):
@@ -52,11 +60,6 @@ class ApiClient:
 
     def deleteX(self, endpoint: str) -> Dict[str, Any]:
         return self._make_request("DELETE", endpoint)
-
-localhost_backend_url = "http://localhost:3000"
-remote_backend_url = "https://delta-blood-bot-backend.onrender.com"
-
-base_url = localhost_backend_url
 
 api = ApiClient(base_url)
 

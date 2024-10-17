@@ -248,4 +248,5 @@ def get_coordinates(place_name):
         # place_name = "Uttara 11, Mansur Ali Medical College"
         response = chain.invoke({"place_name": place_name})
         print(cb)
-        return response
+
+    return response

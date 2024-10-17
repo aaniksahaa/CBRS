@@ -1,5 +1,47 @@
 from utils import * 
 
+def parse_int(s):
+    try:
+        return int(s)
+    except Exception:
+        return None 
+
+# making db ready
+def get_modified_data(d):
+    patient = d.get('patient', None)
+    compensation = d.get('compensation', None)
+    contacts = d.get('contacts', [])
+
+    modified_contacts = []
+
+    for c in contacts:
+        modified_contacts.append({
+            "name": c.get('name', ''),
+            "numbers": c.get('contact_numbers', []),
+            "relationWithPatient": c.get("relation_with_patient", '')
+        })
+
+    data = {
+            "messageText": "",
+            "bloodGroup": d.get('blood_group', ''),
+            "bagsNeeded": parse_int(d.get('bags_needed', '')),
+            "patientName": patient.get('name', '') if patient else '',
+            "patientGender": patient.get('gender', '') if patient else '',
+            "patientAgeGroup": patient.get('age_group', '') if patient else '',
+            "condition": d.get('condition', ''),
+            "location": d.get('location', ''),
+            "hospitalName": d.get('hospital_name', ''),
+            "locationMarkers": d.get('location_markers', []),
+            "probableDay": d.get('probable_day', ''),
+            "probableTime": d.get('probable_time', ''),
+            "transportation": compensation.get('transportation', '') if compensation else '',
+            "allowance": compensation.get('allowance', '') if compensation else '',
+            "contacts": modified_contacts
+        }
+    
+    return data 
+
+
 sample_inp_1 = """
 জরুরী ভিত্তিতে  AB(-)রক্তের প্রয়োজন।
 আমার ফুপা এর অপারেশন
@@ -224,7 +266,24 @@ Reminders:
         data = json.loads(data)
     except Exception as e:
         print(f"An unexpected error occurred while parsing json: {e}")
-        data = {'error': 'true'}
+        data = {'error': True}
+        return data
+    
+    print(data)
+
+    if data.get("is_seeking_blood_donation", "true").lower() == "false":
+        data = {'error': True}
+        return data
+
+    data = get_modified_data(data)
+
+    totalLocation = data['hospitalName'] + " in " + data["location"]
+    coords = get_coordinates(totalLocation)
+
+    data['latitude'] = coords.get('latitude', None)
+    data['longitude'] = coords.get('longitude', None)
+
+    data['messageText'] = user_text
 
     return data
 

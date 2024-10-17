@@ -37,7 +37,7 @@ model Bloodrequest {
   id                    String @id @default(auto()) @map("_id") @db.ObjectId
   
   sourceTelegramChatId  String?
-  sourceTelegramMessageId String?
+  sourceTelegramMessageId Int?
   sourceDiscordChannelId String?
   messageText           String
   bloodGroup            String?
@@ -49,7 +49,7 @@ model Bloodrequest {
   location              String?
   hospitalName          String?
   locationMarkers       String[]
-  probableDay           DateTime?
+  probableDay           String?
   probableTime          String?
   transportation        String?
   allowance             String?

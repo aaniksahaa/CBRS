@@ -230,6 +230,7 @@ const findProbableDonors = async (payload) => {
           }
       });
 
+      console.log('Eligible Donors:')
       console.log(eligibleDonors);
 
       // Process donors and calculate distances
@@ -245,6 +246,9 @@ const findProbableDonors = async (payload) => {
           }
           return { ...donor, distance: null };
       });
+
+      console.log("Porcessed:")
+      console.log(processedDonors);
 
       // Separate donors with and without location data
       const donorsWithLocation = processedDonors

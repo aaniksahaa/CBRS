@@ -5,6 +5,7 @@ from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandle
 from utils import *
 from api import * 
 from keep_alive import keep_alive
+from message_parser import *
 
 # keep_alive()
 
@@ -24,7 +25,7 @@ def search_telegram_user(username, chat_id):
     matching_donors = fetch_donors({
         'telegramUsername': username,
         'chatPlatform': 'telegram',
-        "telegramChatId": str(chat_id), # search the id as string in db
+        # "telegramChatId": str(chat_id), # search the id as string in db
     })
     if matching_donors:
         matching_donor = matching_donors[0]   # ideally there should be at max one match
@@ -58,9 +59,35 @@ def init_telegram_user(user, chat_id):
     else:
         return None
 
+def enable_notifications(donor_id):
+    response = update_donor(donor_id,{
+            "isNotificationDisabled": False
+        })
+    return response
+
+def disable_notifications(donor_id):
+    response = update_donor(donor_id,{
+            "isNotificationDisabled": True
+        })
+    return response
+
+def get_chat_type(update):
+    return update.effective_chat.type
+
 ####################    BOT WORKFLOW    ######################
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'group':
+        group_greetings_text = f"""
+Greetings! I am a telegram bot designed to facilitate the searching for emergency blood donation. When I find messages in the group that are seeking blood donation, I will automatically notify nearby registered donors based on criteria matches.
+
+<b>If any of you wish to register as a blood donor, please inbox me.</b>
+
+Thanks!
+"""
+        await update.message.reply_text(group_greetings_text, parse_mode='HTML')
+        return 
+
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
@@ -70,10 +97,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     new_user = None
 
     if matching_donor:
-        update_donor({
-            "donor_id": matching_donor['id'],
-            "isNotificationDisabled": True
-        })
+        enable_notifications(matching_donor['id'])
         if not matching_donor['hasCompleteInfo']:
             new_user = matching_donor    
     else:
@@ -119,6 +143,9 @@ Thank you!
         await update.message.reply_text(registration_text)
 
 async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'group':
+        return 
+    
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
@@ -128,10 +155,7 @@ async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) 
     new_user = None
 
     if matching_donor:
-        update_donor({
-            "donor_id": matching_donor['id'],
-            "isNotificationDisabled": False
-        })
+        enable_notifications(matching_donor['id'])
         if not matching_donor['hasCompleteInfo']:
             new_user = matching_donor    
     else:
@@ -160,6 +184,9 @@ Dear @{username}, you are already registered as a donor and your notifications h
         await update.message.reply_text(reply_text)
 
 async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'group':
+        return 
+    
     user = get_user(update)
 
     help_text = f"""
@@ -185,6 +212,9 @@ Welcome @{user.username} ! We are happy to have you. Here is a list of commands 
     
 
 async def show_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'group':
+        return 
+    
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
@@ -224,6 +254,9 @@ Thank you!
     await update.message.reply_text(reply_text, parse_mode='HTML')
 
 async def update_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'group':
+        return 
+    
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
@@ -251,6 +284,9 @@ Thank you!
     
 
 async def unregister(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'group':
+        return 
+    
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
@@ -260,10 +296,7 @@ async def unregister(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
     reply_text = GENERIC_ERROR_MSG
 
     if matching_donor:
-        response = update_donor({
-            "donor_id": matching_donor['id'],
-            "isNotificationDisabled": True
-        })
+        response = disable_notifications(matching_donor['id'])
 
         if response['success']:
             reply_text = f"""
@@ -275,6 +308,9 @@ You are successfully unregistered and you won't receive further notifications. I
 ###############################     MESSAGE HANDLER     ###############################
 
 def initial_screening(text):
+    text = text.lower()
+    if len(text) < 30:
+        return False
     patterns = ['blood', 'ব্লাড', 'রক্ত', 'emergency']
     flag = False
     for p in patterns:
@@ -284,35 +320,73 @@ def initial_screening(text):
     return flag
 
 async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if get_chat_type(update) == 'private':
+        return 
+    
     user = get_user(update)
     username = user.username
     chat_id = update.message.chat_id
-
-    return 
+    message_id = update.message.message_id 
     
-    user_text = update.message.text.lower()
+    user_text = update.message.text
+    # print(user_text)
 
     flag = initial_screening(user_text)
 
     if flag:
-        info = get_info(user_text)
-        users = read_users()
-        matches = []
-        for u in users:
-            if(u['blood_group'] == info['blood_group']):
-                matches.append(u)
+        parsed_data = parse_blood_seeking_message(user_text)
+        # print(parsed_data)
 
-        response = ''
-        if len(matches) == 0:
-            response = 'Sorry! No matching donor found'
-        else:
-            response = f'{len(matches)} matching donor found. I am notifying...'
+        if parsed_data.get('error', False):
+            # parsing error
+            return
+        
+        # print(json.dumps(parsed_data, indent=4))
 
-        await update.message.reply_text(response)
+        bloodrequest = parsed_data
+        bloodrequest['sourceTelegramChatId'] = str(chat_id)
+        bloodrequest['sourceTelegramMessageId'] = message_id
 
-        for u in matches:
-            text = f'A matching blood seeking request from {get_full_name(user)}! Please help if you can.\n\n{user_text}'
-            await context.bot.send_message(chat_id=u['chat_id'], text=text)
+        print(json.dumps(bloodrequest, indent=4))
+
+        response = create_bloodrequest(bloodrequest)
+
+        if response['success']:
+            created_bloodrequest = response['bloodrequest']
+            print(json.dumps(created_bloodrequest, indent=4))
+
+            matching_donors = find_matching_donors(created_bloodrequest['id'])
+
+            print(json.dumps(matching_donors, indent=4))
+
+            # this part should actually happen centrally
+            candidates = matching_donors['nearbyDonors'] + matching_donors['otherEligibleDonors']
+
+            LIMIT = 5
+
+            text = f'A matching blood donation request from @{username}! Please help if you can.\n\n{user_text}'
+
+            for donor in candidates[:LIMIT]:
+                if donor['chatPlatform'] == 'telegram':
+                    await context.bot.send_message(chat_id=donor['telegramChatId'], text=text)
+
+        # users = read_users()
+        # matches = []
+        # for u in users:
+        #     if(u['blood_group'] == info['blood_group']):
+        #         matches.append(u)
+
+        # response = ''
+        # if len(matches) == 0:
+        #     response = 'Sorry! No matching donor found'
+        # else:
+        #     response = f'{len(matches)} matching donor found. I am notifying...'
+
+        # await update.message.reply_text(response)
+
+        # for u in matches:
+        #     text = f'A matching blood seeking request from {get_full_name(user)}! Please help if you can.\n\n{user_text}'
+        #     await context.bot.send_message(chat_id=u['chat_id'], text=text)
 
 
 ####################################################################################
@@ -324,7 +398,7 @@ def main() -> None:
 
     # Register handlers
     application.add_handler(CommandHandler("start", start))
-    application.add_handler(CommandHandler("help", start))
+    application.add_handler(CommandHandler("help", help))
     
     application.add_handler(CommandHandler("show_my_info", show_my_info))
     application.add_handler(CommandHandler("update_my_info", update_my_info))
@@ -332,8 +406,7 @@ def main() -> None:
     application.add_handler(CommandHandler("register_as_donor", register_as_donor))
     application.add_handler(CommandHandler("goodbye", unregister))
 
-    # Register the message handler for responding to "hello"
-    # application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, process_text))
+    application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, process_text))
 
     keep_alive(application.bot)
 

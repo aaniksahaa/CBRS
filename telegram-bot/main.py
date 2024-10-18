@@ -9,7 +9,9 @@ from message_parser import *
 
 # keep_alive()
 
-frontend_base_url = 'https://delta-blood-bot.netlify.app'
+BOT_USERNAME = 'delta77bloodbot'
+BOT_LINK = f'https://t.me/{BOT_USERNAME}'
+FRONTEND_BASE_URL = 'https://delta-blood-bot.netlify.app'
 GENERIC_ERROR_MSG = "Sorry! We are facing an issue... Please try again later."
 
 ids = []
@@ -23,9 +25,9 @@ def get_user(update: Update):
 
 def search_telegram_user(username, chat_id):
     matching_donors = fetch_donors({
-        'telegramUsername': username,
+        # 'telegramUsername': username,
         'chatPlatform': 'telegram',
-        # "telegramChatId": str(chat_id), # search the id as string in db
+        "telegramChatId": str(chat_id), # search the id as string in db
     })
     if matching_donors:
         matching_donor = matching_donors[0]   # ideally there should be at max one match
@@ -81,7 +83,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         group_greetings_text = f"""
 Greetings! I am a telegram bot designed to facilitate the searching for emergency blood donation. When I find messages in the group that are seeking blood donation, I will automatically notify nearby registered donors based on criteria matches.
 
-<b>If any of you wish to register as a blood donor, please inbox me.</b>
+<b>If any of you wish to register as a blood donor, please inbox me by clicking the following link:</b>
+
+{BOT_LINK}
 
 Thanks!
 """
@@ -108,7 +112,7 @@ Thanks!
     help_text = f"""
 🩸 Delta Blood Bot 🩸
 
-Welcome @{user.username} ! We are happy to have you. Here is a list of commands to ease your interaction.
+Welcome <b>{get_full_name(user)}</b> ! We are happy to have you. Here is a list of commands to ease your interaction.
 
 /help - Show help text for using the bot
 /show_my_info - View your last saved information
@@ -125,22 +129,24 @@ Welcome @{user.username} ! We are happy to have you. Here is a list of commands 
 ✅ Please be assured that we do not share your information anywhere else
 """
     
-    await update.message.reply_text(help_text)
+    await update.message.reply_text(help_text, parse_mode='HTML')
 
     if new_user:
         registration_text = f"""
-Dear {new_user['name']}, since you are a new user, we would like to collect a bit more info about you so that you may be served with appropriate blood seeking requests nearby.
+<b>Attention!</b>
+
+Dear <b>{new_user['name']}</b>, since you are a new user, we would like to collect a bit more info about you so that you may be served with appropriate blood seeking requests nearby.
 
 Please do care to provide your detailed info through the following link:
 
-{frontend_base_url}/home/{new_user['id']}
+{FRONTEND_BASE_URL}/home/{new_user['id']}
 
 After you provide your info, please check whether they are okay by the command 
 /show_my_info
 
 Thank you!
     """
-        await update.message.reply_text(registration_text)
+        await update.message.reply_text(registration_text, parse_mode='HTML')
 
 async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if get_chat_type(update) == 'group':
@@ -165,23 +171,23 @@ async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) 
 
     if new_user:
         registration_text = f"""
-Dear @{username}, since you are a new user, we would like to collect a bit more info about you so that you may be served with appropriate blood seeking requests nearby.
+Dear <b>{get_full_name(user)}</b>, since you are a new user, we would like to collect a bit more info about you so that you may be served with appropriate blood seeking requests nearby.
 
 Please do care to provide your detailed info through the following link:
 
-{frontend_base_url}/home/{new_user['id']}
+{FRONTEND_BASE_URL}/home/{new_user['id']}
 
 After you provide your info, please check whether they are okay by the command 
 /show_my_info
 
 Thank you!
     """
-        await update.message.reply_text(registration_text)
+        await update.message.reply_text(registration_text, parse_mode='HTML')
     else:
         reply_text = f"""
-Dear @{username}, you are already registered as a donor and your notifications have been enabled.
+Dear <b>{get_full_name(user)}</b>, you are already registered as a donor and your notifications have been enabled.
 """
-        await update.message.reply_text(reply_text)
+        await update.message.reply_text(reply_text, parse_mode='HTML')
 
 async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if get_chat_type(update) == 'group':
@@ -239,7 +245,7 @@ async def show_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
         reply_text = f"""
 🩸 Delta Blood Bot 🩸
 
-Welcome @{user.username}! Here are your currently saved data. 
+Welcome <b>{get_full_name(user)}</b>! Here are your currently saved data. 
 
 ✅ <b>Blood Group</b>: {blood_group}
 ✅ <b>Last Donation Date</b>: {last_donated}
@@ -271,16 +277,16 @@ async def update_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         reply_text = f"""
 🩸 Delta Blood Bot 🩸
 
-Dear @{username}, please update your info through the following link:
+Dear <b>{get_full_name(user)}</b>, please update your info through the following link:
 
-{frontend_base_url}/home/{matching_donor['id']}
+{FRONTEND_BASE_URL}/home/{matching_donor['id']}
 
 After you provide your info, please check whether they are okay by the command 
 /show_my_info
 
 Thank you!
     """
-        await update.message.reply_text(reply_text)
+        await update.message.reply_text(reply_text, parse_mode='HTML')
     
 
 async def unregister(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -364,11 +370,16 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 
             LIMIT = 5
 
-            text = f'A matching blood donation request from @{username}! Please help if you can.\n\n{user_text}'
+            text = f'A matching blood donation request from <b>{get_full_name(user)}</b>! Please help if you can.\n\n{user_text}'
 
             for donor in candidates[:LIMIT]:
+                # print(donor)
+                distance = None
+                if(donor.get('distance', None)):
+                    distance = donor['distance']
+                    text += f"\n\nThe location is approximately <b>{distance} kilometers</b> away from you."
                 if donor['chatPlatform'] == 'telegram':
-                    await context.bot.send_message(chat_id=donor['telegramChatId'], text=text)
+                    await context.bot.send_message(chat_id=donor['telegramChatId'], text=text, parse_mode='HTML')
 
         # users = read_users()
         # matches = []

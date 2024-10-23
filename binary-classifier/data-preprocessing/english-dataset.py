@@ -50,7 +50,7 @@ def generate_samples(samples, n):
 
 
 num_samples = 400
-# Generate 100 positive and 100 negative samples with diversity
+# Generate 400 positive and 400 negative samples with diversity
 positive_samples_final = generate_samples(positive_samples, num_samples)
 negative_samples_final = generate_samples(negative_samples, num_samples)
 

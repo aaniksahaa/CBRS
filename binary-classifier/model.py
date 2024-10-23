@@ -8,7 +8,7 @@ import gensim.downloader as api
 import numpy as np
 
 
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('./data-preprocessing/dataset.csv')
 df = shuffle(df, random_state=42)  
 
 print(f'non-blood:\n {(df['label']==0).sum()}')
@@ -24,7 +24,7 @@ X_train_tfidf = tfidf.fit_transform(X_train)
 X_test_tfidf = tfidf.transform(X_test)
 
 # Add L2 regularization
-model = LogisticRegression(C=1.0, penalty='l2', solver='lbfgs', max_iter=1000)
+model = LogisticRegression(C=1.0, penalty='l2', solver='lbfgs', max_iter=10000)
 model.fit(X_train_tfidf, y_train)
 
 y_pred = model.predict(X_test_tfidf)
@@ -32,34 +32,27 @@ y_pred = model.predict(X_test_tfidf)
 accuracy = accuracy_score(y_test,y_pred)
 
 print(f'accuracy {accuracy}') # 0.99 % 
-
-print(f'\n----------Word2Vec model--------\n')
-
-w2v_model = api.load('glove-wiki-gigaword-100')
-
-def text_to_vector(text):
-
-    words = text.split()
-
-    word_vectors = []
-
-    for word in words:
-
-        if word in w2v_model:
-
-            print(f' word: {word} , vector : {w2v_model[word]}')
-            word_vectors.append(w2v_model[word])
-    
-    np.mean(word_vectors,axis=1)
-
-text_to_vector("রক্তদান করা প্রয়োজন বন্ধু")
+print(f'classification report\n {classification_report(y_pred,y_test)}')
 
 
-# messages = ["someone needed at uttara, my purse has been stolen by someone, I need to contact to the police",
+def predict_messages(messages):
 
-# "I am bag, ha ha hol hola",
-# "আমি তোমাকে ভালোবাসি bag",
-# "Emergency"]
+    y_pred = model.predict(tfidf.transform(messages))
+
+    for i in range(len(messages)):
+
+        print(f'message: {messages[i]}, prediction: {y_pred[i]}')
+
+messages = ["someone needed at uttara, my bag has been stolen by someone, I need to contact to the police",
+
+"জরুরি ভিত্তিতে রক্ত প্রয়োজন, যোগাযোগ - 01552375331",
+"Please help me. One of my relatives need 2 bags O+ve blood for uterus operation at birdem hospital",
+"Keu ektu shahajjo koren, amar fupir jonno birdem hospital e A-ve rokto proyojon",
+"আমি তোমাকে ভালোবাসি bag Emergency",
+"Emergency",
+"ব্যাগ"]
+
+predict_messages(messages)
 
 # messages_vector = tfidf.transform(messages)
 

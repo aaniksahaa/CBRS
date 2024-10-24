@@ -14,7 +14,9 @@ BOT_DISPLAY_NAME = 'BloodNet'
 
 BOT_LINK = f'https://t.me/{BOT_USERNAME}'
 
-FRONTEND_BASE_URL = 'https://delta-blood-bot.netlify.app'
+# FRONTEND_BASE_URL = 'https://delta-blood-bot.netlify.app'
+FRONTEND_BASE_URL = 'https://bloodnet.netlify.app'
+
 GENERIC_ERROR_MSG = "Sorry! We are facing an issue... Please try again later."
 
 ids = []

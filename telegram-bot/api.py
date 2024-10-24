@@ -3,9 +3,13 @@ import json
 from typing import Dict, Any, Optional
 from utils import *
 
+render_backend_url = "https://delta-blood-bot-backend.onrender.com"
+heroku_backend_url = "https://bloodnet-backend-f0c12a7e615a.herokuapp.com/"
 
 localhost_backend_url = "http://localhost:3000"
-remote_backend_url = "https://delta-blood-bot-backend.onrender.com"
+
+# remote_backend_url = render_backend_url
+remote_backend_url = heroku_backend_url
 
 base_url = remote_backend_url
 # base_url = localhost_backend_url

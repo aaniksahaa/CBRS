@@ -34,7 +34,7 @@ def search_telegram_user(username, chat_id):
         'chatPlatform': 'telegram',
         "telegramChatId": str(chat_id), # search the id as string in db
     })
-    if(not matching_donors.get('success', True)):
+    if(isinstance(matching_donors, dict) and matching_donors.get('success', True)):
         return None
     if matching_donors:
         matching_donor = matching_donors[0]   # ideally there should be at max one match

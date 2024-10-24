@@ -2,10 +2,15 @@ import { FaEye, FaEyeSlash } from "react-icons/fa";
 
 let api_base;
 
+const render_backend_url = "https://delta-blood-bot-backend.onrender.com";
+const heroku_backend_url =
+  "https://bloodnet-backend-f0c12a7e615a.herokuapp.com/";
+
 // const localhost_backend_url = 'http://192.168.229.36:3000'
 const localhost_backend_url = "http://localhost:3000";
-// const remote_backend_url = "https://qlearn.onrender.com";
-const remote_backend_url = "https://delta-blood-bot-backend.onrender.com";
+
+// const remote_backend_url = render_backend_url;
+const remote_backend_url = heroku_backend_url;
 
 if (process.env.NODE_ENV === "development") {
   api_base = localhost_backend_url;

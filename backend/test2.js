@@ -1,6 +1,4 @@
-const { getChapters } = require("./controllers/chapter");
 const generateStatistics = require("./controllers/stat");
-const { getSingleUserProfile } = require("./controllers/user");
 
 const f = async () => {
   const c = await generateStatistics();

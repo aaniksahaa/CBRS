@@ -10,7 +10,10 @@ from message_parser import *
 # keep_alive()
 
 BOT_USERNAME = 'delta77bloodbot'
+BOT_DISPLAY_NAME = 'BloodNet'
+
 BOT_LINK = f'https://t.me/{BOT_USERNAME}'
+
 FRONTEND_BASE_URL = 'https://delta-blood-bot.netlify.app'
 GENERIC_ERROR_MSG = "Sorry! We are facing an issue... Please try again later."
 
@@ -110,7 +113,7 @@ Thanks!
             new_user = created_user
 
     help_text = f"""
-🩸 Delta Blood Bot 🩸
+🩸 {BOT_DISPLAY_NAME} 🩸
 
 Welcome <b>{get_full_name(user)}</b> ! We are happy to have you. Here is a list of commands to ease your interaction.
 
@@ -196,7 +199,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     user = get_user(update)
 
     help_text = f"""
-🩸 Delta Blood Bot 🩸
+🩸 {BOT_DISPLAY_NAME} 🩸
 
 Welcome @{user.username} ! We are happy to have you. Here is a list of commands to ease your interaction.
 
@@ -243,7 +246,7 @@ async def show_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
         blood_group = matching_donor['bloodGroup'] if matching_donor['bloodGroup'] else NA_MESSAGE
 
         reply_text = f"""
-🩸 Delta Blood Bot 🩸
+🩸 {BOT_DISPLAY_NAME} 🩸
 
 Welcome <b>{get_full_name(user)}</b>! Here are your currently saved data. 
 
@@ -275,7 +278,7 @@ async def update_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         reply_text = GENERIC_ERROR_MSG
     else:
         reply_text = f"""
-🩸 Delta Blood Bot 🩸
+🩸 {BOT_DISPLAY_NAME} 🩸
 
 Dear <b>{get_full_name(user)}</b>, please update your info through the following link:
 
@@ -381,7 +384,7 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
         # print(json.dumps(parsed_data, indent=4))
 
         bloodrequest = parsed_data
-        
+
         bloodrequest['sourceTelegramChatId'] = str(chat_id)
         bloodrequest['sourceTelegramMessageId'] = message_id
         bloodrequest['messageSentAt'] = update.message.date.isoformat()

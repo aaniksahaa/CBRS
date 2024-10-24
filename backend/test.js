@@ -1,6 +1,4 @@
 const { PrismaClient } = require("@prisma/client");
-const { getSingleLesson, updateLesson } = require("./controllers/lesson");
-const { createPost } = require("./controllers/post");
 const { findProbableDonors } = require("./controllers/donor");
 const prisma = new PrismaClient();
 

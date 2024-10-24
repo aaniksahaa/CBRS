@@ -6,6 +6,7 @@ import Home from "./Home";
 import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 
 import Demo from "./Demo";
+import NotFound from "./NotFound";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/home/:donorId" Component={Home} />
-          <Route path="/demo" Component={Demo} />
+          {/* <Route path="/demo" Component={Demo} /> */}
+          <Route path="*" Component={NotFound} />
         </Routes>
       </BrowserRouter>
     </>

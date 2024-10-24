@@ -11,16 +11,22 @@ import {
   Heading,
   SimpleGrid,
   Switch,
-  // Add your other Chakra UI components here
+  Modal,
+  ModalOverlay,
+  ModalContent,
+  ModalHeader,
+  ModalBody,
+  ModalFooter,
+  Text,
+  useDisclosure,
 } from "@chakra-ui/react";
 import { getDonor, updateDonor } from "./API";
 import { toast } from "react-toastify";
 import LoadingBubbles from "./components/LoadingBubbles";
 
-const DonorForm = () => {
-  const { donorId } = useParams(); // Extract donor_id from URL
-  // console.log(donorId);
-
+const Home = () => {
+  const { donorId } = useParams();
+  const { isOpen, onOpen, onClose } = useDisclosure();
   const [error, setError] = useState(null);
   const [geoEnabled, setGeoEnabled] = useState(true);
 
@@ -36,14 +42,13 @@ const DonorForm = () => {
       (position) => {
         const lat = position.coords.latitude;
         const lon = position.coords.longitude;
-        // console.log(lat, lon);
         setDonorData({
           ...donorData,
           latitude: lat,
           longitude: lon,
         });
         toast.success(`Location successfuly grabbed as ${lat}°N, ${lon}°E`);
-        setError(null); // Clear any previous errors
+        setError(null);
       },
       (err) => {
         if (err.code === err.PERMISSION_DENIED) {
@@ -85,14 +90,13 @@ const DonorForm = () => {
   });
 
   useEffect(() => {
-    // Fetch donor data based on donor_id
     const fetchDonor = async () => {
       try {
         const data = await getDonor(donorId);
         if (data.ERROR) {
           return;
         }
-        setDonorData(data); // Prepopulate form with donor data
+        setDonorData(data);
       } catch (error) {
         console.error("Error fetching donor data:", error);
       }
@@ -146,16 +150,15 @@ const DonorForm = () => {
         return;
       }
       toast.success("Donor info updated successfully!");
-      // console.log(data);
+      onOpen(); // Open the success modal
     } catch (error) {
       console.error("Error updating donor data:", error);
     }
   };
 
-  // Utility function to convert ISO string to 'yyyy-MM-dd'
   const formatDate = (isoString) => {
-    if (!isoString) return ""; // Handle empty case
-    return isoString.split("T")[0]; // Extract date part
+    if (!isoString) return "";
+    return isoString.split("T")[0];
   };
 
   if (donorData.name === "") {
@@ -190,12 +193,12 @@ const DonorForm = () => {
                 isDisabled
                 placeholder="Enter full name"
                 sx={{
-                  opacity: 0.9, // Make it fully opaque
-                  color: "gray.800", // Change the text color to a darker gray
-                  backgroundColor: "gray.100", // Adjust the background color
-                  cursor: "not-allowed", // Keep the cursor style for disabled
+                  opacity: 0.9,
+                  color: "gray.800",
+                  backgroundColor: "gray.100",
+                  cursor: "not-allowed",
                   _disabled: {
-                    borderColor: "gray.400", // Change border color when disabled
+                    borderColor: "gray.400",
                   },
                 }}
               />
@@ -210,12 +213,12 @@ const DonorForm = () => {
                 isDisabled
                 placeholder="Select Chat Platform"
                 sx={{
-                  opacity: 0.9, // Make it fully opaque
-                  color: "gray.800", // Change the text color to a darker gray
-                  backgroundColor: "gray.100", // Adjust the background color
-                  cursor: "not-allowed", // Keep the cursor style for disabled
+                  opacity: 0.9,
+                  color: "gray.800",
+                  backgroundColor: "gray.100",
+                  cursor: "not-allowed",
                   _disabled: {
-                    borderColor: "gray.400", // Change border color when disabled
+                    borderColor: "gray.400",
                   },
                 }}
               >
@@ -226,28 +229,6 @@ const DonorForm = () => {
           </SimpleGrid>
 
           <SimpleGrid columns={{ base: 1, md: 2 }} spacing={6} w="full">
-            {/* <FormControl>
-              <FormLabel>Latitude</FormLabel>
-              <Input
-                type="number"
-                name="latitude"
-                value={donorData.latitude}
-                onChange={handleInputChange}
-                placeholder="Latitude"
-              />
-            </FormControl>
-
-            <FormControl>
-              <FormLabel>Longitude</FormLabel>
-              <Input
-                type="number"
-                name="longitude"
-                value={donorData.longitude}
-                onChange={handleInputChange}
-                placeholder="Longitude"
-              />
-            </FormControl> */}
-
             <FormControl isRequired>
               <FormLabel>Your Location</FormLabel>
               <Button onClick={handleShareLocation} colorScheme="green" mt={0}>
@@ -264,25 +245,6 @@ const DonorForm = () => {
                 onChange={handleInputChange}
               />
             </FormControl>
-
-            {/* <FormControl isRequired>
-              <FormLabel>Blood Group</FormLabel>
-              <Select
-                name="bloodGroup"
-                value={donorData.bloodGroup}
-                onChange={handleInputChange}
-                placeholder="Select Blood Group"
-              >
-                <option value="O+">O+</option>
-                <option value="O-">O-</option>
-                <option value="A+">A+</option>
-                <option value="A-">A-</option>
-                <option value="B+">B+</option>
-                <option value="B-">B-</option>
-                <option value="AB+">AB+</option>
-                <option value="AB-">AB-</option>
-              </Select>
-            </FormControl> */}
           </SimpleGrid>
 
           <FormControl isRequired>
@@ -308,8 +270,6 @@ const DonorForm = () => {
                   color={
                     donorData.bloodGroup === group.value ? "white" : "black"
                   }
-                  // _hover={{ bg: `${group.bgColor.split(".")[0]}.300` }}
-                  // _active={{ bg: `${group.bgColor.split(".")[0]}.400` }}
                   _hover={
                     donorData.bloodGroup === group.value
                       ? { bg: "black" }
@@ -333,21 +293,32 @@ const DonorForm = () => {
             </SimpleGrid>
           </FormControl>
 
-          {/* <FormControl display="flex" alignItems="center">
-            <FormLabel mb="0">Disable Notifications</FormLabel>
-            <Switch
-              isChecked={donorData.isNotificationDisabled}
-              onChange={handleSwitchChange}
-            />
-          </FormControl> */}
-
           <Button colorScheme="teal" size="lg" w="full" onClick={handleSubmit}>
             Submit Donor Info
           </Button>
         </VStack>
       </Box>
+
+      {/* Success Modal */}
+      <Modal isOpen={isOpen} onClose={onClose} isCentered>
+        <ModalOverlay />
+        <ModalContent>
+          <ModalHeader textAlign="center">Success!</ModalHeader>
+          <ModalBody>
+            <Text textAlign="center" fontSize="lg">
+              Thanks! Your info has been saved. You may now go back to{" "}
+              {donorData["chatPlatform"]}.
+            </Text>
+          </ModalBody>
+          <ModalFooter justifyContent="center">
+            <Button colorScheme="teal" onClick={onClose}>
+              Close
+            </Button>
+          </ModalFooter>
+        </ModalContent>
+      </Modal>
     </>
   );
 };
 
-export default DonorForm;
+export default Home;

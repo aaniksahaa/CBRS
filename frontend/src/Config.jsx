@@ -13,10 +13,10 @@ const localhost_backend_url = "http://localhost:3000";
 const remote_backend_url = heroku_backend_url;
 
 if (process.env.NODE_ENV === "development") {
-  api_base = localhost_backend_url;
+  // api_base = localhost_backend_url;
 
   // for remote backend from local
-  // api_base = remote_backend_url;
+  api_base = remote_backend_url;
 } else {
   api_base = remote_backend_url;
 }

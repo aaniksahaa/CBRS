@@ -325,6 +325,37 @@ def initial_screening(text):
             break
     return flag
 
+
+# Constants for callback data
+CALLBACK_DONATE_YES = "yes"
+CALLBACK_DONATE_NO = "no"
+
+async def handle_button_response(update, context):
+    """Handle button clicks from donors"""
+    query = update.callback_query
+    await query.answer()  # Acknowledge the button click
+    
+    # Parse the callback data
+    action, notification_id = query.data.split('_')
+    hasConfirmed = True if action == CALLBACK_DONATE_YES else False
+
+    create_response({
+        "hasConfirmed": hasConfirmed,
+        "notificationId": notification_id
+    })
+
+    # Remove the inline keyboard
+    await query.edit_message_reply_markup(reply_markup=None)
+
+    # Send appropriate response message based on the user's choice
+    response_text = (
+        "Thank you for confirming! Your willingness to help can save a life. 💖"
+        if hasConfirmed
+        else "No problem. Thank you for your kind response!"
+    )
+
+    await query.message.reply_text(response_text)
+
 async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if get_chat_type(update) == 'private':
         return 
@@ -350,8 +381,10 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
         # print(json.dumps(parsed_data, indent=4))
 
         bloodrequest = parsed_data
+        
         bloodrequest['sourceTelegramChatId'] = str(chat_id)
         bloodrequest['sourceTelegramMessageId'] = message_id
+        bloodrequest['messageSentAt'] = update.message.date.isoformat()
 
         print(json.dumps(bloodrequest, indent=4))
 
@@ -378,9 +411,33 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
                 if(donor.get('distance', None)):
                     distance = donor['distance']
                     text += f"\n\nThe location is approximately <b>{distance} kilometers</b> away from you."
-                if donor['chatPlatform'] == 'telegram':
-                    await context.bot.send_message(chat_id=donor['telegramChatId'], text=text, parse_mode='HTML')
+                
+                response = create_notification({
+                        "donorId": donor['id'],
+                        "bloodrequestId": created_bloodrequest['id']
+                    })
+                
+                if response['success']:
+                    created_notification = response['notification']
 
+                    # Create inline keyboard
+                    keyboard = [
+                        [
+                            InlineKeyboardButton("Yes, I can donate", callback_data=f"{CALLBACK_DONATE_YES}_{created_notification['id']}"),
+                            InlineKeyboardButton("Not this time, Thanks", callback_data=f"{CALLBACK_DONATE_NO}_{created_notification['id']}")
+                        ]
+                    ]
+                    reply_markup = InlineKeyboardMarkup(keyboard)
+
+                    if donor['chatPlatform'] == 'telegram':
+                        sent_message = await context.bot.send_message(chat_id=donor['telegramChatId'], 
+                                                                    text=text, 
+                                                                    parse_mode='HTML',
+                                                                    reply_markup=reply_markup
+                                                                    )
+                        update_notification(created_notification['id'], 
+                                            {'telegramMessageId': str(sent_message.message_id)})
+                    
         # users = read_users()
         # matches = []
         # for u in users:
@@ -418,6 +475,8 @@ def main() -> None:
     application.add_handler(CommandHandler("goodbye", unregister))
 
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, process_text))
+
+    application.add_handler(CallbackQueryHandler(handle_button_response))
 
     keep_alive(application.bot)
 

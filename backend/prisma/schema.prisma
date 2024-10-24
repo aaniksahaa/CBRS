@@ -40,6 +40,8 @@ model Bloodrequest {
   sourceTelegramMessageId Int?
   sourceDiscordChannelId String?
   messageText           String
+  messageSentAt         DateTime?
+
   bloodGroup            String?
   bagsNeeded            Int?
   patientName           String?
@@ -78,13 +80,30 @@ model Contact {
 model Notification {
   id               String @id @default(auto()) @map("_id") @db.ObjectId
   
-  telegramMessageId String
+  telegramMessageId String?
 
   donorId           String
   bloodrequestId    String
 
   donor             Donor         @relation(fields: [donorId], references: [id], onDelete: Cascade)
   bloodrequest      Bloodrequest  @relation(fields: [bloodrequestId], references: [id], onDelete: Cascade)
+
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+  deletedAt        DateTime?
+
+  responses   Response[]
+}
+
+model Response {
+  id               String @id @default(auto()) @map("_id") @db.ObjectId
+
+  message           String?
+  hasConfirmed      Boolean?
+
+  notificationId           String
+
+  notification             Notification         @relation(fields: [notificationId], references: [id], onDelete: Cascade)
 
   createdAt        DateTime  @default(now())
   updatedAt        DateTime  @updatedAt

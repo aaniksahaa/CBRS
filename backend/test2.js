@@ -1,16 +1,17 @@
 const { getChapters } = require("./controllers/chapter");
+const generateStatistics = require("./controllers/stat");
 const { getSingleUserProfile } = require("./controllers/user");
 
-// const f = async (payload) => {
-//   const c = await getSingleUserProfile(payload);
-//   console.log(c);
-// };
+const f = async () => {
+  const c = await generateStatistics();
+  console.log(c);
+};
 
 // payload = {
 //   user_id: "66ae41d47ce127c118b8f694",
 // };
 
-// f(payload);
+f();
 
 const a = "abc";
 

@@ -10,7 +10,8 @@ require("dotenv").config();
 
 const donorRouter = require("./routes/donor");
 const bloodrequestRouter = require("./routes/bloodrequest");
-// const notificationRouter = require("./routes/notification");
+const notificationRouter = require("./routes/notification");
+const responseRouter = require("./routes/response");
 
 // Middleswares
 
@@ -38,7 +39,8 @@ app.get("/heartbeat", (req, res) => res.json({ alive: true }));
 
 app.use("/donor", donorRouter);
 app.use("/bloodrequest", bloodrequestRouter);
-// app.use("/notification", notificationRouter);
+app.use("/notification", notificationRouter);
+app.use("/response", responseRouter);
 
 // Use errorhandler
 

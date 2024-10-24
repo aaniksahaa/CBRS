@@ -2,10 +2,13 @@ import requests
 import json
 from typing import Dict, Any, Optional
 from utils import *
+
+
 localhost_backend_url = "http://localhost:3000"
 remote_backend_url = "https://delta-blood-bot-backend.onrender.com"
 
-base_url = remote_backend_url
+# base_url = remote_backend_url
+base_url = localhost_backend_url
 
 # if ENV == 'development':
 #     base_url = localhost_backend_url
@@ -75,6 +78,15 @@ def update_donor(donor_id: str, payload: Dict) -> Dict[str, Any]:
 def create_bloodrequest(payload: Dict) -> Dict[str, Any]:
     return api.postX("bloodrequest", payload)
 
+def create_notification(payload: Dict) -> Dict[str, Any]:
+    return api.postX("notification", payload)
+
+def update_notification(notification_id: str, payload: Dict) -> Dict[str, Any]:
+    return api.putX(f"notification/{notification_id}", payload)
+
+def create_response(payload: Dict) -> Dict[str, Any]:
+    return api.postX("response", payload)
+
 def find_matching_donors(bloodrequest_id: str) -> Dict[str, Any]:
     return api.getX(f"donor/match/{bloodrequest_id}", {})
 
@@ -140,8 +152,30 @@ def find_matching_donors(bloodrequest_id: str) -> Dict[str, Any]:
 #         ]
 #     }
 
-# br_payload = {'messageText': '#URGENT\nBlood Needed\nরক্তের গ্রুপ: B-\nস্থান :BRB Hospital,Panthapath\nযোগাযোগ:01877621398\nসময়: আজকে বিকেলের মধ্যে(রোগীর সিচুয়েশন ক্রিটিক্য       যাল)', 'bloodGroup': 'B-', 'bagsNeeded': None, 'patientName': '', 'patientGender': '', 'patientAgeGroup': '', 'condition': 'Critical situation', 'location': 'BRB Hospital,Panthapath', 'hospitalName': 'BRB Hospital', 'locationMarkers': ['Panthapath'], 'probableDay': 'today', 'probableTime': 'in 0 hours', 'transportation': '', 'allowance': '', 'contacts': [{'name': '', 'numbers': ['01877621398'], 'relationWithPatient': ''}]}
+br_payload = {'messageSentAt': "2024-10-18T07:41:16.138Z",'messageText': '#URGENT\nBlood Needed\nরক্তের গ্রুপ: B-\nস্থান :BRB Hospital,Panthapath\nযোগাযোগ:01877621398\nসময়: আজকে বিকেলের মধ্যে(রোগীর সিচুয়েশন ক্রিটিক্য       যাল)', 'bloodGroup': 'B-', 'bagsNeeded': None, 'patientName': '', 'patientGender': '', 'patientAgeGroup': '', 'condition': 'Critical situation', 'location': 'BRB Hospital,Panthapath', 'hospitalName': 'BRB Hospital', 'locationMarkers': ['Panthapath'], 'probableDay': 'today', 'probableTime': 'in 0 hours', 'transportation': '', 'allowance': '', 'contacts': [{'name': '', 'numbers': ['01877621398'], 'relationWithPatient': ''}]}
 
-# create_bloodrequest(br_payload)
+create_bloodrequest(br_payload)
 
 # print(find_matching_donors("6711835db65b4ec709f2efa3"))
+
+
+# payload = {
+#   "telegramMessageId": "12345",
+#   "donorId": "67121a2d98c6f7e3ae977773",
+#   "bloodrequestId": "6712111c98c6f7e3ae977760"
+# }
+
+# print(create_notification(payload))
+
+# payload = {
+#   "telegramMessageId": "12349",
+# }
+
+# print(update_notification("671a9233bbaf36565d2baf00", payload))
+
+# payload = {
+#   "hasConfirmed": True,
+#   "notificationId": "671a9c05433a7d110a5c834b"
+# }
+
+# print(create_response(payload))

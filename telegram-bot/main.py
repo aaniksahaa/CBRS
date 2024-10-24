@@ -1,4 +1,5 @@
 from datetime import datetime
+import time 
 import json
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardRemove, Update, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, MessageHandler, filters, ContextTypes
@@ -8,6 +9,8 @@ from keep_alive import keep_alive
 from message_parser import *
 
 # keep_alive()
+
+REG_MESSAGE_DELAY = 10
 
 BOT_USERNAME = 'delta77bloodbot'
 BOT_DISPLAY_NAME = 'BloodNet'
@@ -117,9 +120,9 @@ Thanks!
             new_user = created_user
 
     help_text = f"""
-🩸 {BOT_DISPLAY_NAME} 🩸
+🩸 <b>{BOT_DISPLAY_NAME}</b> 🩸
 
-Welcome <b>{get_full_name(user)}</b> ! We are happy to have you. Here is a list of commands to ease your interaction.
+Welcome <b>{get_full_name(user)}</b>! I am happy to meet you. Here is a list of commands to ease your interaction.
 
 /help - Show help text for using the bot
 /show_my_info - View your last saved information
@@ -128,7 +131,11 @@ Welcome <b>{get_full_name(user)}</b> ! We are happy to have you. Here is a list 
 /register_as_donor - Register to our donor database with your complete info
 /goodbye - Unregister from our donor database
 
-📌 A Few Notes:
+🔍 <b>How I work:</b>
+
+I keep looking for blood donation seeking messages in chat groups. Upon finding one, I immediately notify prospective donors who are within 40 km distance and have not donated in the last 4 months.
+
+📌 <b>A Few Notes:</b>
 
 ✅ Your blood_group, last_donated date and location are required to register
 ✅ Even after you register, you will be able to update your info any time
@@ -142,9 +149,7 @@ Welcome <b>{get_full_name(user)}</b> ! We are happy to have you. Here is a list 
         registration_text = f"""
 <b>Attention!</b>
 
-Dear <b>{new_user['name']}</b>, since you are a new user, we would like to collect a bit more info about you so that you may be served with appropriate blood seeking requests nearby.
-
-Please do care to provide your detailed info through the following link:
+Dear <b>{new_user['name']}</b>, since you are a new user, we would like to collect a bit more info about you to complete your registration as a donor. Please do care to provide your detailed info through the following link:
 
 {FRONTEND_BASE_URL}/home/{new_user['id']}
 
@@ -153,6 +158,7 @@ After you provide your info, please check whether they are okay by the command
 
 Thank you!
     """
+        time.sleep(REG_MESSAGE_DELAY)
         await update.message.reply_text(registration_text, parse_mode='HTML')
 
 async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -178,9 +184,7 @@ async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) 
 
     if new_user:
         registration_text = f"""
-Dear <b>{get_full_name(user)}</b>, since you are a new user, we would like to collect a bit more info about you so that you may be served with appropriate blood seeking requests nearby.
-
-Please do care to provide your detailed info through the following link:
+Dear <b>{get_full_name(user)}</b>, since you are a new user, we would like to collect a bit more info about you to complete your registration as a donor. Please do care to provide your detailed info through the following link:
 
 {FRONTEND_BASE_URL}/home/{new_user['id']}
 
@@ -203,9 +207,9 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     user = get_user(update)
 
     help_text = f"""
-🩸 {BOT_DISPLAY_NAME} 🩸
+🩸 <b>{BOT_DISPLAY_NAME}</b> 🩸
 
-Welcome @{user.username} ! We are happy to have you. Here is a list of commands to ease your interaction.
+Welcome <b>{get_full_name(user)}</b>! I am happy to meet you. Here is a list of commands to ease your interaction.
 
 /help - Show help text for using the bot
 /show_my_info - View your last saved information
@@ -214,14 +218,19 @@ Welcome @{user.username} ! We are happy to have you. Here is a list of commands 
 /register_as_donor - Register to our donor database with your complete info
 /goodbye - Unregister from our donor database
 
-📌 A Few Notes:
+🔍 <b>How I work:</b>
+
+I keep looking for blood donation seeking messages in chat groups. Upon finding one, I immediately notify prospective donors who are within 40 km distance and have not donated in the last 4 months.
+
+📌 <b>A Few Notes:</b>
 
 ✅ Your blood_group, last_donated date and location are required to register
 ✅ Even after you register, you will be able to update your info any time
 ✅ Please update your last_donated date when you donate blood
 ✅ Please be assured that we do not share your information anywhere else
 """
-    await update.message.reply_text(help_text)
+    
+    await update.message.reply_text(help_text, parse_mode='HTML')
     
 
 async def show_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:

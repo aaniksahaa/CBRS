@@ -34,6 +34,8 @@ def search_telegram_user(username, chat_id):
         'chatPlatform': 'telegram',
         "telegramChatId": str(chat_id), # search the id as string in db
     })
+    if(not matching_donors.get('success', True)):
+        return None
     if matching_donors:
         matching_donor = matching_donors[0]   # ideally there should be at max one match
         matching_donor['telegramChatId'] = int(matching_donor['telegramChatId'])
@@ -291,7 +293,8 @@ After you provide your info, please check whether they are okay by the command
 
 Thank you!
     """
-        await update.message.reply_text(reply_text, parse_mode='HTML')
+    
+    await update.message.reply_text(reply_text, parse_mode='HTML')
     
 
 async def unregister(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:

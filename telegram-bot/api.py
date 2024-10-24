@@ -7,8 +7,8 @@ from utils import *
 localhost_backend_url = "http://localhost:3000"
 remote_backend_url = "https://delta-blood-bot-backend.onrender.com"
 
-# base_url = remote_backend_url
-base_url = localhost_backend_url
+base_url = remote_backend_url
+# base_url = localhost_backend_url
 
 # if ENV == 'development':
 #     base_url = localhost_backend_url
@@ -152,9 +152,9 @@ def find_matching_donors(bloodrequest_id: str) -> Dict[str, Any]:
 #         ]
 #     }
 
-br_payload = {'messageSentAt': "2024-10-18T07:41:16.138Z",'messageText': '#URGENT\nBlood Needed\nরক্তের গ্রুপ: B-\nস্থান :BRB Hospital,Panthapath\nযোগাযোগ:01877621398\nসময়: আজকে বিকেলের মধ্যে(রোগীর সিচুয়েশন ক্রিটিক্য       যাল)', 'bloodGroup': 'B-', 'bagsNeeded': None, 'patientName': '', 'patientGender': '', 'patientAgeGroup': '', 'condition': 'Critical situation', 'location': 'BRB Hospital,Panthapath', 'hospitalName': 'BRB Hospital', 'locationMarkers': ['Panthapath'], 'probableDay': 'today', 'probableTime': 'in 0 hours', 'transportation': '', 'allowance': '', 'contacts': [{'name': '', 'numbers': ['01877621398'], 'relationWithPatient': ''}]}
+# br_payload = {'messageSentAt': "2024-10-18T07:41:16.138Z",'messageText': '#URGENT\nBlood Needed\nরক্তের গ্রুপ: B-\nস্থান :BRB Hospital,Panthapath\nযোগাযোগ:01877621398\nসময়: আজকে বিকেলের মধ্যে(রোগীর সিচুয়েশন ক্রিটিক্য       যাল)', 'bloodGroup': 'B-', 'bagsNeeded': None, 'patientName': '', 'patientGender': '', 'patientAgeGroup': '', 'condition': 'Critical situation', 'location': 'BRB Hospital,Panthapath', 'hospitalName': 'BRB Hospital', 'locationMarkers': ['Panthapath'], 'probableDay': 'today', 'probableTime': 'in 0 hours', 'transportation': '', 'allowance': '', 'contacts': [{'name': '', 'numbers': ['01877621398'], 'relationWithPatient': ''}]}
 
-create_bloodrequest(br_payload)
+# create_bloodrequest(br_payload)
 
 # print(find_matching_donors("6711835db65b4ec709f2efa3"))
 

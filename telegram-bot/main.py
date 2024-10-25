@@ -86,10 +86,15 @@ def disable_notifications(donor_id):
 def get_chat_type(update):
     return update.effective_chat.type
 
+def check_group(update):
+    chat_type = get_chat_type(update)
+    print(chat_type)
+    return chat_type != 'private'
+
 ####################    BOT WORKFLOW    ######################
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'group':
+    if check_group(update):
         group_greetings_text = f"""
 Greetings! I am a telegram bot designed to facilitate the searching for emergency blood donation. When I find messages in the group that are seeking blood donation, I will automatically notify nearby registered donors based on criteria matches.
 
@@ -162,7 +167,7 @@ Thank you!
         await update.message.reply_text(registration_text, parse_mode='HTML')
 
 async def register_as_donor(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'group':
+    if check_group(update):
         return 
     
     user = get_user(update)
@@ -201,7 +206,7 @@ Dear <b>{get_full_name(user)}</b>, you are already registered as a donor and you
         await update.message.reply_text(reply_text, parse_mode='HTML')
 
 async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'group':
+    if check_group(update):
         return 
     
     user = get_user(update)
@@ -234,7 +239,7 @@ I keep looking for blood donation seeking messages in chat groups. Upon finding 
     
 
 async def show_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'group':
+    if check_group(update):
         return 
     
     user = get_user(update)
@@ -276,7 +281,7 @@ Thank you!
     await update.message.reply_text(reply_text, parse_mode='HTML')
 
 async def update_my_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'group':
+    if check_group(update):
         return 
     
     user = get_user(update)
@@ -307,7 +312,7 @@ Thank you!
     
 
 async def unregister(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'group':
+    if check_group(update):
         return 
     
     user = get_user(update)
@@ -374,7 +379,7 @@ async def handle_button_response(update, context):
     await query.message.reply_text(response_text)
 
 async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    if get_chat_type(update) == 'private':
+    if not check_group(update):
         return 
     
     user = get_user(update)

@@ -425,7 +425,18 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 
             LIMIT = 5
 
-            text = f'A matching blood donation request from <b>{get_full_name(user)}</b>! Please help if you can.\n\n{user_text}'
+            # user_social_handles = []
+
+            # if user['telegramUsername']:
+            #     user_social_handles.append(f"Telegram: @{user['telegramUsername']}")
+            # if user['discordUserId']:
+            #     user_social_handles.append(f"Discord: {user['discordUserId']}")
+
+            user_social_handles_text = ""
+            if user.username:
+                user_social_handles_text += " (" + f"Telegram: @{user.username}" + ")"
+
+            text = f'A matching blood donation request from <b>{get_full_name(user)}</b>{user_social_handles_text}! Please help if you can.\n\n{user_text}'
 
             for donor in candidates[:LIMIT]:
                 # print(donor)

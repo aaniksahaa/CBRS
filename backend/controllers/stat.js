@@ -9,7 +9,7 @@ async function generateStatistics() {
     // Get all confirmed responses with their related data
     const responses = await prisma.response.findMany({
       where: {
-        hasConfirmed: true,
+        // hasConfirmed: true,
       },
       include: {
         notification: {

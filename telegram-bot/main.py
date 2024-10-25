@@ -10,7 +10,7 @@ from message_parser import *
 
 # keep_alive()
 
-REG_MESSAGE_DELAY = 10
+REG_MESSAGE_DELAY = 5
 
 BOT_USERNAME = 'delta77bloodbot'
 BOT_DISPLAY_NAME = 'BloodNet'

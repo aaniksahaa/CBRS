@@ -1,8 +1,8 @@
-const generateStatistics = require("./controllers/stat");
+const {generateDonorCSV, generateResponseStatCSV} = require("./controllers/stat");
 
 const f = async () => {
-  const c = await generateStatistics();
-  console.log(c);
+  await generateDonorCSV();
+  await generateResponseStatCSV();
 };
 
 f();

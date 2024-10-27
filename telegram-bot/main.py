@@ -13,7 +13,7 @@ from message_parser import *
 REG_MESSAGE_DELAY = 5
 
 BOT_USERNAME = 'delta77bloodbot'
-BOT_DISPLAY_NAME = 'BloodNet'
+BOT_DISPLAY_NAME = 'BNet'
 
 BOT_LINK = f'https://t.me/{BOT_USERNAME}'
 

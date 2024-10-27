@@ -1,6 +1,6 @@
 from flask import Flask, request
 from threading import Thread
-
+import os 
 app = Flask(__name__)
 
 # Global reference to the bot instance (passed from main.py)
@@ -25,7 +25,9 @@ async def send_message():
 
 # Function to run the Flask server
 def run():
-    app.run(host='0.0.0.0', port=8080)
+    # app.run(host='0.0.0.0', port=8080)
+    port = int(os.getenv("PORT", 8080))  # Default to 8080 if PORT is not set
+    app.run(host='0.0.0.0', port=port)
 
 # Function to keep the Flask server alive
 def keep_alive(bot):

@@ -371,7 +371,8 @@ async def handle_button_response(update, context):
 
     # Send appropriate response message based on the user's choice
     response_text = (
-        "Thank you for confirming! Your willingness to help can save a life. 💖"
+        """Thank you for confirming! Your willingness to help can save a life 💖.
+Please reach out on the contacts mentioned in the message to fix the details. You may also contact at the requester's social media handle if the former way does not work. Well wishes!"""
         if hasConfirmed
         else "No problem. Thank you for your kind response!"
     )

@@ -443,7 +443,8 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
                 distance = None
                 if(donor.get('distance', None)):
                     distance = donor['distance']
-                    text += f"\n\nThe location is approximately <b>{distance} kilometers</b> away from you."
+                    modified_text = text
+                    modified_text += f"\n\nThe location is approximately <b>{distance} kilometers</b> away from you."
                 
                 response = create_notification({
                         "donorId": donor['id'],
@@ -464,7 +465,7 @@ async def process_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 
                     if donor['chatPlatform'] == 'telegram':
                         sent_message = await context.bot.send_message(chat_id=donor['telegramChatId'], 
-                                                                    text=text, 
+                                                                    text=modified_text, 
                                                                     parse_mode='HTML',
                                                                     reply_markup=reply_markup
                                                                     )

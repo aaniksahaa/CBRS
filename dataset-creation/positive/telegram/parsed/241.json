@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "সিজারের রোগীর জন্য \nব্লাড প্রয়োজন: AB- \nস্থান: Siraj-Khaleda Memorial Cantonment Board General Hospital, Dhaka Cantonment. \nসময়: 5th August \nযোগাযোগ: 01521487059",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Caesarean patient",
+  "location": "Siraj-Khaleda Memorial Cantonment Board General Hospital, Dhaka Cantonment.",
+  "hospital_name": "Siraj-Khaleda Memorial Cantonment Board General Hospital",
+  "location_markers": [
+    "Dhaka Cantonment"
+  ],
+  "probable_day": "05/08",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01521487059"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

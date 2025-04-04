@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Blood : A+ 🩸 (urgent tomorrow)\nPlease please please 🙏 \nHemoglobin.... 6.6\n(তিন ব্যাগ রক্তের প্রয়োজন।)\nHospital : Enam medical college and hospital.\nভর্তি অবস্থায় আছি আমি আর আমার আব্বু। \nআমার আব্বুর প্রয়োজন। একদম মুমূর্ষ অবস্থায় হয়ে গিয়েছেন । \nঅনুগ্রহ করে সহযোগিতার হাত বাড়ান। \ncontact : 01938972536",
+  "blood_group": "A+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Critical condition, needs blood urgently",
+  "location": "Enam medical college and hospital",
+  "hospital_name": "Enam medical college and hospital",
+  "location_markers": [],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01938972536"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

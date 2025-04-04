@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Urgently needed A+ blood patient admitted at uttara monsur ali hospital, uttara,Dhaka con no. 01714486193\n\nরোগীর সমস্যা: ডেঙু ( ব্লাডের প্লাটিলেট কমে গেছে)\n🛑রক্তের গ্রুপ: AB+\n💉রক্তের পরিমাণ: 3 bag\n📆রক্তদানের তারিখ:6/10/2023 \n⌚রক্তদানের সময়: as soon as possible \n🏥রক্তদানের স্থান : Labaid hospital, Dhanmondi \n☎যোগাযোগ:+880 1860-305206",
+  "blood_group": "AB+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue (Platelet count decreased)",
+  "location": "Labaid hospital, Dhanmondi",
+  "hospital_name": "Labaid hospital, Dhanmondi",
+  "location_markers": [
+    "Dhanmondi"
+  ],
+  "probable_day": "06/10/2023",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01714486193"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1860-305206"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

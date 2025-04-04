@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসালামু আলাইকুম। \nজরুরী ভিত্তিতে আজ একজন \nমায়ের AB+ রক্তের প্রয়োজন। \nস্থান : ঢাকা মেডিকেল কলেজ। \nযদি কোন হৃদয়বান ব্যক্তি থেকে থাকেন \nএখনই যোগাযোগ করুন। \nযোগাযোগ : 01714-234881 ( নুরল ইসলাম। )",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ঢাকা মেডিকেল কলেজ",
+  "hospital_name": "ঢাকা মেডিকেল কলেজ",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "নুরল ইসলাম",
+      "contact_numbers": [
+        "01714-234881"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

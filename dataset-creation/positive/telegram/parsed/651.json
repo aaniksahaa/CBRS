@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্ত প্রয়োজন 🩸\nরক্তের গ্রুপ- AB+\nঠিকানা - United Hospital\nযোগাযোগ - 018-848-91201\nKew dite parle kindly ektu janan.",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "United Hospital",
+  "hospital_name": "United Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "018-848-91201"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

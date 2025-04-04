@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রক্তদাতা এগিয়ে আসুন মানবতার টানে, ভয় নেই রক্তদানে\n🔴রক্তের গ্রুপঃ  AB-\n📆রক্তদানের তারিখঃ 1 August \n⌚রক্তদানের সময়:-  5:00\n🏥রক্তদানের স্থানঃ kodomtuli ,keraniganj\n☎যোগাযোগ:01933693080",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "kodomtuli ,keraniganj",
+  "hospital_name": "kodomtuli ,keraniganj",
+  "location_markers": [
+    "keraniganj"
+  ],
+  "probable_day": "01/08",
+  "probable_time": "17:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01933693080"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

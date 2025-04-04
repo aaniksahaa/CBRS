@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসালামু আলাইকুম \nমানবিক আবেদন😢🥺\n ইমারজেন্সি রক্তের প্রয়োজন:-\nরক্তের পরিমান:২ ব্যাগ \nহিমোগ্লোবিন কত: ৫ 😢👈\nরক্তের গ্রুপ: এবি পজেটিভ \nরোগীর সমস্যা ক্যান্সার😢👈\nরোগির সাথে সম্পর্ক :ছেলে\nভর্তি আছেন ঢাকা পিজি হসপিটাল শাহাবাগ \nক্রাবিন ব্লোগ, লিফট এর ৩ \nরুম নম্বর: ৪০৯ এর এ\nযোগাযোগ :০১৭২১৪২৬৫৩৮",
+  "blood_group": "AB+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "M",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "ঢাকা পিজি হসপিটাল শাহাবাগ",
+  "hospital_name": "ঢাকা পিজি হসপিটাল শাহাবাগ",
+  "location_markers": [
+    "ঢাকা",
+    "শাহাবাগ"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01721426538"
+      ],
+      "relation_with_patient": "Son"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

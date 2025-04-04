@@ -1,0 +1,38 @@
+{
+  "is_blood_donation_request": true,
+  "text": "বিজ্ঞপ্তিঃ\nজরুরী ভিত্তিতে ৩ব্যাগ A+ রক্তের প্রয়োজন।\n‌রোগীর সমস্যা: ডেঙ্গু\nপ্লাটিলেট ২১ হাজারে নেমে গেছে\nজরুরী A+ ব্লাড লাগবে।\nযোগাযোগের ঠিকানাঃ\n01600006625 (হিমেল)\n01797147515/ওসমান গনি",
+  "blood_group": "A+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Dengue, platelet count dropped to 21000",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "হিমেল",
+      "contact_numbers": [
+        "01600006625"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "ওসমান গনি",
+      "contact_numbers": [
+        "01797147515"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

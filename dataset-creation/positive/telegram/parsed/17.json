@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "প্লিজ হেল্প\n\nA+ \nBlood needed.\nParkview Hospital , Chittagong \nEmergency\nContact :- +8801818134933\nজিহান\nRef: আফসান সারবি।",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency",
+  "location": "Parkview Hospital , Chittagong",
+  "hospital_name": "Parkview Hospital , Chittagong",
+  "location_markers": [
+    "Chittagong"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "জিহান",
+      "contact_numbers": [
+        "+8801818134933"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

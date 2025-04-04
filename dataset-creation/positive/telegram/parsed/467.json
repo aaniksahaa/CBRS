@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্তের প্রয়োজন\nরক্তের গ্রুপ- o+\nদেওয়ার তারিখ - ১০/০৮/২৪\nস্থান- ন্যাশনাল হার্ট ফাউন্ডেশন ( মিরপুর ০১)\nরক্তের পরিমাণ - ০১ ব্যাগ\nযোগাযোগ- বাদশা( 01920872750)\nঅপারেশন - ওপেন হার্ট সার্জারি।",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart surgery",
+  "location": "ন্যাশনাল হার্ট ফাউন্ডেশন ( মিরপুর ০১)",
+  "hospital_name": "ন্যাশনাল হার্ট ফাউন্ডেশন ( মিরপুর ০১)",
+  "location_markers": [
+    "মিরপুর ০১"
+  ],
+  "probable_day": "10/08/24",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "বাদশা",
+      "contact_numbers": [
+        "01920872750"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

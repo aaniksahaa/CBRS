@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্তের প্রয়োজনে।\nদয়া করে সাহায্য করুন ।\nরোগীর অবস্থা খুব খারাপ \n\n💁রোগীর সমস্যা : থ্যালাসেমিয়া \n🔴রক্তের গ্রুপঃ  B+\n🌡️হিমোগ্লোবিনঃ 4.6\n💉রক্তের পরিমাণঃ 2 ব্যাগ\n📆রক্তদানের তারিখঃ  27_07_2024\n⌚রক্তদানের সময়ঃ রক্তদাতা পাওয়া মাত্রই\n🏥রক্তদানের স্থানঃরংপুর\n☎যোগাযোগঃ 01778115225",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Thalassemia",
+  "location": "রংপুর",
+  "hospital_name": "",
+  "location_markers": [
+    "রংপুর"
+  ],
+  "probable_day": "27/07/2024",
+  "probable_time": "after 00:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01778115225"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

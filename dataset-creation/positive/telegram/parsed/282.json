@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে রক্তের প্রয়োজন!\n💁রোগীর সমস্যা ঃ অপারেশন রোগী\n🔴রক্তের গ্রুপ: A+\n💉প্রয়োজন: ২ ব্যাগ।\nরক্তদানের তারিখঃ যে কোন সময় \n⌚রক্তদানের সময়:  যে কোন সময় \n🏥রক্তদানের স্থান: আদদিন মেডিকেল হাসপাতাল, মগবাজার, ঢাকা।\n📞 যোগাযোগঃ  01914-163530\nপ্লিজ কেউ যদি থাকেন একটু যোগাযোগ করবেন।",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Operation",
+  "location": "আদদেসু মেডিকেল হাসপিজাল, মগবাসৡ, ঢাকা",
+  "hospital_name": "আদদেসু মেডিকেল হাসপিজাল",
+  "location_markers": [
+    "মগবাসৡ",
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01914-163530"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

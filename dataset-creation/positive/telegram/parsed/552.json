@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি  রক্তের প্রয়োজন-♦️♦️\n💁রোগীর সমস্যাঃ- ডেঙ্গু\n🔴রক্তের গ্রুপঃ-  AB+\n📆রক্তদানের তারিখঃ-  ৯/৮/২৩\n🏥রক্তদানের স্থান:- হলি ফ্যামিলি হাসপাতাল\n☎রোগীর লোক এর নাম্বারঃ01855519209",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue",
+  "location": "হলি ফ্যামিলি হাসপাতাল",
+  "hospital_name": "হলি ফ্যামিলি হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "09/08/2023",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01855519209"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন। \nহার্টের ৩ ব্লক অপারেশন ঢাকা\nধানমন্ডি ২৭ স্কয়ার হসপিটাল \n💁 রোগীর সমস্যাঃ হার্ট অপারেশন \n🔴রক্তের গ্রুপঃ  এ নেগেটিভ \n💉রক্তের পরিমাণঃ ৬ ব্যাগ\n⌚রক্তদানের সময়ঃ-২৭/০৭/২৪\nরক্ত দানের সময় : ডোনার পাওয়া মাত্র \n🏥রক্তদানের স্থান:: স্কয়ার হসপিটাল ঢাকা ধানমন্ডি \nযোগাযোগ :০১৭৭১৬৬৩৬৮১\nযে যেখান থেকে দিতে ইচ্ছুক তার সম্পূর্ণ যাতায়াতের খরচ বহন করা হবে। \nসবাই এগিয়ে আসুন নিজের জায়গা থেকে",
+  "blood_group": "A-",
+  "bags_needed": "6",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Heart operation",
+  "location": "স্কয়ার হসপিটাল ঢাকা ধানমন্ডি",
+  "hospital_name": "স্কয়ার হসপিটাল",
+  "location_markers": [
+    "ধানমন্ডি",
+    "ঢাকা"
+  ],
+  "probable_day": "27/07/24",
+  "probable_time": "after 00:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "017771663681"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "Y",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

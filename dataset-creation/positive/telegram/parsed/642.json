@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "🩸জরুরি রক্তের জন্য আবেদন🩸\n🪢রুগীর সমস্যাঃ Hysterectomy \n🔴 রক্তের গ্রুপঃ O+ (ও পজিটিভ) \n💉 রক্তের পরিমাণঃ 1 ব্যাগ\n📆 রক্তদানের তারিখঃ ৮  আগস্ট ২০২৪\n🏥 রক্তদানের ঠিকানাঃ  Hi-tech hospital, Kafrul\n‌📳 যোগাযোগঃ 01310730758",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Hysterectomy",
+  "location": "Hi-tech hospital, Kafrul",
+  "hospital_name": "Hi-tech hospital, Kafrul",
+  "location_markers": [
+    "Kafrul"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01310730758"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রক্তের গ্রুপ: AB-(negative)\n💉রক্তের পরিমাণ:১ ব্যাগ\n📆রক্তদানের তারিখ:২৬/৭/২৪\n⌚রক্তদানের সময়: সকাল ৮ টা হতে ১১ টা\n🏥হাসপাতালের নামঃ (AIMS) hospital, merul badda \n☎যোগাযোগ, মোবাইল নাম্বার:01781356336 \nরোগির সমস্যা: জরায়ুতে টিউমার",
+  "blood_group": "AB-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Tumor in uterus",
+  "location": "(AIMS) hospital, merul badda",
+  "hospital_name": "(AIMS) hospital, merul badda",
+  "location_markers": [
+    "merul badda"
+  ],
+  "probable_day": "26/07/24",
+  "probable_time": "08:00-11:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01781356336"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

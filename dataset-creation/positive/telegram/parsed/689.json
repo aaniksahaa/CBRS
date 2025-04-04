@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Emergency⚠️⚠️\n🛌রোগির সমস্যাঃ অপারেশন রোগী \n🔴রক্তের গ্রুপঃ O পজিটিভ। \n🔄রক্তের পরিমাণঃ ১ ব্যাগ\n📆রক্তদানের তারিখঃ 7/৮/২০২৪ রোজ  মঙ্গলবার\n⌚রক্তদানের সময়ঃ দুপুর ৩:৩০\n🏥রক্তদানের স্থানঃ স্কয়ার হাসপাতাল, ধানমন্ডি।\n☎যোগাযোগঃ- 0 1404-541839",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation patient",
+  "location": "স্কয়ার হাসপাতাল, ধানমন্ডি।",
+  "hospital_name": "স্কয়ার হাসপাতাল, ধানমন্ডি।",
+  "location_markers": [
+    "ধানমন্ডি"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "15:30",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "0 1404-541839"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

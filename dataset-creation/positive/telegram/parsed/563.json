@@ -1,0 +1,39 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী অপারেশনের জন্য শেরপুর জেলায় রক্ত প্রয়োজন । (O+) পজেটিভ। স্থান : শেরপুর জেলা সদর হসপিটাল। যদি কোন রক্তদানকারী শেরপুর সদর উপজেলায় থেকে থাকেন তাহলে 01951242667 নাম্বারের যোগাযোগ করুন। ( ধূমপানমুক্ত ব্যক্তি)",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Urgent operation",
+  "location": "শেরপুर জগाल সদर হসপিটাল",
+  "hospital_name": "শেরপুर জগाल সদर হসপিটাল",
+  "location_markers": [
+    "শেরপুर",
+    "জকाल"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01951242667"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

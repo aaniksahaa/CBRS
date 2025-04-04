@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন 🩸\n💁রোগীর সমস্যা: প্রেগন্যান্ট সিজারের জন্য\n🔴রক্তের গ্রুপ: O - \n💉রক্তের পরিমাণ: ১ ব্যাগ\n📆রক্তদানের তারিখ: আগামীকাল ০৯/০৮/২০২৪\n🕧রক্তদানের সময়ঃ: যত তাড়াতাড়ি সম্ভব\n🏥রক্তদানের স্থান: বাসাবো ছায়াবীথি মাল্টিকেয়ার হাসপাতাল \n☎যোগাযোগ: +8801966453340",
+  "blood_group": "O-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Pregnant cesarean",
+  "location": "বাসাবো ছায়াবীথি মাল্টিকেয়ার হাসপাতাল",
+  "hospital_name": "বাসাবো ছায়াবীথি মাল্টিকেয়ার হাসপাতাল",
+  "location_markers": [
+    "বাসাবো"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801966453340"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

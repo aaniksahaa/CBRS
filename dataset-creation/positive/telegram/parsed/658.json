@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্ত প্রয়োজন 🩸\nকিডনি সমস্যার রোগী\nরক্তের গ্রুপ- A+\nঠিকানা - BiHS হসপিটাল (টেকনিক্যাল মোড়) \nযোগাযোগ - 01740222754 (রনি)\n****** অগ্রিম ধন্যবাদ *******",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Kidney problem",
+  "location": "BiHS হসপিটাল (টেকনিক্যাল মোড়)",
+  "hospital_name": "BiHS হসপিটাল (টেকনিক্যাল মোড়)",
+  "location_markers": [
+    "টেকনিক্যাল মোড়"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "রনি",
+      "contact_numbers": [
+        "01740222754"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

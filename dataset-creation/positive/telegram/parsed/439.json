@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগির নাম: রেহানা বেগম \nরক্তের গ্রুপ: এ পজিটিভ \nস্থান: কুমিল্লা মেডিকেল কলেজ\nরক্ত লাগার কারন: টিউমার এর সমস্যা জনিত কারনে অপারেশন \nযোগাযোগ : মানিক (\n01890678174)\nপ্রয়োজন : বৃহস্পতিবার সকাল",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "রেহানা বেগম",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation due to tumor problem",
+  "location": "কুমিল্লা মেডিকেল কলেজ",
+  "hospital_name": "কুমিল্লা মেডিকেল কলেজ",
+  "location_markers": [
+    "কুমিল্লা"
+  ],
+  "probable_day": "Thursday",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "মানিক",
+      "contact_numbers": [
+        "01890678174"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

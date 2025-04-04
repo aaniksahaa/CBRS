@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Urgent blood needed\n\nরক্তের গ্রুপ: ও নেগেটিভ ( O - )\nরক্তদানের স্থান: পঙ্গু হাসপাতাল\nমোবাইল- Hasan, 01917659346\nরোগীর সমস্যা : সিড়ি থেকে পড়ে গিয়ে পা ভেঙ্গে গিয়েছে, এক চোয়াল খুলে গিয়েছে।\nরক্ত দানের তারিখ - ৮-৮-২০২৪ (এখনি)",
+  "blood_group": "O-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Leg fracture, Jaw dislocation",
+  "location": "পঢ়ু হাসপিজাল",
+  "hospital_name": "পঢ়ু হাসপিজাল",
+  "location_markers": [
+    ""
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Hasan",
+      "contact_numbers": [
+        "01917659346"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

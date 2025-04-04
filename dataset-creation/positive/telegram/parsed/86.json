@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "#bloodUrgent \n#adminapprove \n\nগর্ভবতী মায়ের জন্য.. \nO (-) Negative Blood Needed\n\n🙍রোগীর নামঃ- সুরাইয়া ইয়াসমিন  (আমার ভাবী)\n💁রোগীর সমস্যাঃ- গর্ভবতী \n 🔴রক্তের গ্রুপঃ- O(-) ও নেগেটিভ \n💉রক্তের পরিমাণঃ-  6 Bag\n 📆রক্তদানের তারিখ:- ০৮/০৭/২০২৪ইং\n🏥রক্তদানের স্থান:-  BRB Hospitals Ltd , Dhaka.\n ⛽যোগাযোগ নম্বর: 01713735994\n87.Urgent: O+ blood needed\nMirpur 10 theke Dhaka Medical e niye jacche, guli khaise...urgent blood lagbe...\n\nContact: 0177 333 7173",
+  "blood_group": "O-",
+  "bags_needed": "6",
+  "patient": {
+    "name": "Suraiya Yasmin",
+    "gender": "F",
+    "age_group": "adult"
+  },
+  "condition": "Pregnant",
+  "location": "BRB Hospitals Ltd , Dhaka.",
+  "hospital_name": "BRB Hospitals Ltd , Dhaka.",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "08/07/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01713735994"
+      ],
+      "relation_with_patient": "sister-in-law"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

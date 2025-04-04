@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ও পজিটিভ (O positive) রক্ত প্রয়োজন, কোন স্বহৃদয়বান ভাই ও বোন যোগাযোগ করবেন।\nন্যাশনাল ইনস্টিটিউট অব নিউরো সায়েন্সেস ও হাসপাতাল, আগারঁগাও ঢাকা।\nফোন 01712783856 এবং 01743924170।",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ন্যাশনাল ইনস্টিটিউট অব নিউরো সায়েন্সেস ও হাসপাতাল, আগারঁগাও ঢাকা।",
+  "hospital_name": "ন্যাশনাল ইনস্টিটিউট অব নিউরো সায়েন্সেস ও হাসপাতাল",
+  "location_markers": [
+    "আগারঁগাও",
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01712783856",
+        "01743924170"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

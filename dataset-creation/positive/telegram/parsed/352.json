@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসালামু আলাইকুম \nআগামীকাল কাল ২৮/০৭/২০২৪\nঢাকা, উত্তরা আধুনিক মেডিকেল কলেজ \nএকজন অপারেশন রোগী জন্য ৩ ব্যাগ  A + রক্ত লাগবে  রক্ত জন্য অপারেশন করতে পারছেন না \n প্লিজ আপনারা কেউ পারলে সাহায্য করেন\n01839508476",
+  "blood_group": "A+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Operation",
+  "location": "ঢাকা, উত্তরা আধুনিক মেডিকেল কলেজ",
+  "hospital_name": "উত্তরা আধুনিক মেডিকেল কলেজ",
+  "location_markers": [
+    "ঢাকা",
+    "উত্তরা"
+  ],
+  "probable_day": "28/07/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01839508476"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

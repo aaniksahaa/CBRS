@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্তের প্রয়োজন\n💁 রোগীর সমস্যাঃ- সার্জারী \n🔴 রক্তের গ্রুপঃ- বি পজেটিভ /B positive \n🌡 রক্তের পরিমাণঃ-   ২ ব্যাগ\n📆 রক্তদানের তারিখঃ- ০৭/০৮/২০২৪\n⏰ রক্তদানের সময়ঃ- বেলা:আজ   রাত ৯ টার মধ্যে \n🏨 রক্তদানের স্থানঃ- ঢাকা মেডিকেল \n📱 যোগাযোগ: ইব্রাহিম  (01316395276)",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Surgery",
+  "location": "ঢাকা মেডিকেল",
+  "hospital_name": "ঢাকা মেডিকেল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "before 21:00",
+  "contacts": [
+    {
+      "name": "ইব্রাহিম",
+      "contact_numbers": [
+        "01316395276"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

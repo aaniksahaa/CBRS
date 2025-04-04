@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী  ২ ব্যাগ রক্তের প্রয়োজন\nরক্তের গ্রুপ - ও পজেটিভ \nরোগী- ১০ বছরের বাচ্চা রক্ত স্বল্পতা \nস্হান- গাজীপুর সদর তাজ উদ্দিন হাসপাতাল \nসময় - আজ রাতেই\nযোগাযোগ - 01303389841\nসালমা নিপা আপা",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": "child"
+  },
+  "condition": "Blood shortage",
+  "location": "গাজীপুর সদর তাজ উদ্দিন হাসপাতাল",
+  "hospital_name": "গাজীপুর সদর তাজ উদ্দিন হাসপাতাল",
+  "location_markers": [
+    "গাজীপুর"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "সালমা নিপা আপা",
+      "contact_numbers": [
+        "01303389841"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

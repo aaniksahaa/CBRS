@@ -1,0 +1,38 @@
+{
+  "is_blood_donation_request": true,
+  "text": "মাথায় গুলি লাগছে তার জন্য যত দ্রুত সম্ভব \nবি+ পজেটিভ রক্ত দরকার 8 bag \nনিউরো সাইন্স হাসপাতালে,  অবস্থা বেশি ভাল না।\nকেউ আছেন দেয়ার মতো?  \n\nযোগাযোগ: +8801537567862- আল আমীন রহমান\n@everyone \nNeed A+ve Blood at DMCH \nContact: 01743693529 \nName: Ullash",
+  "blood_group": "B+",
+  "bags_needed": "8",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Condition not stable, Gunshot injury",
+  "location": "নিউরো সাইন্স হাসপাতাল",
+  "hospital_name": "নিউরো সাইন্স হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "আল আমীন রহমান",
+      "contact_numbers": [
+        "+8801537567862"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "Ullash",
+      "contact_numbers": [
+        "01743693529"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

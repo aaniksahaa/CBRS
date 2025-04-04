@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন🩸\n     রোগীর অবস্থা গুরুতর\n🛑রোগীর সমস্যা👉:-  অপারেশন \n🔴রক্তের গ্রুপ👉:- O (-)\n💉রক্তের পরিমাণ👉:- ৩ ব্যাগ\n📆রক্তদানের তারিখঃ ৯ আগস্ট \n🏥রক্তদানের স্থান👉:-  CMH, কুর্মিটোলা, ঢাকা\n☎যোগাযোগঃ 01813770137",
+  "blood_group": "O-",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation, Critical condition",
+  "location": "CMH, কুর্মিটোলা, ঢাকা",
+  "hospital_name": "CMH",
+  "location_markers": [
+    "কুর্মিটোলা",
+    "ঢাকা"
+  ],
+  "probable_day": "09/08",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01813770137"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

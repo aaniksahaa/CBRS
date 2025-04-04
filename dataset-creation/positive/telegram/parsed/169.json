@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রক্ত লাগবে ইমারজেন্সি \n🔴রক্তের গ্রুপঃ ও পজেটিভ \n💉রক্তের পরিমাণ: এক ব্যাগ\n📆রক্তদানের তারিখ: 12তারিখ \n⌚রক্তদানের সময়: সকাল\n🏥রক্তদানের স্থানঃ Crescent gastroliver & general হস্পিতাল Dhanmondi  road-7\n☎যোগাযোগ : 01913615272",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Crescent gastroliver & general হস্পিতাল Dhanmondi  road-7",
+  "hospital_name": "Crescent gastroliver & general হস্পিতাল",
+  "location_markers": [
+    "Dhanmondi",
+    "road-7"
+  ],
+  "probable_day": "12",
+  "probable_time": "before 12:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01913615272"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

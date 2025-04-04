@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "AB+ blood\nইসলামী ব্যাংক সেন্ট্রাল হসপিটাল, কাকরাইল। \n01319665510 রিফাত \nআগামীকাল, ২৭.৭.২৪ (সকাল ৭:৩০)",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ইসলামু ব্াণ্ক सেন्টेরাল হসপিটাল, কআক্রাসেল",
+  "hospital_name": "ইসলামু ব্াণ্ক सেন्ঔাল হসপিটাল",
+  "location_markers": [
+    "কআক্রাসেল"
+  ],
+  "probable_day": "27/07/2024",
+  "probable_time": "07:30",
+  "contacts": [
+    {
+      "name": "রিফাত",
+      "contact_numbers": [
+        "01319665510"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

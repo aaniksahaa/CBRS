@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি ভিত্তিতে রক্ত প্রয়োজনঃ\nরক্তের গ্রুপঃ বি পজিটিভ (B+) ১ ব্যাগ\nরোগীর সমস্যা - হাতের অপারেশন (হাত ভেঙ্গে গেছে)  ইমার্জেন্সি লাগবে \nস্থান- পঙ্গু হাসপাতাল শ্যামলী ঢাকা।\nআগামীকাল শুক্রবার (০৯-০৮-২০২৪) যে কোন সময় \nমোবাইল - 01723434907",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Hand operation (hand is broken)",
+  "location": "পঙ্গু হাসপাতাল শ্যামলী ঢাকা।",
+  "hospital_name": "পঙ্গু হাসপাতাল শ্যামলী ঢাকা।",
+  "location_markers": [
+    "শ্যামলী",
+    "ঢাকা"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "any time",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01723434907"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

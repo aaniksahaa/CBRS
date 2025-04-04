@@ -66,11 +66,11 @@ Reminders:
 """
 
 
-def parse_message_with_together(msg: str, model: str = DEFAULT_MODEL) -> Dict[str, Any]:
+def parse_message_with_together(msg: str, provider: str, model: str = DEFAULT_MODEL) -> Dict[str, Any]:
     prompt = build_prompt(msg)
     try:
         print('called and waiting...')
-        content, input_toks, output_toks, total_toks, cost = call_together(prompt, model)
+        content, input_toks, output_toks, total_toks, cost = call_model(prompt, provider=provider, model=model)
         print('result came')
         clean = content.replace('```', '').replace('json', '')
         clean = re.sub(r'\\u[0-9a-fA-F]{0,3}[^0-9a-fA-F]', '', clean)
@@ -87,10 +87,12 @@ def parse_message_with_together(msg: str, model: str = DEFAULT_MODEL) -> Dict[st
     result = {
         "input_text": msg,
         "output_text": content,
+        "output_json": parsed_json,
         "input_tokens": input_toks,
         "output_tokens": output_toks,
         "total_tokens": total_toks,
         "cost_usd": round(cost, 6),
-        "output_json": parsed_json
+        "provider": provider,
+        "model": model
     }
     return result

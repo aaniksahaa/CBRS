@@ -1,16 +1,12 @@
 import os
-import re 
-import json
 import random
 import logging
-from typing import List, Dict, Any
 from typing import List, Tuple, Optional
 from dotenv import load_dotenv
 from together import Together
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
-from langchain_core.callbacks import CallbackManager, BaseCallbackHandler
 
 # Setup
 dotenv_path = os.getenv("DOTENV_PATH", ".env")
@@ -101,31 +97,12 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
             elif provider == "google":
                 chat = ChatGoogleGenerativeAI(model=model, google_api_key=api_key, temperature=0.2)
                 response = chat.invoke([HumanMessage(content=prompt)])
-                message = response.content
-
-                usage = getattr(response, "usage_metadata", {})
-                input_tokens = usage.get("input_tokens", 0)
-                output_tokens = usage.get("output_tokens", 0)
-                total_tokens = usage.get("total_tokens", 0)
-
-                return message, input_tokens, output_tokens, total_tokens, None
+                return response.content, None, None, None, None
 
             elif provider == "openai":
                 chat = ChatOpenAI(model=model, openai_api_key=api_key, temperature=0.2)
                 response = chat.invoke([HumanMessage(content=prompt)])
-                message = response.content
-
-                # usage = getattr(response, "llm_output", {}).get("token_usage", {})
-                # input_tokens = usage.get("prompt_tokens", 0)
-                # output_tokens = usage.get("completion_tokens", 0)
-                # total_tokens = usage.get("total_tokens", 0)
-
-                usage = getattr(response, "usage_metadata", {})
-                input_tokens = usage.get("input_tokens", 0)
-                output_tokens = usage.get("output_tokens", 0)
-                total_tokens = usage.get("total_tokens", 0)
-
-                return message, input_tokens, output_tokens, total_tokens, None
+                return response.content, None, None, None, None
 
         except Exception as e:
             retries += 1
@@ -139,27 +116,3 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
 
             if retries == MAX_RETRIES:
                 raise Exception(f"Max retries ({MAX_RETRIES}) reached for {provider}. Last error: {str(e)}")
-
-
-import json
-
-def read_txt(path):
-    """Reads a text file and returns its contents as a string."""
-    with open(path, 'r', encoding='utf-8') as f:
-        return f.read()
-
-def write_txt(path, content):
-    """Writes a string to a text file."""
-    with open(path, 'w', encoding='utf-8') as f:
-        f.write(content)
-
-def read_json(path):
-    """Reads a JSON file and returns the parsed object (dict or list)."""
-    with open(path, 'r', encoding='utf-8') as f:
-        return json.load(f)
-
-def write_json(path, obj):
-    """Serializes a Python object to a JSON file with indentation and Unicode support."""
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(obj, f, ensure_ascii=False, indent=2)
-

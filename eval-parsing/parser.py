@@ -66,7 +66,7 @@ Reminders:
 """
 
 
-def parse_message_with_together(msg: str, provider: str, model: str = DEFAULT_MODEL) -> Dict[str, Any]:
+def parse_blood_donation_request_text(msg: str, provider: str, model: str = DEFAULT_MODEL) -> Dict[str, Any]:
     prompt = build_prompt(msg)
     try:
         print('called and waiting...')

@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 from together import Together
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
+from langchain_community.callbacks import get_openai_callback
 from langchain_core.messages import HumanMessage
-from langchain_core.callbacks import CallbackManager, BaseCallbackHandler
 
 # Setup
 dotenv_path = os.getenv("DOTENV_PATH", ".env")
@@ -27,7 +27,7 @@ SUPPORTED_PROVIDERS = ["together", "google", "openai"]
 DEFAULT_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 MAX_RETRIES = 3
 
-MODEL_PRICING_PER_MILLION = {
+MODEL_PER_MILLION = {
     "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free": 0.88,
     "deepseek-ai/DeepSeek-V3": 1.25,
     "Qwen/Qwen2.5-7B-Instruct-Turbo": 0.3,
@@ -36,6 +36,50 @@ MODEL_PRICING_PER_MILLION = {
     "google/gemma-2-9b-it": 0.3,
     "google/gemma-2-27b-it": 0.8
 }
+
+MODEL_COST_PER_MILLION = {
+    "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free": {
+        "input": 0.88,
+        "output": 0.88
+    },
+    "deepseek-ai/DeepSeek-V3": {
+        "input": 1.25,
+        "output": 1.25
+    },
+    "Qwen/Qwen2.5-7B-Instruct-Turbo": {
+        "input": 0.3,
+        "output": 0.3
+    },
+    "mistralai/Mistral-7B-Instruct-v0.3": {
+        "input": 0.2,
+        "output": 0.2
+    },
+    "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": {
+        "input": 0.18,
+        "output": 0.18
+    },
+    "google/gemma-2-9b-it": {
+        "input": 0.3,
+        "output": 0.3
+    },
+    "google/gemma-2-27b-it": {
+        "input": 0.8,
+        "output": 0.8
+    },
+    "gemini-2.0-flash": {
+        "input": 0.1,
+        "output": 0.4
+    }
+}
+
+def get_cost(model, input_tokens, output_tokens):
+    if model not in MODEL_COST_PER_MILLION:
+        return 0
+        
+    input_cost = (input_tokens / 1_000_000) * MODEL_COST_PER_MILLION[model]["input"]
+    output_cost = (output_tokens / 1_000_000) * MODEL_COST_PER_MILLION[model]["output"]
+    
+    return input_cost + output_cost
 
 # Collect API keys by provider
 def collect_api_keys() -> dict:
@@ -93,8 +137,10 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
                 output_tokens = usage.completion_tokens if usage else 0
                 total_tokens = usage.total_tokens if usage else 0
 
-                cost_per_token = MODEL_PRICING_PER_MILLION.get(model, 1.0) / 1_000_000
-                total_cost = total_tokens * cost_per_token
+                # cost_per_token = MODEL_PER_MILLION.get(model, 1.0) / 1_000_000
+                # total_cost = total_tokens * cost_per_token
+
+                total_cost = get_cost(model, input_tokens, output_tokens)
 
                 return message, input_tokens, output_tokens, total_tokens, total_cost
 
@@ -108,24 +154,25 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
                 output_tokens = usage.get("output_tokens", 0)
                 total_tokens = usage.get("total_tokens", 0)
 
-                return message, input_tokens, output_tokens, total_tokens, None
+                total_cost = get_cost(model, input_tokens, output_tokens)
+
+                return message, input_tokens, output_tokens, total_tokens, total_cost
 
             elif provider == "openai":
                 chat = ChatOpenAI(model=model, openai_api_key=api_key, temperature=0.2)
-                response = chat.invoke([HumanMessage(content=prompt)])
-                message = response.content
+                with get_openai_callback() as cb:
+                    response = chat.invoke([HumanMessage(content=prompt)])
+                    message = response.content
 
-                # usage = getattr(response, "llm_output", {}).get("token_usage", {})
-                # input_tokens = usage.get("prompt_tokens", 0)
-                # output_tokens = usage.get("completion_tokens", 0)
-                # total_tokens = usage.get("total_tokens", 0)
+                    usage = getattr(response, "usage_metadata", {})
+                    input_tokens = usage.get("input_tokens", 0)
+                    output_tokens = usage.get("output_tokens", 0)
+                    total_tokens = usage.get("total_tokens", 0)
+                    
+                    # Get cost from callback
+                    cost = cb.total_cost
 
-                usage = getattr(response, "usage_metadata", {})
-                input_tokens = usage.get("input_tokens", 0)
-                output_tokens = usage.get("output_tokens", 0)
-                total_tokens = usage.get("total_tokens", 0)
-
-                return message, input_tokens, output_tokens, total_tokens, None
+                return message, input_tokens, output_tokens, total_tokens, cost
 
         except Exception as e:
             retries += 1

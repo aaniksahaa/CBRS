@@ -8,6 +8,9 @@ provider = 'together'
 model = 'deepseek-ai/DeepSeek-V3'
 model = 'meta-llama/Llama-3.3-70B-Instruct-Turbo-Free'
 
-out = parse_message_with_together(msg, provider=provider, model=model)
+provider = 'openai'
+model = 'gpt-4o-mini'
+
+out = parse_blood_donation_request_text(msg, provider=provider, model=model)
 
 write_json('out.json', out)

@@ -1,38 +1,40 @@
 {
   "input_text": "Jannatu Nayem Evan এর জন্য ইমার্জেন্সি O+ blood লাগবে\n\nEmergency 10 bag o+ blood lagbe \nOnk serious obostha amar friend er \n\nBlood group : O+ \n\nAmount : 10 bag\n\nHospital : Ever care hospital \n\nLocation : Boshudhoara \n\nPlease help.  Its urgent \n\nMobile : 01719337179\n\nContact Jawad Zahin bhaiya or call",
-  "output_text": "{\"blood_group\": \"O+\", \"bags_needed\": \"10\", \"patient\": {\"name\": \"Jannatu Nayem Evan\", \"gender\": \"\", \"age-group\": \"\"}, \"condition\": \"Onk serious obostha\", \"location\": \"Boshudhoara\", \"hospital_name\": \"Ever care hospital\", \"location_markers\": [\"Boshudhoara\"], \"probable_day\": \"today\", \"probable_time\": \"now\", \"contacts\": [{\"name\": \"Jawad Zahin\", \"contact_numbers\": [\"01719337179\"], \"relation_with_patient\": \"friend\"}], \"compensation\": {\"transportation\": \"\", \"allowance\": \"\"}}",
-  "input_tokens": 2385,
-  "output_tokens": 143,
-  "total_tokens": 2528,
-  "cost_usd": 0.002225,
+  "output_text": "{\"blood_group\": \"O+\", \"bags_needed\": \"10\", \"patient\": {\"name\": \"Jannatu Nayem Evan\", \"gender\": \"\", \"age_group\": \"\"}, \"condition\": \"Serious condition\", \"location\": \"Boshudhoara\", \"hospital_name\": \"Ever care hospital\", \"location_markers\": [\"Boshudhoara\"], \"probable_day\": \"\", \"probable_time\": \"\", \"contacts\": [{\"name\": \"Jawad Zahin bhaiya\", \"contact_numbers\": [\"01719337179\"], \"relation_with_patient\": \"\"}], \"compensation\": {\"transportation\": \"\", \"allowance\": \"\"}}",
   "output_json": {
     "blood_group": "O+",
     "bags_needed": "10",
     "patient": {
       "name": "Jannatu Nayem Evan",
       "gender": "",
-      "age-group": ""
+      "age_group": ""
     },
-    "condition": "Onk serious obostha",
+    "condition": "Serious condition",
     "location": "Boshudhoara",
     "hospital_name": "Ever care hospital",
     "location_markers": [
       "Boshudhoara"
     ],
-    "probable_day": "today",
-    "probable_time": "now",
+    "probable_day": "",
+    "probable_time": "",
     "contacts": [
       {
-        "name": "Jawad Zahin",
+        "name": "Jawad Zahin bhaiya",
         "contact_numbers": [
           "01719337179"
         ],
-        "relation_with_patient": "friend"
+        "relation_with_patient": ""
       }
     ],
     "compensation": {
       "transportation": "",
       "allowance": ""
     }
-  }
+  },
+  "input_tokens": 1977,
+  "output_tokens": 137,
+  "total_tokens": 2114,
+  "cost_usd": 0.000379,
+  "provider": "openai",
+  "model": "gpt-4o-mini"
 }

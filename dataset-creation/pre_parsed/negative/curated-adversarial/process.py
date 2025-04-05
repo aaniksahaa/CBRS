@@ -27,6 +27,10 @@ for c in combined:
         }
         merged.append(d)
 
+manually_collected_negatives = read_json('./manually_collected_negatives.json')
+
+merged.extend(manually_collected_negatives)
+
 out_path = f'merged.json'
 
 write_json(out_path, merged)

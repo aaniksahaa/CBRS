@@ -3,7 +3,7 @@ import enchant
 
 english_dict = enchant.Dict("en_US")
 
-def detect_language(text, word_threshold=0.6, ascii_threshold=0.8):
+def detect_language(text, word_threshold=0.8, ascii_threshold=0.8):
     """
     Classify a given string as one of the following:
     

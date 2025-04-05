@@ -8,8 +8,21 @@ run.py
 settings.json
 
 *.env
+*.zip
+*.txt
 
 # Ignore files from discord-bot-test
 
-discord-bot-test/node_modules/
-discord-bot-test/.env
+discord-bot/node_modules/
+
+
+assets/
+bk/
+docs/
+geocoding/
+lit review/
+misc-testing/
+scrapers/
+survey processing/
+tg-bot-test/
+

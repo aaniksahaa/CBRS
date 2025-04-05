@@ -1,3 +1,0 @@
-curl -X POST http://localhost:8080/send_message \
-     -H "Content-Type: application/json" \
-     -d '{"chat_id": "1133364176", "message": "Hello from external trigger!"}'

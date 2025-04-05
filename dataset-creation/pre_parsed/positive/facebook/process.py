@@ -39,7 +39,7 @@ for file_path in json_files:
             
             # as a heuristic, texts containing links are considered non request
             # don't cringe please :')
-            negative_keywords = ['http', 'মাদ্রাসা', 'ভালোবাসা', 'ত্রাণ', 'ত্রান']
+            negative_keywords = ['http', 'মাদ্রাসা', 'ভালোবাসা', 'ভালবাসা', 'ত্রাণ', 'ত্রান']
             if any(keyword in text for keyword in negative_keywords):
                 continue
 

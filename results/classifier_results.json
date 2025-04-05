@@ -1,0 +1,14 @@
+[
+    {
+        "model": "fasttext",
+        "precision": 0.9739432542,
+        "recall": 0.9739432542,
+        "f1-score": 0.9739432542
+    },
+    {
+        "model": "tfidf-logistic-regression",
+        "precision": 0.97785551,
+        "recall": 0.97780351,
+        "f1-score": 0.97781609
+    }
+]

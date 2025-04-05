@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসালামু আলাইকুম \nরোগী আামার ফুফা\nহার্টের অপারেশনর জন্য\nরোগীর সমস্যা: হার্টের অপারেশন \n�রক্তের গ্রুপ: বি+(৬ ব্যাগ)\n�রক্তদানের তারিখ: ২২জানুয়ারি ২৪\n�রক্তদানের সময়:  (জরুরি)\n�রক্তদানের স্থান:হার্ট ফাউন্ডেশন হাসপাতাল,  মিরপুর ২\n�যোগাযোগ নং 01751294354",
+  "blood_group": "B+",
+  "bags_needed": "6",
+  "patient": {
+    "name": "ফুফা",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Heart operation",
+  "location": "হার্ট ফাউন্ডেশন হাসপাতাল,  মিরপুর ২",
+  "hospital_name": "হার্ট ফাউন্ডেশন হাসপাতাল",
+  "location_markers": [
+    "মিরপুর ২"
+  ],
+  "probable_day": "22/01/2024",
+  "probable_time": "urgent",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01751294354"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

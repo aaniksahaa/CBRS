@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "B Positive blood need.\nPls \nবারডেম এ আছেন।\nখুব জরুরি \n+880 1611-967767\nরোগীর ছেলে \nপ্লিজ দেখবেন একটু।\nধন্যবাদ।",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "বারডেম",
+  "hospital_name": "বারডেম",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1611-967767"
+      ],
+      "relation_with_patient": "son"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

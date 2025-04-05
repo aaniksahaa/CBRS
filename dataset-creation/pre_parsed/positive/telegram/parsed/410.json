@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরুি ভিত্তিতে রক্ত প্র‍য়োজন \nএবি পজেটিভ\nচট্টগ্রাম মেডিকেল কলেজ \nসময় ৮/৮/২৪ বিকাল\nযোগাযোগ 01892-030858",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "চট্টগ্রাম মেডিকেল কলেজ",
+  "hospital_name": "চট্টগ্রাম মেডিকেল কলেজ",
+  "location_markers": [
+    "চট্টগ্রাম"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "after 15:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01892-030858"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -17,6 +17,10 @@ model='gemini-2.0-flash'
 
 method = "zero_shot"
 
-out = parse_blood_donation_request_text(msg, provider=provider, model=model, method=method)
+metadata = {
+    "language": "bn"
+}
+
+out = parse_blood_donation_request(msg, provider=provider, model=model, method=method, metadata=metadata)
 
 write_json('out.json', out)

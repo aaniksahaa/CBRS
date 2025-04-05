@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি  ভিত্তিতে রক্তের প্রয়োজন 🙏\nরোগীর সমস্যাঃ গাড়ী এক্সিডেন্ট \n🩸 রক্তের গ্রুপঃ B+ বি- পজিটিভ \n📛 হিমোগ্লোবিনের পরিমানঃ  জানাই নাই\n⭕ রক্তের পরিমাণঃ ১ ব্যাগ\n📆 রক্তদানের তারিখঃ ০৮/০৮/২০২৪ ইং\n⏱️ রক্তদানের সময়ঃ ২৪ ঘন্টার ভিতর\n🚑 রক্তদানের স্থানঃ ঢাকা মেডিকেল \n📱 যোগাযোগঃ 01308717831\n⭕ রেফারেন্সঃ রায়হান রুগীর ভাই",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Car accident",
+  "location": "ঢাকা মেডিকেল",
+  "hospital_name": "ঢাকা মেডিকেল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "in 24 hours",
+  "contacts": [
+    {
+      "name": "রায়হান",
+      "contact_numbers": [
+        "01308717831"
+      ],
+      "relation_with_patient": "Brother"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

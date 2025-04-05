@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "পিজি হাসপাতালের এক আন্টির অপারেশনের জন্য জরুরী ভিত্তিতে AB- রক্তের প্রয়োজন।\nহাসপাতাল: বঙ্গবন্ধু শেখ মুজিব মেডিকেল হাসপাতাল ( পিজি হাসপাতাল)\nফোন নাম্বার: +880 1306-885244",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation",
+  "location": "বঙ্গবন্ধু শেখ মুজিব মেডিকেল হাসপাতাল ( পিজি হাসপাতাল)",
+  "hospital_name": "বঙ্গবন্ধু শেখ মুজিব মেডিকেল হাসপাতাল ( পিজি হাসপাতাল)",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1306-885244"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

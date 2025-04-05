@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "⛔জরুরি রক্তের প্রয়োজন\n🚫 রোগীর সমস্যা :- low blood( cancer)\n🔴 রক্তের গ্রুপ :- O+\n💉 রক্তের পরিমান :-২ ব্যাগ \n📆 রক্তদানের তারিখঃ04/08/24\n🏥 রক্তদানের স্থানঃ Square Hospital panthapath \n☎ যোগাযোগের নাম্বারঃ 01313872626",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Low blood (cancer)",
+  "location": "Square Hospital panthapath",
+  "hospital_name": "Square Hospital panthapath",
+  "location_markers": [
+    "Panthapath"
+  ],
+  "probable_day": "04/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01313872626"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

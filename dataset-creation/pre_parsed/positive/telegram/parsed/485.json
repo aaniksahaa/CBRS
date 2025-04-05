@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্ত প্রয়োজন\nঅনুগ্রহপূর্বক সেচ্ছায় আগ্রহীরা যোগাযোগ করুন\nBlood group: AB –ve\nOperation: Open heart bypass surgery \nPlace: United Hospital, Gulshan, Dhaka \nPossible date: 10-11 August, 2024\nDonners required: 4 (four)\nContact: 01736048467",
+  "blood_group": "AB-",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart bypass surgery",
+  "location": "United Hospital, Gulshan, Dhaka",
+  "hospital_name": "United Hospital, Gulshan, Dhaka",
+  "location_markers": [
+    "Gulshan",
+    "Dhaka"
+  ],
+  "probable_day": "10-11/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01736048467"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন। \nব্লাড গ্রুপ; B+  একজন মায়ের জরায়ু অপারেশনের জন্য \nরোগীর বয়স: 66 Y\nরোগীর নাম: গীতা রানী মৃধা\nঠিকানা: ঢাকা মেডিকেল কলেজ হাসপাতাল\nযোগাযোগ : 01923775765\nআপনার পরিচিত কোন ডোনার থাকলে জানাবেন প্লিজ",
+  "blood_group": "B+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "গীতা রানী মৃধা",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Uterus operation",
+  "location": "ঢাকা মেডিকেল কলেজ হাসপাতাল",
+  "hospital_name": "ঢাকা মেডিকেল কলেজ হাসপাতাল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01923775765"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

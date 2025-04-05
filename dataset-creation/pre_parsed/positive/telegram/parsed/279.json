@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন🩸\n💁রোগীর সমস্যা : ক্যান্সার \n🔴রক্তের গ্রুপ : B+\n💉রক্তের পরিমাণ : 1 ব্যাগ\n🩸হিমোগ্লোবিনঃ \n📆রক্তদানের তারিখ : ৩ তারিখ শনিবার \n🕧রক্তদানের সময়ঃ যেকোনো সময় \n🏥রক্তদানের স্থান : ঢাকা মেডিকেল হাসপাতালে \n☎যোগাযোগ :01631766747",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "ঢাকা মেডিকেল হাসপাতালে",
+  "hospital_name": "ঢাকা মেডিকেল হাসপাতালে",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "Saturday",
+  "probable_time": "anytime",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01631766747"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

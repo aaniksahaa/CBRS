@@ -1,0 +1,25 @@
+{
+  "is_blood_donation_request": true,
+  "text": "B (-) Negative Blood urgent darkar. \n\nPatient Ghatal hospital e admit .\nকেউ ডোনেট করতে ইচ্ছুক থাকে Please যোগাযোগ করুন..",
+  "blood_group": "B-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Ghatal hospital",
+  "hospital_name": "Ghatal hospital",
+  "location_markers": [
+    "Ghatal"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

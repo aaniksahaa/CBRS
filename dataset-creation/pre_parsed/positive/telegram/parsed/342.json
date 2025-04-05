@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রক্ত প্রয়োজন\n📆দিন : সোমবার (আগামীকাল) \n🕧সময়: বিকাল\n💉রক্তের পরিমাণ : দুই ব্যাগ এর মতো\n🧪রক্তের গ্রুপ: এ পসেটিভ(A+)\n🔰রুগির সমস্যা : ডেলিভারি\n💧স্থান: ইবনে শিনা শংকর  হসপিটাল (ধানমন্ডি) \n⚡নাম্বার : ০১৭২০২৯৯৭৬১\nবিঃদ্রঃ দয়া করে যারা রক্ত দান করতে ইচ্ছুক তারা যোগাযোগ করুন!!",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Delivery",
+  "location": "ইবনে শিনা হসপিটাল (ধান্নcdু)",
+  "hospital_name": "ইবনে শিনা হসপিটাল",
+  "location_markers": [
+    "দান্নু"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "after 12:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01720299976"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

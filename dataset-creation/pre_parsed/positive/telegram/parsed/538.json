@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "হেল্প পোষ্ট \nটাংগাইল সদর হাসপাতালে, একজন সিজারের রোগীর জন্য এক ব্যাগ AB+ ব্ল্যাড লাগবে।\nহিমোগ্লোবিন :৯.২\nসিজারের তারিখ ১২.০৮.২৪তারিখ এগিয়ে আস্তেও পারে।\nযে কোন প্রয়জনে এই নাম্বারে যোগাযোগ করুন +8801703054172, দয়া করে। আমি শুধু সাহায্য করতাছি তাদের কে।",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cesarion operation, Hemoglobin: 9.2",
+  "location": "টাংগাইল সদর হাসপাতাল",
+  "hospital_name": "টাংগাইল সদর হাসপাতাল",
+  "location_markers": [
+    "টাংগাইল"
+  ],
+  "probable_day": "12/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801703054172"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ইমার্জেন্সি এক ব্যাগ\n (A-) ব্লাড প্রয়োজন( কালকে সকাল ১১ টায়)\n রোগের বিবরণ :স্প্যাইন অপারেশন \nলোকেশন: ল্যাব এইড  ( কলাবাগান, ধানমন্ডি) \nযোগাযোগ: 01871622522",
+  "blood_group": "A-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Spine operation",
+  "location": "ল্যাব এইড  ( কলাবাগান, ধানমন্ডি)",
+  "hospital_name": "ল্যাব এইড  ( কলাবাগান, ধানমন্ডি)",
+  "location_markers": [
+    "কলাবাগান",
+    "ধানমন্ডি"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "11:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01871622522"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

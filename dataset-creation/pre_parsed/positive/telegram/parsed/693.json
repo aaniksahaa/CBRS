@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রক্তের গ্রুপ : A+\n💉রক্তের পরিমাণ: 1ব্যাগ\n⌚রক্তদানের সময়ঃ 6/08/2024)\n🏥রক্তদানের স্থানঃ  ক্যান্সার হসপিটাল (ঢাকা মহাখালী)\n☎যোগাযোগঃ ‪+880 1703-231383‬",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ক্যান্সার হসপিটাল (ঢাকা মহাখালী)",
+  "hospital_name": "ক্যান্সার হসপিটাল (ঢাকা মহাখালী)",
+  "location_markers": [
+    "ঢাকা",
+    "মহাখালী"
+  ],
+  "probable_day": "06/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1703-231383"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

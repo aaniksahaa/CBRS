@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি ভিত্তিক রক্তের প্রয়োজন, \nB পজিটিভ  ডোনার এগিয়ে আসুন,,,\n💁রোগীর সমস্যা: জরায়ুর টিউমার অপারেশন৷ \n🔴রক্তের গ্রুপ: B পজিটিভ  \n💉রক্তের পরিমাণ: ৩ ব্যাগ\n👉হিমোগ্লোবিন : \n📆রক্তদানের তারিখ:০৭/০৮/২৪\n⌚রক্তদানের সময়: আজ বিকাল৷ \n🏢স্থানঃইবনে সিনা হাসপাতাল, লালবাগ, ঢাকা\n☎️মোবাইলঃ  01912001814\n 01799782871\n🙍‍♂️রেফারেন্সঃমিসবাহ্ তালুকদার৷",
+  "blood_group": "B+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Uterine tumor operation",
+  "location": "ইবনে সিনা হাসপাতাল, লালবাগ, ঢাকা",
+  "hospital_name": "ইবনে সিনা হাসপাতাল",
+  "location_markers": [
+    "লালবাগ",
+    "ঢাকা"
+  ],
+  "probable_day": "07/08/24",
+  "probable_time": "after 15:00",
+  "contacts": [
+    {
+      "name": "মিসবাহ্ তালুকদার",
+      "contact_numbers": [
+        "01912001814",
+        "01799782871"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

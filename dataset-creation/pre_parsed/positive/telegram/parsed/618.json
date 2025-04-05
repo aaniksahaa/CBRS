@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "O+ রক্তের প্রয়োজন। \nরোগীর সমস্যা: ব্লাড ক্যান্সার পেশেন্ট\nরক্তের গ্রুপ:O+(ও পজেটিভ)\nরক্তের পরিমাণ:এক ব্যাগ\nরক্তদানের স্থান:রয়েলএইড হাস্পাতাল,খিলগাঁও, ঢাকা।\nফোন নাম্বার: 01711135597",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Blood cancer",
+  "location": "রয়েলএইড হাস্পাতাল,খিলগাঁও, ঢাকা।",
+  "hospital_name": "রয়েলএইড হাস্পাতাল,খিলগাঁও, ঢাকা।",
+  "location_markers": [
+    "খিলগাঁও",
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01711135597"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

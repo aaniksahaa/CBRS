@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যা: রক্তে সমস্যা\n🔴রক্তের গ্রুপ: B-\n📆রক্তদানের তারিখ: ২-০৮-২০২৪\n⌚রক্তদানের সময়: 2:00PM\n🏥রক্তদানের স্থান: সরওয়ার্দী হাসপাতাল \n☎যোগাযোগ: 01516059252\n১২ বছরের একটি বাচ্চার অবস্থা খুব-ই গুরুতর খারাপ৷ ছেলেটির কালকে রক্ত লাগবে। কোনো স্বহৃদয়বান ব্যাক্তি থাকলে অবশ্যই ইনক্সে নক দিবেন অথবা ফোন দিবেন",
+  "blood_group": "B-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "M",
+    "age_group": "child"
+  },
+  "condition": "Blood problem, Very serious condition",
+  "location": "সরওয়ার্দী হাসপাতাল",
+  "hospital_name": "সরওয়ার্দী হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "02/08/2024",
+  "probable_time": "14:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01516059252"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

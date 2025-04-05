@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি A+ (এ+) রক্তের প্রয়োজন (রক্তদানের তারিখঃ ২৪/০৬/২৪ ইং- সোমবার)🩸\n🧖‍♂️রোগীর সমস্যাঃ প্রেগন্যান্সি ও হিমোগ্লোবিন ই ডিজিজ ।\n*‌** হিমোগ্লোবিনঃ ৭.০০ ।\n🩸রক্তের গ্রুপঃ A+ (এ+)\n💉রক্তের পরিমাণঃ ২ ব‍্যাগ।\n🗓️রক্তদানের তারিখঃ ২৪/০৬/২০২৪ ইং (সোমবার)।\n⏰রক্তদানের সময়ঃ দুপুর ২ টা থেকে বিকাল ৫ টা ।\n🏨রক্তদানের স্থানঃ ড. আজমল হসপিটাল, মিরপুর-১০, ঢাকা।\n📱যোগাযোগঃ 01708761178 \n             (রোগীর হাসব্যান্ড) \n       🩸তুচ্ছ নয় রক্তদান 🩸\n🩸বাঁচতে পারে একটি প্রান 🩸",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Pregnancy and hemoglobin disease",
+  "location": "ড. আজমল হসপিটাল, মিরপুর-১০, ঢাকা",
+  "hospital_name": "ড. আজমল হসপিটাল",
+  "location_markers": [
+    "মিরপুর-১০",
+    "ঢাকা"
+  ],
+  "probable_day": "24/06/2024",
+  "probable_time": "14:00-17:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01708761178"
+      ],
+      "relation_with_patient": "Husband"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

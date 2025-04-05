@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Please approve!!\n#blooddonation\nAttention ‼️\nঢাকার বন্ধুগন প্লিজ হেল্প।\nBLOOD NEEDED!!!  Rare group of blood (AB-). Spread as many as possible so that she can get the help ASAP.\nSamiya Khan is in Uttara 11,Mansur Ali Medical College after Quota Andolon. She needs 3 bag of Ab negative blood  immediately. Please help, It’s urgent \nPlease contact -\n +8801700-627385,\n+8801939819365\n Uttara 11, Mansur Ali Medical College\n(ঢাকার মানুষেরা একটু কপি পেস্ট করে শেয়ার দেন প্লিজ)",
+  "blood_group": "AB-",
+  "bags_needed": "3",
+  "patient": {
+    "name": "Samiya Khan",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Uttara 11, Mansur Ali Medical College",
+  "hospital_name": "Mansur Ali Medical College",
+  "location_markers": [
+    "Uttara",
+    "Mansur Ali Medical College"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801700-627385",
+        "+8801939819365"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "অপারেশনের রোগীর জন্য রক্তের প্রয়োজন...\nBlood Group : AB+ , \nContact number  - 01711787229 ; 01712766330\nLocation - Samorita Hospital, Dhaka\nBed no. 863",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Samorita Hospital, Dhaka",
+  "hospital_name": "Samorita Hospital",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01711787229",
+        "01712766330"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

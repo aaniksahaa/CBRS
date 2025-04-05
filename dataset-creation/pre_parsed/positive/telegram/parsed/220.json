@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আমার নানার শনিবারে অপারেশন হবে আল-রাজি হাসপাতালে আগামী কালকের মধ্যে আমার 2 ব্যাগ (A+) ব্লাড লাগবে আমাকে যদি ব্যবস্থা করে দিতেন। \n  ঠিকানাঃ ফার্মগেট আল-রাজি হাসপাতাল তেজগাঁও ঢাকা ।\nমোবাইল:01701436680",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation",
+  "location": "ফার্মগেট আল-রাজি হাসপাতাল তেজগাঁও ঢাকা",
+  "hospital_name": "আল-রাজি হাসপাতাল",
+  "location_markers": [
+    "ফার্মগেট",
+    "তেজগাঁও",
+    "ঢাকা"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01701436680"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

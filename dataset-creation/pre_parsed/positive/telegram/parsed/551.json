@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "এ পজিটিভ) রক্ত লাগবে ২ ব্যাগ \nরক্ত শূন্যতার রুগী  অবস্থা অবস্থা খুব একটা ভালো না। ইমারজেন্সি দিতে হবে।\nযোগাযোগ : +8801924-520345 \nমো: বাকিবিল্লাহ (রুগীর ছেলে)\nস্থান: ধানমন্ডি ১৪ নাম্বার বাংলাদেশ মেডিকেল কলেজ হাসপাতালে।",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia, Emergency",
+  "location": "বাংলাদেশ মেডিকেল কলেজ হাসপাতালে",
+  "hospital_name": "বাংলাদেশ মেডিকেল কলেজ হাসপাতালে",
+  "location_markers": [
+    "ধানমন্ডি"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "বাকিবিল্লাহ",
+      "contact_numbers": [
+        "+8801924-520345"
+      ],
+      "relation_with_patient": "son"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

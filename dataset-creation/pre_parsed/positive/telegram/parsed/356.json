@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আমার বাচ্ছার জন্য (বয়স-৭ মাস)\nএ বি নেগেটিভ ব্লাড লাগবে ইমারজেন্সি,\nরোগী- থেলেসেমিয়া, \nপ্লিজ কেউ আগ্রহী থাকলে জানাবেন,\n80/90 ML blood Needed,\nWhat'sapp/No:01780042745,",
+  "blood_group": "AB-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Thalassemia",
+  "location": "",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01780042745"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

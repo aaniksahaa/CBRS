@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্ত প্রয়োজন 😓\n💁রোগীর সমস্যা: রক্ত শূন্যতা \n🔴রক্তের গ্রুপ: AB+\n🔴হিমোগ্লোবিনের পরিমান:৭.৩\n💉রক্তের পরিমান:\n⏰সময় : যেকোনো সময়\n📅তারিখ :৯.৭.২৪/১০.৮.২৪\n🏨স্থান : ইসলামিয়া ব্যাংক সেন্ট্রাল হাসপাতাল \n☎️ যোগাযোগ : ০১৮১৫৭২৬৫৯৬\n👫রেফারেন্স:",
+  "blood_group": "AB+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia",
+  "location": "ইসলামিয়া ব্যাংক সেন্ট্রাল হাসপাতাল",
+  "hospital_name": "ইসলামিয়া ব্যাংক সেন্ট্রাল হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "09/07-10/08",
+  "probable_time": "anytime",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "০১৮১৫৭২৬৫৯৬"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

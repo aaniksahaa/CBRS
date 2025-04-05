@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আমার সহকর্মী ইমাম ভাইয়ের বাবা দ্বিতীয়বারের মতো স্ট্রোকজনিত কারণে অসুস্থ হয়ে মালিবাগের একটি হাসপাতালে ভর্তি আছেন। তার জন্য জরুরি ভিত্তিতে (ও নেগেটিভ) রক্তের প্রয়োজন। কোনো সহৃদয় ব্যক্তি রক্ত দিতে আগ্রহী হলে অনুগ্রহ করে নিম্নোক্ত নাম্বারে যোগাযোগ করবেন:\n01708124648  ইমাম ভাই\n01753476199 আল আমিন\nআপনাদের সহায়তা একান্ত প্রয়োজন।",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "ইমাম ভাইয়ের বাবা",
+    "gender": "",
+    "age-group": "adult"
+  },
+  "condition": "Stroke",
+  "location": "মালিবাগের একটি হাসপাতাল",
+  "hospital_name": "মালিবাগের একটি হাসপাতাল",
+  "location_markers": [
+    "মালিবাগ"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "ইমাম ভাই",
+      "contact_numbers": [
+        "01708124648"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "আল আমিন",
+      "contact_numbers": [
+        "01753476199"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

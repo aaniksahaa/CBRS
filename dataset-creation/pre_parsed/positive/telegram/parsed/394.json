@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি  ভিত্তিতে রক্তের প্রয়োজন 🙏\nরোগীর সমস্যাঃ গাড়ী এক্সিডেন্ট \n🩸 রক্তের গ্রুপঃ AB+\n📛 হিমোগ্লোবিনের পরিমানঃ  জানাই নাই\n⭕ রক্তের পরিমাণঃ ১ ব্যাগ\n📆 রক্তদানের তারিখঃ ০৯/০৮/২০২৪ ইং\n⏱️ রক্তদানের সময়ঃ ৩ ঘন্টার ভিতরে\n🚑 রক্তদানের স্থানঃ পঙ্গু হাসপাতাল,ঢাকা\n📱 যোগাযোগঃ 01726091950",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Car accident",
+  "location": "পঙ্গু হাসপাতাল,ঢাকা",
+  "hospital_name": "পঙ্গু হাসপাতাল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "in 3 hours",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01726091950"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "এখনো পাওয়া যায়নি-\nখুব জরুরী! \"ঢাকায়\" O+ রক্ত দরকারঃ\nডেঙ্গু রোগীর জন্য আজ [19-10-2023] ১ ব্যাগ \"ও পজেটিভ\" রক্ত দরকার। স্থানঃ আসগর আলি মেডিকেল, গেণ্ডারিয়া। ফোনঃ 01717428788 (রোগীর আত্মীয়)",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue patient",
+  "location": "আসগর আলি মেডিকেল, গেণ্ডারিয়া",
+  "hospital_name": "আসগর আলি মেডিকেল",
+  "location_markers": [
+    "গেণ্ডারিয়া"
+  ],
+  "probable_day": "19/10/2023",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01717428788"
+      ],
+      "relation_with_patient": "relative"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

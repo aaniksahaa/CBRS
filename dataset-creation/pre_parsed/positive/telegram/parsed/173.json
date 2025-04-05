@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন\n💁রোগীর সমস্যাঃ হার্ট অ্যাটাক \n🔴রক্তের গ্রুপঃ  AB+\n💉রক্তের পরিমাণঃ 1bag\n📆রক্তদানের তারিখঃ আজকেই [৩০-১০-২০২৩]\n🏥রক্তদানের স্থান: স্কয়ার হসপিটাল,  পান্থপথ, ঢাকা\n☎যোগাযোগঃ 01993081110  আল মামুন",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Heart attack",
+  "location": "স্কয়ার হসপিটাল,  পান্থপথ, ঢাকা",
+  "hospital_name": "স্কয়ার হসপিটাল",
+  "location_markers": [
+    "পান্থপথ",
+    "ঢাকা"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "াল মামুন",
+      "contact_numbers": [
+        "01993081110"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

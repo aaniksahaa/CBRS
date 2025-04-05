@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "খুব জরুরী!\n\"ঢাকায় উত্তরা\" কিডনী ও হার্টের রোগীর জন্য আজ [02.09.2023] যত দ্রুত সম্ভব #দূলর্ভ ০১ব্যাগ [O- ve] \"ও নেগেটিভ\" রক্তের প্রয়োজন। দিতে না পারলে ও শেয়ার করুন; যেন অন্য কেউ এগিয়ে আসে। \nস্থান:- সিন সিন হাসপাতাল,উওরা-১১, ঢাকা। \nযোগাযোগ:- 01718228704 [রোগীর আত্বীয় ]",
+  "blood_group": "O-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Kidney and heart patient",
+  "location": "সিন সিন হাসপাতাল,উওরা-১১, ঢাকা",
+  "hospital_name": "সিন সিন হাসপাতাল,উওরা-১১, ঢাকা",
+  "location_markers": [
+    "ঢাকা",
+    "উওরা-১১"
+  ],
+  "probable_day": "02/09/2023",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01718228704"
+      ],
+      "relation_with_patient": "patient's relative"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,38 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যাঃ  (রক্ত শূন্যতা) \n🔴রক্তের গ্রুপঃ B-(বি নেগেটিভ ) \nহিমোগ্লোবিন:০৭\n💉রক্তের পরিমানঃ ২ব্যাগ\n📋রক্তদানের তারিখঃ ০৯.০৮.২৪\n🏢রক্তদানের স্থানঃ বরিশাল সদর হাসপাতাল\n☎যোগাযোগঃ 01611775469\n👨🏻‍⚕রেফারেন্সঃ SD Debo",
+  "blood_group": "B-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Blood deficiency",
+  "location": "বরিশাল সদর হাসপাতাল",
+  "hospital_name": "বরিশাল সদর হাসপাতাল",
+  "location_markers": [
+    "বরিশাল"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01611775469"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "SD Debo",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

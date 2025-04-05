@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন🩸\n💁রোগীর সমস্যা : ব্রেন স্টক\n🔴রক্তের গ্রুপ : AB-\n💉রক্তের পরিমাণ : 2 ব্যাগ\n🩸হিমোগ্লোবিনঃ \n📆রক্তদানের তারিখ : আজ ০২ আগস্ট ২০২৪\n🕧রক্তদানের সময়ঃ যেকোনো সময় \n🏥রক্তদানের স্থান : মিরপুর ১১ \n☎যোগাযোগ :01929485235",
+  "blood_group": "AB-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Brain stroke",
+  "location": "মিরপুর ১১",
+  "hospital_name": "",
+  "location_markers": [
+    "মিরপুর ১১"
+  ],
+  "probable_day": "02/08/2024",
+  "probable_time": "any time",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01929485235"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

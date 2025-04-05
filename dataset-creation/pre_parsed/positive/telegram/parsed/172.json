@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "\"ঢাকায়\" #দুর্লভ A- রক্ত দরকারঃ\nআজকের [02-11-2023] মধ্যে ১ ব্যাগ \"এ নেগেটিভ\" রক্ত দরকার। [রক্তদাতা পাওয়া গেলে রোগীকে হাসপাতালে নেয়া হবে]। ফোনঃ 01838723706 (রোগীর আত্মীয়)",
+  "blood_group": "A-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ঢাকায়",
+  "hospital_name": "",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "02/11/2023",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01838723706"
+      ],
+      "relation_with_patient": "রোগীর আত্মীয়"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

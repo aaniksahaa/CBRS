@@ -1,0 +1,39 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর তথ্য\n🤰 রোগীর সমস্যাঃ- পিত্তনালী  (operation)  emergency \n🔴 রক্তের গ্রুপঃ-- B+\n🔻 হিমোগ্লোবিনঃ- \n💉 রক্তের পরিমাণঃ-- Emergency ৫ ব্যাগ\n🗓 রক্তদানের  তারিখঃ-শনিবার ১০-০৮-২৪\n🕐 রক্তদানের সময়ঃ-- সকাল ৯ টা থেকে সন্ধ্যা ৬ টা \n🏨 রক্তদানের স্থানঃ-- শেখ রাসেল জাতীয় গ্যাস্ট্রোলিভার মহাখালি হসপিটাল, , টিবি গেট,ঢাকা\n☎ যোগাযোগঃ-- 01645957634 \n👥 রেফারেন্সঃ রাকিব হোসেন রুগীর ছেলে।",
+  "blood_group": "B+",
+  "bags_needed": "5",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Emergency operation, Bile duct",
+  "location": "শেখ রাসেল জাতীয় গ্যাস্ট্রোলিভার মহাখালি হসপিটাল, , টিবি গেট,ঢাকা",
+  "hospital_name": "শেখ রাসেল জাতীয় গ্যাস্ট্রোলিভার মহাখালি হসপিটাল",
+  "location_markers": [
+    "মহাখালি",
+    "ঢাকা"
+  ],
+  "probable_day": "10/08/24",
+  "probable_time": "09:00-18:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01645957634"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "রাকিব হোসেন",
+      "contact_numbers": [],
+      "relation_with_patient": "রুগীর ছেলে"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

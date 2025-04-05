@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্তের প্রয়োজনে।\n❤️রক্ত দিন জীবন বাঁচান❤️\n\n💁রোগীর সমস্যা :  অপারেশন\n🔴রক্তের গ্রুপঃ 0+\n🌡️হিমোগ্লোবিনঃ জানা নেই \n💉রক্তের পরিমাণঃ1 ব্যাগ\n🏥রক্তদানের স্থানঃ #রংপুর মেডিকেল কলেজ হাসপাতাল \n☎যোগাযোগঃ 01733076105",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation",
+  "location": "#রংপুর মেডিকেল কলেজ হাসপাতাল",
+  "hospital_name": "#রংপুর মেডিকেল কলেজ হাসপাতাল",
+  "location_markers": [
+    "রংপুর"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01733076105"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

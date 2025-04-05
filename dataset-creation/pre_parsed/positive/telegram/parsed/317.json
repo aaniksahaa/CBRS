@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ঢাকার মধ্যে O- (negative) ব্লাড প্রয়োজন আর্জেন্ট, কেউ দিতে পারবেন? রোগীর অবস্থা খুবই খারাপ\n01926151536",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Patient's condition is very critical",
+  "location": "ঢাকার মধ্যে",
+  "hospital_name": "",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01926151536"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে  B+ রক্ত দরকার ৩ ব্যাগ\nকাল বিকাল  ৩:৩০  \nজরায়ু টিউমার অপারেশন \nইবনে সিনা হাসপাতাল, লালবাগ, ঢাকা\nসবাই সাহায্য করুন প্লিজ \nপেশেন্ট আমার আম্মা, কালই অপারেশন করতে হবে!\nমুনিয়া \nযোগাযোগ :\n 01912001814\n 01799782871",
+  "blood_group": "B+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "আম্মা",
+    "gender": "F",
+    "age_group": ""
+  },
+  "condition": "Uterine tumor operation",
+  "location": "২বনে সিনা হাসপিটাল, লালবাগ, ঢাকা",
+  "hospital_name": "২বনে সিনা হাসপিটাল",
+  "location_markers": [
+    "লালবাগ",
+    "ঢাকা"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "15:30",
+  "contacts": [
+    {
+      "name": "মুনিয়া",
+      "contact_numbers": [
+        "01912001814",
+        "01799782871"
+      ],
+      "relation_with_patient": "মেয়ে"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

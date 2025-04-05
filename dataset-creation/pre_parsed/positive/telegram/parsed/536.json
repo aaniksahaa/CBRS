@@ -1,0 +1,54 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী!  জরুরী!!  জরুরী!!\nনর্দান ইউনিভার্সিটি আইন বিভাগের ছাত্র আমার বন্ধু Jannatu Nayem Evan  এর জন্য ১৫ ব্যাগ রক্ত লাগবে।\nরক্তের গ্রুপ: O+\nবর্তমানে ইভান গুলশান-২ এর ইউনাইটেড হসপিটালের আইসিউ তে আছে। প্রচুর রক্তক্ষরণ হচ্ছে। \nযোগাযোগ: \n+880 1715-032133 ( ইভানের আত্বীয়)\n01625932881 (নুহাস, ১৯ ব্যাচ, এক্স সেকশন)\n01799873367 (শরীফ, ১৯ ব্যাচ, এক্স সেকশন)\n+880 1748-133503 (ইভানের আম্মু)",
+  "blood_group": "O+",
+  "bags_needed": "15",
+  "patient": {
+    "name": "Jannatu Nayem Evan",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Severe bleeding, ICU",
+  "location": "গুলশান-২ এর ইউনাইটেড হসপিটাল",
+  "hospital_name": "ইউনাইটেড হসপিটাল",
+  "location_markers": [
+    "গুলশান-২"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1715-032133"
+      ],
+      "relation_with_patient": "Relative"
+    },
+    {
+      "name": "নুহাস",
+      "contact_numbers": [
+        "01625932881"
+      ],
+      "relation_with_patient": "Batch mate"
+    },
+    {
+      "name": "শরীফ",
+      "contact_numbers": [
+        "01799873367"
+      ],
+      "relation_with_patient": "Batch mate"
+    },
+    {
+      "name": "ইভানের আম্মু",
+      "contact_numbers": [
+        "+880 1748-133503"
+      ],
+      "relation_with_patient": "Mother"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

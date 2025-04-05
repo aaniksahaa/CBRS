@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসালামু আলাইকুম \nজরুরী ভিত্তিতে এক ব্যাগ ও পজেটিভ রক্তের প্রয়োজন।\nরক্তের গ্রুপ : O+\nঢাকার ভিতরে কেও যদি থাকেন, দয়া করে, আমার নাম্বারে কল করুন।\n01795328160",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ঢাকার ভিতরে",
+  "hospital_name": "",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01795328160"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

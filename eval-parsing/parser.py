@@ -130,12 +130,12 @@ Ensure your output is precise, complete, and formatted in a manner suitable for 
 """
 
 
-def parse_blood_donation_request_text(msg: str, provider: str, model: str = DEFAULT_MODEL, method: str = "few_shot") -> Dict[str, Any]:
+def parse_blood_donation_request(text: str, provider: str, model: str = DEFAULT_MODEL, method: str = "few_shot", metadata: Dict = None) -> Dict[str, Any]:
     prompt = ""
     if method == "zero_shot":
-        prompt = build_zero_shot_prompt(msg)
+        prompt = build_zero_shot_prompt(text)
     else:
-        prompt = build_few_shot_prompt(msg)
+        prompt = build_few_shot_prompt(text)
     print(prompt)
     try:
         # print('called and waiting...')
@@ -148,7 +148,7 @@ def parse_blood_donation_request_text(msg: str, provider: str, model: str = DEFA
             parsed_json = parse_json_from_output(content)
         except Exception:
             parsed_json = None
-        response['blood_donation_request_message'] = msg 
+        response['blood_donation_request_text'] = text 
         response['parsed_json'] = parsed_json
         if "is_blood_donation_request" in parsed_json and parsed_json["is_blood_donation_request"] == "false":
             response["is_blood_donation_request"] = False
@@ -160,7 +160,7 @@ def parse_blood_donation_request_text(msg: str, provider: str, model: str = DEFA
         input_toks = output_toks = total_toks = 0
         cost = 0.0
         response = {
-            "input_text": msg,
+            "input_text": text,
             "output_text": content,
             "input_tokens": input_toks,
             "output_tokens": output_toks,
@@ -168,9 +168,10 @@ def parse_blood_donation_request_text(msg: str, provider: str, model: str = DEFA
             "cost_usd": round(cost, 6),
             "provider": provider,
             "model": model,
-            'blood_donation_request_message': msg,
+            'blood_donation_request_text': text,
             "parsed_json": parsed_json,
             "is_blood_donation_request": None 
         }
 
+    response['blood_donation_request_metadata'] = metadata
     return response

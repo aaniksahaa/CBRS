@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "খুব ইমার্জেন্সি রক্তের প্রয়োজন\n💁রোগীর সমস্যা:- কিডনির সমস্যা \n🔴রক্তের গ্রুপ:-AB+ \n📛হিমোগ্লোবিন ::\n💉রক্তের পরিমাণ:-১ ব্যাগ\n📆রক্ত দানের তারিখ:-ইমার্জেন্সি \n⌚রক্তদানের সময়:- আজ অথবা কাল সকালে\n🏥রক্তদানের স্থান:- জাতীয় কিডনি হাসপাতাল, শ্যামলী\n☎যোগাযোগ- 01811413441\nরেফারেন্স :আমি",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Kidney problem",
+  "location": "জাতীয় কিডনি হাসপাতাল, শ্যামলী",
+  "hospital_name": "জাতীয় কিডনি হাসপাতাল, শ্যামলী",
+  "location_markers": [
+    "শ্যামলী"
+  ],
+  "probable_day": "today",
+  "probable_time": "tomorrow morning",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01811413441"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

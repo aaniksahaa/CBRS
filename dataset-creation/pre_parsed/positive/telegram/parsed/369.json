@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আল্লাহর রহমত হলে-- আপনার দানকৃত রক্তে বাঁচবে , আমার নাতির জীবন !! 😭😭\n\n👉 রোগীর নামঃ তাহমিদ\n😢 রোগীর সমস্যাঃ Leukemia (ব্লাড ক্যান্সার)\n🩸 রক্তের গ্রুপঃ O Positive (O+)\n💊  হিমোগ্লোবিনঃ ৭\n👉  প্লাটিলেটঃ ১৪,০০০\n💉 রক্তের পরিমাণঃ প্রতিদিন-- ৪ ব্যাগ \n🗓️  রক্তদানের তারিখঃ প্রতিদিন \n🏫 রক্তদানের স্থানঃ পিজি হাসপাতাল , শাহবাগ ,   \nডি ব্লকে ভর্তি আছে । এ ব্লকে গিয়ে রক্ত দিতে হবে । \n☎️ যোগাযোগঃ 01881668820\n☎️ যোগাযোগঃ 01711343608\n\n29 march, 2024",
+  "blood_group": "O+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "তাহমিদ",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Leukemia (Blood cancer)",
+  "location": "পিজি হাসপাতাল , শাহবাগ ,   ডি ব্লকে ভর্তি আছে । এ ব্লকে গিয়ে রক্ত দিতে হবে ।",
+  "hospital_name": "পিজি হাসপাতাল , শাহবাগ ,   ডি ব্লকে ভর্তি আছে । এ ব্লকে গিয়ে রক্ত দিতে হবে ।",
+  "location_markers": [
+    "শাহবাগ"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01881668820",
+        "01711343608"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

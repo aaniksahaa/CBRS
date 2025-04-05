@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসালামু আলাইকুম। ইমারজেন্সি  (A)নেগেটিভ  রক্তের খুব প্রয়োজন আজকের মধ্যে। আমার বান্ধবীর বাবু পেটেই মারা গেছে এখন ওর রক্তের খুব প্রয়োজন।  দয়া করে কেউ থাকলে ইনবক্সে জানাবেন। এডমিন এপ্রুভ প্লিজ। ধন্যবাদ।01816263226\n 01924039623\nএখানে নাম্বার দেয়া আছে দয়া করে পেলে এই নাম্বারে যোগাযোগ করুন। \nঠিকানা ডেমরা স্টাফ কোয়ার্টার হলি এইড হসপিটাল।",
+  "blood_group": "A-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "ডেমরা স্টাফ কোয়ার্টার হলি এইড হসপিটাল",
+  "hospital_name": "হলি এইড হসপিটাল",
+  "location_markers": [
+    "ডেমরা"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01816263226",
+        "01924039623"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

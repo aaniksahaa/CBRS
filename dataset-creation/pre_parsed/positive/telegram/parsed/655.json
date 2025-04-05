@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যাঃ ক্যান্সার\n🔴রক্তের গ্রুপ : A+\n💉রক্তের পরিমাণ: 1ব্যাগ\n⌚রক্তদানের সময়ঃ আজকে দিলে ভালো হয় সকালে রোগীর ক্যামো দিতে হবে(03-08-2024)\n🏥রক্তদানের স্থানঃ মহাখালী ক্যান্সার হসপিটাল (ঢাকা মহাখালী)\n☎যোগাযোগঃ 01703231383, 01758307624",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "মাহকালৰ কçাহ হসপিটাল (ঢাকा মাহকালী)",
+  "hospital_name": "মাহকালৰ কçাসোটাল",
+  "location_markers": [
+    "মাহকালৰ"
+  ],
+  "probable_day": "03/08/2024",
+  "probable_time": "before 09:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01703231383",
+        "01758307624"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

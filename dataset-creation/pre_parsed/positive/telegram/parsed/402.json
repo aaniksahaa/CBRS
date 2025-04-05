@@ -1,0 +1,25 @@
+{
+  "is_blood_donation_request": true,
+  "text": "🩸জরুরি রক্তের প্রয়োজন 🩸\n💁রোগীর সমস্যা: রক্তশূন্যতা\n🔴রক্তের গ্রুপ: O +\n💉রক্তের পরিমাণ: ১ ব্যাগ\n📆রক্তদানের তারিখ: আগামীকাল ০৯/০৮/২০২৪\n🕧রক্তদানের সময়ঃ: যত তাড়াতাড়ি সম্ভব\n🏥রক্তদানের স্থান: কর্নেল মালেক মেডিকেল কলেজ হাসপাতাল, মানিকগঞ্জ",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia",
+  "location": "কর্নেল মালেক মেডিকেল কলেজ হাসপাতাল, মানিকগঞ্জ",
+  "hospital_name": "কর্নেল মালেক মেডিকেল কলেজ হাসপাতাল",
+  "location_markers": [
+    "মানিকগঞ্জ"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "now",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

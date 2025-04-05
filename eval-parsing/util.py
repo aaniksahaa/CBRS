@@ -25,17 +25,7 @@ logging.basicConfig(
 # Config
 SUPPORTED_PROVIDERS = ["together", "google", "openai"]
 DEFAULT_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
-MAX_RETRIES = 3
-
-MODEL_PER_MILLION = {
-    "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free": 0.88,
-    "deepseek-ai/DeepSeek-V3": 1.25,
-    "Qwen/Qwen2.5-7B-Instruct-Turbo": 0.3,
-    "mistralai/Mistral-7B-Instruct-v0.3": 0.2,
-    "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": 0.18,
-    "google/gemma-2-9b-it": 0.3,
-    "google/gemma-2-27b-it": 0.8
-}
+DEFAULT_MAX_RETRIES = 5
 
 MODEL_COST_PER_MILLION = {
     "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free": {
@@ -81,30 +71,64 @@ def get_cost(model, input_tokens, output_tokens):
     
     return input_cost + output_cost
 
-# Collect API keys by provider
 def collect_api_keys() -> dict:
     api_keys = {}
     for provider in SUPPORTED_PROVIDERS:
         keys = []
-        i = 1
-        while True:
-            key_name = f"{provider.upper()}_API_KEY_{i}"
-            key = os.getenv(key_name)
-            if not key:
-                if i == 1:
-                    base_key = os.getenv(f"{provider.upper()}_API_KEY")
-                    if base_key:
-                        keys.append(base_key)
-                break
-            keys.append(key)
-            i += 1
+        # Get all environment variables
+        env_vars = os.environ
+        # Filter for variables that start with the provider's name followed by "_API_KEY"
+        provider_prefix = f"{provider.upper()}_API_KEY"
+        for key_name, key_value in env_vars.items():
+            if key_name.startswith(provider_prefix) and key_value:
+                keys.append(key_value)
         api_keys[provider] = keys
     return api_keys
 
+def show_api_key_stats(api_keys: dict) -> None:
+    """
+    Display statistics about the collected API keys for each provider.
+    
+    Args:
+        api_keys (dict): Dictionary mapping providers to their list of API keys.
+    """
+    print("API Key Statistics:")
+    print("-" * 40)
+    
+    total_keys = 0
+    for provider in SUPPORTED_PROVIDERS:
+        key_count = len(api_keys.get(provider, []))
+        total_keys += key_count
+        
+        # Get the actual key names from environment variables for this provider
+        provider_prefix = f"{provider.upper()}_API_KEY"
+        key_names = [
+            key_name for key_name in os.environ.keys() 
+            if key_name.startswith(provider_prefix) and os.environ[key_name]
+        ]
+        
+        print(f"Provider: {provider.capitalize()}")
+        print(f"  Number of API Keys: {key_count}")
+        if key_count > 0:
+            print("  Key Names:")
+            for name in key_names:
+                # Mask the actual key value for security, showing only first 3 and last 3 characters
+                key_value = os.environ[name]
+                masked_key = f"{key_value[:3]}...{key_value[-3:]}" if len(key_value) > 6 else key_value
+                print(f"    - {name}: {masked_key}")
+        else:
+            print("  (No API keys found)")
+        print()
+    
+    print("-" * 40)
+    print(f"Total API Keys Across All Providers: {total_keys}")
+
 API_KEYS = collect_api_keys()
 
-# Unified function
-def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[str, Optional[int], Optional[int], Optional[int], Optional[float]]:
+# show_api_key_stats(API_KEYS)
+# exit(0)
+
+def get_response(prompt: str, provider: str, model: str = DEFAULT_MODEL, max_retries: int = DEFAULT_MAX_RETRIES) -> dict:
     if provider not in SUPPORTED_PROVIDERS:
         raise ValueError(f"Unsupported provider '{provider}'. Must be one of {SUPPORTED_PROVIDERS}.")
 
@@ -114,7 +138,7 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
     retries = 0
     used_keys = set()
 
-    while retries < MAX_RETRIES:
+    while retries < max_retries:
         available_keys = [key for key in API_KEYS[provider] if key not in used_keys]
         if not available_keys:
             raise Exception(f"All API keys for '{provider}' have been tried and failed.")
@@ -128,7 +152,7 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
                 response = client.chat.completions.create(
                     model=model,
                     messages=[{"role": "user", "content": prompt}],
-                    temperature=0.2
+                    # temperature=0.2
                 )
                 message = response.choices[0].message.content
                 usage = response.usage
@@ -136,13 +160,7 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
                 input_tokens = usage.prompt_tokens if usage else 0
                 output_tokens = usage.completion_tokens if usage else 0
                 total_tokens = usage.total_tokens if usage else 0
-
-                # cost_per_token = MODEL_PER_MILLION.get(model, 1.0) / 1_000_000
-                # total_cost = total_tokens * cost_per_token
-
                 total_cost = get_cost(model, input_tokens, output_tokens)
-
-                return message, input_tokens, output_tokens, total_tokens, total_cost
 
             elif provider == "google":
                 chat = ChatGoogleGenerativeAI(model=model, google_api_key=api_key, temperature=0.2)
@@ -153,10 +171,7 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
                 input_tokens = usage.get("input_tokens", 0)
                 output_tokens = usage.get("output_tokens", 0)
                 total_tokens = usage.get("total_tokens", 0)
-
                 total_cost = get_cost(model, input_tokens, output_tokens)
-
-                return message, input_tokens, output_tokens, total_tokens, total_cost
 
             elif provider == "openai":
                 chat = ChatOpenAI(model=model, openai_api_key=api_key, temperature=0.2)
@@ -168,11 +183,18 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
                     input_tokens = usage.get("input_tokens", 0)
                     output_tokens = usage.get("output_tokens", 0)
                     total_tokens = usage.get("total_tokens", 0)
-                    
-                    # Get cost from callback
-                    cost = cb.total_cost
+                    total_cost = cb.total_cost
 
-                return message, input_tokens, output_tokens, total_tokens, cost
+            return {
+                "input_text": prompt,
+                "output_text": message,
+                "input_tokens": input_tokens,
+                "output_tokens": output_tokens,
+                "total_tokens": total_tokens,
+                "total_cost": total_cost,
+                "provider": provider,
+                "model": model
+            }
 
         except Exception as e:
             retries += 1
@@ -182,13 +204,24 @@ def call_model(prompt: str, provider: str, model: str = DEFAULT_MODEL) -> Tuple[
             if "rate limit" in str(e).lower() or "quota" in str(e).lower():
                 logging.info(f"{key_name} likely exceeded rate/quota: {str(e)}")
             else:
-                logging.error(f"Error with {provider} key {key_name} (attempt {retries}/{MAX_RETRIES}): {str(e)}")
+                logging.error(f"Error with {provider} key {key_name} (attempt {retries}/{max_retries}): {str(e)}")
 
-            if retries == MAX_RETRIES:
-                raise Exception(f"Max retries ({MAX_RETRIES}) reached for {provider}. Last error: {str(e)}")
+            if retries == max_retries:
+                raise Exception(f"Max retries ({max_retries}) reached for {provider}. Last error: {str(e)}")
 
 
 import json
+
+def parse_json_from_output(text):
+    json_text = text.replace("```","").replace("json","")
+    # cleaning
+    json_text = re.sub(r'[\x00-\x1F\x7F]', '', json_text)
+    # Step 1: Replace invalid escape sequences
+    # This regex pattern finds backslashes that are not followed by valid escape characters.
+    json_text = re.sub(r'\\(?!["\\/bfnrtu])', r'', json_text)
+    json_text = re.sub(r'\\u[0-9A-Fa-f]{0,3}[^0-9A-Fa-f]', '', json_text)
+    data = json.loads(json_text)
+    return data
 
 def read_txt(path):
     """Reads a text file and returns its contents as a string."""

@@ -1,4 +1,4 @@
-sample_inp_1 = """
+positive_sample_inp_1 = """
 জরুরী ভিত্তিতে  AB(-)রক্তের প্রয়োজন।
 আমার ফুপা এর অপারেশন
 💁রোগীর সমস্যা: কিডনি সমস্যা
@@ -12,7 +12,7 @@ sample_inp_1 = """
 01928317021
 """
 
-sample_out_1 = {
+positive_sample_out_1 = {
     "blood_group": "AB-",
     "bags_needed": "2",
     "patient": {
@@ -20,7 +20,7 @@ sample_out_1 = {
         "gender": "",
         "age-group":""
     },
-    "condition": "Kidney problem, Operation",
+    "condition": "kidney problem, operation",
     "location": "কিডনি ফাউন্ডেশন এন্ড রিসার্চ ইনস্টিটিউট, মিরপুর,   ঢাকা",
     "hospital_name": "কিডনি ফাউন্ডেশন এন্ড রিসার্চ ইনস্টিটিউট",
     "location_markers": ['মিরপুর', 'ঢাকা'],
@@ -44,7 +44,7 @@ sample_out_1 = {
     }
 }
 
-sample_inp_2 = """
+positive_sample_inp_2 = """
 Emergency 4-5 bag 0 negative blood dorkar choto bacchar jonno, bacchar nam Mahin
 Location: Rangpur doctors hospital 
 Time : 2 Aug sokal 10tar age
@@ -53,7 +53,7 @@ ami Antika, amake jogajog korben plz othoba Muhib (01556-789987)
 asha jaowar vara diye deowa hobe
 """
 
-sample_out_2 = {
+positive_sample_out_2 = {
     "blood_group": "O-",
     "bags_needed": "4-5",
     "patient": {
@@ -85,7 +85,7 @@ sample_out_2 = {
     }
 }
 
-sample_inp_3 = """
+positive_sample_inp_3 = """
 আসলামু আলাইকুম 
 রোগী আমি নিজে - age 17
 💂🏼রোগীর সমস্যাঃ পাথর অপারেশন 
@@ -96,7 +96,7 @@ sample_inp_3 = """
 ☎যোগাযোগ:01741783528
 """
 
-sample_out_3 = {
+positive_sample_out_3 = {
     "blood_group": "A+",
     "bags_needed": "1",
     "patient": {
@@ -104,7 +104,7 @@ sample_out_3 = {
         "gender": "",
         "age-group":"teenager"
     },
-    "condition": "Stone peration",
+    "condition": "stone operation",
     "location": "আশা হসপিটাল , রাজশাহী",
     "hospital_name": "আশা হসপিটাল , রাজশাহী",
     "location_markers": ['রাজশাহী'],
@@ -123,10 +123,21 @@ sample_out_3 = {
     }
 }
 
-sample_inp_4 = """
+negative_sample_inp_1 = """
 Blood donation is a great virtue. Donating blood in emergency can save many lives.
 """
 
-sample_out_4 = {
+negative_sample_out_1 = {
+    "is_blood_donation_request": "false"
+}
+
+negative_sample_inp_2 = """
+বিরামপুর ব্লাড ব্যাংকের নিয়মিত রক্তদাতা💉
+Sajib SK ভাই একজন রক্তস্বল্পতা রোগীর জন্য তার মূল্যবান এক ব্যাগ B+🩸 লাল ভালোবাসা উপহার দিয়েছে। তাকে রক্ত দানের জন্য শুভেচ্ছা ও অভিনন্দন।
+এটা তার ২১'তম রক্তদান
+রোগী ও রক্তদাতার সুস্থতা ও দীর্ঘায়ু কামনা করছি
+"""
+
+negative_sample_out_2 = {
     "is_blood_donation_request": "false"
 }

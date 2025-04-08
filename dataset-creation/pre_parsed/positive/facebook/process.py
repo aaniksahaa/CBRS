@@ -26,7 +26,7 @@ for file_path in json_files:
             text = entry.get("text", "").strip()
             # as a simple heuristic, we threshold based on length
             # to omit the few number of negatives
-            if len(text) < 50:
+            if len(text) < 50 or len(text) > 800:
                 continue
 
             if text in negative_texts:

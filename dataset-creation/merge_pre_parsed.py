@@ -1,6 +1,8 @@
 import os
 import json
 
+from util import *
+
 def collect_merged_json_files(directory):
     """
     Recursively collect all merged.json files and combine their contents into a single array
@@ -39,7 +41,10 @@ def main():
     
     # Collect all merged.json contents
     combined_data = collect_merged_json_files(target_dir)
-    
+
+    manually_collected_negatives = read_json('./pre_parsed/positive/facebook/manually_collected_negatives.json')
+    combined_data.extend(manually_collected_negatives)
+
     # Save the combined array to a new file
     output_file = "pre_parsed_merged.json"
     try:

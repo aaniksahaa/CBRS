@@ -21,6 +21,9 @@ metadata = {
     "language": "bn"
 }
 
+write_txt('prompt.txt', build_few_shot_prompt(msg))
+exit(0)
+
 out = parse_blood_donation_request(msg, provider=provider, model=model, method=method, metadata=metadata)
 
 write_json('out.json', out)

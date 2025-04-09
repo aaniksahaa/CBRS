@@ -40,6 +40,7 @@ from langchain_core.messages.base import BaseMessage
 import re 
 import json 
 
+# even in case of offered free costs, we calculate the standard cost
 MODEL_COST_PER_MILLION = {
     "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo": {"input": 3.5, "output": 3.5},
     "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free": {"input": 0.88, "output": 0.88},
@@ -50,9 +51,27 @@ MODEL_COST_PER_MILLION = {
     "google/gemma-2-9b-it": {"input": 0.3, "output": 0.3},
     "google/gemma-2-27b-it": {"input": 0.8, "output": 0.8},
     "gemini-2.0-flash": {"input": 0.1, "output": 0.4},
-    "deepseek/deepseek-chat-v3-0324:free": {"input": 0, "output": 0},
+    "deepseek/deepseek-chat-v3-0324:free": {"input": 0.27, "output": 1.10},
     "meta-llama/llama-4-maverick:free": {"input": 0, "output": 0},
-    "meta-llama/llama-4-scout:free": {"input": 0, "output": 0}
+    "meta-llama/llama-4-scout:free": {"input": 0, "output": 0},
+    "google/gemini-2.5-pro-exp-03-25:free": {"input": 1.25, "output": 10.00},
+    "mistralai/mistral-small-3.1-24b-instruct:free": {"input": 0.8, "output": 0.8},
+    "google/gemma-3-1b-it:free": {"input": 0, "output": 0},
+    "google/gemma-3-4b-it:free": {"input": 0, "output": 0},
+    "google/gemma-3-12b-it:free": {"input": 0, "output": 0},
+    "google/gemma-3-27b-it:free":  {"input": 0.12, "output": 0.12},
+    "deepseek/deepseek-r1-zero:free": {"input": 0.55, "output": 2.19},
+    "qwen/qwq-32b:free": {"input": 1.2, "output": 1.2},
+    "deepseek/deepseek-r1:free": {"input": 0.55, "output": 2.19},
+    "deepseek/deepseek-chat:free": {"input": 0.27, "output": 1.10},
+    "meta-llama/llama-3.3-70b-instruct:free": {"input": 0.88, "output": 0.88},
+    "qwen/qwen-2.5-7b-instruct:free": {"input": 0.3, "output": 0.3},
+    "meta-llama/llama-3.2-1b-instruct:free": {"input": 0, "output": 0},
+    "meta-llama/llama-3.2-3b-instruct:free": {"input": 0, "output": 0},
+    "qwen/qwen-2.5-72b-instruct:free": {"input": 1.2, "output": 1.2},
+    "meta-llama/llama-3.1-8b-instruct:free": {"input": 0.18, "output": 0.18},
+    "google/gemma-2-9b-it:free": {"input": 0.3, "output": 0.3},
+    "mistralai/mistral-7b-instruct:free": {"input": 0.2, "output": 0.2}
 }
 
 MODEL_TO_PROVIDER_MAP = {
@@ -90,8 +109,7 @@ MODEL_TO_PROVIDER_MAP = {
     "qwen/qwen-2.5-72b-instruct:free": "openrouter",
     "meta-llama/llama-3.1-8b-instruct:free": "openrouter",
     "google/gemma-2-9b-it:free": "openrouter",
-    "mistralai/mistral-7b-instruct:free": "openrouter",
-    "qwen/qwen-2.5-7b-instruct:free": "openrouter"
+    "mistralai/mistral-7b-instruct:free": "openrouter"
 }
 
 # singleton

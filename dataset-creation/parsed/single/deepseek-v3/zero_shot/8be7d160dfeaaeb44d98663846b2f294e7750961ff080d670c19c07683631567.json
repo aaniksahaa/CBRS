@@ -1,0 +1,48 @@
+{
+  "blood_donation_request_text": "রক্ত দিয়ে জীবন বাচাঁন , না পারলেও অন্তত শেয়ার করে ছড়িয়ে দিন।\n-------------------------\n\"ঢাকার শাহবাগে\" এক বাবার কিডনির ইনফেকশন এবং রক্তে হিমোগ্লোবিন কমে যাওয়ায় ২২/৮/১৫ সকাল ১২ টার মধ্যে ২ ব্যাগ A+(ve) রক্তের প্রয়োজন\n. . . . . . . . . . . . . . . . . . . . . . . . .\nরক্ত দিতে না পারলে ও\n#কপি #পেস্ট #শেয়ার করে রক্তদাতা পেতে সাহায্য করুন।\n. . . . . . . . . . . . . . . . . . . . . . . . .\nস্থানঃ পিজি হসপিটাল\nব্লকঃ ডি, CCU,\nবেডঃ ১৪,(২য় তলা)\nফোনঃ 01677993836 (রোগির ছেলে)",
+  "parsed_json": {
+    "is_blood_donation_request": "true",
+    "blood_group": "A+",
+    "bags_needed": "2",
+    "patient": {
+      "name": "",
+      "gender": "M",
+      "age_group": "adult"
+    },
+    "condition": "kidney infection, low hemoglobin",
+    "location": "পিজি হসপিটাল, ব্লকঃ ডি, CCU, বেডঃ ১৪,(২য় তলা)",
+    "hospital_name": "পিজি হসপিটাল",
+    "location_markers": [
+      "ঢাকা",
+      "শাহবাগ"
+    ],
+    "probable_day": "22/08/15",
+    "probable_time": "before 12:00",
+    "contacts": [
+      {
+        "name": "",
+        "contact_numbers": [
+          "01677993836"
+        ],
+        "relation_with_patient": "রোগির ছেলে"
+      }
+    ],
+    "compensation": {
+      "transportation": "",
+      "allowance": ""
+    }
+  },
+  "is_blood_donation_request": true,
+  "input_text": "\nYou will be provided with a message, typically sent by an individual or organization, which may pertain to a request for blood donation.  \nYour task is to determine whether the message is a blood donation request, and if yes, then to extract the necessary information.\n\n- If the message is **not** a blood donation request, respond with:  \n  `\"{\"is_blood_donation_request\": \"false\"}\"`\n  In this case, you do not need to include any other fields in the json.\n\n- If the message is a blood donation request, extract the relevant information and present it in a **well-structured, valid JSON object** that conforms exactly to the schema defined below.\n\nCarefully analyze the content to ensure that all fields are correctly inferred and appropriately formatted.\n\nblood_group: must be one of the 8 groups A+ , A- , B+ , B- , O+ , O- , AB+ , AB- or \"\"\nbags_needed: a number in English as a string, like \"3\" or hyphen-separated two numbers denoting a range like \"3-4\"\npatient: it has three fields name, gender, age_group\n        name: the name of patient or \"\"\n        gender: \"M\" or \"F\" or \"\"\n        age_group: any of the four :- child / teenager / young / adult or \"\"\ncondition: the patient condition in correct English, as inferred from the message, it may consist of small-letter key words or key phrases separated by comma\nlocation: the stated location exactly as it is stated in the message\nhospital_name: the full name of hospital exactly as it is stated in the message\nlocation_markers: an array of specific location markers, preferably the names of cities or such regions stated in the message\nprobable_day: can be in 5 formats, choose as is appropriate according to the message, opt for the more specific date options(DD/MM or DD/MM/YYYY) if you have choices\n                DD/MM or DD/MM/YYYY or \"today\" or \"tomorrow\" or \"n days later\"\nprobable_time: can be in 6 formats, choose as is appropriate according to the message, opt for the more specific time options(HH:MM) if you have choices\n                HH:MM or before HH:MM or after HH:MM or HH:MM-HH:MM or \"in n hours\"\n               here you are expected to give the times in 24-hour format\ncontacts: an array of the contacts you find, each element will be object with 3 fields\n            name: the name of person\n            contact_numbers: an array of the contact numbers, the numbers should be exact as it is in the message\n            relation_with_patient: the relation as stated in message\ncompensation: will have two fields, they should be either \"Y\" or \"N\" or \"\"\n            transportation: whether any compensation for transportation will be provided\n            allowance: whether any extra money will be provided\n\nNow output the correctly formatted json for the following Text Message:\n\nরক্ত দিয়ে জীবন বাচাঁন , না পারলেও অন্তত শেয়ার করে ছড়িয়ে দিন।\n-------------------------\n\"ঢাকার শাহবাগে\" এক বাবার কিডনির ইনফেকশন এবং রক্তে হিমোগ্লোবিন কমে যাওয়ায় ২২/৮/১৫ সকাল ১২ টার মধ্যে ২ ব্যাগ A+(ve) রক্তের প্রয়োজন\n. . . . . . . . . . . . . . . . . . . . . . . . .\nরক্ত দিতে না পারলে ও\n#কপি #পেস্ট #শেয়ার করে রক্তদাতা পেতে সাহায্য করুন।\n. . . . . . . . . . . . . . . . . . . . . . . . .\nস্থানঃ পিজি হসপিটাল\nব্লকঃ ডি, CCU,\nবেডঃ ১৪,(২য় তলা)\nফোনঃ 01677993836 (রোগির ছেলে)\n\n**Reminders:**\n- Adhering strictly to the JSON schema is **mandatory**.\n- Do **not** include any greetings, explanations, or additional text. Output **only** the correctly formatted JSON.\n- Do **not** fabricate or hallucinate information. If a particular field is missing in the message, set its value to an empty string `\"\"`.\n\nEnsure your output is precise, complete, and formatted in a manner suitable for automated parsing.\n\n",
+  "output_text": "```json\n{\n    \"is_blood_donation_request\": \"true\",\n    \"blood_group\": \"A+\",\n    \"bags_needed\": \"2\",\n    \"patient\": {\n        \"name\": \"\",\n        \"gender\": \"M\",\n        \"age_group\": \"adult\"\n    },\n    \"condition\": \"kidney infection, low hemoglobin\",\n    \"location\": \"পিজি হসপিটাল, ব্লকঃ ডি, CCU, বেডঃ ১৪,(২য় তলা)\",\n    \"hospital_name\": \"পিজি হসপিটাল\",\n    \"location_markers\": [\"ঢাকা\", \"শাহবাগ\"],\n    \"probable_day\": \"22/08/15\",\n    \"probable_time\": \"before 12:00\",\n    \"contacts\": [\n        {\n            \"name\": \"\",\n            \"contact_numbers\": [\"01677993836\"],\n            \"relation_with_patient\": \"রোগির ছেলে\"\n        }\n    ],\n    \"compensation\": {\n        \"transportation\": \"\",\n        \"allowance\": \"\"\n    }\n}\n```",
+  "input_tokens": 960,
+  "output_tokens": 233,
+  "total_tokens": 1193,
+  "total_cost": 0.0005155,
+  "provider": "openrouter",
+  "model": "deepseek/deepseek-chat:free",
+  "blood_donation_request_metadata": {
+    "language": "bn",
+    "source": "facebook"
+  }
+}

@@ -113,6 +113,46 @@ MODEL_TO_PROVIDER_MAP = {
     "mistralai/mistral-7b-instruct:free": "openrouter"
 }
 
+
+MODEL_TO_CORE_MAP = {
+    "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo": "meta-llama-3.1-405b-instruct",
+    "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free": "meta-llama-3.3-70b-instruct",
+    "deepseek-ai/DeepSeek-V3": "deepseek-v3",
+    "Qwen/Qwen2.5-7B-Instruct-Turbo": "qwen-2.5-7b-instruct",
+    "mistralai/Mistral-7B-Instruct-v0.3": "mistral-7b-instruct",
+    "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": "meta-llama-3.1-8b-instruct",
+    "google/gemma-2-9b-it": "gemma-2-9b-it",
+    "google/gemma-2-27b-it": "gemma-2-27b-it",
+    "gemini-2.0-flash": "gemini-2.0-flash",
+    "gpt-4o": "gpt-4o",
+    "gpt-4o-mini": "gpt-4o-mini",
+    "gpt-3.5-turbo": "gpt-3.5-turbo",
+    "gpt-4": "gpt-4",
+    "deepseek/deepseek-chat-v3-0324:free": "deepseek-v3",
+    "meta-llama/llama-4-maverick:free": "meta-llama-4-maverick",
+    "meta-llama/llama-4-scout:free": "meta-llama-4-scout",
+    "google/gemini-2.5-pro-exp-03-25:free": "gemini-2.5-pro",
+    "mistralai/mistral-small-3.1-24b-instruct:free": "mistral-small-3.1-24b-instruct",
+    "google/gemma-3-1b-it:free": "gemma-3-1b-it",
+    "google/gemma-3-4b-it:free": "gemma-3-4b-it",
+    "google/gemma-3-12b-it:free": "gemma-3-12b-it",
+    "google/gemma-3-27b-it:free": "gemma-3-27b-it",
+    "deepseek/deepseek-r1-zero:free": "deepseek-r1-zero",
+    "qwen/qwq-32b:free": "qwq-32b",
+    "google/gemini-2.0-pro-exp-02-05:free": "gemini-2.0-pro",
+    "deepseek/deepseek-r1:free": "deepseek-r1",
+    "deepseek/deepseek-chat:free": "deepseek-v3",
+    "meta-llama/llama-3.3-70b-instruct:free": "meta-llama-3.3-70b-instruct",
+    "qwen/qwen-2.5-7b-instruct:free": "qwen-2.5-7b-instruct",
+    "meta-llama/llama-3.2-1b-instruct:free": "meta-llama-3.2-1b-instruct",
+    "meta-llama/llama-3.2-3b-instruct:free": "meta-llama-3.2-3b-instruct",
+    "qwen/qwen-2.5-72b-instruct:free": "qwen-2.5-72b-instruct",
+    "meta-llama/llama-3.1-8b-instruct:free": "meta-llama-3.1-8b-instruct",
+    "google/gemma-2-9b-it:free": "gemma-2-9b-it",
+    "mistralai/mistral-7b-instruct:free": "mistral-7b-instruct"
+}
+
+
 # singleton
 from typing import Dict, Optional
 
@@ -277,7 +317,7 @@ class LLMClient:
         retries = 0
         used_keys = set()
 
-        print(f"\n\nat get_chat_completion: using model = {active_model}\n\n")
+        print(f"\n\nget_chat_completion: provider = {active_provider}, model = {active_model}\n\n")
 
         while retries < self.max_retries:
             api_key = self._get_api_key(active_provider, used_keys)
@@ -333,7 +373,11 @@ class LLMClient:
 
             except Exception as e:
                 if retries == self.max_retries:
-                    return f"Error: Max retries ({self.max_retries}) reached for {active_provider}. Last error: {str(e)}"
+                    error_message = f"Error: Max retries ({self.max_retries}) reached for {active_provider}. Last error: {str(e)}"
+                    raise Exception(error_message)
+                
+                time.sleep(20)
+                
                 continue
 
     def get_response(self, prompt: str, system_prompt: str = "You are a helpful assistant.", model_name: str = None) -> str:

@@ -141,37 +141,21 @@ def parse_blood_donation_request(text: str, model_name: str = DEFAULT_CHAT_MODEL
 
     # print(prompt)
 
-    try:
-        llm_response = llm_client.get_response(prompt=prompt, model_name=model_name)
-        response = {}
-        response['blood_donation_request_text'] = text 
-        parsed_json = copy.deepcopy(llm_response['parsed_json'])
-        del llm_response['parsed_json']
-        response['parsed_json'] = parsed_json
+    llm_response = llm_client.get_response(prompt=prompt, model_name=model_name)
+    response = {}
+    response['blood_donation_request_text'] = text 
+    parsed_json = copy.deepcopy(llm_response['parsed_json'])
+    del llm_response['parsed_json']
+    response['parsed_json'] = parsed_json
+    
+    if parsed_json and "is_blood_donation_request" in parsed_json and parsed_json["is_blood_donation_request"] == "false":
+        response["is_blood_donation_request"] = False
+    else:
+        response["is_blood_donation_request"] = True
         
-        if parsed_json and "is_blood_donation_request" in parsed_json and parsed_json["is_blood_donation_request"] == "false":
-            response["is_blood_donation_request"] = False
-        else:
-            response["is_blood_donation_request"] = True
-        response.update(llm_response)
-    except Exception as e:
-        parsed_json = None
-        content = str(e)
-        input_toks = output_toks = total_toks = 0
-        cost = 0.0
-        response = {
-            "input_text": text,
-            "output_text": content,
-            "input_tokens": input_toks,
-            "output_tokens": output_toks,
-            "total_tokens": total_toks,
-            "cost_usd": round(cost, 6),
-            "provider": None,
-            "model": None,
-            'blood_donation_request_text': text,
-            "parsed_json": parsed_json,
-            "is_blood_donation_request": None 
-        }
+    response.update(llm_response)
 
     response['blood_donation_request_metadata'] = metadata
+    response['method'] = method
+
     return response

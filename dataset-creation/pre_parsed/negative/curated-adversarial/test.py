@@ -22,6 +22,6 @@ metadata = {
     "language": "bn"
 }
 
-out = parse_blood_donation_request(msg, provider=provider, model=model, method=method, metadata=metadata)
+out = parse_blood_donation_request(msg, provider=provider, model_name=model, method=method, metadata=metadata)
 
 write_json('out.json', out)

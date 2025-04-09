@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 DEFAULT_OPENAI_EMBEDDING_MODEL = "text-embedding-3-large"
+DEFAULT_CHAT_MODEL = "gpt-4o-mini"
 
 def count_tokens(text, model_name="gpt-4o"):
     encoder = tiktoken.encoding_for_model(model_name)
@@ -176,7 +177,7 @@ class LLMClient:
         return s
 
     def _parse_json_from_output(self, text):
-        json_text = self.extract_json_block(text)
+        json_text = self._extract_json_block(text)
         
         # Remove control characters
         json_text = re.sub(r'[\x00-\x1F\x7F]', '', json_text)
@@ -305,8 +306,8 @@ class LLMClient:
 
                 # Calculate cost
                 if active_model in MODEL_COST_PER_MILLION:
-                    input_cost = (self.input_tokens_so_far / 1_000_000) * MODEL_COST_PER_MILLION[active_model]["input"]
-                    output_cost = (self.output_tokens_so_far / 1_000_000) * MODEL_COST_PER_MILLION[active_model]["output"]
+                    input_cost = (input_tokens / 1_000_000) * MODEL_COST_PER_MILLION[active_model]["input"]
+                    output_cost = (output_tokens / 1_000_000) * MODEL_COST_PER_MILLION[active_model]["output"]
                     total_cost = input_cost + output_cost
 
                 # Update properties inside class
@@ -315,7 +316,7 @@ class LLMClient:
                 self.cost_so_far += total_cost
 
                 try:
-                    parsed_json = self.parse_json_from_output(message)
+                    parsed_json = self._parse_json_from_output(message)
                 except Exception:
                     parsed_json = None
             
@@ -335,7 +336,7 @@ class LLMClient:
                     return f"Error: Max retries ({self.max_retries}) reached for {active_provider}. Last error: {str(e)}"
                 continue
 
-    def get_response(self, prompt: str, system_prompt: str = "You are an assistant.", model_name: str = None) -> str:
+    def get_response(self, prompt: str, system_prompt: str = "You are a helpful assistant.", model_name: str = None) -> str:
         """
         Get a response from the model with random key shuffling and retry logic.
         

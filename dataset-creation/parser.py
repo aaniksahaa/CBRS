@@ -1,7 +1,9 @@
 from util import *
-
+from llmclients import *
 from samples import *
+import copy 
 
+llm_client = LLMClient()
 
 def build_zero_shot_prompt(user_text):
     return f"""
@@ -130,30 +132,28 @@ Ensure your output is precise, complete, and formatted in a manner suitable for 
 """
 
 
-def parse_blood_donation_request(text: str, provider: str, model: str = DEFAULT_MODEL, method: str = "few_shot", metadata: Dict = None) -> Dict[str, Any]:
+def parse_blood_donation_request(text: str, model_name: str = DEFAULT_CHAT_MODEL, method: str = "few_shot", metadata: Dict = None) -> Dict[str, Any]:
     prompt = ""
     if method == "zero_shot":
         prompt = build_zero_shot_prompt(text)
     else:
         prompt = build_few_shot_prompt(text)
-    print(prompt)
+
+    # print(prompt)
+
     try:
-        # print('called and waiting...')
-        response = get_response(prompt, provider=provider, model=model)
-        content = response.get("output_text", "")
-        # print('result came')
-        clean = content.replace('```', '').replace('json', '')
-        clean = re.sub(r'\\u[0-9a-fA-F]{0,3}[^0-9a-fA-F]', '', clean)
-        try:
-            parsed_json = parse_json_from_output(content)
-        except Exception:
-            parsed_json = None
+        llm_response = llm_client.get_response(prompt=prompt, model_name=model_name)
+        response = {}
         response['blood_donation_request_text'] = text 
+        parsed_json = copy.deepcopy(llm_response['parsed_json'])
+        del llm_response['parsed_json']
         response['parsed_json'] = parsed_json
-        if "is_blood_donation_request" in parsed_json and parsed_json["is_blood_donation_request"] == "false":
+        
+        if parsed_json and "is_blood_donation_request" in parsed_json and parsed_json["is_blood_donation_request"] == "false":
             response["is_blood_donation_request"] = False
         else:
             response["is_blood_donation_request"] = True
+        response.update(llm_response)
     except Exception as e:
         parsed_json = None
         content = str(e)
@@ -166,8 +166,8 @@ def parse_blood_donation_request(text: str, provider: str, model: str = DEFAULT_
             "output_tokens": output_toks,
             "total_tokens": total_toks,
             "cost_usd": round(cost, 6),
-            "provider": provider,
-            "model": model,
+            "provider": None,
+            "model": None,
             'blood_donation_request_text': text,
             "parsed_json": parsed_json,
             "is_blood_donation_request": None 

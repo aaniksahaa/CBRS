@@ -1,0 +1,10 @@
+{
+    "gemini-2.0-flash": {
+        "zero_shot": 0.2,
+        "few_shot": 0.3
+    },
+    "qwen-7b-instruct": {
+        "zero_shot": 0.1,
+        "few_shot": 0.4
+    }
+}

@@ -35,7 +35,7 @@ def process_json_file(json_filepath, index, model_name, method):
 
         # Check if the output file already exists
         if os.path.exists(output_filepath) and read_json(output_filepath)['model']:
-            print(f"SKIPPING: Output file {output_filepath} already exists")
+            # print(f"SKIPPING: Output file {output_filepath} already exists")
             return {"index": index, "status": "skipped", "filename": filename}
 
         # Read the JSON file
@@ -88,7 +88,7 @@ def process_json_files_multithreaded(json_files, model_name, method, num_workers
     success_count = sum(1 for r in results if r["status"] == "success")
     skipped_count = sum(1 for r in results if r["status"] == "skipped")
     error_count = sum(1 for r in results if r["status"] == "error")
-    print(f"\nProcessing complete:")
+    print(f"\n✅✅✅\nProcessing complete: model = {model_name}, method = {method}")
     print(f"Total files: {len(json_files)}")
     print(f"Successful: {success_count}")
     print(f"Skipped (already processed): {skipped_count}")
@@ -105,7 +105,7 @@ MODEL_NAMES = [
     # "google/gemma-3-27b-it:free",
     # "google/gemma-2-9b-it:free",
     "google/gemma-2-27b-it",
-    "google/gemma-2-9b-it",
+    # "google/gemma-2-9b-it",
     "Qwen/Qwen2.5-7B-Instruct-Turbo"
 ]
 

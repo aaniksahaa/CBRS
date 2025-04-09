@@ -1,0 +1,11 @@
+{
+  "input_text": "Tell me a joke",
+  "output_text": "Sure! Here's a joke for you:\n\nWhy don’t skeletons fight each other?  \nBecause they don’t have the *guts*!  \n\n😄",
+  "parsed_json": null,
+  "input_tokens": 12,
+  "output_tokens": 35,
+  "total_tokens": 47,
+  "total_cost": 0,
+  "provider": "openrouter",
+  "model": "deepseek/deepseek-chat:free"
+}

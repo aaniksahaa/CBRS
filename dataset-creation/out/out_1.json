@@ -1,0 +1,11 @@
+{
+  "input_text": "hello, how you doing?",
+  "output_text": "Hello! I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help you with anything you need. How are you doing today? 😊",
+  "parsed_json": null,
+  "input_tokens": 14,
+  "output_tokens": 39,
+  "total_tokens": 53,
+  "total_cost": 0,
+  "provider": "openrouter",
+  "model": "deepseek/deepseek-chat:free"
+}

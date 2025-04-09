@@ -1,0 +1,11 @@
+{
+  "input_text": "তুমি কেমন আছ?",
+  "output_text": "ধন্যবাদ জিজ্ঞাসা করার জন্য! আমি সবসময় ভালো আছি, কারণ আমি একটি AI। তোমার কেমন চলছে? তোমার যদি কোনো প্রশ্ন বা সাহায্যের প্রয়োজন হয়, তবে নির্দ্বিধায় জানিও! 😊",
+  "parsed_json": null,
+  "input_tokens": 16,
+  "output_tokens": 58,
+  "total_tokens": 74,
+  "total_cost": 0,
+  "provider": "openrouter",
+  "model": "deepseek/deepseek-chat:free"
+}

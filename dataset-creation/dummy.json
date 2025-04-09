@@ -1,10 +1,78 @@
 {
     "gemini-2.0-flash": {
-        "zero_shot": 0.2,
-        "few_shot": 0.3
+        "zero_shot": {
+            "bn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "en": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "tbn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "total": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            }
+        },
+        "few_shot": {
+            "bn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "en": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "tbn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "total": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            }
+        }
     },
     "qwen-7b-instruct": {
-        "zero_shot": 0.1,
-        "few_shot": 0.4
+        "zero_shot": {
+            "bn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "en": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "tbn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "total": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            }
+        },
+        "few_shot": {
+            "bn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "en": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "tbn": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            },
+            "total": {
+                "macro_f1_score": 0.2,
+                "avg_cost": 0.0002
+            }
+        }
     }
 }

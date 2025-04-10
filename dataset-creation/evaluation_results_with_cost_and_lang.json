@@ -1,39 +1,141 @@
 {
+    "claude-3-haiku": {
+        "few_shot": {
+            "bn": {
+                "macro_f1_score": 0.802065802065802,
+                "avg_cost": 0.001077031512605042,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0.9096880131362889,
+                "avg_cost": 0.0009474281609195401,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0.9319727891156463,
+                "avg_cost": 0.0009424029411764708,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0.8724841555327166,
+                "avg_cost": 0.0009989596219931271,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            }
+        },
+        "zero_shot": {
+            "bn": {
+                "macro_f1_score": 0.4820861678004535,
+                "avg_cost": 0.0005803388888888888,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0.42539682539682533,
+                "avg_cost": 0.00048386666666666654,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0.4856959471850358,
+                "avg_cost": 0.00047491463414634145,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0.4635288985823337,
+                "avg_cost": 0.0005142041984732823,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            }
+        }
+    },
     "deepseek-v3": {
         "few_shot": {
             "bn": {
                 "macro_f1_score": 1.0,
-                "avg_cost": 0.0009126818487394963
+                "avg_cost": 0.0009126818487394963,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 1.0,
-                "avg_cost": 0.0007639063218390806
+                "avg_cost": 0.0007639063218390806,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 1.0,
-                "avg_cost": 0.0007536078823529411
+                "avg_cost": 0.0007536078823529411,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 1.0,
-                "avg_cost": 0.0008217376632302404
+                "avg_cost": 0.0008217376632302404,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
                 "macro_f1_score": 0.8309663700968049,
-                "avg_cost": 0.0005441611764705881
+                "avg_cost": 0.0005441611764705881,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
-                "macro_f1_score": 0.8916256157635468,
-                "avg_cost": 0.00045863793103448277
+                "macro_f1_score": 0.8916256157635469,
+                "avg_cost": 0.00045863793103448277,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
-                "macro_f1_score": 0.9183673469387755,
-                "avg_cost": 0.00044641858823529426
+                "macro_f1_score": 0.9183673469387754,
+                "avg_cost": 0.00044641858823529426,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
-                "macro_f1_score": 0.8750961268946879,
-                "avg_cost": 0.0004900421305841923
+                "macro_f1_score": 0.875096126894688,
+                "avg_cost": 0.0004900421305841923,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     },
@@ -41,75 +143,209 @@
         "few_shot": {
             "bn": {
                 "macro_f1_score": 0.8247104247104247,
-                "avg_cost": 0.0004370033613445377
+                "avg_cost": 0.0004370033613445377,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.9326765188834154,
-                "avg_cost": 0.0003301643678160921
+                "avg_cost": 0.0003301643678160921,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.892436974789916,
-                "avg_cost": 0.0003290364705882354
+                "avg_cost": 0.0003290364705882354,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.877502676803306,
-                "avg_cost": 0.0003735250859106529
+                "avg_cost": 0.0003735250859106529,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
-                "macro_f1_score": 0.7934754630406804,
-                "avg_cost": 0.0001655428571428572
+                "macro_f1_score": 0.7934754630406805,
+                "avg_cost": 0.0001655428571428572,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
-                "macro_f1_score": 0.8637110016420361,
-                "avg_cost": 0.0001384885057471265
+                "macro_f1_score": 0.8637110016420362,
+                "avg_cost": 0.0001384885057471265,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.8890756302521007,
-                "avg_cost": 0.0001384458823529412
+                "avg_cost": 0.0001384458823529412,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
-                "macro_f1_score": 0.843092773168225,
-                "avg_cost": 0.0001495395189003436
+                "macro_f1_score": 0.8430927731682251,
+                "avg_cost": 0.0001495395189003436,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     },
     "gemma-2-27b-it": {
         "few_shot": {
             "bn": {
-                "macro_f1_score": 0.8015577153508188,
-                "avg_cost": 0.002508127731092437
+                "macro_f1_score": 0.801557715350819,
+                "avg_cost": 0.002508127731092437,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.9458128078817734,
-                "avg_cost": 0.0023166528735632185
+                "avg_cost": 0.0023166528735632185,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.9176470588235295,
-                "avg_cost": 0.00231460705882353
+                "avg_cost": 0.00231460705882353,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.8794107571085988,
-                "avg_cost": 0.002394356013745705
+                "avg_cost": 0.002394356013745705,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
-                "macro_f1_score": 0.7994257994257995,
-                "avg_cost": 0.000898198319327731
+                "macro_f1_score": 0.7994257994257994,
+                "avg_cost": 0.000898198319327731,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
-                "macro_f1_score": 0.9145950280673617,
-                "avg_cost": 0.0007961747126436779
+                "macro_f1_score": 0.9145950280673618,
+                "avg_cost": 0.0007961747126436779,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.9310924369747899,
-                "avg_cost": 0.0007839623529411766
+                "avg_cost": 0.0007839623529411766,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.872843593637201,
-                "avg_cost": 0.0008343285223367705
+                "avg_cost": 0.0008343285223367705,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            }
+        }
+    },
+    "gpt-4o-mini": {
+        "few_shot": {
+            "bn": {
+                "macro_f1_score": 0.844543791912213,
+                "avg_cost": 0.00042624166666666664,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0.9275501622011294,
+                "avg_cost": 0.0003982833333333333,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0.9042016806722689,
+                "avg_cost": 0.000401505,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0.8875017970958933,
+                "avg_cost": 0.0004127554054054054,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            }
+        },
+        "zero_shot": {
+            "bn": {
+                "macro_f1_score": 0.7966316069764344,
+                "avg_cost": 0.00024058235294117643,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0.8620498720739297,
+                "avg_cost": 0.00021632413793103443,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0.8873949579831933,
+                "avg_cost": 0.00021482470588235296,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0.8431751762076672,
+                "avg_cost": 0.00022580618556701032,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     },
@@ -117,37 +353,69 @@
         "few_shot": {
             "bn": {
                 "macro_f1_score": 0.7508876252056692,
-                "avg_cost": 0.0006249327731092438
+                "avg_cost": 0.0006249327731092438,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.8747795414462081,
-                "avg_cost": 0.000526766896551724
+                "avg_cost": 0.000526766896551724,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
-                "macro_f1_score": 0.8961038961038961,
-                "avg_cost": 0.0005316945882352939
+                "macro_f1_score": 0.896103896103896,
+                "avg_cost": 0.0005316945882352939,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.8327476164210859,
-                "avg_cost": 0.0005683496907216496
+                "avg_cost": 0.0005683496907216496,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
                 "macro_f1_score": 0.6438627016766846,
-                "avg_cost": 0.0002259151260504201
+                "avg_cost": 0.0002259151260504201,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
-                "macro_f1_score": 0.7111279525072628,
-                "avg_cost": 0.00017138275862068966
+                "macro_f1_score": 0.7111279525072627,
+                "avg_cost": 0.00017138275862068966,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
-                "macro_f1_score": 0.7351916376306621,
-                "avg_cost": 0.00016651270588235293
+                "macro_f1_score": 0.7351916376306619,
+                "avg_cost": 0.00016651270588235293,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
-                "macro_f1_score": 0.6889917100443415,
-                "avg_cost": 0.000192260412371134
+                "macro_f1_score": 0.6889917100443416,
+                "avg_cost": 0.000192260412371134,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     },
@@ -155,75 +423,209 @@
         "few_shot": {
             "bn": {
                 "macro_f1_score": 0.6155202821869488,
-                "avg_cost": 0.00013867109243697484
+                "avg_cost": 0.00020372666666666674,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
-                "macro_f1_score": 0.6644476989304575,
-                "avg_cost": 9.111931034482756e-05
+                "macro_f1_score": 0.6644476989304576,
+                "avg_cost": 0.0001723343478260869,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.7108433734939759,
-                "avg_cost": 0.00010234376470588236
+                "avg_cost": 0.00017398440000000002,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.6587311968606934,
-                "avg_cost": 0.00011384350515463918
+                "avg_cost": 0.0001871664406779661,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
-                "macro_f1_score": 0.6183002170646185,
-                "avg_cost": 7.678235294117645e-05
+                "macro_f1_score": 0.6183002170646186,
+                "avg_cost": 7.678235294117645e-05,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.5942643296292054,
-                "avg_cost": 5.908137931034483e-05
+                "avg_cost": 5.908137931034483e-05,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
-                "macro_f1_score": 0.6744142101284958,
-                "avg_cost": 5.834258823529411e-05
+                "macro_f1_score": 0.6744142101284959,
+                "avg_cost": 5.834258823529411e-05,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.627580501322956,
-                "avg_cost": 6.610412371134023e-05
+                "avg_cost": 6.610412371134023e-05,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     },
     "meta-llama-3.3-70b-instruct": {
         "few_shot": {
             "bn": {
-                "macro_f1_score": 0.8057305425726478,
-                "avg_cost": 0.0028921606722689076
+                "macro_f1_score": 0.8057305425726479,
+                "avg_cost": 0.0028921606722689076,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.9425287356321839,
-                "avg_cost": 0.0025833765517241382
+                "avg_cost": 0.0025833765517241382,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.8674698795180723,
-                "avg_cost": 0.0025743416470588236
+                "avg_cost": 0.0025743416470588236,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.8656758066648064,
-                "avg_cost": 0.0027070100343642607
+                "avg_cost": 0.0027070100343642607,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
-                "macro_f1_score": 0.7806340174761228,
-                "avg_cost": 0.0010985505882352945
+                "macro_f1_score": 0.7806340174761227,
+                "avg_cost": 0.0010985505882352945,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.8243021346469622,
-                "avg_cost": 0.0008313572413793102
+                "avg_cost": 0.0008313572413793102,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.8722689075630251,
-                "avg_cost": 0.0008289185882352942
+                "avg_cost": 0.0008289185882352942,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.8211500729486341,
-                "avg_cost": 0.0009399095532646045
+                "avg_cost": 0.0009399095532646045,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            }
+        }
+    },
+    "mistral-7b-instruct": {
+        "few_shot": {
+            "bn": {
+                "macro_f1_score": 0.7326004428978171,
+                "avg_cost": 0.0007485445378151265,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0.8741291697401853,
+                "avg_cost": 0.0006954551724137933,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0.8347338935574229,
+                "avg_cost": 0.0006949152941176472,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0.8007259639568579,
+                "avg_cost": 0.0007170075601374569,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            }
+        },
+        "zero_shot": {
+            "bn": {
+                "macro_f1_score": 0,
+                "avg_cost": 0.0002767680672268908,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0,
+                "avg_cost": 0.00022663218390804593,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0,
+                "avg_cost": 0.00022510352941176474,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0,
+                "avg_cost": 0.0002466879725085911,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     },
@@ -231,37 +633,69 @@
         "few_shot": {
             "bn": {
                 "macro_f1_score": 0.7793131477342004,
-                "avg_cost": 0.0010002025210084037
+                "avg_cost": 0.0010002025210084037,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
-                "macro_f1_score": 0.8770764119601328,
-                "avg_cost": 0.0009217931034482761
+                "macro_f1_score": 0.877076411960133,
+                "avg_cost": 0.0009217931034482761,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
-                "macro_f1_score": 0.772108843537415,
-                "avg_cost": 0.0009135317647058827
+                "macro_f1_score": 0.7721088435374149,
+                "avg_cost": 0.0009135317647058827,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.8067599737619858,
-                "avg_cost": 0.0009514443298969058
+                "avg_cost": 0.0009514443298969058,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         },
         "zero_shot": {
             "bn": {
-                "macro_f1_score": 0.6833454090091257,
-                "avg_cost": 0.0003640840336134453
+                "macro_f1_score": 0.6833454090091259,
+                "avg_cost": 0.0003640840336134453,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "en": {
                 "macro_f1_score": 0.7929507007293696,
-                "avg_cost": 0.00028912758620689647
+                "avg_cost": 0.00028912758620689647,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "tbn": {
                 "macro_f1_score": 0.7452465323478789,
-                "avg_cost": 0.00028689882352941177
+                "avg_cost": 0.00028689882352941177,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             },
             "total": {
                 "macro_f1_score": 0.7348212026817372,
-                "avg_cost": 0.00031912886597938115
+                "avg_cost": 0.00031912886597938115,
+                "avg_input_tokens": 0.0,
+                "avg_output_tokens": 0.0,
+                "avg_total_tokens": 0.0,
+                "avg_inference_time": 0.0
             }
         }
     }

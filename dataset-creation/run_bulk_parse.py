@@ -96,9 +96,11 @@ def process_json_files_multithreaded(json_files, model_name, method, num_workers
 
 
 MODEL_NAMES = [
-    "deepseek/deepseek-chat:free",
-    # "deepseek-ai/DeepSeek-V3",
-    "gemini-2.0-flash",
+    # "deepseek/deepseek-chat:free",
+    "deepseek-ai/DeepSeek-V3",
+    "gpt-4o-mini",
+    "claude-3-haiku-20240307",
+    # "gemini-2.0-flash",
     "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
     "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
     "meta-llama/Llama-3.2-3B-Instruct-Turbo",
@@ -109,7 +111,8 @@ MODEL_NAMES = [
     # "google/gemma-2-9b-it:free",
     "google/gemma-2-27b-it",
     # "google/gemma-2-9b-it",
-    "Qwen/Qwen2.5-7B-Instruct-Turbo"
+    "Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "mistralai/Mistral-7B-Instruct-v0.3"
 ]
 
 METHODS = [

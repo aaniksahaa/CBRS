@@ -76,8 +76,8 @@ def sample_data(dataset_file, output_folder, N, ratio_en, ratio_bn, ratio_tbn):
 # Example usage
 dataset_file = "./pre_parsed_merged.json"  # Path to your JSON dataset
 output_folder = "loaded"  # Folder to save the sampled messages
-N = 100  # Total number of messages to sample
-ratio_en = 3  # Ratio for English messages
+N = 750  # Total number of messages to sample
+ratio_en = 4  # Ratio for English messages
 ratio_bn = 4  # Ratio for Bangla messages
 ratio_tbn = 3  # Ratio for transliterated Bangla messages
 

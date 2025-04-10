@@ -1,0 +1,50 @@
+{
+  "blood_donation_request_text": "#দুর্লভ_এ_নেগেটিভ রক্তের প্রয়োজন।\nসর্বোচ্চ শেয়ার করে রক্তদাতা পেতে\nসাহায্য করুন।\n\"কুমিল্লার কুচাতলীতে\"\nএক ভাইয়ের এক্সিডেন্টের কারনে মাথার\nঅপারেশনের জন্য আগামীকাল (১৬/০৮/২০১৫)\nবিকাল ৪টার মধ্যে ৪ব্যাগ [A-VE] রক্তের প্রয়োজন।\nভাইকে সাহায্য করার জন্য\nদয়া করে কেউ এগিয়ে আসুন।\nঠিকানাঃ কুচাতলী হাসপাতাল।\n(৫ম তলা,ওয়ার্ডঃ১৫,বেডঃ৪)\nযোগাযোগঃ 01839635093 [রোগীর নাম্বার]",
+  "parsed_json": {
+    "is_blood_donation_request": "true",
+    "blood_group": "A-",
+    "bags_needed": "4",
+    "patient": {
+      "name": "",
+      "gender": "M",
+      "age_group": ""
+    },
+    "condition": "accident, head operation",
+    "location": "কুমিল্লার কুচাতলী",
+    "hospital_name": "কুচাতলী হাসপাতাল",
+    "location_markers": [
+      "কুমিল্লা",
+      "কুচাতলী"
+    ],
+    "probable_day": "16/08/2015",
+    "probable_time": "16:00",
+    "contacts": [
+      {
+        "name": "রোগীর",
+        "contact_numbers": [
+          "01839635093"
+        ],
+        "relation_with_patient": "brother"
+      }
+    ],
+    "compensation": {
+      "transportation": "",
+      "allowance": ""
+    }
+  },
+  "is_blood_donation_request": true,
+  "input_text": "\nYou will be provided with a message, typically sent by an individual or organization, which may pertain to a request for blood donation.  \nYour task is to determine whether the message is a blood donation request, and if yes, then to extract the necessary information.\n\n- If the message is **not** a blood donation request, respond with:  \n  `\"{\"is_blood_donation_request\": \"false\"}\"`\n  In this case, you do not need to include any other fields in the json.\n\n- If the message is a blood donation request, extract the relevant information and present it in a **well-structured, valid JSON object** that conforms exactly to the schema defined below.\n\nCarefully analyze the content to ensure that all fields are correctly inferred and appropriately formatted.\n\nblood_group: must be one of the 8 groups A+ , A- , B+ , B- , O+ , O- , AB+ , AB- or \"\"\nbags_needed: a number in English as a string, like \"3\" or hyphen-separated two numbers denoting a range like \"3-4\"\npatient: it has three fields name, gender, age_group\n        name: the name of patient or \"\"\n        gender: \"M\" or \"F\" or \"\"\n        age_group: any of the four :- child / teenager / young / adult or \"\"\ncondition: the patient condition in correct English, as inferred from the message, it may consist of small-letter key words or key phrases separated by comma\nlocation: the stated location exactly as it is stated in the message\nhospital_name: the full name of hospital exactly as it is stated in the message\nlocation_markers: an array of specific location markers, preferably the names of cities or such regions stated in the message\nprobable_day: can be in 5 formats, choose as is appropriate according to the message, opt for the more specific date options(DD/MM or DD/MM/YYYY) if you have choices\n                DD/MM or DD/MM/YYYY or \"today\" or \"tomorrow\" or \"n days later\"\nprobable_time: can be in 6 formats, choose as is appropriate according to the message, opt for the more specific time options(HH:MM) if you have choices\n                HH:MM or before HH:MM or after HH:MM or HH:MM-HH:MM or \"in n hours\"\n               here you are expected to give the times in 24-hour format\ncontacts: an array of the contacts you find, each element will be object with 3 fields\n            name: the name of person\n            contact_numbers: an array of the contact numbers, the numbers should be exact as it is in the message\n            relation_with_patient: the relation as stated in message\ncompensation: will have two fields, they should be either \"Y\" or \"N\" or \"\"\n            transportation: whether any compensation for transportation will be provided\n            allowance: whether any extra money will be provided\n\nNow output the correctly formatted json for the following Text Message:\n\n#দুর্লভ_এ_নেগেটিভ রক্তের প্রয়োজন।\nসর্বোচ্চ শেয়ার করে রক্তদাতা পেতে\nসাহায্য করুন।\n\"কুমিল্লার কুচাতলীতে\"\nএক ভাইয়ের এক্সিডেন্টের কারনে মাথার\nঅপারেশনের জন্য আগামীকাল (১৬/০৮/২০১৫)\nবিকাল ৪টার মধ্যে ৪ব্যাগ [A-VE] রক্তের প্রয়োজন।\nভাইকে সাহায্য করার জন্য\nদয়া করে কেউ এগিয়ে আসুন।\nঠিকানাঃ কুচাতলী হাসপাতাল।\n(৫ম তলা,ওয়ার্ডঃ১৫,বেডঃ৪)\nযোগাযোগঃ 01839635093 [রোগীর নাম্বার]\n\n**Reminders:**\n- Adhering strictly to the JSON schema is **mandatory**.\n- Do **not** include any greetings, explanations, or additional text. Output **only** the correctly formatted JSON.\n- Do **not** fabricate or hallucinate information. If a particular field is missing in the message, set its value to an empty string `\"\"`.\n\nEnsure your output is precise, complete, and formatted in a manner suitable for automated parsing.\n\n",
+  "output_text": "```json\n{\"is_blood_donation_request\": \"true\", \"blood_group\": \"A-\", \"bags_needed\": \"4\", \"patient\": {\"name\": \"\", \"gender\": \"M\", \"age_group\": \"\"}, \"condition\": \"accident, head operation\", \"location\": \"কুমিল্লার কুচাতলী\", \"hospital_name\": \"কুচাতলী হাসপাতাল\", \"location_markers\": [\"কুমিল্লা\", \"কুচাতলী\"], \"probable_day\": \"16/08/2015\", \"probable_time\": \"16:00\", \"contacts\": [{\"name\": \"রোগীর\", \"contact_numbers\": [\"01839635093\"], \"relation_with_patient\": \"brother\"}], \"compensation\": {\"transportation\": \"\", \"allowance\": \"\"}}\n```",
+  "input_tokens": 985,
+  "output_tokens": 200,
+  "total_tokens": 1185,
+  "total_cost": 0.0001785,
+  "provider": "google",
+  "model": "gemini-2.0-flash",
+  "inference_time": 3.135759999975562,
+  "blood_donation_request_metadata": {
+    "language": "bn",
+    "source": "facebook"
+  },
+  "method": "zero_shot"
+}

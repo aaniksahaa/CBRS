@@ -36,6 +36,7 @@ model = 'deepseek-ai/DeepSeek-V3'
 model = 'meta-llama/Llama-3.3-70B-Instruct-Turbo-Free'
 model='gemini-2.0-flash'
 # model = 'gpt-4o-mini'
+model = "claude-3-haiku-20240307"
 
 # method = "zero_shot"
 method = "few_shot"

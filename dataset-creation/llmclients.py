@@ -35,6 +35,7 @@ from typing import Dict, Any, List
 from together import Together
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
+from langchain_anthropic import ChatAnthropic
 from langchain_together import ChatTogether
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from langchain_core.messages.base import BaseMessage
@@ -73,7 +74,11 @@ MODEL_COST_PER_MILLION = {
     "qwen/qwen-2.5-72b-instruct:free": {"input": 1.2, "output": 1.2},
     "meta-llama/llama-3.1-8b-instruct:free": {"input": 0.18, "output": 0.18},
     "google/gemma-2-9b-it:free": {"input": 0.3, "output": 0.3},
-    "mistralai/mistral-7b-instruct:free": {"input": 0.2, "output": 0.2}
+    "mistralai/mistral-7b-instruct:free": {"input": 0.2, "output": 0.2},
+    "gpt-4o": {"input": 2.5, "output": 10.0},
+    "gpt-4o-mini": {"input": 0.15, "output": 0.6},
+    "claude-3-haiku-20240307": {"input": 0.25, "output": 1.25},
+    "claude-3-5-haiku-20241022": {"input": 0.8, "output": 4.00},
 }
 
 MODEL_TO_PROVIDER_MAP = {
@@ -89,8 +94,6 @@ MODEL_TO_PROVIDER_MAP = {
     "gemini-2.0-flash": "google",
     "gpt-4o": "openai",
     "gpt-4o-mini": "openai",
-    "gpt-3.5-turbo": "openai",
-    "gpt-4": "openai",
     "deepseek/deepseek-chat-v3-0324:free": "openrouter",
     "meta-llama/llama-4-maverick:free": "openrouter",    # english centric
     "meta-llama/llama-4-scout:free": "openrouter",       # english centric
@@ -113,6 +116,8 @@ MODEL_TO_PROVIDER_MAP = {
     "meta-llama/llama-3.1-8b-instruct:free": "openrouter",
     "google/gemma-2-9b-it:free": "openrouter",
     "mistralai/mistral-7b-instruct:free": "openrouter",
+    "claude-3-haiku-20240307": "anthropic",
+    "claude-3-5-haiku-20241022": "anthropic",
 }
 
 
@@ -129,8 +134,6 @@ MODEL_TO_CORE_MAP = {
     "gemini-2.0-flash": "gemini-2.0-flash",
     "gpt-4o": "gpt-4o",
     "gpt-4o-mini": "gpt-4o-mini",
-    "gpt-3.5-turbo": "gpt-3.5-turbo",
-    "gpt-4": "gpt-4",
     "deepseek/deepseek-chat-v3-0324:free": "deepseek-v3",
     "meta-llama/llama-4-maverick:free": "meta-llama-4-maverick",
     "meta-llama/llama-4-scout:free": "meta-llama-4-scout",
@@ -152,7 +155,9 @@ MODEL_TO_CORE_MAP = {
     "qwen/qwen-2.5-72b-instruct:free": "qwen-2.5-72b-instruct",
     "meta-llama/llama-3.1-8b-instruct:free": "meta-llama-3.1-8b-instruct",
     "google/gemma-2-9b-it:free": "gemma-2-9b-it",
-    "mistralai/mistral-7b-instruct:free": "mistral-7b-instruct"
+    "mistralai/mistral-7b-instruct:free": "mistral-7b-instruct",
+    "claude-3-haiku-20240307": "claude-3-haiku",
+    "claude-3-5-haiku-20241022": "claude-3.5-haiku",
 }
 
 
@@ -234,22 +239,84 @@ class LLMClient:
         except json.JSONDecodeError as e:
             raise ValueError(f"Failed to parse JSON: {e}")
     
-    def _get_client(self, provider, model, api_key):
+    # def _get_client(self, provider, model, api_key):
+    #     client = None
+    #     if provider == "together":
+    #         client = ChatTogether(model=model, api_key=api_key)
+    #     elif provider == "google":
+    #         client = ChatGoogleGenerativeAI(model=model, google_api_key=api_key)
+    #     elif provider == "openai":
+    #         client = ChatOpenAI(model=model, api_key=api_key)
+    #     elif provider == "openrouter":
+    #         client = ChatOpenAI(
+    #             model=model,
+    #             api_key=api_key,
+    #             openai_api_base="https://openrouter.ai/api/v1"
+    #         )
+    #     else:
+    #         raise ValueError(f"Unsupported provider: {provider}")
+    #     return client
+    
+    # def _get_client(self, provider, model, api_key, max_retries=0, retry_delay=1.0, temperature=0.7, max_tokens=None):
+    #     client = None
+    #     base_config = {
+    #         "model": model,
+    #         "api_key": api_key,
+    #         "max_retries": max_retries,
+    #         # "retry_delay": retry_delay,  # in seconds
+    #         # "temperature": temperature,
+    #         # "max_tokens": max_tokens,
+    #     }
+        
+    #     if provider == "together":
+    #         client = ChatTogether(**base_config)
+    #     elif provider == "google":
+    #         client = ChatGoogleGenerativeAI(
+    #             **base_config,
+    #             google_api_key=api_key  # Google might need this named differently
+    #         )
+    #     elif provider == "openai":
+    #         client = ChatOpenAI(**base_config)
+    #     elif provider == "openrouter":
+    #         client = ChatOpenAI(
+    #             **base_config,
+    #             openai_api_base="https://openrouter.ai/api/v1"
+    #         )
+    #     else:
+    #         raise ValueError(f"Unsupported provider: {provider}")
+        
+    #     return client
+
+    def _get_client(self, provider, model, api_key, max_retries=0, retry_delay=1.0, temperature=0.7, max_tokens=None):
         client = None
+        base_config = {
+            "model": model,
+            "api_key": api_key,
+            "max_retries": max_retries,
+            # "retry_delay": retry_delay,  # in seconds
+            # "temperature": temperature,
+            # "max_tokens": max_tokens,
+        }
+        
         if provider == "together":
-            client = ChatTogether(model=model, api_key=api_key)
+            client = ChatTogether(**base_config)
         elif provider == "google":
-            client = ChatGoogleGenerativeAI(model=model, google_api_key=api_key)
+            client = ChatGoogleGenerativeAI(
+                **base_config,
+                google_api_key=api_key  # Google might need this named differently
+            )
         elif provider == "openai":
-            client = ChatOpenAI(model=model, api_key=api_key)
+            client = ChatOpenAI(**base_config)
         elif provider == "openrouter":
             client = ChatOpenAI(
-                model=model,
-                api_key=api_key,
+                **base_config,
                 openai_api_base="https://openrouter.ai/api/v1"
             )
+        elif provider == "anthropic":
+            client = ChatAnthropic(**base_config)
         else:
             raise ValueError(f"Unsupported provider: {provider}")
+        
         return client
 
     def set_model(self, model: str) -> None:
@@ -271,6 +338,9 @@ class LLMClient:
         self.client = self._get_client(self.provider, model, key)
 
     def _get_api_key(self, provider: str, used_keys: set) -> str:
+        # for now ignore this bookkeeping
+        used_keys = {}
+
         """Retrieve a random available API key that hasn't been used yet."""
         available_keys = [key for key in self.api_keys.get(provider.lower(), []) if key not in used_keys]
         if not available_keys:
@@ -315,7 +385,8 @@ class LLMClient:
 
         available_keys = self.api_keys.get(active_provider.lower(), [])
         if not available_keys:
-            return f"Error: No valid API key provided for {active_provider}."
+            error_message = f"Error: No valid API key provided for {active_provider}."
+            raise Exception(error_message)
         
         retries = 0
         used_keys = set()
@@ -325,11 +396,12 @@ class LLMClient:
         while retries < self.max_retries:
             api_key = self._get_api_key(active_provider, used_keys)
 
-            # print(f"\n\ntotal = {len(available_keys)} using api key \n\n", api_key)
+            # print(f"\nusing api key = {api_key} \n\n")
 
             if not api_key:
-                return f"Error: All API keys for {active_provider} have been tried and failed."
-
+                error_message = f"Error: All API keys for {active_provider} have been tried and failed."
+                raise Exception(error_message)
+            
             used_keys.add(api_key)
             retries += 1
 
@@ -339,8 +411,17 @@ class LLMClient:
                 # Convert messages to LangChain format if needed
                 langchain_messages = self._convert_to_langchain_messages(messages)
                 
+                import time
+                # Record start time
+                start_time = time.perf_counter()
+
                 # Get response
                 response = temp_client.invoke(langchain_messages)
+
+                end_time = time.perf_counter()
+                inference_time = end_time - start_time
+
+
                 message = response.content
 
                 input_tokens = response.usage_metadata['input_tokens']
@@ -371,7 +452,8 @@ class LLMClient:
                     "total_tokens": input_tokens + output_tokens,
                     "total_cost": total_cost,
                     "provider": active_provider,
-                    "model": active_model
+                    "model": active_model,
+                    "inference_time": inference_time
                 }
 
             except Exception as e:
@@ -379,7 +461,7 @@ class LLMClient:
                     error_message = f"Error: Max retries ({self.max_retries}) reached for {active_provider}. Last error: {str(e)}"
                     raise Exception(error_message)
                 
-                time.sleep(20)
+                time.sleep(60)
                 
                 continue
 

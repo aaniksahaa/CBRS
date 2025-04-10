@@ -43,22 +43,13 @@ def predict_messages(messages):
 
         print(f'message: {messages[i]}, prediction: {y_pred[i]}')
 
-messages = ["someone needed at uttara, my bag has been stolen by someone, I need to contact to the police",
-
+messages = [
+"someone needed at uttara, my bag has been stolen by someone, I need to contact to the police",
 "জরুরি ভিত্তিতে রক্ত প্রয়োজন, যোগাযোগ - 01552375331",
 "Please help me. One of my relatives need 2 bags O+ve blood for uterus operation at birdem hospital",
 "Keu ektu shahajjo koren, amar fupir jonno birdem hospital e A-ve rokto proyojon",
-"আমি তোমাকে ভালোবাসি bag Emergency",
-"Emergency",
-"ব্যাগ"]
+]
+
 
 predict_messages(messages)
-
-# messages_vector = tfidf.transform(messages)
-
-# # print(f'after vectorization: {messages_vector}')
-
-# y_pred = model.predict(messages_vector)
-
-# print(f'predicted: {y_pred}')
 

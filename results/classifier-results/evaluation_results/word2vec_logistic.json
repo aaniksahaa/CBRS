@@ -1,0 +1,33 @@
+{
+    "vectorizer": "word2vec",
+    "model": "logistic",
+    "embedding_model": "N/A",
+    "accuracy": 0.8257839721254355,
+    "metrics": {
+        "0": {
+            "precision": 0.9780405405405406,
+            "recall": 0.7761394101876675,
+            "f1-score": 0.8654708520179372,
+            "support": 3730
+        },
+        "1": {
+            "precision": 0.6214868540344515,
+            "recall": 0.9547353760445683,
+            "f1-score": 0.7528830313014826,
+            "support": 1436
+        },
+        "accuracy": 0.8257839721254355,
+        "macro avg": {
+            "precision": 0.799763697287496,
+            "recall": 0.8654373931161179,
+            "f1-score": 0.8091769416597099,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.8789288305477524,
+            "recall": 0.8257839721254355,
+            "f1-score": 0.8341746633712418,
+            "support": 5166
+        }
+    }
+}

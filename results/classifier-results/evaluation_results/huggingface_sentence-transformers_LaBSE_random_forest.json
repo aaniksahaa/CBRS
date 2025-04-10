@@ -1,0 +1,33 @@
+{
+    "vectorizer": "huggingface",
+    "model": "random_forest",
+    "embedding_model": "sentence-transformers/LaBSE",
+    "accuracy": 0.981029810298103,
+    "metrics": {
+        "0": {
+            "precision": 0.9915540540540541,
+            "recall": 0.9757313829787234,
+            "f1-score": 0.9835790884718499,
+            "support": 3008
+        },
+        "1": {
+            "precision": 0.9669084315503174,
+            "recall": 0.9884151992585728,
+            "f1-score": 0.9775435380384968,
+            "support": 2158
+        },
+        "accuracy": 0.981029810298103,
+        "macro avg": {
+            "precision": 0.9792312428021857,
+            "recall": 0.982073291118648,
+            "f1-score": 0.9805613132551734,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.981258805629148,
+            "recall": 0.981029810298103,
+            "f1-score": 0.9810578500213706,
+            "support": 5166
+        }
+    }
+}

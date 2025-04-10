@@ -1,0 +1,33 @@
+{
+    "vectorizer": "tfidf",
+    "model": "random_forest",
+    "embedding_model": "N/A",
+    "accuracy": 0.9814169570267132,
+    "metrics": {
+        "0": {
+            "precision": 0.9878378378378379,
+            "recall": 0.9798927613941019,
+            "f1-score": 0.983849259757739,
+            "support": 2984
+        },
+        "1": {
+            "precision": 0.9728014505893019,
+            "recall": 0.9835013748854262,
+            "f1-score": 0.9781221513217867,
+            "support": 2182
+        },
+        "accuracy": 0.9814169570267132,
+        "macro avg": {
+            "precision": 0.9803196442135699,
+            "recall": 0.9816970681397641,
+            "f1-score": 0.9809857055397628,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.9814868124843137,
+            "recall": 0.9814169570267132,
+            "f1-score": 0.9814302604144853,
+            "support": 5166
+        }
+    }
+}

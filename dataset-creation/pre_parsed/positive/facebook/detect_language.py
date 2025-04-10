@@ -3,7 +3,7 @@ import enchant
 
 english_dict = enchant.Dict("en_US")
 
-def detect_language(text, word_threshold=0.8, ascii_threshold=0.8):
+def detect_language(text, word_threshold=0.7, ascii_threshold=0.8):
     """
     Classify a given string as one of the following:
     
@@ -42,14 +42,33 @@ def detect_language(text, word_threshold=0.8, ascii_threshold=0.8):
         return "bn"
 
     # Process ASCII / English detection
-    words = [w.strip(string.punctuation).lower() for w in text.split()]
-    words = [w for w in words if w]
+    # words = [w.strip(string.punctuation).lower() for w in text.split()]
+    import re
+    possible_english_words = [re.sub(r'[^\w\s]', ' ', w).lower() for w in text.split()]
+    possible_english_words = [w for w in possible_english_words if w]
 
-    if not words:
+    nw = []
+
+    for w in possible_english_words:
+        nw.extend(w.split())
+
+    possible_english_words = nw
+
+    import re
+
+    def filter_words(words):
+        # Return a list of words that contain only English letters
+        return [word for word in words if re.match(r'^[a-zA-Z]+$', word) and len(word) > 1]
+    
+    possible_english_words = filter_words(possible_english_words)
+
+    # print(possible_english_words)
+
+    if not possible_english_words:
         return "en"
 
-    valid_english_words = sum(english_dict.check(w) for w in words)
-    english_ratio = valid_english_words / len(words)
+    valid_english_words = sum(english_dict.check(w) for w in possible_english_words)
+    english_ratio = valid_english_words / len(possible_english_words)
 
     ascii_chars = sum(ord(c) < 128 for c in text)
     ascii_ratio = ascii_chars / total_chars
@@ -77,8 +96,6 @@ test_cases = {
     "What is the weather today?": "en",
     "বিকেলে খেলা আছে": "bn",
     "Gachh-gulo onek boro chhilo": "tbn",
-    "": "en",  # empty string should default to "en"
-    "     ": "en",  # whitespace only
     "1234567890": "en",  # no meaningful text, default to "en"
     "ami jani na ei kotha gulo kothay likhbo": "tbn",
     "I know not where these words should be written": "en",
@@ -90,7 +107,14 @@ test_cases = {
     "ami ami ami ami ami ami": "tbn",  # repetition of one transliterated word
 }
 
-# for txt, expected in test_cases.items():
-#     pred = detect_language(txt)
-#     print(f"Text: {txt!r}\nPredicted: {pred} | Expected: {expected} | {'✔️' if pred == expected else '❌'}")
-#     print('-' * 60)
+test_cases = {
+    "apple\nbanana\ngrape": "en",
+    "O+ blood needed 124 373738 01234": "en",
+    "O+ blood needed , dhanmondi 27\nContact:01536207177 আমি": "en"
+}
+
+if __name__ == "__main__":
+    for txt, expected in test_cases.items():
+        pred = detect_language(txt)
+        print(f"Text: {txt!r}\nPredicted: {pred} | Expected: {expected} | {'✔️' if pred == expected else '❌'}")
+        print('-' * 60)

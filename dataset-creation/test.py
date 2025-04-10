@@ -9,6 +9,7 @@ model = "meta-llama/llama-3.2-3b-instruct:free"
 model = "mistralai/Mistral-7B-Instruct-v0.3"
 model = "claude-3-haiku-20240307"
 model = "claude-3-5-haiku-20241022"
+model = "mistralai/Mistral-Small-24B-Instruct-2501"
 
 client.set_model(model)
 

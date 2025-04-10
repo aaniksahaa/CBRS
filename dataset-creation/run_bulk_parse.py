@@ -112,7 +112,8 @@ MODEL_NAMES = [
     "google/gemma-2-27b-it",
     # "google/gemma-2-9b-it",
     "Qwen/Qwen2.5-7B-Instruct-Turbo",
-    "mistralai/Mistral-7B-Instruct-v0.3"
+    "mistralai/Mistral-7B-Instruct-v0.3",
+    "mistralai/mistral-small-3.1-24b-instruct:free"
 ]
 
 METHODS = [
@@ -120,7 +121,7 @@ METHODS = [
     "zero_shot"
 ]
 
-NUM_WORKERS = 5
+NUM_WORKERS = 15
 
 def run_bulk_parsing(json_files):
     for model_name in MODEL_NAMES:

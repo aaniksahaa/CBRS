@@ -243,29 +243,29 @@ def main():
     results = evaluate_models(data, fields_to_include)
 
     # Ensure all expected models and methods are present, even if no data
-    expected_models = [
-        "deepseek-v3",
-        "gemini-2.0-flash",
-        "gemma-2-27b-it",
-        "meta-llama-3.1-8b-instruct",
-        "meta-llama-3.3-70b-instruct",
-        "qwen-2.5-7b-instruct"
-    ]
-    expected_methods = ["zero_shot", "few_shot"]
-    expected_languages = ["bn", "en", "tbn", "total"]
+    # expected_models = [
+    #     "deepseek-v3",
+    #     "gemini-2.0-flash",
+    #     "gemma-2-27b-it",
+    #     "meta-llama-3.1-8b-instruct",
+    #     "meta-llama-3.3-70b-instruct",
+    #     "qwen-2.5-7b-instruct"
+    # ]
+    # expected_methods = ["zero_shot", "few_shot"]
+    # expected_languages = ["bn", "en", "tbn", "total"]
     
-    for model in expected_models:
-        if model not in results:
-            results[model] = {}
-        for method in expected_methods:
-            if method not in results[model]:
-                results[model][method] = {}
-            for lang in expected_languages:
-                if lang not in results[model][method]:
-                    results[model][method][lang] = {
-                        "macro_f1_score": 0.0,
-                        "avg_cost": 0.0
-                    }
+    # for model in expected_models:
+    #     if model not in results:
+    #         results[model] = {}
+    #     for method in expected_methods:
+    #         if method not in results[model]:
+    #             results[model][method] = {}
+    #         for lang in expected_languages:
+    #             if lang not in results[model][method]:
+    #                 results[model][method][lang] = {
+    #                     "macro_f1_score": 0.0,
+    #                     "avg_cost": 0.0
+    #                 }
 
     # Save results to JSON file
     output_path = os.path.join(base_dir, "evaluation_results_with_cost_and_lang.json")

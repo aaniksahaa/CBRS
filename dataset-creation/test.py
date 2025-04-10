@@ -3,8 +3,11 @@ from util import *
 
 client = LLMClient()
 
-client.set_model("deepseek/deepseek-chat:free")
-# client.set_model("meta-llama/llama-3.1-8b-instruct:free")
+model = "meta-llama/llama-3.2-3b-instruct:free"
+# model = "deepseek/deepseek-chat:free"
+# model = "meta-llama/llama-3.1-8b-instruct:free"
+
+client.set_model(model)
 
 test_messages = [
     "hello, how you doing?",
@@ -14,4 +17,4 @@ test_messages = [
 for i, m in enumerate(test_messages):
     response = client.get_response(m)
     print(response)
-    write_json(f"out_{i+1}.json", response)
+    write_json(f"out/out_{i+1}.json", response)

@@ -49,6 +49,7 @@ MODEL_COST_PER_MILLION = {
     "Qwen/Qwen2.5-7B-Instruct-Turbo": {"input": 0.3, "output": 0.3},
     "mistralai/Mistral-7B-Instruct-v0.3": {"input": 0.2, "output": 0.2},
     "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": {"input": 0.18, "output": 0.18},
+    "meta-llama/Llama-3.2-3B-Instruct-Turbo": {"input": 0.06, "output": 0.06},
     "google/gemma-2-9b-it": {"input": 0.3, "output": 0.3},
     "google/gemma-2-27b-it": {"input": 0.8, "output": 0.8},
     "gemini-2.0-flash": {"input": 0.1, "output": 0.4},
@@ -68,7 +69,7 @@ MODEL_COST_PER_MILLION = {
     "meta-llama/llama-3.3-70b-instruct:free": {"input": 0.88, "output": 0.88},
     "qwen/qwen-2.5-7b-instruct:free": {"input": 0.3, "output": 0.3},
     "meta-llama/llama-3.2-1b-instruct:free": {"input": 0, "output": 0},
-    "meta-llama/llama-3.2-3b-instruct:free": {"input": 0, "output": 0},
+    "meta-llama/llama-3.2-3b-instruct:free": {"input": 0.06, "output": 0.06},
     "qwen/qwen-2.5-72b-instruct:free": {"input": 1.2, "output": 1.2},
     "meta-llama/llama-3.1-8b-instruct:free": {"input": 0.18, "output": 0.18},
     "google/gemma-2-9b-it:free": {"input": 0.3, "output": 0.3},
@@ -82,6 +83,7 @@ MODEL_TO_PROVIDER_MAP = {
     "Qwen/Qwen2.5-7B-Instruct-Turbo": "together",
     "mistralai/Mistral-7B-Instruct-v0.3": "together",
     "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": "together",
+    "meta-llama/Llama-3.2-3B-Instruct-Turbo": "together",
     "google/gemma-2-9b-it": "together",
     "google/gemma-2-27b-it": "together",
     "gemini-2.0-flash": "google",
@@ -110,7 +112,7 @@ MODEL_TO_PROVIDER_MAP = {
     "qwen/qwen-2.5-72b-instruct:free": "openrouter",
     "meta-llama/llama-3.1-8b-instruct:free": "openrouter",
     "google/gemma-2-9b-it:free": "openrouter",
-    "mistralai/mistral-7b-instruct:free": "openrouter"
+    "mistralai/mistral-7b-instruct:free": "openrouter",
 }
 
 
@@ -121,6 +123,7 @@ MODEL_TO_CORE_MAP = {
     "Qwen/Qwen2.5-7B-Instruct-Turbo": "qwen-2.5-7b-instruct",
     "mistralai/Mistral-7B-Instruct-v0.3": "mistral-7b-instruct",
     "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo": "meta-llama-3.1-8b-instruct",
+    "meta-llama/Llama-3.2-3B-Instruct-Turbo": "meta-llama-3.2-3b-instruct",
     "google/gemma-2-9b-it": "gemma-2-9b-it",
     "google/gemma-2-27b-it": "gemma-2-27b-it",
     "gemini-2.0-flash": "gemini-2.0-flash",

@@ -1,0 +1,34 @@
+{
+    "vectorizer": "count",
+    "model": "naive_bayes",
+    "embedding_model": "N/A",
+    "accuracy": 0.9643825009678668,
+    "avg_inference_time_seconds": 1.8232752613262857e-07,
+    "metrics": {
+        "0": {
+            "precision": 0.9672297297297298,
+            "recall": 0.9705084745762712,
+            "f1-score": 0.9688663282571912,
+            "support": 2950
+        },
+        "1": {
+            "precision": 0.9605621033544878,
+            "recall": 0.9562274368231047,
+            "f1-score": 0.9583898688376301,
+            "support": 2216
+        },
+        "accuracy": 0.9643825009678668,
+        "macro avg": {
+            "precision": 0.9638959165421088,
+            "recall": 0.9633679556996879,
+            "f1-score": 0.9636280985474106,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.964369594219173,
+            "recall": 0.9643825009678668,
+            "f1-score": 0.9643723611503877,
+            "support": 5166
+        }
+    }
+}

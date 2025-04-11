@@ -1,14 +1,14 @@
 {
     "positive": {
-        "facebook": {
-            "total_samples": 6321,
-            "total_tokens": 1747772,
-            "avg_tokens": 276.5
-        },
         "ebdr-twitter": {
             "total_samples": 3941,
             "total_tokens": 169290,
             "avg_tokens": 42.96
+        },
+        "facebook": {
+            "total_samples": 6176,
+            "total_tokens": 1584133,
+            "avg_tokens": 256.5
         },
         "telegram": {
             "total_samples": 744,
@@ -32,15 +32,15 @@
             "total_tokens": 26211,
             "avg_tokens": 43.69
         },
-        "facebook": {
-            "total_samples": 250,
-            "total_tokens": 92262,
-            "avg_tokens": 369.05
-        },
         "ebdr-twitter": {
             "total_samples": 5851,
             "total_tokens": 222568,
             "avg_tokens": 38.04
+        },
+        "facebook": {
+            "total_samples": 324,
+            "total_tokens": 113837,
+            "avg_tokens": 351.35
         }
     }
 }

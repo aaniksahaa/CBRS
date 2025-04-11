@@ -1,0 +1,34 @@
+{
+    "vectorizer": "tfidf",
+    "model": "logistic",
+    "embedding_model": "N/A",
+    "accuracy": 0.9773519163763066,
+    "avg_inference_time_seconds": 1.259465737521249e-07,
+    "metrics": {
+        "0": {
+            "precision": 0.9837837837837838,
+            "recall": 0.9768534048976854,
+            "f1-score": 0.9803063457330415,
+            "support": 2981
+        },
+        "1": {
+            "precision": 0.9687216681776972,
+            "recall": 0.9780320366132723,
+            "f1-score": 0.9733545889319062,
+            "support": 2185
+        },
+        "accuracy": 0.9773519163763066,
+        "macro avg": {
+            "precision": 0.9762527259807405,
+            "recall": 0.9774427207554788,
+            "f1-score": 0.9768304673324739,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.9774131444885266,
+            "recall": 0.9773519163763066,
+            "f1-score": 0.9773660459633008,
+            "support": 5166
+        }
+    }
+}

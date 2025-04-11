@@ -1,0 +1,34 @@
+{
+    "vectorizer": "count",
+    "model": "random_forest",
+    "embedding_model": "N/A",
+    "accuracy": 0.9823848238482384,
+    "avg_inference_time_seconds": 3.2688761711154054e-05,
+    "metrics": {
+        "0": {
+            "precision": 0.9885135135135135,
+            "recall": 0.9808917197452229,
+            "f1-score": 0.9846878680800942,
+            "support": 2983
+        },
+        "1": {
+            "precision": 0.9741613780598368,
+            "recall": 0.9844251030691709,
+            "f1-score": 0.9792663476874003,
+            "support": 2183
+        },
+        "accuracy": 0.9823848238482384,
+        "macro avg": {
+            "precision": 0.9813374457866751,
+            "recall": 0.9826584114071969,
+            "f1-score": 0.9819771078837473,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.9824487222445671,
+            "recall": 0.9823848238482384,
+            "f1-score": 0.9823968926605722,
+            "support": 5166
+        }
+    }
+}

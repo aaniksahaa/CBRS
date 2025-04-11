@@ -1,0 +1,34 @@
+{
+    "vectorizer": "huggingface",
+    "model": "logistic",
+    "embedding_model": "jinaai/jina-embeddings-v2-small-en",
+    "accuracy": 0.9688346883468835,
+    "avg_inference_time_seconds": 1.926001161415771e-06,
+    "metrics": {
+        "0": {
+            "precision": 0.9783783783783784,
+            "recall": 0.9675910457734714,
+            "f1-score": 0.9729548126994793,
+            "support": 2993
+        },
+        "1": {
+            "precision": 0.956029011786038,
+            "recall": 0.970547630004602,
+            "f1-score": 0.9632336149805892,
+            "support": 2173
+        },
+        "accuracy": 0.9688346883468835,
+        "macro avg": {
+            "precision": 0.9672036950822083,
+            "recall": 0.9690693378890367,
+            "f1-score": 0.9680942138400342,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.9689774543355685,
+            "recall": 0.9688346883468835,
+            "f1-score": 0.9688657374685177,
+            "support": 5166
+        }
+    }
+}

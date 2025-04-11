@@ -1,0 +1,34 @@
+{
+    "vectorizer": "tfidf",
+    "model": "svm",
+    "embedding_model": "N/A",
+    "accuracy": 0.980836236933798,
+    "avg_inference_time_seconds": 0.00023558513782427254,
+    "metrics": {
+        "0": {
+            "precision": 0.9858108108108108,
+            "recall": 0.9808403361344538,
+            "f1-score": 0.9833192923336141,
+            "support": 2975
+        },
+        "1": {
+            "precision": 0.9741613780598368,
+            "recall": 0.9808306709265175,
+            "f1-score": 0.9774846486240618,
+            "support": 2191
+        },
+        "accuracy": 0.980836236933798,
+        "macro avg": {
+            "precision": 0.9799860944353238,
+            "recall": 0.9808355035304857,
+            "f1-score": 0.980401970478838,
+            "support": 5166
+        },
+        "weighted avg": {
+            "precision": 0.9808700622321456,
+            "recall": 0.980836236933798,
+            "f1-score": 0.9808447076708907,
+            "support": 5166
+        }
+    }
+}

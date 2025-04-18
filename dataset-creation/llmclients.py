@@ -244,54 +244,6 @@ class LLMClient:
             return data
         except json.JSONDecodeError as e:
             raise ValueError(f"Failed to parse JSON: {e}")
-    
-    # def _get_client(self, provider, model, api_key):
-    #     client = None
-    #     if provider == "together":
-    #         client = ChatTogether(model=model, api_key=api_key)
-    #     elif provider == "google":
-    #         client = ChatGoogleGenerativeAI(model=model, google_api_key=api_key)
-    #     elif provider == "openai":
-    #         client = ChatOpenAI(model=model, api_key=api_key)
-    #     elif provider == "openrouter":
-    #         client = ChatOpenAI(
-    #             model=model,
-    #             api_key=api_key,
-    #             openai_api_base="https://openrouter.ai/api/v1"
-    #         )
-    #     else:
-    #         raise ValueError(f"Unsupported provider: {provider}")
-    #     return client
-    
-    # def _get_client(self, provider, model, api_key, max_retries=0, retry_delay=1.0, temperature=0.7, max_tokens=None):
-    #     client = None
-    #     base_config = {
-    #         "model": model,
-    #         "api_key": api_key,
-    #         "max_retries": max_retries,
-    #         # "retry_delay": retry_delay,  # in seconds
-    #         # "temperature": temperature,
-    #         # "max_tokens": max_tokens,
-    #     }
-        
-    #     if provider == "together":
-    #         client = ChatTogether(**base_config)
-    #     elif provider == "google":
-    #         client = ChatGoogleGenerativeAI(
-    #             **base_config,
-    #             google_api_key=api_key  # Google might need this named differently
-    #         )
-    #     elif provider == "openai":
-    #         client = ChatOpenAI(**base_config)
-    #     elif provider == "openrouter":
-    #         client = ChatOpenAI(
-    #             **base_config,
-    #             openai_api_base="https://openrouter.ai/api/v1"
-    #         )
-    #     else:
-    #         raise ValueError(f"Unsupported provider: {provider}")
-        
-    #     return client
 
     def _get_client(self, provider, model, api_key, max_retries=0, retry_delay=1.0, temperature=0.7, max_tokens=None):
         client = None

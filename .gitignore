@@ -26,3 +26,8 @@ scrapers/
 survey processing/
 tg-bot-test/
 
+**/node_modules/
+
+dataset-creation/parsed/single
+
+

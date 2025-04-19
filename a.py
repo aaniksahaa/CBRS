@@ -12,3 +12,5 @@ language_counts = Counter(item["metadata"]["language"] for item in data)
 print("Language Distribution:")
 for language, count in language_counts.items():
     print(f"{language}: {count}")
+
+# hello

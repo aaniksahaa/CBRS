@@ -251,7 +251,8 @@ def main():
         "compensation.",  # All compensation subfields
         "blood_group",
         "bags_needed",
-        "location",
+        "hospital_name",
+        # "location",
         "probable_day",
         "probable_time"
     ]
@@ -263,7 +264,7 @@ def main():
     results = evaluate_models(data, fields_to_include)
     
     # Save results to JSON file
-    output_path = os.path.join(base_dir, "parser_evaluation_results_with_cost_tokens_time.json")  # Updated filename for clarity
+    output_path = os.path.join(base_dir, "2-parser_evaluation_results_with_cost_tokens_time.json")  # Updated filename for clarity
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
 

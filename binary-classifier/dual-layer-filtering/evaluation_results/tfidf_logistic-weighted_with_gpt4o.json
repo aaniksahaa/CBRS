@@ -1,0 +1,33 @@
+{
+    "vectorizer": "tfidf",
+    "model": "logistic-weighted",
+    "accuracy": 0.75,
+    "avg_inference_time_seconds": 0.054164783299711416,
+    "metrics": {
+        "0": {
+            "precision": 1.0,
+            "recall": 0.7368421052631579,
+            "f1-score": 0.8484848484848485,
+            "support": 19.0
+        },
+        "1": {
+            "precision": 0.16666666666666666,
+            "recall": 1.0,
+            "f1-score": 0.2857142857142857,
+            "support": 1.0
+        },
+        "accuracy": 0.75,
+        "macro avg": {
+            "precision": 0.5833333333333334,
+            "recall": 0.868421052631579,
+            "f1-score": 0.5670995670995671,
+            "support": 20.0
+        },
+        "weighted avg": {
+            "precision": 0.9583333333333334,
+            "recall": 0.75,
+            "f1-score": 0.8203463203463203,
+            "support": 20.0
+        }
+    }
+}

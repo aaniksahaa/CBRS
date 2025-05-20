@@ -1,6 +1,7 @@
 from samples import *
 import json 
 from util import *
+from llmclient import *
 
 bn_words = [
     'অপারেশন', 'আগামীকাল', 'আজ', 'এগিয়ে',
@@ -90,17 +91,23 @@ model = 'gpt-4o'
 # Generate the prompt
 prompt = build_adversarial_prompt(num_examples=50)
 
-res = get_response(
-    prompt=prompt,
-    provider=provider,
-    model=model
+client = LLMClient()
+
+model = "gemini-2.0-flash"
+model = "gpt-4o-mini"
+model = "deepseek-ai/DeepSeek-V3"
+model = "gpt-4o"
+
+model = "deepseek/deepseek-chat:free"
+
+client.set_model(model)
+
+
+res = client.get_response(
+    prompt=prompt
 )
 
-content = res['output_text']
-
-write_txt('content.txt', content)
-
-j = parse_json_from_output(content)
+j = res.get('parsed_json', [])
 
 out_path = f'raw/out_{run_id}.json'
 

@@ -169,6 +169,14 @@ if __name__ == "__main__":
     print("Macro F1 for All fields:", result_all)
 
     # Compute macro F1 for specific fields only
-    fields = ["compensation.", "blood_group", "bags_needed", "location", "probable_day", "probable_time"]
+    fields = [
+        "compensation.", 
+        "blood_group", 
+        "bags_needed", 
+        "hospital_name",
+        # "location", 
+        "probable_day", 
+        "probable_time"
+        ]
     result_filtered = compute_macro_f1(samples, flexible=True, fields_to_include=fields)
     print("Macro F1 for Filtered fields:", result_filtered)

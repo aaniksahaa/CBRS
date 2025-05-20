@@ -23,6 +23,9 @@ def sample_data(dataset_file, output_folder, N, ratio_en, ratio_bn, ratio_tbn):
     with open(dataset_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    if N == -1:
+        N = len(data)
+
     # Step 2: Filter true blood donation requests and group by language
     language_groups = defaultdict(list)
     for entry in data:
@@ -76,7 +79,7 @@ def sample_data(dataset_file, output_folder, N, ratio_en, ratio_bn, ratio_tbn):
 # Example usage
 dataset_file = "./pre_parsed_merged.json"  # Path to your JSON dataset
 output_folder = "loaded"  # Folder to save the sampled messages
-N = 750  # Total number of messages to sample
+N = -1  # Total number of messages to sample
 ratio_en = 4  # Ratio for English messages
 ratio_bn = 4  # Ratio for Bangla messages
 ratio_tbn = 3  # Ratio for transliterated Bangla messages

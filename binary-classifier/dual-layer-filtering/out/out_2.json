@@ -1,0 +1,12 @@
+{
+  "input_text": "তুমি কেমন আছ?",
+  "output_text": "আমি ভালো আছি, ধন্যবাদ! আপনি কেমন আছেন?",
+  "parsed_json": null,
+  "input_tokens": 24,
+  "output_tokens": 15,
+  "total_tokens": 39,
+  "total_cost": 1.26e-05,
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "inference_time": 1.556053744003293
+}

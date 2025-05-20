@@ -1,4 +1,4 @@
-This codebase accompanies CBRS(Congnitive Blood Request System).
+This codebase accompanies CBRS(Cognitive Blood Request System).
 
 # Datasets
 

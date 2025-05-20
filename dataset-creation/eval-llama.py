@@ -219,7 +219,8 @@ def main(file_path: str):
         "compensation.",
         "blood_group",
         "bags_needed",
-        "hospital_name",
+        # "hospital_name",
+        "location",
         "probable_day",
         "probable_time"
     ]
@@ -242,5 +243,5 @@ def main(file_path: str):
     print(f"Average Total Tokens: {avg_total_tokens:.2f}")
 
 if __name__ == "__main__":
-    file_path = "llama-out.json"
+    file_path = "llama-out-2.json"
     main(file_path)

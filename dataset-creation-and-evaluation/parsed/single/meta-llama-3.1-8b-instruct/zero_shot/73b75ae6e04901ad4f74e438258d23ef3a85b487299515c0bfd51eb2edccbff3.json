@@ -1,0 +1,49 @@
+{
+    "blood_donation_request_text": "আমার ছোট ভাইয়ের অপারেশন এর জন্য জরুরী রক্ত প্রয়োজন। রক্ত জোগাড় না হওয়ায় অপারেশন করা সম্ভব হচ্ছে না।। \nরক্তের গ্রুপ: A- ( নেগেটিভ) \nরক্তের পরিমাণ : ৫ ব্যাগ\nস্থান:শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট,এ এইচ এম কামরুজ্জামান সরণি, চানখারপুল, ঢাকা।\nমোবাইল: 01518379842",
+    "parsed_json": {
+        "is_blood_donation_request": "true",
+        "blood_group": "A-",
+        "bags_needed": "5",
+        "patient": {
+            "name": "",
+            "gender": "",
+            "age_group": ""
+        },
+        "condition": "",
+        "location": "শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট, এ এইচ এম কামরুজ্জামান সরণি, চানখারপুল, ঢাকা",
+        "hospital_name": "শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট",
+        "location_markers": [
+            "ঢাকা",
+            "চানখারপুল"
+        ],
+        "probable_day": "today",
+        "probable_time": "",
+        "contacts": [
+            {
+                "name": "",
+                "contact_numbers": [
+                    "01518379842"
+                ],
+                "relation_with_patient": ""
+            }
+        ],
+        "compensation": {
+            "transportation": "",
+            "allowance": ""
+        }
+    },
+    "is_blood_donation_request": true,
+    "input_text": "\nYou will be provided with a message, typically sent by an individual or organization, which may pertain to a request for blood donation.  \nYour task is to determine whether the message is a blood donation request, and if yes, then to extract the necessary information.\n\n- If the message is **not** a blood donation request, respond with:  \n  `\"{\"is_blood_donation_request\": \"false\"}\"`\n  In this case, you do not need to include any other fields in the json.\n\n- If the message is a blood donation request, extract the relevant information and present it in a **well-structured, valid JSON object** that conforms exactly to the schema defined below.\n\nCarefully analyze the content to ensure that all fields are correctly inferred and appropriately formatted.\n\nblood_group: must be one of the 8 groups A+ , A- , B+ , B- , O+ , O- , AB+ , AB- or \"\"\nbags_needed: a number in English as a string, like \"3\" or hyphen-separated two numbers denoting a range like \"3-4\"\npatient: it has three fields name, gender, age_group\n        name: the name of patient or \"\"\n        gender: \"M\" or \"F\" or \"\"\n        age_group: any of the four :- child / teenager / young / adult or \"\"\ncondition: the patient condition in correct English, as inferred from the message, it may consist of small-letter key words or key phrases separated by comma\nlocation: the stated location exactly as it is stated in the message\nhospital_name: the full name of hospital exactly as it is stated in the message\nlocation_markers: an array of specific location markers, preferably the names of cities or such regions stated in the message\nprobable_day: can be in 5 formats, choose as is appropriate according to the message, opt for the more specific date options(DD/MM or DD/MM/YYYY) if you have choices\n                DD/MM or DD/MM/YYYY or \"today\" or \"tomorrow\" or \"n days later\"\nprobable_time: can be in 6 formats, choose as is appropriate according to the message, opt for the more specific time options(HH:MM) if you have choices\n                HH:MM or before HH:MM or after HH:MM or HH:MM-HH:MM or \"in n hours\"\n               here you are expected to give the times in 24-hour format\ncontacts: an array of the contacts you find, each element will be object with 3 fields\n            name: the name of person\n            contact_numbers: an array of the contact numbers, the numbers should be exact as it is in the message\n            relation_with_patient: the relation as stated in message\ncompensation: will have two fields, they should be either \"Y\" or \"N\" or \"\"\n            transportation: whether any compensation for transportation will be provided\n            allowance: whether any extra money will be provided\n\nNow output the correctly formatted json for the following Text Message:\n\nআমার ছোট ভাইয়ের অপারেশন এর জন্য জরুরী রক্ত প্রয়োজন। রক্ত জোগাড় না হওয়ায় অপারেশন করা সম্ভব হচ্ছে না।। \nরক্তের গ্রুপ: A- ( নেগেটিভ) \nরক্তের পরিমাণ : ৫ ব্যাগ\nস্থান:শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট,এ এইচ এম কামরুজ্জামান সরণি, চানখারপুল, ঢাকা।\nমোবাইল: 01518379842\n\n**Reminders:**\n- Adhering strictly to the JSON schema is **mandatory**.\n- Do **not** include any greetings, explanations, or additional text. Output **only** the correctly formatted JSON.\n- Do **not** fabricate or hallucinate information. If a particular field is missing in the message, set its value to an empty string `\"\"`.\n\nEnsure your output is precise, complete, and formatted in a manner suitable for automated parsing.\n\n",
+    "output_text": "```json\n{\n  \"is_blood_donation_request\": \"true\",\n  \"blood_group\": \"A-\",\n  \"bags_needed\": \"5\",\n  \"patient\": {\n    \"name\": \"\",\n    \"gender\": \"\",\n    \"age_group\": \"\"\n  },\n  \"condition\": \"\",\n  \"location\": \"শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট, এ এইচ এম কামরুজ্জামান সরণি, চানখারপুল, ঢাকা\",\n  \"hospital_name\": \"শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট\",\n  \"location_markers\": [\"ঢাকা\", \"চানখারপুল\"],\n  \"probable_day\": \"today\",\n  \"probable_time\": \"\",\n  \"contacts\": [\n    {\n      \"name\": \"\",\n      \"contact_numbers\": [\"01518379842\"],\n      \"relation_with_patient\": \"\"\n    }\n  ],\n  \"compensation\": {\n    \"transportation\": \"\",\n    \"allowance\": \"\"\n  }\n}\n```",
+    "input_tokens": 1076,
+    "output_tokens": 354,
+    "total_tokens": 1430,
+    "total_cost": 0.00025739999999999997,
+    "provider": "together",
+    "model": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "blood_donation_request_metadata": {
+        "language": "bn",
+        "source": "telegram"
+    },
+    "method": "zero_shot"
+}

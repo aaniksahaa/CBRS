@@ -1,0 +1,48 @@
+{
+    "blood_donation_request_text": "Save life please:\nMrs.Anwara Begum's a Cancer-patient (60years aged)                                   her one kidney's damaged,\n operation'll be done at 10/11am tomorrow.                                  Needs 2bags blood(AB+).                                                                             Kidney & Urology Hospital (Attached to Sohrawardi Hospital),                           2nd floor (Cabin#2).\n Contact person: Mr. Shorif- 01919468339.\n\nExpecting your kind favor please....",
+    "parsed_json": {
+        "is_blood_donation_request": "true",
+        "blood_group": "AB+",
+        "bags_needed": "2",
+        "patient": {
+            "name": "Mrs.Anwara Begum",
+            "gender": "F",
+            "age_group": "adult"
+        },
+        "condition": "Cancer, kidney damaged",
+        "location": "2nd floor (Cabin#2)",
+        "hospital_name": "Kidney & Urology Hospital (Attached to Sohrawardi Hospital)",
+        "location_markers": [
+            "Sohrawardi Hospital"
+        ],
+        "probable_day": "tomorrow",
+        "probable_time": "10:00-11:00",
+        "contacts": [
+            {
+                "name": "Mr. Shorif",
+                "contact_numbers": [
+                    "01919468339"
+                ],
+                "relation_with_patient": ""
+            }
+        ],
+        "compensation": {
+            "transportation": "",
+            "allowance": ""
+        }
+    },
+    "is_blood_donation_request": true,
+    "input_text": "\nYou will be provided with a message, typically sent by an individual or organization, which may pertain to a request for blood donation.  \nYour task is to determine whether the message is a blood donation request, and if yes, then to extract the necessary information.\n\n- If the message is **not** a blood donation request, respond with:  \n  `\"{\"is_blood_donation_request\": \"false\"}\"`\n  In this case, you do not need to include any other fields in the json.\n\n- If the message is a blood donation request, extract the relevant information and present it in a **well-structured, valid JSON object** that conforms exactly to the schema defined below.\n\nCarefully analyze the content to ensure that all fields are correctly inferred and appropriately formatted.\n\nblood_group: must be one of the 8 groups A+ , A- , B+ , B- , O+ , O- , AB+ , AB- or \"\"\nbags_needed: a number in English as a string, like \"3\" or hyphen-separated two numbers denoting a range like \"3-4\"\npatient: it has three fields name, gender, age_group\n        name: the name of patient or \"\"\n        gender: \"M\" or \"F\" or \"\"\n        age_group: any of the four :- child / teenager / young / adult or \"\"\ncondition: the patient condition in correct English, as inferred from the message, it may consist of small-letter key words or key phrases separated by comma\nlocation: the stated location exactly as it is stated in the message\nhospital_name: the full name of hospital exactly as it is stated in the message\nlocation_markers: an array of specific location markers, preferably the names of cities or such regions stated in the message\nprobable_day: can be in 5 formats, choose as is appropriate according to the message, opt for the more specific date options(DD/MM or DD/MM/YYYY) if you have choices\n                DD/MM or DD/MM/YYYY or \"today\" or \"tomorrow\" or \"n days later\"\nprobable_time: can be in 6 formats, choose as is appropriate according to the message, opt for the more specific time options(HH:MM) if you have choices\n                HH:MM or before HH:MM or after HH:MM or HH:MM-HH:MM or \"in n hours\"\n               here you are expected to give the times in 24-hour format\ncontacts: an array of the contacts you find, each element will be object with 3 fields\n            name: the name of person\n            contact_numbers: an array of the contact numbers, the numbers should be exact as it is in the message\n            relation_with_patient: the relation as stated in message\ncompensation: will have two fields, they should be either \"Y\" or \"N\" or \"\"\n            transportation: whether any compensation for transportation will be provided\n            allowance: whether any extra money will be provided\n\nNow output the correctly formatted json for the following Text Message:\n\nSave life please:\nMrs.Anwara Begum's a Cancer-patient (60years aged)                                   her one kidney's damaged,\n operation'll be done at 10/11am tomorrow.                                  Needs 2bags blood(AB+).                                                                             Kidney & Urology Hospital (Attached to Sohrawardi Hospital),                           2nd floor (Cabin#2).\n Contact person: Mr. Shorif- 01919468339.\n\nExpecting your kind favor please....\n\n**Reminders:**\n- Adhering strictly to the JSON schema is **mandatory**.\n- Do **not** include any greetings, explanations, or additional text. Output **only** the correctly formatted JSON.\n- Do **not** fabricate or hallucinate information. If a particular field is missing in the message, set its value to an empty string `\"\"`.\n\nEnsure your output is precise, complete, and formatted in a manner suitable for automated parsing.\n\n",
+    "output_text": "```json\n{\n\"is_blood_donation_request\": \"true\",\n\"blood_group\": \"AB+\",\n\"bags_needed\": \"2\",\n\"patient\": {\n\"name\": \"Mrs.Anwara Begum\",\n\"gender\": \"F\",\n\"age_group\": \"adult\"\n},\n\"condition\": \"Cancer, kidney damaged\",\n\"location\": \"2nd floor (Cabin#2)\",\n\"hospital_name\": \"Kidney & Urology Hospital (Attached to Sohrawardi Hospital)\",\n\"location_markers\": [\n\"Sohrawardi Hospital\"\n],\n\"probable_day\": \"tomorrow\",\n\"probable_time\": \"10:00-11:00\",\n\"contacts\": [\n{\n\"name\": \"Mr. Shorif\",\n\"contact_numbers\": [\n\"01919468339\"\n],\n\"relation_with_patient\": \"\"\n}\n],\n\"compensation\": {\n\"transportation\": \"\",\n\"allowance\": \"\"\n}\n}\n```",
+    "input_tokens": 879,
+    "output_tokens": 233,
+    "total_tokens": 1112,
+    "total_cost": 0.0008896,
+    "provider": "together",
+    "model": "google/gemma-2-27b-it",
+    "blood_donation_request_metadata": {
+        "language": "tbn",
+        "source": "facebook"
+    },
+    "method": "zero_shot"
+}

@@ -1,0 +1,46 @@
+{
+    "lora-finetuned-llama": {
+        "zero_shot": {
+            "bn": {
+                "macro_f1_score": 0.8893116902715951,
+                "tree_edit_distance": 0.9014475645072839,
+                "final_score": 0.8917388651187329,
+                "avg_cost": 0.0,
+                "avg_input_tokens": 105.36474694589877,
+                "avg_output_tokens": 262.06631762652705,
+                "avg_total_tokens": 367.43106457242584,
+                "avg_inference_time": 0.0
+            },
+            "en": {
+                "macro_f1_score": 0.942257217847769,
+                "tree_edit_distance": 0.8969378693157027,
+                "final_score": 0.9331933481413557,
+                "avg_cost": 0.0,
+                "avg_input_tokens": 39.3609022556391,
+                "avg_output_tokens": 112.14285714285714,
+                "avg_total_tokens": 151.50375939849624,
+                "avg_inference_time": 0.0
+            },
+            "tbn": {
+                "macro_f1_score": 0.9601888658447594,
+                "tree_edit_distance": 0.9339079803404902,
+                "final_score": 0.9549326887439056,
+                "avg_cost": 0.0,
+                "avg_input_tokens": 41.84172661870504,
+                "avg_output_tokens": 112.4568345323741,
+                "avg_total_tokens": 154.29856115107913,
+                "avg_inference_time": 0.0
+            },
+            "total": {
+                "macro_f1_score": 0.9170157102794546,
+                "tree_edit_distance": 0.9100087496100797,
+                "final_score": 0.9156143181455796,
+                "avg_cost": 0.0,
+                "avg_input_tokens": 78.4969512195122,
+                "avg_output_tokens": 199.53455284552845,
+                "avg_total_tokens": 278.0315040650407,
+                "avg_inference_time": 0.0
+            }
+        }
+    }
+}

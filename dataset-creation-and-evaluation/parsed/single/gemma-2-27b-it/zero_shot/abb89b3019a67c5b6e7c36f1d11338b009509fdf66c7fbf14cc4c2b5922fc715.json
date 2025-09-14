@@ -1,0 +1,50 @@
+{
+  "blood_donation_request_text": "RT @bld4needy: #Chennai 1 Unit AB-ve #Blood #urgent #need at Ramachandra Hospital Porur by 12 Pm #July_02 Pls Call 7401717666\n#BloodMatters",
+  "parsed_json": {
+    "is_blood_donation_request": "true",
+    "blood_group": "AB-",
+    "bags_needed": "1",
+    "patient": {
+      "name": "",
+      "gender": "",
+      "age_group": ""
+    },
+    "condition": "",
+    "location": "Ramachandra Hospital Porur",
+    "hospital_name": "Ramachandra Hospital",
+    "location_markers": [
+      "Chennai",
+      "Porur"
+    ],
+    "probable_day": "02/07",
+    "probable_time": "12:00",
+    "contacts": [
+      {
+        "name": "",
+        "contact_numbers": [
+          "7401717666"
+        ],
+        "relation_with_patient": ""
+      }
+    ],
+    "compensation": {
+      "transportation": "",
+      "allowance": ""
+    }
+  },
+  "is_blood_donation_request": true,
+  "input_text": "\nYou will be provided with a message, typically sent by an individual or organization, which may pertain to a request for blood donation.  \nYour task is to determine whether the message is a blood donation request, and if yes, then to extract the necessary information.\n\n- If the message is **not** a blood donation request, respond with:  \n  `\"{\"is_blood_donation_request\": \"false\"}\"`\n  In this case, you do not need to include any other fields in the json.\n\n- If the message is a blood donation request, extract the relevant information and present it in a **well-structured, valid JSON object** that conforms exactly to the schema defined below.\n\nCarefully analyze the content to ensure that all fields are correctly inferred and appropriately formatted.\n\nblood_group: must be one of the 8 groups A+ , A- , B+ , B- , O+ , O- , AB+ , AB- or \"\"\nbags_needed: a number in English as a string, like \"3\" or hyphen-separated two numbers denoting a range like \"3-4\"\npatient: it has three fields name, gender, age_group\n        name: the name of patient or \"\"\n        gender: \"M\" or \"F\" or \"\"\n        age_group: any of the four :- child / teenager / young / adult or \"\"\ncondition: the patient condition in correct English, as inferred from the message, it may consist of small-letter key words or key phrases separated by comma\nlocation: the stated location exactly as it is stated in the message\nhospital_name: the full name of hospital exactly as it is stated in the message\nlocation_markers: an array of specific location markers, preferably the names of cities or such regions stated in the message\nprobable_day: can be in 5 formats, choose as is appropriate according to the message, opt for the more specific date options(DD/MM or DD/MM/YYYY) if you have choices\n                DD/MM or DD/MM/YYYY or \"today\" or \"tomorrow\" or \"n days later\"\nprobable_time: can be in 6 formats, choose as is appropriate according to the message, opt for the more specific time options(HH:MM) if you have choices\n                HH:MM or before HH:MM or after HH:MM or HH:MM-HH:MM or \"in n hours\"\n               here you are expected to give the times in 24-hour format\ncontacts: an array of the contacts you find, each element will be object with 3 fields\n            name: the name of person\n            contact_numbers: an array of the contact numbers, the numbers should be exact as it is in the message\n            relation_with_patient: the relation as stated in message\ncompensation: will have two fields, they should be either \"Y\" or \"N\" or \"\"\n            transportation: whether any compensation for transportation will be provided\n            allowance: whether any extra money will be provided\n\nNow output the correctly formatted json for the following Text Message:\n\nRT @bld4needy: #Chennai 1 Unit AB-ve #Blood #urgent #need at Ramachandra Hospital Porur by 12 Pm #July_02 Pls Call 7401717666\n#BloodMatters\n\n**Reminders:**\n- Adhering strictly to the JSON schema is **mandatory**.\n- Do **not** include any greetings, explanations, or additional text. Output **only** the correctly formatted JSON.\n- Do **not** fabricate or hallucinate information. If a particular field is missing in the message, set its value to an empty string `\"\"`.\n\nEnsure your output is precise, complete, and formatted in a manner suitable for automated parsing.\n\n",
+  "output_text": "```json\n{\n\"is_blood_donation_request\": \"true\",\n\"blood_group\": \"AB-\",\n\"bags_needed\": \"1\",\n\"patient\": {\n\"name\": \"\",\n\"gender\": \"\",\n\"age_group\": \"\"\n},\n\"condition\": \"\",\n\"location\": \"Ramachandra Hospital Porur\",\n\"hospital_name\": \"Ramachandra Hospital\",\n\"location_markers\": [\n\"Chennai\",\n\"Porur\"\n],\n\"probable_day\": \"02/07\",\n\"probable_time\": \"12:00\",\n\"contacts\": [\n{\n\"name\": \"\",\n\"contact_numbers\": [\n\"7401717666\"\n],\n\"relation_with_patient\": \"\"\n}\n],\n\"compensation\": {\n\"transportation\": \"\",\n\"allowance\": \"\"\n}\n}\n```",
+  "input_tokens": 819,
+  "output_tokens": 199,
+  "total_tokens": 1018,
+  "total_cost": 0.0008144000000000001,
+  "provider": "together",
+  "model": "google/gemma-2-27b-it",
+  "inference_time": 3.8069774999748915,
+  "blood_donation_request_metadata": {
+    "language": "en",
+    "source": "ebdr-twitter"
+  },
+  "method": "zero_shot"
+}

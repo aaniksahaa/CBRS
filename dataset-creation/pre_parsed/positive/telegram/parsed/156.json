@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিওিতে A+ রক্তের প্রয়োজন \n১. রোগীর সমস্যাঃব্লাড ক্যান্সার(হিমোগ্লোবিন এর পরিমাণ ৬)\n২. রক্তের পরিমাণ ১ ব্যাগ\n৩. তারিখ ৬ জানুয়ারি, ২০২৪\n৪. স্থান: কুর্মিটোলা জেনারেল হাসপাতাল\n৫.যোগাযোগ:01745756467\n৬.ডায়ালাইসিস করা হবে। তারাতারি সম্ভব লাগবে ব্লাড।",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Blood cancer (Hemoglobin level 6), Dialysis needed",
+  "location": "কুর্মিটোলা জেনারেল হাসপাতাল",
+  "hospital_name": "কুর্মিটোলা জেনারেল hospitales",
+  "location_markers": [
+    "কুর্মিটোলা"
+  ],
+  "probable_day": "06/01/2024",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01745756467"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

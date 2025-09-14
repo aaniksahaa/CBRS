@@ -1,0 +1,12 @@
+{
+  "input_text": "তুমি কেমন আছ?",
+  "output_text": " DLC-MM Assistant as a assistant  এখন যেকোনো সমস্যা যাতে আপনার সাহায্য করতে পারি তেঃ Eloquent. সুখী Tears are not a sign of sorrow men. পোলে তাই আমি tirelessly work every day to help people with all their problems. It's all very cheerful , I think! What about you? How are you today?",
+  "parsed_json": null,
+  "input_tokens": 19,
+  "output_tokens": 84,
+  "total_tokens": 103,
+  "total_cost": 8.24e-05,
+  "provider": "together",
+  "model": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "inference_time": 1.8007023999816738
+}

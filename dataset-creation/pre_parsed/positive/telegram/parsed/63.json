@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন!🩸\n💁রোগীর সমস্যাঃ থ্যালাসেমিয়া\n🔴রক্তের গ্রুপঃ AB+\n💉রক্তের পরিমাণঃ (1)  ব্যাগ\n☣️হিমোগ্লোবিন কতঃজানা নেই\n📆রক্তদানের তারিখঃ ০২/০৮/২০২৩\n🕔রক্তদানের সময়ঃ সকালে \n🏥রক্তদানের স্থানঃ রংপুর সদর \n☎যোগাযোগ: 01909340507\nজরুরী রক্তের প্রয়োজন।",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Thalassemia",
+  "location": "রংপুর সদর",
+  "hospital_name": "রংপুর সদর",
+  "location_markers": [
+    "রংপুর"
+  ],
+  "probable_day": "02/08/2023",
+  "probable_time": "before 08:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01909340507"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আসসাামুআলাইকুম ইমার্জেন্সী ব্লাড লাগবে । AB+ blood লাগবে ইমার্জেন্সী। Holy family hospital। বাচ্চা মেয়ে! 01400596982 এটা হলো আমার নম্বর। এই নম্বরে কল বা আমার IDতে একটা নক দেন। একটু ইমার্জেন্সী কেউ থাকলে নক দেন। Please",
+  "blood_group": "AB+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "F",
+    "age_group": "child"
+  },
+  "condition": "",
+  "location": "Holy family hospital",
+  "hospital_name": "Holy family hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01400596982"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

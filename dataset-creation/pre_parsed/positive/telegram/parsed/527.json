@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "নাম: দেলোয়ার \nরক্তের গ্রুপ: B+ve\nহাসপাতালের ঠিকানা: মিরপুর হার্ট ফাউন্ডেশন।\nরক্ত দানের দিন: মঙ্গলবার।\nযোগাযোগ: 8801774317526",
+  "blood_group": "B+",
+  "bags_needed": "",
+  "patient": {
+    "name": "দেলোয়ার",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "মিরপুর হার্ট ফাউন্ডেশন",
+  "hospital_name": "মিরপুর হার্ট ফাউন্ডেশন",
+  "location_markers": [
+    "মিরপুর"
+  ],
+  "probable_day": "Tuesday",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "8801774317526"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

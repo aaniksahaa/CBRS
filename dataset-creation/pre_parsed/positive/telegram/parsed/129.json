@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রাজশাহী\" একজন ভাইয়ের জন্য B+ রক্ত দরকারঃ\nক্যান্সার আক্রান্ত রোগীর জন্য আজ [09-07-2024] তারিখ যত দ্রুত সম্ভব ১ ব্যাগ \"বি পজেটিভ\" রক্ত দরকার। \nস্থানঃ রাজশাহী মেডিকেল হাসপাতাল। রাজশাহী \nফোনঃ- 01721207233 (রোগীর আত্মীয়)",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "রাজশাটিডে মেডেকল হাসপিটাল",
+  "hospital_name": "রাজশাটিডে মেডেকল হাসপিঔ",
+  "location_markers": [
+    "রাজশা঑ডে"
+  ],
+  "probable_day": "09/07/2024",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01721207233"
+      ],
+      "relation_with_patient": "Relative"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

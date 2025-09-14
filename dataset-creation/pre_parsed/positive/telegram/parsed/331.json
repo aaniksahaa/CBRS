@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আমার ছোট ভাইয়ের অপারেশন এর জন্য জরুরী রক্ত প্রয়োজন। রক্ত জোগাড় না হওয়ায় অপারেশন করা সম্ভব হচ্ছে না।। \nরক্তের গ্রুপ: A- ( নেগেটিভ) \nরক্তের পরিমাণ : ৫ ব্যাগ\nস্থান:শেখ হাসিনা জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইন্সটিটিউট,এ এইচ এম কামরুজ্জামান সরণি, চানখারপুল, ঢাকা।\nমোবাইল: 01518379842",
+  "blood_group": "A-",
+  "bags_needed": "5",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation",
+  "location": "শেক হাসিনUzbাতিকࡡ ৆রে২্ড দসুলৢুলড ব৮রে সরিেড স৆র্ৃ,তদা,থেচনষবসমদৌ",
+  "hospital_name": "শেক হাসিনা ৅াসৌনbীসীরদর স৆লদ ঱ীত",
+  "location_markers": [
+    "তুনল",
+    "সদতীৡ"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01518379842"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

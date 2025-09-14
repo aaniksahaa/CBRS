@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Emergency :\nএকজন ছোট বোন বিকালে এক্সিডেন্ট করে ঢাকা পঙ্গু হাসপাতালে ভর্তি, জরুরি  অপারেশন করতে ২-৩ ব্যাগ O নেগেটিভ রক্ত লাগতেছে।\n01721062666 (জনি)\nবড় ভাই",
+  "blood_group": "O-",
+  "bags_needed": "2-3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Accident, Emergency operation",
+  "location": "ঢাকা পঙ্গু হাসপাতাল",
+  "hospital_name": "ঢাকা পঙ্গু হাসপাতাল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "after 12:00",
+  "contacts": [
+    {
+      "name": "জনি",
+      "contact_numbers": [
+        "01721062666"
+      ],
+      "relation_with_patient": "বড় ভাই"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

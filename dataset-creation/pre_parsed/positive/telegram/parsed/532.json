@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ব্লাড রিকোয়েস্ট \n🩺রোগীর সমস্যাঃ স্ট্রোক \n🩸রক্তের গ্রুপঃ B+\n💉রক্তের পরিমাণঃ ১ ব্যাগ \n🗓️রক্তদানের  তারিখঃ ইমারজেন্সি\n🕛রক্তদানের সময়ঃ ডোনার পাওয়া মাত্র \n🏥রক্তদানের স্থানঃ Bardem Hospital, Dhaka \n☎️যোগাযোগঃ 01831333388",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Stroke",
+  "location": "Bardem Hospital, Dhaka",
+  "hospital_name": "Bardem Hospital, Dhaka",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "emergency",
+  "probable_time": "after 00:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01831333388"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

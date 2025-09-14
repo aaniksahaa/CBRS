@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের জন্য আবেদন🩸\n🪢রুগীর সমস্যাঃহিমুগ্লোবিন কম।5.0\n🔴 রক্তের গ্রুপঃ O+ (ও পজিটিভ) \n💉 রক্তের পরিমাণঃ 2 ব্যাগ\n📆 রক্তদানের তারিখঃ 7  আগস্ট ২০২৪\n🏥 রক্তদানের ঠিকানাঃ  Taj uddin shorkari hospital, Gajipur\n‌📳 যোগাযোগঃ 01303389881",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Hemoglobin low, 5.0",
+  "location": "Taj uddin shorkari hospital, Gajipur",
+  "hospital_name": "Taj uddin shorkari hospital, Gajipur",
+  "location_markers": [
+    "Gajipur"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01303389881"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

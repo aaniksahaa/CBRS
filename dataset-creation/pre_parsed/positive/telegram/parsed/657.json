@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "AB+ Blood  অতি প্রয়োজন \n🔴রক্তের গ্রুপ👉:-AB(+) positive \n💉রক্তের পরিমাণ👉:-১ ব্যাগ  \n📆রক্তদানের তারিখ👉:০৬. ৭.২৪( রাত)\n⌚রক্তদানের সময়👉:- আজ রাত\n🏥রক্তদানের স্থান👉:-গ্রীন লাইফ হাসপাতাল\n☎যোগাযোগ👉:-\n01626-680634",
+  "blood_group": "AB+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "গ্রীন লাইফ হাসপাতাল",
+  "hospital_name": "গ্রীন লাইফ হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "06/07/2024",
+  "probable_time": "after 00:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01626-680634"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

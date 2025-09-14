@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "কোথাও পাচ্ছি না রক্ত, সহযোগিতার হাত বাড়িয়ে দিন।\nEmergency রক্ত লাগবে,\nসিজার অপারেশন  হয়েছে রোগীর ,আরো এক লাগবে,রোগীর খুব ই ভয়াবহ অবস্থা ,সেটা আজকেই\nরক্ত গ্রুপ - বি পজিটিভ \nহাসপাতাল নাম- ইস্ট ভিউ হাসপাতাল,সানারপাড়( শনি আখড়ার পরে)\nমোবাইল নাম্বার -\n 01894228104(রোগীর আত্নীয়)",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "C-section operation, Critical condition",
+  "location": "ইস্ট ভিউ হাসপাতাল,সানারপাড়( শনি আখড়ার পরে)",
+  "hospital_name": "ইস্ট ভিউ হাসপাতাল,সানারপাড়( শনি আখড়ার পরে)",
+  "location_markers": [
+    "সানারপাড়",
+    "শনি আখড়া"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01894228104"
+      ],
+      "relation_with_patient": "Relative"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

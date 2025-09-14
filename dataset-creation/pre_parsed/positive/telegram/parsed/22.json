@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আম্মার জন্য A- (নেগেটিভ) রক্তের প্রয়োজন। মিরপুর ২ হার্ট ফাউন্ডেশন।\n\nContact: 01750726094",
+  "blood_group": "A-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "মিরপুর ২ হার্ট ফাউন্ডেশন",
+  "hospital_name": "মিরপুর ২ হার্ট ফাউন্ডেশন",
+  "location_markers": [
+    "মিরপুর ২"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01750726094"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

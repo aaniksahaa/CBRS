@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আজ ২৯ জুলাই, ২০২৪ দেশে চলমান বৈষম্যবিরোধী আন্দোলনের ৯ দফা দাবি আদায় ও বিক্ষোভ সমাবেশে গুরুতর আহত ভাই/বোনদের আমি রক্ত দিতে ইচ্ছুক।\nব্লাড গ্রুপ: O+\nলোকেশন: জয়দেবপুর, গাজীপুর।\nউক্ত তথ্যের সাথে সাদৃশ্য থাকলে 01889721257 - নম্বরে যোগাযোগ করার জন্য অনুরোধ করা হলো।",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Severe injuries from protest demonstration",
+  "location": "জয়দেবপুর, গাজীপুর",
+  "hospital_name": "",
+  "location_markers": [
+    "জয়দেবপুর",
+    "গাজীপুর"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01889721257"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

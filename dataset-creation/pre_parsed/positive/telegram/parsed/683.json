@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Dmc তে ব্লাড লাগবে। তিন ব্যাগ।\nআমাদের দিনাজপুরের ছেলে সাকিল। গুলিবিদ্ধ হয়ে ঢাকা মেডিক্যাল জরুরী বিভাগ ৩ তলায় তার অপারেশন চলছে।তার রক্তের প্রয়োজন B+\nযোগাযোগ-01757974493\nকেউ পারলে হেল্প করিও।।।",
+  "blood_group": "B+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "Sakil",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Gunshot injury, Operation",
+  "location": "Dhaka Medical Emergency Department",
+  "hospital_name": "Dhaka Medical",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01757974493"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

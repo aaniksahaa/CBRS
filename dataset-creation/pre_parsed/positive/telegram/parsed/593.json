@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Emergency Blood Needed....\nরোগী :- Piles patient \nরক্তের গ্রুপ :- (AB-)\nরক্তের পরিমান :- 2 bag\nহিমোগ্লোবিন :- 8.3\nরক্তদানের তারিখ - 8/9/10 August 2024\nরক্তদানের সময় :- 3 pm\nরক্তদানের স্থান -  Central hospital, Kolabagan, Dhanmondi, Dhaka\nযোগাযোগ : 01756109417\nPlease help....\nWithout blood managed operation is not possible....",
+  "blood_group": "AB-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Piles patient",
+  "location": "Central hospital, Kolabagan, Dhanmondi, Dhaka",
+  "hospital_name": "Central hospital, Kolabagan, Dhanmondi, Dhaka",
+  "location_markers": [
+    "Kolabagan",
+    "Dhanmondi",
+    "Dhaka"
+  ],
+  "probable_day": "08/08/2024",
+  "probable_time": "15:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01756109417"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

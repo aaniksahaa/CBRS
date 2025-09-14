@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে রক্ত প্রয়োজনঃ-\n💁 রোগীর সমস্যাঃ সিজার\n🩸 রক্তের গ্রুপঃ বি পজিটিভ (B+ve)\n💉 রক্তের পরিমাণঃ ১ ব্যাগ\n📆 রক্তদানের তারিখঃ ০৪/০৮/২৪\n⌚ রক্তদানের সময়ঃ কালকের মধ্যে।\n🏨 রক্তদানের স্থান: মা ও শিশু হাসপাতাল, মোহাম্মদপুর, ঢাকা\n☎ যোগাযোগঃ 01747597704/ 01794672294",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cesar",
+  "location": "ম귥 আসু হাসপিটাল, মোহাম্দপুৰ, দাকা",
+  "hospital_name": "ম귥 আসু হাসিটাল",
+  "location_markers": [
+    "মোহা্পুর",
+    "দাকা"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01747597704",
+        "01794672294"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

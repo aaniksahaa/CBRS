@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন\n💁রোগীর সমস্যাঃ ব্রেইন স্ট্রোক\n🔴রক্তের গ্রুপঃ  B+\n💉রক্তের পরিমাণঃ 2 bag\n📆রক্তদানের তারিখঃ আজকেই [১৩-১১-২০২৩]\n🏥রক্তদানের স্থান: নিউরোসাইন্স হসপিটাল আগারগাঁও , ঢাকা\n☎যোগাযোগঃ 01728123125 সেন্টু মোল্লা।",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Brain stroke",
+  "location": "নুৰসা৆িন্ড হসপিটাল আঘাইর্গাঘু , ঢাকা",
+  "hospital_name": "নুৰসা৆িন্ড হসপিটাল আঘাইর্চু",
+  "location_markers": [
+    "আঘাইর্ঘাগু",
+    "ঢাকা"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "সেন্টু মোল্লা",
+      "contact_numbers": [
+        "01728123125"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

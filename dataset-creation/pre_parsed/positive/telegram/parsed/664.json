@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "AB+ রক্তদাতা ভাই-বোনেরা এগিয়ে আসুন \n🚫 রোগীর সমস্যা : ডেলিভারি (সিজার)\n🔴 রক্তের গ্রুপ : AB+\n💉 রক্তের পরিমান :  ২ ব্যাগ\n♥রক্তের হিমোগ্লোবিন : জানা নেই\n📆 রক্তদানের তারিখ:07-08-24\n⏰ রক্তদানের সময় :কাল সকাল ১০ টার মধ্যে\n🏥 রক্তদানের স্থানঃ আগ্রাবাদ মা ও শিশু  হসপাতাল, চট্রগ্রাম \n☎ যোগাযোগ ঃ 01983293900",
+  "blood_group": "AB+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Delivery (C-section)",
+  "location": "আগ্রাবাদ মা ও শিশু  হসপাতাল, চট্রগ্রাম",
+  "hospital_name": "আগ্রাবাদ মা ও শিশু  হসপাতাল, চট্রগ্রাম",
+  "location_markers": [
+    "চট্রগ্রাম"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "before 10:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01983293900"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

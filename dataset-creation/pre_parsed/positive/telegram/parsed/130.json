@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Urgent\nব্লাড গ্রুপ:A+\nHospital name: Maternal and Child Health Training Institute, Lalkuthi Bazar, মাজার রোড, মিরপুর-১ঢাকা\nকারন: প্রেগন্যান্ট রোগির হিমোগ্লোবিন কম\nযোগাযোগ : 01920737688",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Low hemoglobin in pregnant patient",
+  "location": "Maternal and Child Health Training Institute, Lalkuthi Bazar, মাজার রোড, মিরপুর-১ঢাকা",
+  "hospital_name": "Maternal and Child Health Training Institute, Lalkuthi Bazar, মাজার রোড, মিরপুর-১ঢাকা",
+  "location_markers": [
+    "মিরপুর-১ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01920737688"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

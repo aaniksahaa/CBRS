@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "বি পজেটিভ B+ রক্তের প্রয়োজন ২ ব্যাগ, আগামিকাল সকাল ১০ টা, বারডেম হাসপাতাল সাহাবাগ, রোগি আমার মা, রোগির নাম্বার:- 01959454278, আমার নাম্বার :  01963007415",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "মা",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "বারডেম হাসপাতাল সাহাবাগ",
+  "hospital_name": "বারডেম হাসপাতাল সাহাবাগ",
+  "location_markers": [
+    "সাহাবাগ"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "10:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01959454278"
+      ],
+      "relation_with_patient": "mother"
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01963007415"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

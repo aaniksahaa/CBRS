@@ -1,0 +1,41 @@
+{
+  "is_blood_donation_request": true,
+  "text": "#Emergency \nরক্তের গ্রুপ: এবি নেগেটিভ \nরক্তদানের স্থান: সিরাজ খালেদা হসপিটালে, ঢাকা ক্যান্টনমেন্ট, ঢাকা।\nমোবাইল-সুজন-০১৭৫১০০৪৮৪২\nআকাশ-০১৮৭৩২১৭০৪৩\nরোগীর সমস্যা : সিজারের রোগী\nরক্ত দানের তারিখ -৯/০৮/২৪\nসময়: সকাল ৯টা",
+  "blood_group": "AB-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cesarean patient",
+  "location": "সিরাজ খালেদা হসপিটালে, ঢাকা ক্যান্টনমেন্ট, ঢাকা।",
+  "hospital_name": "সিরাজ খালেদা হসপিটালে",
+  "location_markers": [
+    "ঢাকা ক্যান্টনমেন্ট",
+    "ঢাকা"
+  ],
+  "probable_day": "09/08/24",
+  "probable_time": "09:00",
+  "contacts": [
+    {
+      "name": "সুজন",
+      "contact_numbers": [
+        "০১৭৫১০০৪৮৪২"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "আকাশ",
+      "contact_numbers": [
+        "০১৮৭৩২১৭০৪৩"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

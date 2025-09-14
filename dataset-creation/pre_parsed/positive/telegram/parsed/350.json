@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যা: ছোট বাচ্চার অপারেশন \n🔴রক্তের গ্রুপ:   A+\n💉রক্তের পরিমাণ: ১ ব্যাগ\n📆রক্তদানের তারিখ:২৭-০৭-২০২৪\n⌚রক্তদানের সময়: যেকোন সময় \n🏥রক্তদানের স্থান:মোহাম্মদপুর আলমানার হসপিটাল ২ নং গেট\n☎️যোগাযোগঃ 01714829935 \n👤রেফারেন্স:  01581743837",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Operation for small child",
+  "location": "মোহাম্দপুর আলমানার হসপিটাল 2 নাল গেট",
+  "hospital_name": "মোহম্দপুর আলমানার হসন্িঔ 2 নাল গেট",
+  "location_markers": [
+    "মোসসোত"
+  ],
+  "probable_day": "27/07/2024",
+  "probable_time": "any time",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01714829935"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01581743837"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

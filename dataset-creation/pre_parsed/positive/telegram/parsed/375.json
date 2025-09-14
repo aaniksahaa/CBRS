@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "From Farhan Tahmid Ryan bhai,\nআমার এক আপুর বাচ্চা হবে, এক্সপেক্টেড ডেলিভারি ডেট এপ্রিলের ২ তারিখ। A+ ব্লাড লাগবে সেসময়, ৩জন ডোনার রেডি রাখা লাগতেসে। কারও জন্যে সেসময় ডোনেট করা পসিবল হলে কাইন্ডলি ইনবক্স।\nহস্পিটাল লোকেশন: Lakeview Clinic, Banani",
+  "blood_group": "A+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Lakeview Clinic, Banani",
+  "hospital_name": "Lakeview Clinic",
+  "location_markers": [
+    "Banani"
+  ],
+  "probable_day": "02/04",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "Farhan Tahmid Ryan",
+      "contact_numbers": [],
+      "relation_with_patient": "brother"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Emergency blood Need\nনতুন জন্ম নিয়া শিশুর জন্য A- blood\nবাচ্ছা ICU তে আছে\nহাপ্সাতাল  : DKMC\nভুলতা গাউছিয়া মার্কেট  এর অপর পাসে\nযোগাযোগ: 01713240696/ 01965153801",
+  "blood_group": "A-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "Newborn, ICU",
+  "location": "DKMC",
+  "hospital_name": "DKMC",
+  "location_markers": [
+    "ভুলতা",
+    "গাউছিয়া মার্কেট"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01713240696",
+        "01965153801"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

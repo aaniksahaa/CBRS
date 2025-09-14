@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Urgent blood needed 🩸 \nBlood group: A- negative \n01755382291\nশ্যামলী ন্যাশনাল নিউরো সাইন্স হসপিটাল\nকাল সকাল ৬ টায় অপারেশন",
+  "blood_group": "A-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Operation",
+  "location": "শ্যামলী ন্যাশনাল নিউরো সাইন্স হসপিটাল",
+  "hospital_name": "শ্যামলী ন্যাশনাল নিউরো সাইন্স হসপিটাল",
+  "location_markers": [
+    "শ্যামলী"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "06:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01755382291"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

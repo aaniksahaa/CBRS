@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "মানব কল্যাণে মানবতার স্বার্থে \nরক্ত দিন জীবন বাঁচান! ❤️🩸\n💁রোগীর সমস্যা:-ডেলিভারি \n🔴রক্তের গ্রুপ:(O+) O positive\n💉রক্তের পরিমাণ:১ ব্যাগ\n📆রক্তদানের তারিখ:-১০/08/2024\n⌚রক্তদানের সময়: আজকে জরুরী \n🏥রক্তদানের স্থান:-আদ্বীন মেডিকেল কলেজ  হাসপাতাল, মগবাজার\n☎যোগাযোগ:-+8801789852043 (বাপ্পি) \n+8801845337890 ( রাসেল)",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Delivery",
+  "location": "আদ্ুদেরুন মéডেকেল কোলডেক এন্ হাসপিটাল, মগবাজার",
+  "hospital_name": "আদ্ুদেরুন মéডেকেল কোলদেক এন্ হাসপিটাল",
+  "location_markers": [
+    "মগবাজার"
+  ],
+  "probable_day": "10/08/2024",
+  "probable_time": "today",
+  "contacts": [
+    {
+      "name": "বাপ্পি",
+      "contact_numbers": [
+        "+8801789852043"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "রাসেল",
+      "contact_numbers": [
+        "+8801845337890"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

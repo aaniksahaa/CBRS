@@ -1,0 +1,25 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ইমারজেন্সি O+ রক্ত লাগবে।।\nরোগীর সমস্যা: গর্ভবতী\nস্থান: মোহাম্মদপুর ফার্টিলিটি মা শিশু হাসপাতাল\nসময়: দুপুরের আগে",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Pregnant",
+  "location": "মোস্ুদপুর ফারঽিলিটি মা শিন঱সর হাস্পিকাল",
+  "hospital_name": "মোস্ুদপুর ফারস্িলিটি মা শিনরসল হাস্পিকাল",
+  "location_markers": [
+    "মোস্ুদপুর"
+  ],
+  "probable_day": "",
+  "probable_time": "before 12:00",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

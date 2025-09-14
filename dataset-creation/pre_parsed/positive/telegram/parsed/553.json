@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যাঃ রক্তশূন্যতা \n🔴রক্তের গ্রুপঃ O-\n📆রক্তদানের তারিখঃ ০৯-০৮-২০২৪ \n🏥রক্তদানের স্থানঃ চট্টগ্রাম \n☎যোগাযোগ : +8801815332399",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia",
+  "location": "চট্টগ্রাম",
+  "hospital_name": "",
+  "location_markers": [
+    "চট্টগ্রাম"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801815332399"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

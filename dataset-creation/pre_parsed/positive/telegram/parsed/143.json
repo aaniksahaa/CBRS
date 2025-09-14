@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ঢাকার সংকরে\" এক ভাইয়ের ওপেন হার্ট সার্জারির জন্য আগামী শনিবার(03-02-24) ৩ ব্যাগ \"এবি পজেটিভ\" [AB+] রক্তের প্রয়োজন। রক্তদাতা পেলে ইবনে সিনা হসপিটালে ভর্তি হবে। যোগাযোগ- 01923836779 (রোগী নিজ)",
+  "blood_group": "AB+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart surgery",
+  "location": "ইবনে সিনা হসপিটাল",
+  "hospital_name": "ইবনে সিনা হসপিটাল",
+  "location_markers": [
+    "ঢাকা",
+    "সংকরে"
+  ],
+  "probable_day": "03/02/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01923836779"
+      ],
+      "relation_with_patient": "self"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

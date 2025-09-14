@@ -1,0 +1,25 @@
+{
+  "is_blood_donation_request": true,
+  "text": "সোহরাওয়ার্দী মেডিকেলে আশেপাশে কেউ থাকলে রেসপন্স করো।এক ফ্রেন্ড এর গুলি লাগছে হাতে, ওকে নিয়ে আসতেছি O+ blood লাগতে পারে",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Gunshot wound in hand",
+  "location": "সোহরাওয়ার্দী মেডিকেল",
+  "hospital_name": "সোহরাওয়ার্দী মেডিকেল",
+  "location_markers": [
+    "সোহরাওয়ার্দী মেডিকেল"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

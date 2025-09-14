@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন \nএকের রক্ত অন্যের জীবন রক্তই হোক রক্তসৈনিকের বন্ধন❤️\n👸রোগীর সমস্যাঃ Blood Cancer\n🔴রক্তের গ্রুপঃ B negative \n💉রক্তের পরিমানঃ 1 bag\n হিমোগ্লোবিনঃ7\n🕓রক্তদানের সময়ঃ Today\n📆রক্তদানের তারিখঃ Today\n🏣রক্তদানের স্থানঃ PG Hospital \nফোন: 01316512391",
+  "blood_group": "B-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Blood Cancer",
+  "location": "PG Hospital",
+  "hospital_name": "PG Hospital",
+  "location_markers": [
+    "PG Hospital"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01316512391"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,39 @@
+{
+  "is_blood_donation_request": true,
+  "text": "AB+ রক্তের প্রয়োজন \n💁রোগীর সমস্যা:- শরীরের ব্লাড চেঞ্জ করতে হবে l\n🔴রক্তের গ্রুপ: AB+ \n💉রক্তের পরিমাণ:- 6ব্যাগ\n📆রক্তদানের তারিখ: আজ\n🏥রক্তদানের স্থান:- ঢাকা মেডিকেল l\nরোগীর নাম: আব্দুল সাত্তার\n☎যোগাযোগ: 01823073945\n01746362428",
+  "blood_group": "AB+",
+  "bags_needed": "6",
+  "patient": {
+    "name": "আব্দুল সাত্তার",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Body blood change",
+  "location": "ঢাকা মেডিকেল",
+  "hospital_name": "ঢাকা মেডিকেল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "01823073945",
+        "01746362428"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

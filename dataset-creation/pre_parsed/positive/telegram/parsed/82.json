@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে রক্ত লাগবে A+ মহাখালী ক্যান্সার হসপিটাল - Urgent 🚨 Contact Number - 01778888236",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "মহাখালী ক্যান্সার হসপিটাল",
+  "hospital_name": "মহাখালী ক্যান্সার হসপিটাল",
+  "location_markers": [
+    "মহাখালী"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01778888236"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

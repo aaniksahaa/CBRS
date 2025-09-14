@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যা : অপারেশন \nরক্তের গ্রুপ : O+\nরক্তের পরিমান: ১ ব্যাগ \nস্থান : বারডেম হাসপাতাল \nনম্বর : +8801880174379",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Operation",
+  "location": "বারডেম হাসপাতাল",
+  "hospital_name": "বারডেম হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801880174379"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

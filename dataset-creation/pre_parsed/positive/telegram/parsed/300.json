@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "অত্যন্ত জরুরি রক্তের প্রয়োজন!\nরক্তের গ্রুপ: ও নেগেটিভ\nতারিখ: ৩০/৭/২০২৪\nপরিমাণ: ১ ব্যাগ\nরক্তদানের স্থান: বি আই এইচ এস জেনারেল হাসপাতাল\nঠিকানা: ১২৫/১ দারুস সালাম, মিরপুর-১\nযোগাযোগ: 01633164159\nরক্তদাতারা দ্রুত যোগাযোগ করুন! আপনার সাহায্যে একজন মানুষের জীবন বাঁচতে পারে",
+  "blood_group": "O-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "বি आई এইচ এস জেনারেল হাসপাতাল",
+  "hospital_name": "বি আই এইচ এস জেনারেল হাসপাতাল",
+  "location_markers": [
+    "মিরপুর-১"
+  ],
+  "probable_day": "30/07/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01633164159"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

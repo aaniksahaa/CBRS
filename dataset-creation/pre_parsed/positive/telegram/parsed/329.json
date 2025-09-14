@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন \nরোগীর সমস্যা: সিজারের রোগী\n🔴রক্তেরগ্রুপ:-B+ \n💉রক্তের পরিমাণ:-১ বেগ ( আজ রাতের মধ্যে) \n🏥রক্তদানের স্থান: ফাতেমা নার্সিং হোম, ব্রীজ ময়মনসিংহ\n☎যোগাযোগ: 01614382940",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cesarean patient",
+  "location": "ফাতেমা নার্সিং হোম, ব্রীজ ময়মনসিংহ",
+  "hospital_name": "ফাতেমা নার্সিং হোম, ব্রীজ ময়মনসিংহ",
+  "location_markers": [
+    "ময়মনসিংহ"
+  ],
+  "probable_day": "today",
+  "probable_time": "before 24:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01614382940"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

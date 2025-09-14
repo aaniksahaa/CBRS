@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি ভিত্তিতে রক্তের প্রয়োজন \n💁ক্যানসার\n🔴রক্তের গ্রুপ: A+\n🌡রক্তের পরিমাণ: ১ ব্যাগ\n📆রক্তদানের তারিখ:যত দ্রুত সম্ভব\n🏨রক্তদানের স্থান:আল-বারাকা হাসপাতাল,কদমতলি,কেরানীগঞ্জ\n☎️ যোগাযোগ:01741463578,\n01644478845",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "আল-বারাকা হাসপাতাল,কদমতলি,কেরানীগঞ্জ",
+  "hospital_name": "আল-বারাকা হাসপাতাল,কদমতলি,কেরানীগঞ্জ",
+  "location_markers": [
+    "কদমতলি",
+    "কেরানীগঞ্জ"
+  ],
+  "probable_day": "as soon as possible",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01741463578",
+        "01644478845"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

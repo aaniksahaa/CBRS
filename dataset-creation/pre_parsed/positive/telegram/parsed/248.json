@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ব্লাড এর প্রয়োজন \n👩‍⚕️রোগীর সমস্যা: ওপেন হার্ট সার্জারি \n🔴রক্তের গ্রুপ:  a+\n🩸 হিমোগ্লোবিন:জানা নেই।\n💉রক্তের পরিমাণ:2bag\n📅রক্তদানের তারিখ: 5/8/24\n🕗রক্তদানের সময়: 7:00pm\n🏥রক্তদানের স্থান: গুলশান ২ ইউনাইটেড হসপিটাল \n☎যোগাযোগঃ01856783687",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart surgery",
+  "location": "গুলশান ২ ইউনাইটেড হসপিটাল",
+  "hospital_name": "গুলশান ২ ইউনাইটেড হসপিটাল",
+  "location_markers": [
+    "গুলশান ২"
+  ],
+  "probable_day": "05/08/2024",
+  "probable_time": "19:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01856783687"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

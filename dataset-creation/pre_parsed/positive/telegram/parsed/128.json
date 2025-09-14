@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "মায়ের জন্য \"ঢাকার কাকরাইলে\" A+ রক্ত লাগবেঃ\nহিমোগ্লোবিন স্বল্পতার কারণে আজ [08-07-2024] ১ ব্যাগ “এ পজেটিভ\" রক্ত প্রয়োজন। স্থানঃ ইসলামী ব্যাংক সেন্ট্রাল। ফোনঃ 01816640717",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Due to hemoglobin deficiency",
+  "location": "ইসলামী ব্যাংক সেন্ট্রাল",
+  "hospital_name": "ইসলামী ব্যাংক সেন্ট্রাল",
+  "location_markers": [
+    "ঢাকার কাকরাইলে"
+  ],
+  "probable_day": "08/07/2024",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01816640717"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

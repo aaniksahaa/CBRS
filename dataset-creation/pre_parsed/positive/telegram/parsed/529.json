@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন।\n💁রোগীর সমস্যাঃ-PLID সার্জারী  \n🔴রক্তের গ্রুপঃ-  A Negative \n🌡️হিমোগ্লোবিনঃ- \n💉রক্তের পরিমাণঃ- ১ব্যাগ\n⌚রক্তদানের সময়ঃ- সকাল ১২:০০\n🏥রক্তদানের স্থান: কল্যাণপুর\n☎যোগাযোগ:০১৯৯২৭৮৭২৪২",
+  "blood_group": "A-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "PLID surgery",
+  "location": "কল্যাণপুর",
+  "hospital_name": "",
+  "location_markers": [
+    "কল্যাণপুর"
+  ],
+  "probable_day": "today",
+  "probable_time": "12:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01992787824"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

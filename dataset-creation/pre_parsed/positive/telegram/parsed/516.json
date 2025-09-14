@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যাঃ- সিজারিয়ান অপারেশন \nরোগীর ভর্তি লোকেশন ঃ- ন্যাশনাল হাসপাতাল ঢাকা  \nরক্তের গ্রুপঃ- O Negative\nরক্তের পরিমাণঃ-  5 ব্যাগ \nরক্তদানের তারিখ:- 10.08.2024\nরক্তদানের স্থান:- ন্যাশনাল হাসপাতাল ঢাকা \nযোগাযোগ নম্বর: 01713366046",
+  "blood_group": "O-",
+  "bags_needed": "5",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Caesarean operation",
+  "location": "ন্যাশনাল হাসপাতাল ঢাকা",
+  "hospital_name": "ন্যাশনাল হাসপাতাল ঢাকা",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "10/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01713366046"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

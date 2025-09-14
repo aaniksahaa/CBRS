@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Emergency blood need!!♦️♦️\nআসসালামু আলাইকুম। \nজরুরি ভিত্তিতে O negative রক্তের প্রয়োজন। \nরোগীর ডায়ালাইসিস করানো হবে। \nস্থান: শাহবাগ বারডেম হসপিটাল। \nযোগাযোগ : 01761398729",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dialysis",
+  "location": "শাহবাগ বারডেম হসপিটাল",
+  "hospital_name": "শাহবাগ বারডেম হসপিটাল",
+  "location_markers": [
+    "শাহবাগ"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01761398729"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

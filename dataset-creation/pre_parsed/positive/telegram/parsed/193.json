@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আপডেটঃ #আলহামদুলিল্লাহ্‌_রক্তদাতা_পাওয়া_গিয়েছে। \n[ রক্তদাতার জন্য দোয়া ও সবাইকে অসংখ্য ধন্যবাদ ❤ \nখুব জরুরী!\n\"ঢাকায় মহাখালী\" ব্লাড ক্যান্সার রোগীর জন্য আজ [04.09.2023] যত দ্রুত সম্ভব ০১ ব্যাগ [O+ve] \"ও পজেটিভ\" রক্তের প্রয়োজন। দিতে না পারলে ও শেয়ার করুন; যেন অন্য কেউ এগিয়ে আসে। \nস্থান:- মহাখালী ক্যান্সার হাসপাতাল ,মহাখালী, ঢাকা। \nযোগাযোগ:- 01751190002 [রোগীর আত্বীয় ]",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Blood cancer",
+  "location": "মহাখালী ক্যান্সার হাসপাতাল ,মহাখালী, ঢাকা",
+  "hospital_name": "মহাখালী ক্যান্সার হাসপাতাল",
+  "location_markers": [
+    "মহাখালী",
+    "ঢাকা"
+  ],
+  "probable_day": "04/09/2023",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01751190002"
+      ],
+      "relation_with_patient": "Relative"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

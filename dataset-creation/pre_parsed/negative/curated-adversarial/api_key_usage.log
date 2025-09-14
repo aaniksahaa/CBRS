@@ -1,0 +1,6 @@
+2025-04-05 17:48:36,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 18:55:16,144 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 18:57:06,984 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 19:02:27,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-19 22:56:18,816 - INFO - error_code=None error_message='Credit limit exceeded. Please navigate to https://api.together.xyz/settings/billing to add credit or upgrade your plan.' error_param=None error_type=credit_limit message='Together API error received' stream_error=False
+2025-05-19 22:56:18,816 - ERROR - Error with together key TOGETHER_API_KEY_26 (attempt 1/5): Error code: 402 - {"message": "Credit limit exceeded. Please navigate to https://api.together.xyz/settings/billing to add credit or upgrade your plan.", "type_": "credit_limit"}

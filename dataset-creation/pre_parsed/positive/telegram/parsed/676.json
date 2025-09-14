@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "০৭.০৮.২৪ তারিখ সকালে এক ব্যাগ ও পজেটিভ রক্ত দরকার\nস্থান:  নিউ লাইফ হসপিটাল, গ্রীনরোড।\nযোগাযোগ: 01712941365\nরোগী একজন শিশু, দয়া করে একটু দ্রুত সারা দিন। ধন্যবাদ।",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "child"
+  },
+  "condition": "",
+  "location": "নিউ লাইফ হসপিটাল, গ্রীনরোড।",
+  "hospital_name": "নিউ লাইফ হসপিটাল, গ্রীনরোড।",
+  "location_markers": [
+    "গ্রীনরোড"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "in n hours",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01712941365"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

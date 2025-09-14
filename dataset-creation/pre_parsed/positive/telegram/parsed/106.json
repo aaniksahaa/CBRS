@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "Abdullah Shaleheen Oyon এর পায়ে গুলি করেছে\n\n\nঢাকা মেডিকেল কলেজে  ওর জন্য জরুরী ভিত্তিতে O- রক্ত লাগবে। \n\nযোগাযোগ এর নম্বর : 01907249694\n\nIt's an emergency please look into it",
+  "blood_group": "O-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "Abdullah Shaleheen Oyon",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Shot in the leg",
+  "location": "ঢাকা মেডিকেল কলেজ",
+  "hospital_name": "ঢাকা মেডিকেল কলেজ",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01907249694"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

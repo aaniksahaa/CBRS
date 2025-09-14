@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্ত প্রয়োজন🔴\n⚠️ওপেন হার্ট রোগী\nLife support এ আছে ২ টার মধ্যে ব্লাড লাগবে \n🩸রক্ত গ্রুপ- A+ \nঠিকানা - United hospital Dhaka \nযোগাযোগ - 01860-506480 ( জুবায়ের)",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Open heart patient, Life support",
+  "location": "United hospital Dhaka",
+  "hospital_name": "United hospital Dhaka",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "জুবায়ের",
+      "contact_numbers": [
+        "01860-506480"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

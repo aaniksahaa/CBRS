@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যা: রক্তস্বল্পতা \n🔴রক্তের গ্রুপ : B(-)Negative \n💉রক্তের পরিমাণ: 3/bag\n ➡️হিমোগ্লোবিন:জানা নেই\n রক্তদানের তারিখ: ৭-০৮-২০২৪(এখনি লাগবে রোগীর শরির একদম হলুদ হয়ে গেছে)\nরক্তদানের স্থান: মির্জাপুর কুমুদিনী হাসপাতাল \n ☎যোগাযোগ:+8801731-742365",
+  "blood_group": "B-",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia",
+  "location": "মির্জাপুর কুমুদিনী হাসপাতাল",
+  "hospital_name": "মির্জাপুর কুমুদিনী হাসপাতাল",
+  "location_markers": [
+    "মির্জাপুর"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801731-742365"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

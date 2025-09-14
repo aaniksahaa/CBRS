@@ -1,0 +1,12 @@
+{
+  "input_text": "hello, how you doing?",
+  "output_text": "Hello! I'm functioning as intended, thank you. How about you? How's your day going?",
+  "parsed_json": null,
+  "input_tokens": 17,
+  "output_tokens": 22,
+  "total_tokens": 39,
+  "total_cost": 3.12e-05,
+  "provider": "together",
+  "model": "mistralai/Mistral-Small-24B-Instruct-2501",
+  "inference_time": 1.3976545000332408
+}

@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "খুব জরুরী!\n\"ঢাকায় ধানমন্ডি\" ডেঙ্গু আক্রান্ত  রোগীর জন্য আজ [04.09.2023] যত দ্রুত সম্ভব ০২ ব্যাগ [O+ve] \"ও পজেটিভ\" রক্তের প্রয়োজন। দিতে না পারলে ও শেয়ার করুন; যেন অন্য কেউ এগিয়ে আসে। \nস্থান:- ইবনে সিনা হাসপাতাল,ধানমন্ডি  \nযোগাযোগ:- 01880879711 [রোগীর আত্বীয় ]",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue",
+  "location": "ইবনে সিনা হাসপাতাল,ধানমন্ডি",
+  "hospital_name": "ইবনে সিনা হাসপাতাল",
+  "location_markers": [
+    "ধানমন্ডি"
+  ],
+  "probable_day": "04/09/2023",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01880879711"
+      ],
+      "relation_with_patient": "রোগীর আত্বীয়"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

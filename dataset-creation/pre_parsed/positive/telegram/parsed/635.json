@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ও পজেটিভ রক্ত লাগবে আজকে রাতেই লাগবে\nরোগীর শরীরে প্লাটিলেট কমে গেসে,\nপিজি হাসপাতাল \nযোগাযোগ: রানা, 8801670771210",
+  "blood_group": "O+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Platelet low",
+  "location": "পিজি হাসপাতাল",
+  "hospital_name": "পিজি হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "today",
+  "probable_time": "after 00:00",
+  "contacts": [
+    {
+      "name": "রানা",
+      "contact_numbers": [
+        "8801670771210"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "❣️রক্ত দান হোক আপনার জীবনের শ্রেষ্ঠ উপহার,, ❣️\n💁রোগীর সমস্যা: sle \n🔴রক্তের গ্রুপ: O(-) নেগেটিভ \n💉রক্তের পরিমাণ: ১/২ ব্যাগ\n⌚রক্তদানের সময়: যত দ্রুত সম্ভব 🙏\n🏥 স্থান:  ময়মনসিংহ মেডিকেল হাসপাতাল\n\n☎যোগাযোগঃ +8801321658179\n\n☎যোগাযোগঃ +8801620070559\n\n# দয়াকরে কারো রক্তের গ্রুপ যদি O(-) নেগেটিভ থাকে দয়াকরে মেসেন্জারে কল দিবেন🙏",
+  "blood_group": "O-",
+  "bags_needed": "1-2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "sle",
+  "location": "ময়মনসিংহ মেডিকেল হাসপাতাল",
+  "hospital_name": "ময়মনসিংহ মেডিকেল হাসপাতাল",
+  "location_markers": [
+    "ময়মনসিংহ"
+  ],
+  "probable_day": "as soon as possible",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801321658179"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801620070559"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

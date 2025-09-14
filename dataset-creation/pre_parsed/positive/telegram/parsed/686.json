@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যা : ব্লাড ক্যান্সার \nরক্তের গ্রুপ :AB-\nরক্তের পরিমাণ: অনেক \nতারিখ: যখন-তখন লাগতে পারে\nরক্তদানের সময় : যেকোনো সময়\nস্থান : চকবাজার মেডিকেল \nযোগাযোগ: ০১৯৭৬৬০৩৩৬৭",
+  "blood_group": "AB-",
+  "bags_needed": "many",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Blood cancer",
+  "location": "চকবাজার মেডিকেল",
+  "hospital_name": "চকবাজার মেডিকেল",
+  "location_markers": [
+    "চকবাজার"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "০১৯৭৬৬০৩৩৬৭"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

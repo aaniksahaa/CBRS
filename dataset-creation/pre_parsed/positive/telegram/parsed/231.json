@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে উত্তরা জমজম টাওয়ারের পাশে (উত্তরা চৌরাস্তা) শিন শিন জাপান হাসপাতালে O+ রক্ত প্রয়োজন এখুনি।\nআগ্রহী ডোনারগণ অতি সত্ব যোগাযোগ করুন \n☎️  শাহজালাল ( 01324-721720)",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "শিন শিন জাপান হাসপাতাল, উত্তরা জমজম টাওয়ারের পাশে (উত্তরা চৌরাস্তা)",
+  "hospital_name": "শিন শিন জাপান হাসপাতাল",
+  "location_markers": [
+    "উত্তরা",
+    "জমজম টাওয়ার",
+    "উত্তরা চৌরাস্তা"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "শাহজালাল",
+      "contact_numbers": [
+        "01324-721720"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

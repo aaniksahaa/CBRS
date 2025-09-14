@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যা : ব্লাড ক্যান্সার \nব্লাড গ্রুপ : B+ \nরক্তদানের সময় : আজকে না হয় আগামীকাল  \nরক্তের পরিমাণ : ১ ব্যাগ \nস্থান : বঙ্গবন্ধু শেখ মুজিবুর রহমান মেডিকেল বিশ্ববিদ্যালয় হাসপাতাল,  শাহবাগ, ঢাকা ১০০০\nযোগাযোগ : ০১৯৮১০২৪১৫২\nসাহায্য করুন প্লিজ 🙏🥹",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Blood cancer",
+  "location": "বঙ্গবন্ধু শেখ মুজিবুর রহমান মেডিকেল বিশ্ববিদ্যালয় হাসপাতাল,  শাহবাগ, ঢাকা ১০০০",
+  "hospital_name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান মেডিকেল বিশ্ববিদ্যালয় হাসপাতাল",
+  "location_markers": [
+    "শাহবাগ",
+    "ঢাকা ১০০০"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "০১৯৮১০২৪১৫২"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

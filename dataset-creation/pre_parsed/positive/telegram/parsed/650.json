@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ঢাকায় ❝B+❞রক্তদাতা এগিয়ে আসুন প্লিজ🩸🙏🏽\n🔴রক্তের গ্রুপঃ-❝B+❞\n💉রক্তের পরিমাণঃ- 1 ব্যাগ\n   📆ঃ-তারিখঃ-০৭/০৮/২০২৪\n⌚রক্তদানের সময়ঃ- যত দ্রুত সম্ভব ম্যানেজ করা যায়।\n🏥রক্তদানের স্থানঃ- মাতৃিসনদ দলপুর,সায়দাবাদ  ঢাকা।\n☎যোগাযোগঃ- +88 01924558602",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "মাতেরসনদ দালপুর, সাদাবাদ । ढাকা",
+  "hospital_name": "মাতেরসনদ দালপুর",
+  "location_markers": [
+    "সাদাবাদ",
+    "঒াপুর"
+  ],
+  "probable_day": "07/08/2024",
+  "probable_time": "as soon as possible",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+88 01924558602"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

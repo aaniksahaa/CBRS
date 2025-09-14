@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্তের প্রয়োজনে!⚠️ ❤️ রক্ত দিন, জীবন বাঁচান ❤️  💁\n🔴রক্তের গ্রুপঃ O+\n💉রক্তের পরিমাণঃ 1bag   রক্তদানের তারিখঃ জরুরী \n⌚রক্তদানের সময়ঃ যত দ্রুত সম্ভব   🏥রক্তদানের স্থানঃ Dhaka Medical College \n ☎যোগাযোগঃ  01706583600",
+  "blood_group": "O+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Dhaka Medical College",
+  "hospital_name": "Dhaka Medical College",
+  "location_markers": [
+    "Dhaka"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01706583600"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

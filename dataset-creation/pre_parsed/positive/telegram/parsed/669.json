@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্য: সিজার ।\n🔴রক্তের গ্রুপঃ o- (ও নেগেটিভ)\n💉রক্তের পরিমাণ: ২ ব্যাগ\n📆রক্তদানের তারিখ: ১৫/০৮/২০২৪\n🏥রক্তদানের স্থান:  সোনারগাঁও চৌরাস্তা \n☎যোগাযোগ: 01916303184",
+  "blood_group": "O-",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Cesar",
+  "location": "সোনারগাঁও চৌরাস্তা",
+  "hospital_name": "সোনারগাঁও চৌরাস্তা",
+  "location_markers": [
+    "সোনারগাঁও",
+    "চৌরাস্তা"
+  ],
+  "probable_day": "15/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01916303184"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

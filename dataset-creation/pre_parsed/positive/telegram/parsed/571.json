@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর সমস্যাঃ (ব্রেন অপারেশন )\n🌡️হিমোগ্লোবিনঃ খুবই কম\n🩸রক্তের গ্রুপঃ Ab+\n💉রক্তের পরিমাণঃ 2 bag\n📆রক্তদানের তারিখঃ 09/08/2024 সময় \n🏥রক্তদানের স্থান : নিউরোসাইন্স  হসপিটাল, আগারগাঁও, শেরে-বাংলা নগর,ঢাকা\n📱যোগাযোগঃ01757440576",
+  "blood_group": "AB+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Brain operation, Hemoglobin very low",
+  "location": "नুয়োসার্তিন হসপিটাল, আগ়্ধলা, শেরে-ব২্লা ঘন্র, ঢাকা",
+  "hospital_name": "नুযcোসডিন হসপিটাল",
+  "location_markers": [
+    "আগ়্ধলা",
+    "শেরে-ব২্লা",
+    "ঢাকা"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01757440576"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

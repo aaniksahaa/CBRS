@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্তের প্রয়োজন...!\nO+ ব্লাড দরকার\nরোগী ICU তে আছে।\nযোগাযোগ : 01616126607\nলোকেশন:-গণস্বাস্থ নগর হাসপাতাল ,ধানমন্ডি,\nরোড নং-6",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "ICU patient",
+  "location": "গণস্বাস্থ নগর হাসপাতাল ,ধানমন্ডি, রোড নং-6",
+  "hospital_name": "গণস্বাস্থ নগর হাসপাতাল ,ধানমন্ডি, রোড নং-6",
+  "location_markers": [
+    "ধানমন্ডি"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01616126607"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

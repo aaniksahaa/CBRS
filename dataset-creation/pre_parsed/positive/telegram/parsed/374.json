@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "অপারেশন রোগীর জন্য আজকেই ইমার্জেন্সি ১ ব্যাগ B+ রক্ত লাগবে। \nরোগী আমার বাবা। \nস্থান: ইবনে সিনা হসপিটাল,শংকর\nডোনারের আসা যাওয়ার খরচ দিয়ে দেওয়া হবে। Contact: 01830820943",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "বাবা",
+    "gender": "M",
+    "age-group": ""
+  },
+  "condition": "Operation",
+  "location": "ইবনে সিনা হসপিটাল,শংকর",
+  "hospital_name": "ইবনে সিনা হসপিটাল",
+  "location_markers": [
+    "শংকর"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01830820943"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "Y",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

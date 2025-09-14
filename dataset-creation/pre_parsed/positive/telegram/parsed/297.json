@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "যদি কারো A+ রক্ত লাগে উত্তরার আসেপাশে জানাবেন আমি আছি\n\nআজকে সন্ধ্যায় ২ ব্যাগ (A+) রক্ত লাগবে। \nLocation : Trauma Center,  Shyamoli.\nকেউ যদি দিতে পারেন বা পরিচিত কেউ যদি থাকে তাহলে আমাকে একটু জানায়েন।\nযোগাযোগ: ইনবক্স /\n01732 720 275",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Trauma Center,  Shyamoli",
+  "hospital_name": "Trauma Center,  Shyamoli",
+  "location_markers": [
+    "Shyamoli"
+  ],
+  "probable_day": "today",
+  "probable_time": "after 17:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01732 720 275"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

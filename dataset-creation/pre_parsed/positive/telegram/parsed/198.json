@@ -1,0 +1,34 @@
+{
+  "is_blood_donation_request": true,
+  "text": "খুব জরুরী!\n\"চট্টগ্রাম\" ডেঙ্গু আক্রান্ত রোগীর জন্য আজ [01.09.2023] যত দ্রুত সম্ভব ০১ব্যাগ  [B+ve] \"বি পজেটিভ\" রক্তের প্রয়োজন। দিতে না পারলে ও শেয়ার করুন; যেন অন্য কেউ এগিয়ে আসে। \nস্থান:- অক্সিজেন নাগরিক হাসপাতাল, চট্টগ্রাম \nযোগাযোগ:- 01757168718 রোগীর আত্বীয় ]\n#humanity_for_hhh💚💐",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Dengue",
+  "location": "অক्চिইन ঘাগिं হাॺিतাল, চত্ররাম",
+  "hospital_name": "অক्চिঁ ঘাগिं হাॺিतাল",
+  "location_markers": [
+    "চত্ররররস",
+    "চত্ররর"
+  ],
+  "probable_day": "01/09/2023",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01757168718"
+      ],
+      "relation_with_patient": "Relative"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগীর অবস্থা খুব খারাপ! \"সিলেটে\" O+ রক্ত প্রয়োজনঃ\nরোগী CCU তে আছে, আজ [12-02-2024] রাতের মধ্যে ২ ব্যাগ \"ও পজেটিভ\" রক্ত প্রয়োজন। স্থানঃ আদ-দীন আকিজ মেডিকেল কলেজ। ফোনঃ 01719918833 (রোগীর আত্মীয়)",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Critical condition, CCU",
+  "location": "আদ-দীন আকিজ মেডিকেল কলেজ",
+  "hospital_name": "আদ-দীন আকিজ মেডিকেল কলেজ",
+  "location_markers": [
+    "সিলেট"
+  ],
+  "probable_day": "12/02/2024",
+  "probable_time": "before 23:59",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01719918833"
+      ],
+      "relation_with_patient": "রোগীর আত্মীয়"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

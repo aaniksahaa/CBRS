@@ -1,0 +1,25 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে রক্ত প্রয়োজন। ঢাকাতে। \n রক্তের গ্রুপঃ B-(negative)",
+  "blood_group": "B-",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "ঢাকাতে",
+  "hospital_name": "",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

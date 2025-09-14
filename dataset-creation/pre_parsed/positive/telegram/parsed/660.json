@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্ত প্রয়োজন🔴\n⚠️ওপেন হার্ট রোগী\n🩸রক্ত গ্রুপ- A+ \nঠিকানা - ল্যাব এইড, সেন্ট্রাল রোড ঢাকা\nযোগাযোগ - 01933-523610(রাহাত)",
+  "blood_group": "A+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Open heart patient",
+  "location": "ল্যাব এইড, সেন্ট্রাল রোড ঢাকা",
+  "hospital_name": "ল্যাব এইড",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "রাহাত",
+      "contact_numbers": [
+        "01933-523610"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

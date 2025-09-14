@@ -1,0 +1,40 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রিয়াদ 01834080370\nজোবায়ের 01861116009\nরক্তের গ্রুপ,,, ও নেগেটিভ\nস্থানঃ বড়পুল মাদার এন্ড চাইল্ড কেয়ার হাসফিটাল\nসময়ঃ আগামি কাল সকাল ৮ টাই সিজার",
+  "blood_group": "O-",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "C-section",
+  "location": "বড়পুল মাদার এন্ড চাইল্ড কেয়ার হাসফিটাল",
+  "hospital_name": "বড়পুল মাদার এন্ড চাইল্ড কেয়ার হাসফিটাল",
+  "location_markers": [
+    "বড়পুল"
+  ],
+  "probable_day": "tomorrow",
+  "probable_time": "08:00",
+  "contacts": [
+    {
+      "name": "রিয়াদ",
+      "contact_numbers": [
+        "01834080370"
+      ],
+      "relation_with_patient": ""
+    },
+    {
+      "name": "জোবায়ের",
+      "contact_numbers": [
+        "01861116009"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

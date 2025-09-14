@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "(O+) ও পজিটিভ চার ব্যাগ রক্তের প্রয়োজন যদি কারো থাকে বা যদি সংগ্রহ করে দিতে পারেন প্লিজ হেল্প। ডেন্গু জ্বর হইছে।।\n01877513501/01911664035\n(Mitford Hospital- Babu Bazar Dhaka)",
+  "blood_group": "O+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "M",
+    "age_group": ""
+  },
+  "condition": "Dengue fever",
+  "location": "Mitford Hospital- Babu Bazar Dhaka",
+  "hospital_name": "Mitford Hospital- Babu Bazar Dhaka",
+  "location_markers": [
+    "Babu Bazar",
+    "Dhaka"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01877513501",
+        "01911664035"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

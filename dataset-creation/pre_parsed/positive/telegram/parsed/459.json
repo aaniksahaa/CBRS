@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আমার একটা আন্টির জন্য ইমারজেন্সি A+রক্তের প্রয়োজন। \nমোবাইল : 01828009644\nস্থান : Ahsania  Mission Cancer & General Hospital",
+  "blood_group": "A+",
+  "bags_needed": "",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Ahsania  Mission Cancer & General Hospital",
+  "hospital_name": "Ahsania  Mission Cancer & General Hospital",
+  "location_markers": [],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01828009644"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

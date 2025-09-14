@@ -1,0 +1,35 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে \"ঢাকায়\" B+ রক্ত প্রয়োজনঃ\nহার্টর রোগীর জন্য আজ [09-03-2024] ২ ব্যাগ \"বি পজেটিভ\" রক্ত প্রয়োজন। স্থানঃ ন্যাশনাল হার্ট ফাউন্ডেশন, মিরপুর। ফোনঃ 01737342475, 01958634250",
+  "blood_group": "B+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": "adult"
+  },
+  "condition": "Heart patient",
+  "location": "ন্যাশনাল হার্ট ফাউন্ডেশন, মিরপুর",
+  "hospital_name": "ন্যাশনাল হার্ট ফাউন্ডেশন",
+  "location_markers": [
+    "মিরপুর",
+    "ঢাকায়"
+  ],
+  "probable_day": "09/03/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01737342475",
+        "01958634250"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

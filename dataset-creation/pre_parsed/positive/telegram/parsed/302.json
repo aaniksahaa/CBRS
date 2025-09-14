@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "একটি মানবিক আবেদন🙏🙏\n💁রোগীর সমস্যা👉:- হার্ড\n🔴রক্তের গ্রুপ👉:- এ   পজিটিভ \n💉রক্তের পরিমাণ👉:- ১ ব্যাগ\n🌡️হিমোগ্লোবিন👉:- জানা নেই\n📆রক্তদানের তারিখ👉:- ০৪ \n⌚রক্তদানের সময়👉:- ১২:৩০ আগে\n🏥রক্তদানের স্থান👉:- মাওনা\n☎যোগাযোগ👉:01643475150\n💠রেফারেন্স👉 সজল সরকার \n🎁এক্সচেঞ্জ 👉 :",
+  "blood_group": "A+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Hard",
+  "location": "মাোনা",
+  "hospital_name": "",
+  "location_markers": [
+    "মাোনা"
+  ],
+  "probable_day": "04",
+  "probable_time": "before 12:30",
+  "contacts": [
+    {
+      "name": "সজল সরকার",
+      "contact_numbers": [
+        "01643475150"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

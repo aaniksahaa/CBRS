@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী ভিত্তিতে আমার মায়ের জন্য ২ ব্যাগ O+ রক্তের প্রয়োজন।\nসোহরাওয়ার্দী মেডিকেল কলেজ হসপিটাল, ঢাকা\n01632722499",
+  "blood_group": "O+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "মা",
+    "gender": "F",
+    "age-group": ""
+  },
+  "condition": "",
+  "location": "সোহরাওয়ার্দী মেডিকেল কলেজ হসপিটাল, ঢাকা",
+  "hospital_name": "সোহরাওয়ার্দী মেডিকেল কলেজ হসপিটাল",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01632722499"
+      ],
+      "relation_with_patient": "แม่"
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

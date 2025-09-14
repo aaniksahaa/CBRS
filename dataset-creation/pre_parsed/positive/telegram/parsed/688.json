@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি এক ব‍্যাগ AB - রক্ত লাগবে গুলিবিদ্ধ হয়েছে  কালকে।\nসোহরাওয়ার্দী মেডিকেল কলেজে আছে \n যোগাযোগ +8801603015477\nকাল থেকে রক্ত পাচ্ছি না 🙏🙏🙏🙏",
+  "blood_group": "AB-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Gunshot injury",
+  "location": "সোহরাওয়ার্দী মেডিকেল কলেজে",
+  "hospital_name": "সোহরাওয়ার্দী মেডিকেল কলেজে",
+  "location_markers": [
+    "সোহরাওয়ার্দী"
+  ],
+  "probable_day": "today",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+8801603015477"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

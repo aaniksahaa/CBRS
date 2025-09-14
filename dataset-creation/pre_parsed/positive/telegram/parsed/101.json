@@ -1,0 +1,31 @@
+{
+  "is_blood_donation_request": true,
+  "text": "মাথায় গুলি লাগছে তার জন্য যত দ্রুত সম্ভব \nAB+ পজেটিভ রক্ত দরকার 8 bag \nনিউরো সাইন্স হাসপাতালে,  অবস্থা বেশি ভাল না।\nকেউ আছেন দেয়ার মতো?  \n\nযোগাযোগ: +8801537567862- আল আমীন রহমান\n\n১জন ম্যানেজ হয়েছে, আরও লাগবে। কেউ পারলে জানাবেন প্লিজ",
+  "blood_group": "AB+",
+  "bags_needed": "8",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "Shot in the head, not in good condition",
+  "location": "নিউরো সাইন্স হাসপাতালে",
+  "hospital_name": "নিউরো সাইন্স হাসপাতাল",
+  "location_markers": [],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "আল আমীন রহমান",
+      "contact_numbers": [
+        "+8801537567862"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

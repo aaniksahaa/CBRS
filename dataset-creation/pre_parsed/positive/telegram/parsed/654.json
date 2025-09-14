@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "#need blood.🙏🙏\n💁রোগীর সমস্যা: মুমূর্ষ অবস্থা, দুইটা কিডনি নষ্ট হয়ে গেছে\n🔴রক্তের গ্রুপ:(B+) পজেটিব।\n💉রক্তের পরিমাণ:১ ব্যাগ।\n⌚রক্তদানের সময়:- আজকেই\n🏥রক্তদানের স্থান:নোয়াখালী সদর হাসপাতাল\n☎যোগাযোগ: রোগীর পরিবার  01316519892\n আর্জেন্ট লাগবে",
+  "blood_group": "B+",
+  "bags_needed": "1",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Critical condition, two kidneys have failed",
+  "location": "নোয়াখালী সদর হাসপাতাল",
+  "hospital_name": "নোয়াখালী সদর হাসপাতাল",
+  "location_markers": [
+    "নোয়াখালী"
+  ],
+  "probable_day": "today",
+  "probable_time": "now",
+  "contacts": [
+    {
+      "name": "রোগীর পরিবার",
+      "contact_numbers": [
+        "01316519892"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

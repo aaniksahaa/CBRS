@@ -1,0 +1,26 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ইমারজেন্সি (AB+) ৪ ব্যাগ রক্ত প্রয়োজন\nলোকেশন :বনশ্রী এডভান্স হসপিটাল অথবা রাজার বাগ পুলিশ লাইন হসপিটাল",
+  "blood_group": "AB+",
+  "bags_needed": "4",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "বনশ্রী এডভান্স হসপিটাল অথবা রাজার বাগ পুলিশ লাইন হসপিটাল",
+  "hospital_name": "বনশ্রী এডভান্স হসপিটাল অথবা রাজার বাগ পুলিশ লাইন হসপিটাল",
+  "location_markers": [
+    "বনশ্রী",
+    "রাজার বাগ"
+  ],
+  "probable_day": "",
+  "probable_time": "",
+  "contacts": [],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

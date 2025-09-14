@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "রোগির সমস্যা :ক্যানসার এ আক্রান্ত \nরক্তের গ্রুপ :A+\n রক্তের পরিমান:৫ ব্যাগ\nরক্তদানের তারিখ:৯-৮-২০২৪\nরক্তদানের সময়:দুপুর ২ টা এর মধ্যে।\nরক্ত দানের যোগাযোগ :মিরপুর ডেলটা হসপিটাল \nযোগাযোগ :01712090217",
+  "blood_group": "A+",
+  "bags_needed": "5",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Cancer",
+  "location": "মিরপুর ডেলটা হসপিটাল",
+  "hospital_name": "মিরপুর ডেলটা হসপিটাল",
+  "location_markers": [
+    "মিরপুর"
+  ],
+  "probable_day": "09/08/2024",
+  "probable_time": "before 14:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01712090217"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

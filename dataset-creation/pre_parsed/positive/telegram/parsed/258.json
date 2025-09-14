@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরি রক্ত প্রয়োজন 🩸\n🔴রক্তের গ্রুপঃ A+(এ পজেটিভ )\n💁রোগীর সমস্যাঃ-রক্তশূর্নতা\n📆রক্তদানের তারিখঃ ৩১-০৭-২৪\n🏥রক্তদানের স্থান-আজমল হাসপাতাল,মিরপুর-১০  \n🤲পরিমানঃ-২ ব্যাগ\n☎যোগাযোগঃ01756154801\nআপনার এক ব্যাগ রক্তে বেঁচে যেতে পারে একটি  প্রান।আশেপাশে যারা আছেন, এগিয়ে আসুন।",
+  "blood_group": "A+",
+  "bags_needed": "2",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "Anemia",
+  "location": "আজমল হাসপাতাল,মিরপুর-১০",
+  "hospital_name": "আজমল হাসপাতাল",
+  "location_markers": [
+    "মিরপুর-১০"
+  ],
+  "probable_day": "31/07/24",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01756154801"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "ইমারজেন্সি রক্তের প্রয়োজন 🙏🙏\nআমার মায়ের জন্য \nরক্তের গ্রুপ:- বি(-) ১ ব্যাগ 03/08/২০২৪\nরংপুর মেডিকেল কলেজ \n01731421588",
+  "blood_group": "B-",
+  "bags_needed": "1",
+  "patient": {
+    "name": "মা",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "রংপুর মেডিকেল কলেজ",
+  "hospital_name": "রংপুর মেডিকেল কলেজ",
+  "location_markers": [
+    "রংপুর"
+  ],
+  "probable_day": "03/08/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01731421588"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

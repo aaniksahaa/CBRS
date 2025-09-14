@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "জরুরী রক্তের প্রয়োজন (3) ব্যাগ\n(বি) পজেটিভ \nসময়ঃ বৃহস্পতিবার (04-07-2024)\nমোবাঃ 01646317158\nDanmondi popular hospital",
+  "blood_group": "B+",
+  "bags_needed": "3",
+  "patient": {
+    "name": "",
+    "gender": "",
+    "age_group": ""
+  },
+  "condition": "",
+  "location": "Danmondi popular hospital",
+  "hospital_name": "Danmondi popular hospital",
+  "location_markers": [
+    "Danmondi"
+  ],
+  "probable_day": "04/07/2024",
+  "probable_time": "",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "01646317158"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

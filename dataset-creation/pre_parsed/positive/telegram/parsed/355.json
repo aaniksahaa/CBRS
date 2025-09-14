@@ -1,0 +1,33 @@
+{
+  "is_blood_donation_request": true,
+  "text": "আমার বাবা হাসপাতালে আইসিইউ তে ভর্তি আছেন. খুব জরুরি রক্তের প্রয়োজন আজকেই। হাতজোড় করছি।\n🔴রক্তের গ্রুপ: O+\n🏥রক্তদানের স্থানঃ  Asgor ali medical hospital & college ,১১১/১/A ডিস্টিলারি রোড, গেন্ডারিয়া, ধুপখোলা মাঠের বিপরীতে, সিটি মিলের পাশে,ঢাকা।\n রক্ত দানের সময়:২৮/০৭/২০২৪, সকাল ৮ টার মধ্যে।\n☎যোগাযোগঃ +880 1714-395581",
+  "blood_group": "O+",
+  "bags_needed": "-",
+  "patient": {
+    "name": "বাবা",
+    "gender": "",
+    "age-group": ""
+  },
+  "condition": "ICU admission, Urgent need for blood",
+  "location": "Asgor ali medical hospital & college ,১১১/১/A ডিস্টিলারি রোড, গেন্ডারিয়া, ধুপখোলা মাঠের বিপরীতে, সিটি মিলের পাশে,ঢাকা",
+  "hospital_name": "Asgor ali medical hospital & college",
+  "location_markers": [
+    "ঢাকা"
+  ],
+  "probable_day": "28/07/2024",
+  "probable_time": "before 08:00",
+  "contacts": [
+    {
+      "name": "",
+      "contact_numbers": [
+        "+880 1714-395581"
+      ],
+      "relation_with_patient": ""
+    }
+  ],
+  "compensation": {
+    "transportation": "",
+    "allowance": ""
+  },
+  "source": "telegram"
+}

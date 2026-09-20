@@ -1,0 +1,36 @@
+\begin{table}[h]
+\centering
+\caption{Frozen encoder embeddings (mean-pooled) paired with lightweight classifiers, using the same protocol as the sentence-embedding rows of Table~\ref{tab:DLF}. Raw masked-language-model encoders are markedly weaker than fine-tuning the same models end-to-end.}
+\label{tab:frozen-encoders}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+\textbf{Encoder} & \textbf{Classifier} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} & \makecell[l]{\textbf{Inference}\\\textbf{Time x e-07}\\\textbf{(Seconds)}} \\
+\midrule
+\multirow{3}{*}{BanglaBERT} & LogReg & 0.96 & 0.96 & 0.95 & 0.95 & 37.89\\
+ & SVM & 0.96 & 0.97 & 0.96 & 0.96 & 10687.51\\
+ & RF & 0.97 & 0.97 & 0.97 & 0.97 & 48.08\\
+\midrule
+\multirow{3}{*}{mBERT} & LogReg & 0.98 & 0.98 & 0.97 & 0.98 & 33.17\\
+ & SVM & 0.98 & 0.98 & 0.98 & 0.98 & 2515.79\\
+ & RF & 0.97 & 0.97 & 0.97 & 0.97 & 70.36\\
+\midrule
+\multirow{3}{*}{XLM-R-Base} & LogReg & 0.95 & 0.95 & 0.95 & 0.95 & 40.95\\
+ & SVM & 0.97 & 0.97 & 0.96 & 0.96 & 25387.86\\
+ & RF & 0.98 & 0.98 & 0.97 & 0.98 & 46.69\\
+\midrule
+\multirow{3}{*}{MuRIL} & LogReg & 0.96 & 0.97 & 0.96 & 0.96 & 34.07\\
+ & SVM & 0.97 & 0.97 & 0.97 & 0.97 & 17802.78\\
+ & RF & 0.98 & 0.98 & 0.98 & 0.98 & 49.56\\
+\midrule
+\multirow{3}{*}{IndicBERT} & LogReg & 0.97 & 0.97 & 0.97 & 0.97 & 30.45\\
+ & SVM & 0.97 & 0.97 & 0.97 & 0.97 & 4467.88\\
+ & RF & 0.97 & 0.97 & 0.96 & 0.97 & 47.33\\
+\midrule
+\multirow{3}{*}{IndicBERTv2} & LogReg & 0.98 & 0.98 & 0.98 & 0.98 & 31.35\\
+ & SVM & 0.98 & 0.98 & 0.98 & 0.98 & 1872.16\\
+ & RF & 0.98 & 0.98 & 0.98 & 0.98 & 71.36\\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

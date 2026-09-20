@@ -41,10 +41,12 @@ CBRS/
 │   ├── train.jsonl / validation.jsonl / test.jsonl
 │   └── pre_parsed/                      # Pre-processed classification data
 ├── 📁 binary-classifier/               # Binary classification models
-│   └── eval/                           # Evaluation notebooks
+│   ├── eval/                           # Evaluation notebooks
+│   └── baselines/                      # Pluggable baseline harness (BanglaBERT, mBERT, XLM-R, MuRIL, IndicBERT, fastText, ...)
 ├── 📁 parser-llama-finetuning/         # LLama-3.2-3B fine-tuning notebooks
 ├── 📁 results/                         # Model evaluation results and plots
 │   ├── classifier-results/             # Classification performance metrics
+│   ├── classifier-results-baselines/   # Extra baselines (see binary-classifier/baselines/README.md)
 │   ├── parser-results/                 # Parsing accuracy results
 │   └── dataset_stats/                  # Dataset statistics
 ├── 📁 backend/                         # Node.js backend API

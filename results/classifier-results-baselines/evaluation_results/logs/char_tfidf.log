@@ -1,0 +1,13 @@
+
+##### 2026-09-20T22:57:15 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline char_tfidf --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42
+22:57:16 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+22:57:16 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=20664  val=0  test=5166
+test label counts={0: 2960, 1: 2206}  test languages={'en': 2488, 'bn': 2042, 'tbn': 636}
+matches_paper_split=True
+22:57:23 INFO baselines.lexical: char_tfidf: 200000 features (6.1s)
+22:57:31 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/char_tfidf_logistic.json  acc=0.9814 macroF1=0.9810 fit=4.1s
+23:03:56 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/char_tfidf_svm.json  acc=0.9853 macroF1=0.9850 fit=369.3s
+23:03:58 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/char_tfidf_random_forest.json  acc=0.9845 macroF1=0.9842 fit=2.1s
+23:03:58 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/char_tfidf_naive_bayes.json  acc=0.9628 macroF1=0.9621 fit=0.0s

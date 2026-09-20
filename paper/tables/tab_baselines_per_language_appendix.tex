@@ -1,0 +1,20 @@
+\begin{table}[h]
+\centering
+\caption{Accuracy of the additional baselines on the Bengali (bn), English (en) and Transliterated Bengali (tbn) portions of the test set. Bengali is the hardest slice for every model.}
+\label{tab:baselines-per-language}
+\begin{tabular}{@{}lcccc@{}}
+\toprule
+\textbf{Model} & \textbf{bn} & \textbf{en} & \textbf{tbn} & \textbf{All} \\
+\midrule
+BanglaBERT (fine-tuned) & 0.982 & 0.988 & 0.998 & 0.987\\
+mBERT (fine-tuned) & 0.978 & 0.991 & 0.997 & 0.987\\
+XLM-R-Base (fine-tuned)$^\dagger$ & 0.977 & 0.988 & 0.998 & 0.985\\
+MuRIL (fine-tuned)$^\dagger$ & 0.976 & 0.988 & 0.998 & 0.985\\
+IndicBERT (fine-tuned) & 0.978 & 0.988 & 0.998 & 0.985\\
+IndicBERTv2 (fine-tuned)$^\dagger$ & 0.975 & 0.987 & 0.995 & 0.983\\
+CharTFIDF + SVM & 0.977 & 0.989 & 0.997 & 0.985\\
+CharTFIDF + LogReg & 0.974 & 0.985 & 0.992 & 0.981\\
+fastText (char n-gram) & 0.973 & 0.987 & 0.994 & 0.982\\
+\bottomrule
+\end{tabular}
+\end{table}

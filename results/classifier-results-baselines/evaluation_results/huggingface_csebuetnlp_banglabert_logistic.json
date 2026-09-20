@@ -1,0 +1,93 @@
+{
+    "vectorizer": "huggingface",
+    "model": "logistic",
+    "embedding_model": "csebuetnlp/banglabert",
+    "accuracy": 0.9550909794812233,
+    "avg_inference_time_seconds": 3.7893116551401267e-06,
+    "metrics": {
+        "0": {
+            "precision": 0.9486842105263158,
+            "recall": 0.9743243243243244,
+            "f1-score": 0.9613333333333334,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9642521166509878,
+            "recall": 0.929283771532185,
+            "f1-score": 0.9464450600184672,
+            "support": 2206.0
+        },
+        "accuracy": 0.9550909794812233,
+        "macro avg": {
+            "precision": 0.9564681635886518,
+            "recall": 0.9518040479282547,
+            "f1-score": 0.9538891966759002,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9553320620383224,
+            "recall": 0.9550909794812233,
+            "f1-score": 0.9549757005550533,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9538891966759002,
+        "weighted_f1": 0.9549757005550533,
+        "confusion_matrix": [
+            [
+                2884,
+                76
+            ],
+            [
+                156,
+                2050
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9632713026444663,
+                "macro_f1": 0.9625520365310203,
+                "positive_recall": 0.959079283887468
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9457395498392283,
+                "macro_f1": 0.9419587521442758,
+                "positive_recall": 0.9080338266384778
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9654088050314465,
+                "macro_f1": 0.9187324303603372,
+                "positive_recall": 0.7586206896551724
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-09-21T00:15:22",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "banglabert_emb",
+        "description": "BanglaBERT frozen mean-pooled embeddings",
+        "kind": "embed",
+        "pooling": "mean",
+        "max_length": 128,
+        "normalised_embeddings": true,
+        "bangla_normalised": true,
+        "fit_seconds": 0.7287120510009117,
+        "encode_test_seconds_total": 6.54705545399338,
+        "encode_seconds_per_sample": 0.0012673355505213666,
+        "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

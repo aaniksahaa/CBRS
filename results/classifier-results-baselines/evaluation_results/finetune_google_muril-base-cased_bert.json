@@ -1,0 +1,113 @@
+{
+    "vectorizer": "bert-end-to-end",
+    "model": "bert",
+    "embedding_model": "google/muril-base-cased",
+    "accuracy": 0.9847077042198994,
+    "avg_inference_time_seconds": 0.0022417643720524685,
+    "metrics": {
+        "0": {
+            "precision": 0.9878090077886895,
+            "recall": 0.985472972972973,
+            "f1-score": 0.9866396076441738,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9805693628558518,
+            "recall": 0.9836808703535811,
+            "f1-score": 0.9821226521837519,
+            "support": 2206.0
+        },
+        "accuracy": 0.9847077042198994,
+        "macro avg": {
+            "precision": 0.9841891853222706,
+            "recall": 0.984576921663277,
+            "f1-score": 0.9843811299139629,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9847175140368815,
+            "recall": 0.9847077042198994,
+            "f1-score": 0.9847107644878265,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9843811299139629,
+        "weighted_f1": 0.9847107644878265,
+        "confusion_matrix": [
+            [
+                2917,
+                43
+            ],
+            [
+                36,
+                2170
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9764936336924583,
+                "macro_f1": 0.9759679887018948,
+                "positive_recall": 0.9786871270247229
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9879421221864951,
+                "macro_f1": 0.9872339290148986,
+                "positive_recall": 0.9894291754756871
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9984276729559748,
+                "macro_f1": 0.9966548675359101,
+                "positive_recall": 0.9885057471264368
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-09-20T23:47:22",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "muril_ft",
+        "description": "MuRIL base cased (Khanuja et al. 2021) - Indian languages incl. Bengali + transliteration",
+        "kind": "finetune",
+        "n_params": 237557762,
+        "n_trainable_params": 86042882,
+        "embeddings_frozen": true,
+        "n_frozen_params": 151514880,
+        "train_seconds": 472.6422961849894,
+        "train_loss": 0.24788381171253812,
+        "val_macro_f1_best": 0.9895612211401685,
+        "hparams": {
+            "epochs": 3,
+            "batch_size": 16,
+            "grad_accum": 2,
+            "lr": 2e-05,
+            "max_length": 128,
+            "weight_decay": 0.01,
+            "warmup_ratio": 0.06,
+            "val_fraction": 0.1,
+            "fp16": false,
+            "bf16": true,
+            "seed": 42,
+            "freeze_embeddings": "low_vram"
+        },
+        "bangla_normalised": false,
+        "inference": {
+            "batch_size": 64,
+            "device": "cuda",
+            "single_sample_latency_seconds": 0.006597317590203602,
+            "total_test_seconds": 11.580954746023053
+        },
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

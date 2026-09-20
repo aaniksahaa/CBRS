@@ -1,0 +1,20 @@
+{"baseline": "char_tfidf", "started": "2026-09-20T22:57:15", "overrides": {}, "status": "ok", "seconds": 404.1}
+{"baseline": "banglabert_ft", "started": "2026-09-20T23:03:53", "overrides": {"epochs": 1}, "status": "ok", "seconds": 210.8}
+{"baseline": "banglabert_emb", "started": "2026-09-20T23:07:24", "overrides": {"epochs": 1}, "status": "ok", "seconds": 11.2}
+{"baseline": "word_char_tfidf", "started": "2026-09-20T23:03:59", "overrides": {}, "status": "ok", "seconds": 563.6}
+{"baseline": "fasttext_char", "started": "2026-09-20T23:13:23", "overrides": {}, "status": "ok", "seconds": 24.5}
+{"baseline": "fasttext_word", "started": "2026-09-20T23:13:48", "overrides": {}, "status": "ok", "seconds": 7.5}
+{"baseline": "banglabert_ft", "started": "2026-09-20T23:08:58", "overrides": {}, "status": "ok", "seconds": 503.4}
+{"baseline": "mbert_ft", "started": "2026-09-20T23:17:21", "overrides": {}, "status": "ok", "seconds": 564.5}
+{"baseline": "xlmr_base_ft", "started": "2026-09-20T23:26:46", "overrides": {}, "status": "failed", "seconds": 18.4, "error": "exit code 1; see /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/logs/xlmr_base_ft.log"}
+{"baseline": "xlmr_base_ft", "started": "2026-09-20T23:29:01", "overrides": {}, "status": "ok", "seconds": 530.5}
+{"baseline": "muril_ft", "started": "2026-09-20T23:37:52", "overrides": {}, "status": "ok", "seconds": 573.7}
+{"baseline": "indicbertv2_ft", "started": "2026-09-20T23:47:26", "overrides": {}, "status": "ok", "seconds": 1076.8}
+{"baseline": "distilbert_multilingual_ft", "started": "2026-09-21T00:05:22", "overrides": {}, "status": "ok", "seconds": 552.8}
+{"baseline": "banglabert_emb", "started": "2026-09-21T00:14:35", "overrides": {}, "status": "ok", "seconds": 249.1}
+{"baseline": "mbert_emb", "started": "2026-09-21T00:18:44", "overrides": {}, "status": "ok", "seconds": 134.4}
+{"baseline": "xlmr_base_emb", "started": "2026-09-21T00:20:59", "overrides": {}, "status": "ok", "seconds": 425.4}
+{"baseline": "muril_emb", "started": "2026-09-21T00:28:04", "overrides": {}, "status": "ok", "seconds": 326.6}
+{"baseline": "indicbertv2_emb", "started": "2026-09-21T00:33:31", "overrides": {}, "status": "ok", "seconds": 122.7}
+{"baseline": "indicbert_ft", "started": "2026-09-21T00:35:42", "overrides": {}, "status": "ok", "seconds": 438.7}
+{"baseline": "indicbert_emb", "started": "2026-09-21T00:43:01", "overrides": {}, "status": "ok", "seconds": 167.2}

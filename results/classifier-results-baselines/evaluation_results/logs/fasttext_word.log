@@ -1,0 +1,9 @@
+
+##### 2026-09-20T23:13:48 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline fasttext_word --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42
+23:13:48 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+23:13:49 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=20664  val=0  test=5166
+test label counts={0: 2960, 1: 2206}  test languages={'en': 2488, 'bn': 2042, 'tbn': 636}
+matches_paper_split=True
+23:13:54 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/fasttext_word.json  acc=0.9810 macroF1=0.9806 fit=2.8s

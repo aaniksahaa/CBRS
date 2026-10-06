@@ -1,0 +1,7 @@
+{
+  "cpu": "x86_64",
+  "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "n_single": 300,
+  "n_test": 5166,
+  "forwarded_fraction": 0.4310878823073945
+}

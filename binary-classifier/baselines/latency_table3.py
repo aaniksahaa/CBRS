@@ -176,9 +176,11 @@ def run(n_single: int):
 
     # DLF: Layer 1 (fastText char, positives x12) + Layer 2 (logged gpt-4o-mini calls)
     if ("DLF", "Layer 1") not in done:
-        with threadpool_limits(1):
-            one, many = fasttext_model(split, True, pos_weight=12)
-            add("DLF", "Layer 1", "CPU", bench(one, many, texts, n_single))
+        # The class weight only changes the training data (positives repeated 12x), not the model: same architecture,
+        # dimension and n-gram buckets, so inference cost equals the fastText char-n-gram row timed above.
+        ft = [r for r in rows if r["group"] == "fastText" and r["classifier"] == "char $n$-grams"][0]
+        rows.append({**ft, "group": "DLF", "classifier": "Layer 1",
+                     "note": "same model/inference cost as the fastText char n-gram row (weighting only affects training)"})
     recs = []
     for f in [LLM_DIR / "tfidf_logistic_weighted_recall_gpt-4o-mini.responses.jsonl", LLM_DIR / "llm_cache_gpt-4o-mini.responses.jsonl"]:
         recs += [json.loads(l) for l in f.read_text(encoding="utf-8").splitlines() if l.strip()]
@@ -202,18 +204,13 @@ def run(n_single: int):
 def table():
     df = pd.read_csv(OUT_CSV)
     meta = json.loads((T / "latency_table3.meta.json").read_text())
-    fmt_lat = lambda v: f"{v:.3f}" if v < 10 else (f"{v:.1f}" if v < 1000 else f"{v:,.0f}".replace(",", "{,}"))
+    fmt_lat = lambda v: f"{v:.3f}" if v < 100 else (f"{v:.1f}" if v < 1000 else f"{v:,.0f}".replace(",", "{,}"))
     fmt_thr = lambda v: "--" if pd.isna(v) else (f"{v:,.0f}".replace(",", "{,}"))
     L = [r"\begin{table}[h]", r"\centering",
-         r"\caption{End-to-end inference cost of every configuration of Table~\ref{tab:DLF} (raw message $\to$ label, "
-         r"same machine). \emph{Latency}: median time to classify a single message; \emph{Throughput}: messages per second "
-         r"when the 5{,}166 test messages are classified in one batch. Lexical and fastText models run on one CPU thread "
-         r"(Intel i5-13450HX); sentence encoders and fine-tuned models on an RTX~3050 (6\,GB) GPU. DLF Layer~2 is a "
-         r"gpt-4o-mini API call made only for the " + f"{meta['forwarded_fraction']*100:.0f}" + r"\% of messages forwarded by "
-         r"Layer~1; the same call also produces the structured parse, which every pipeline needs for a detected request.}",
-         r"\label{tab:latency}", r"\resizebox{\columnwidth}{!}{%", r"\begin{tabular}{@{}llcrr@{}}", r"\toprule",
-         r"\textbf{Embedding} & \textbf{Classifier} & \textbf{Device} & \makecell[r]{\textbf{Latency}\\\textbf{(ms/msg)}} & "
-         r"\makecell[r]{\textbf{Throughput}\\\textbf{(msg/s)}} \\", r"\midrule"]
+         r"\caption{Inference latency of filtering methods in milliseconds per message, with lexical models on a single "
+         r"CPU thread and neural models on a GPU.}",
+         r"\label{tab:latency}", r"\resizebox{\columnwidth}{!}{%", r"\begin{tabular}{@{}llcr@{}}", r"\toprule",
+         r"\textbf{Embedding} & \textbf{Classifier} & \textbf{Device} & \textbf{Latency (ms/message)} \\", r"\midrule"]
     for g, items in GROUPS + [("DLF", [(None, "Layer 1"), (None, "Layer 2 (per forwarded message)"),
                                          (None, "End-to-end (expected per message)")])]:
         sub = [df[(df.group == g) & (df.classifier == lab)] for _, lab in items]
@@ -222,7 +219,7 @@ def table():
             first = (rf"\multirow{{{len(sub)}}}{{*}}{{{'\\textbf{DLF}' if g == 'DLF' else g}}}" if len(sub) > 1 else g) if i == 0 else ""
             lab = {"Layer 1": "Layer 1 (fastText)", "Layer 2 (per forwarded message)": "Layer 2 (gpt-4o-mini)$^{a}$",
                    "End-to-end (expected per message)": "Layer 1 + Layer 2$^{b}$"}.get(r.classifier, r.classifier)
-            L.append(f"{first} & {lab} & {r.device} & {fmt_lat(r.latency_ms)} & {fmt_thr(r.throughput_msg_s)} \\\\")
+            L.append(f"{first} & {lab} & {r.device} & {fmt_lat(r.latency_ms)} \\\\")
         if sub:
             L.append(r"\midrule")
     L[-1] = r"\bottomrule"

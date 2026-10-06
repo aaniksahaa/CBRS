@@ -8,8 +8,9 @@ All results are on the 5,166-message test split of the paper (same split as befo
 | File | Label | Goes to | Content |
 |---|---|---|---|
 | `tab_DLF_final.tex` | `tab:DLF` | **replaces Table 3** | 47 configurations + DLF; accuracy and macro P / R / F1 |
+| `tab_DLF_final_latency.tex` | `tab:DLF-latency` | **alternative to Table 3** (use one of the two) | same as `tab_DLF_final.tex` + an Inference Time (ms) column; DLF time = Layer 1 (0.089 ms) |
 | `tab_significance.tex` | `tab:significance` | **new table next to Table 3** | DLF vs each of the 47 configurations: F1, DLF's F1 gain (95% CI), Holm-corrected p-value |
-| `tab_latency.tex` | `tab:latency` | main text | end-to-end inference time per message (CPU / GPU) |
+| `tab_latency.tex` | `tab:latency` | main text | end-to-end latency and throughput of all 47 configurations + DLF |
 | `tab_layer1_selection.tex` | `tab:layer1-selection` | main text or appendix | how Layer 1 was chosen (validation) |
 | `tab_per_language.tex` | `tab:per-language` | appendix | accuracy for Bengali / English / transliterated Bengali |
 | `tab_frozen_encoders.tex` | `tab:frozen-encoders` | appendix | BanglaBERT, mBERT, XLM-R, MuRIL, IndicBERT(v2) as frozen encoders + LogReg/SVM/RF |
@@ -23,8 +24,10 @@ Source data: `significance_dlf_full_ftchar_gpt4omini_table3.csv`, `latency_bench
 * **DLF is significantly better than all 47 configurations of Table 3** (paired bootstrap, 10,000 resamples,
   Holm–Bonferroni over 47 comparisons). ΔF1 ranges from +0.32 points (LaBSE + RF, p = 0.036) and +0.35 (MuRIL,
   p = 0.036) to +3.6 points; 45 of the 47 have p ≤ 0.012.
-* Speed: DLF Layer 1 needs **0.074 ms per message on one CPU thread**; fine-tuned BERT-base models need 5.4–5.6 ms
-  on a GPU and ~36 ms on a CPU. Layer 2 (gpt-4o-mini, median 1.1 s) is called only for the 43 % of messages Layer 1
+* Speed (end-to-end, same machine; `tab_latency.tex`, all 47 configurations): DLF Layer 1 needs **0.089 ms per message
+  on one CPU thread** (10,000 messages/s); fine-tuned BERT-base models need 5.5–5.8 ms on a GPU (~165 messages/s) and
+  ~36 ms on a CPU; sentence-embedding models 3.4–8.5 ms on a GPU. Only word-only fastText (0.019 ms) is faster, and it
+  is significantly less accurate. Layer 2 (gpt-4o-mini, median 1.1 s) is called only for the 43 % of messages Layer 1
   forwards, in the same call that parses them.
 * Layer 2 vs Layer 1 alone: macro-F1 +0.9 points (p < 0.01).
 
@@ -59,8 +62,8 @@ Table~\ref{tab:significance} show that it is significantly better than every one
 ($p<0.05$ after Holm correction), including the fine-tuned Bengali and multilingual encoders BanglaBERT, mBERT,
 XLM-R, MuRIL and IndicBERT. The margins over the strongest baselines are small (0.3--0.6 F1 points over LaBSE+RF and
 fine-tuned MuRIL, BanglaBERT and mBERT), which is expected on a task where all strong models exceed 0.98, but they
-are consistent. At the same time, DLF's first layer classifies a message in 0.074\,ms on a single CPU thread,
-about 75$\times$ faster than a fine-tuned BERT-base model on a GPU and about 490$\times$ faster on a CPU
+are consistent. At the same time, DLF's first layer classifies a message in 0.09\,ms on a single CPU thread,
+about 60$\times$ faster than a fine-tuned BERT-base model on a GPU and about 400$\times$ faster on a CPU
 (Table~\ref{tab:latency}); the LLM in the second layer, which raises macro-F1 by 0.9 points over the first layer
 alone, is invoked only for messages forwarded by the first layer and shares its call with parsing.
 ```
@@ -77,7 +80,7 @@ alone, is invoked only for messages forwarded by the first layer and shares its 
 > Table 3 now includes fine-tuned BanglaBERT, mBERT, XLM-R, MuRIL, IndicBERT and IndicBERTv2, fastText with
 > character n-grams, and character n-gram TF-IDF classifiers on the same split (frozen versions of the encoders
 > are in Appendix X). DLF remains the best configuration (Table X gives the pairwise significance tests), and its
-> first layer is two to three orders of magnitude faster than the fine-tuned encoders (Table Y).
+> first layer is about 60 times faster than the fine-tuned encoders on a GPU and about 400 times faster on a CPU (Table Y).
 
 ## Points to keep in mind
 

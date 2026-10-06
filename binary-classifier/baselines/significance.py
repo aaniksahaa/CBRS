@@ -167,13 +167,14 @@ def main(argv=None):
     ap.add_argument("--all-pairs", action="store_true", help="also compute the Holm-corrected McNemar matrix over all pairs")
     ap.add_argument("--tables-dir", default=str(TABLES_DIR))
     ap.add_argument("--suffix", default="", help="appended to output file names (e.g. _compact)")
+    ap.add_argument("--label-column", default="label_corrected", help="column of --labels to use (label_original / label_corrected)")
     ap.add_argument("--labels", default=None, help="CSV with column label_corrected (one row per test message, in order): "
                                                    "re-score every system against these labels instead of the original gold")
     ap.add_argument("--label", default="tab:significance", help="LaTeX label of the generated table")
     args = ap.parse_args(argv)
 
     dirs = [(Path(args.new_dir), "new"), (Path(args.paper_dir), "paper-repro")]
-    labels = pd.read_csv(args.labels)["label_corrected"].to_numpy() if args.labels else None
+    labels = pd.read_csv(args.labels)[args.label_column].to_numpy() if args.labels else None
     systems = load_systems([(d, o) for d, o in dirs if (d / "predictions").exists()], args.include, args.exclude, labels)
     ind = {k: indicators(s["y_true"], s["y_pred"]) for k, s in systems.items()}
     point = {k: {m: float(v) for m, v in metrics_from_sums(ind[k].sum(0)).items()} for k in systems}

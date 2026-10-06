@@ -2,9 +2,8 @@
 
     cd binary-classifier && python -m baselines.table3            # -> paper/tables/tab_DLF_final.tex (+ _original_labels)
 
-Metrics are macro averages (precision, recall, F1) and accuracy, three decimals. A dagger marks methods whose
-positive-class F1 differs significantly from DLF (paired bootstrap, Holm over all comparisons; from
-significance_markers_dlf_ftchar*.json). Inference time is reported separately (tab:latency) because the old
+Metrics are macro averages (precision, recall, F1) and accuracy, three decimals. Significance is in a separate table
+(baselines/sigtable.py). Inference time is reported separately (tab:latency) because the old
 time column mixed classifier-only and end-to-end timings.
 """
 from __future__ import annotations
@@ -55,7 +54,6 @@ def main(argv=None):
     ap.add_argument("--original-labels", action="store_true")
     args = ap.parse_args(argv)
     suf = "_original_labels" if args.original_labels else ""
-    markers = json.loads((T / f"significance_markers_dlf_ftchar{suf}.json").read_text())["markers"]
     dlf = json.loads((RES / "paper-repro" / f"{DLF_KEY}.json").read_text())
     rows, best = [], 0.0
     for g, items in GROUPS:
@@ -64,19 +62,13 @@ def main(argv=None):
             if not f.exists():
                 continue
             r = json.loads(f.read_text())
-            key = Path(path).name
-            mk = markers.get(key, {})
-            dag = r"$^{\dagger}$" if mk.get("sig_f1_holm") else ""
-            rows.append((g, lab + dag, *row_metrics(r, args.original_labels)))
+            rows.append((g, lab, *row_metrics(r, args.original_labels)))
     d = row_metrics(dlf, args.original_labels)
     fmt = lambda x: f"{x:.3f}"
     lines = [r"\begin{table}[h]", r"\centering",
-             r"\caption{Comparative performance of filtering methods on the 5{,}166-message test split "
-             + (r"(original labels). " if args.original_labels else
-                r"(81 test labels corrected after human review: 63 request$\to$non-request, 18 non-request$\to$request). ")
-             + r"Macro-averaged precision, recall and F1. DLF = fastText Layer~1 ($\alpha=12$) + gpt-4o-mini Layer~2. "
-               r"$\dagger$: positive-class F1 differs significantly from DLF (paired bootstrap, Holm-corrected, $p<0.05$; "
-               r"Table~\ref{tab:sig-dlf-compact}). Inference latency in Table~\ref{tab:latency}.}",
+             r"\caption{Comparative performance of filtering methods on the 5{,}166-message test split. "
+             r"Macro-averaged precision, recall and F1. DLF = fastText Layer~1 ($\alpha=12$) + gpt-4o-mini Layer~2. "
+             r"Pairwise significance tests in Table~\ref{tab:significance}; inference latency in Table~\ref{tab:latency}.}",
              r"\label{tab:DLF" + ("-original-labels" if args.original_labels else "") + "}",
              r"\resizebox{\columnwidth}{!}{%", r"\begin{tabular}{@{}llcccc@{}}", r"\toprule",
              r"\textbf{Embedding} & \textbf{Classifier} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} \\",

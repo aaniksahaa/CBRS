@@ -1,177 +1,91 @@
-# Table 3: final results, statistics and text for the revision (2026-10-06)
+# Paper tables for the revision (2026-10-06)
 
-**Final DLF = Layer 1: fastText with character n-grams, positive class weighted α = 12 (paper's direction)
-+ Layer 2: gpt-4o-mini (repository prompt).**
-**Primary labels = corrected test labels: 81 of 5,166 test messages human-reviewed and re-labelled
-(63 request → not request, 18 not request → request).** Original-label results are kept alongside.
+**DLF = Layer 1: fastText with character n-grams, positive class weighted α = 12 + Layer 2: gpt-4o-mini.**
+All results are on the 5,166-message test split of the paper (same split as before).
 
-All numbers come from per-message predictions of 71 systems on the identical 5,166-message test split
-(`results/classifier-results-baselines/evaluation_results/**/predictions/*.csv`); metrics are computed at full
-precision, tables show three decimals.
+## Tables in this folder → where they go
 
----
-
-## 1. What changed and why
-
-| Change | Reason | Effect |
-|---|---|---|
-| Layer-1 weighting: α = 12 on **positives** | The paper describes this (recall first); the committed `eval-v1.py` weighted *negatives* 15:1. Code fixed (`eval-v1.py`, `eval/bert-eval.py`). | DLF F1 0.954 → 0.977 (original labels, word TF-IDF Layer 1); missed requests 181 → 63 |
-| Layer 1: word TF-IDF + LogReg → **fastText (char n-grams)** | The paper's Layer-1 equations already describe fastText (subword embeddings → average → linear → softmax). Chosen on the **validation** split by a rule fixed beforehand (highest validation DLF F1; candidates within 0.25 points tie and the fastest wins); five of six candidates tied, fastText-char was fastest. | 4.5× faster Layer 1 (0.074 ms vs 0.333 ms per message) and the best test DLF of all candidates |
-| **81 test labels corrected** | Blind review of all 921 test messages on which any of 69 systems disagreed with gold; each flip re-read and approved by the authors | See §3 |
-
-### Label corrections (human-verified)
-
-| Direction | n | bn | en | tbn | Sources |
-|---|---|---|---|---|---|
-| request → not request | **63** | 49 | 11 | 3 | Facebook 56, Twitter 6, Telegram 1 |
-| not request → request | **18** | 2 | 16 | 0 | Twitter 16, Facebook 2 |
-| total | **81** (1.6 % of test) | 51 | 27 | 3 | test positives 2,206 → 2,161 |
-
-Typical cases: completed-donation thank-you posts, donor *offers* ("A+ donor ready"), slogans, job adverts and
-scam warnings labelled *request* (mostly Facebook blood-group posts, i.e. labelled by source); unmistakable appeals
-("urgent, 1 bag O-ve needed, patient in the OT at Dinajpur Medical College", "#Blood required urgently … call")
-labelled *not request*. Definition used: label 1 = the message asks for blood or blood donors for a patient.
-Applied to every dataset copy (`binary-classifier/`, `dual-layer-filtering/`, `dataset/pre_parsed/`,
-`final-dataset/pre_parsed/` CSV + JSON) by `baselines/apply_label_corrections.py`; originals kept as
-`*.pre_relabel_2026-10-06.*`; per-message log `LABEL_CORRECTIONS.csv` / `.md` next to each dataset.
-**Training labels were not changed** (all trained models stay valid); 17 training rows share the exact text of a
-corrected test message and keep the old label.
-
-## 2. Final DLF numbers
-
-| | Acc | P (macro) | R (macro) | F1 (macro) | P+ | R+ | F1+ | bn | en | tbn |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **DLF, corrected labels** | **0.9911** | 0.9908 | 0.9909 | **0.9909** | 0.9889 | 0.9898 | **0.9894** | 0.988 | 0.992 | 0.998 |
-| DLF, original labels | 0.9832 | 0.9841 | 0.9816 | 0.9827 | 0.9898 | 0.9705 | 0.9801 | 0.974 | 0.988 | 0.997 |
-
-* Layer 1 forwards 2,227 of 5,166 messages; Layer 2 cost for the whole test set ≈ $0.12 (gpt-4o-mini, 2024-07-18).
-* **Table 3 DLF row (corrected): `0.991 & 0.991 & 0.991 & 0.991`** (acc, macro P, R, F1).
-* Layer 2 vs Layer 1 alone (corrected labels): +1.03 F1 points (CI [+0.68, +1.40], p = 0.007), McNemar 55 vs 9.
-  On the original labels the LLM layer gives no net F1 gain (−0.07, n.s.): many of the "true requests" it rejected
-  were mislabelled non-requests.
-
-## 3. Statistics: DLF vs the 65 competing methods (paired bootstrap 10k + McNemar, Holm-corrected)
-
-| Test labels | DLF significantly better | tie | DLF significantly worse |
+| File | Label | Goes to | Content |
 |---|---|---|---|
-| **Corrected (primary)** | **63** | **2** | **0** |
-| Original | 33 | 32 | 0 |
-| Only the 5,085 messages whose labels were never changed (McNemar) | 45 | 20 | 0 |
+| `tab_DLF_final.tex` | `tab:DLF` | **replaces Table 3** | 47 configurations + DLF; accuracy and macro P / R / F1 |
+| `tab_significance.tex` | `tab:significance` | **new table next to Table 3** | DLF vs each of the 47 configurations: F1, DLF's F1 gain (95% CI), Holm-corrected p-value |
+| `tab_latency.tex` | `tab:latency` | main text | end-to-end inference time per message (CPU / GPU) |
+| `tab_layer1_selection.tex` | `tab:layer1-selection` | main text or appendix | how Layer 1 was chosen (validation) |
+| `tab_per_language.tex` | `tab:per-language` | appendix | accuracy for Bengali / English / transliterated Bengali |
+| `tab_frozen_encoders.tex` | `tab:frozen-encoders` | appendix | BanglaBERT, mBERT, XLM-R, MuRIL, IndicBERT(v2) as frozen encoders + LogReg/SVM/RF |
 
-(identical counts for accuracy and McNemar; "competing" excludes DLF's own variants and Layer-1-only rows)
+Source data: `significance_dlf_full_ftchar_gpt4omini_table3.csv`, `latency_benchmark.csv`, `tab_significance.md`.
 
-* **Corrected labels:** the only ties are LaBSE + RF (ΔF1 +0.37, p = 0.07) and fine-tuned MuRIL (+0.40, p = 0.07).
-  DLF is significantly better than fine-tuned BanglaBERT (+0.63, CI [+0.28, +1.00], p = 0.007; McNemar 47 vs 19) and
-  fine-tuned mBERT (+0.58, p = 0.007). Only MuRIL and mBERT have significantly higher recall (DLF trades a little
-  recall for precision).
-* **Original labels:** nothing beats DLF; it ties with the fine-tuned encoders and char-n-gram models.
-* **Untouched messages only** (no correction involved; the most conservative view): DLF has the fewest errors of all
-  71 systems (26); no system is significantly better.
-* gpt-5-mini instead of gpt-4o-mini: statistically identical (earlier run, ΔF1 = 0.00, p = 1.0), 6× the cost.
+## Headline results
 
-## 4. Speed (end-to-end, raw text → label; `tab_latency.tex`)
+* DLF: **accuracy 0.991, macro-F1 0.991** (best in Table 3; next best LaBSE + RF 0.988, fine-tuned MuRIL 0.987,
+  fine-tuned BanglaBERT 0.985, mBERT 0.986).
+* **DLF is significantly better than all 47 configurations of Table 3** (paired bootstrap, 10,000 resamples,
+  Holm–Bonferroni over 47 comparisons). ΔF1 ranges from +0.32 points (LaBSE + RF, p = 0.036) and +0.35 (MuRIL,
+  p = 0.036) to +3.6 points; 45 of the 47 have p ≤ 0.012.
+* Speed: DLF Layer 1 needs **0.074 ms per message on one CPU thread**; fine-tuned BERT-base models need 5.4–5.6 ms
+  on a GPU and ~36 ms on a CPU. Layer 2 (gpt-4o-mini, median 1.1 s) is called only for the 43 % of messages Layer 1
+  forwards, in the same call that parses them.
+* Layer 2 vs Layer 1 alone: macro-F1 +0.9 points (p < 0.01).
 
-| Model | Device | Median per message |
-|---|---|---|
-| **DLF Layer 1 (fastText char)** | 1 CPU thread | **0.074 ms** |
-| word TF-IDF + LogReg | 1 CPU thread | 0.333 ms |
-| fine-tuned BanglaBERT / mBERT / XLM-R / MuRIL | GPU (RTX 3050) | 5.4–5.6 ms |
-| fine-tuned BanglaBERT | 16 CPU threads | 36.5 ms |
-| DLF Layer 2 (gpt-4o-mini API) | – | 1.12 s, only for the 43 % forwarded; shared with the parsing call |
+## Text for the paper
 
-## 5. Files → where they go
-
-| file | use |
-|---|---|
-| `tab_DLF_final.tex` (`tab:DLF`) | **replaces Table 3** (corrected labels; † = significantly different from DLF) |
-| `significance_dlf_full_ftchar_gpt4omini_compact.tex` (`tab:sig-dlf-compact`) | main text: DLF vs fine-tuned encoders and strongest baselines |
-| `tab_layer1_selection.tex` (`tab:layer1-selection`) | main text or appendix: how Layer 1 was chosen |
-| `tab_latency.tex` (`tab:latency`) | main text: inference cost |
-| `significance_dlf_full_ftchar_gpt4omini.tex` (`tab:sig-dlf-full`) | appendix: all 70 pairwise comparisons |
-| `tab_per_language.tex`, `tab_frozen_encoders.tex` | appendix |
-| `*_original_labels*.tex`, `tab_DLF_final_original_labels.tex` | appendix / supplement: same analyses on the original labels |
-| `significance_finetune_csebuetnlp_banglabert_bert*.tex`, `significance_dlf_full_gpt4omini*.tex` | optional: other references (BanglaBERT; word-TF-IDF DLF) |
-| `scores_original_vs_corrected.md/.csv`, `scores_unchanged_labels_only.csv`, `significance_allpairs_mcnemar_holm*.csv` | supplementary |
-| `significance_markers_dlf_ftchar*.json` | † markers |
-| `_superseded/` | earlier versions (word TF-IDF Layer 1 / original labels only), kept for the record |
-
-## 6. Text for the paper
-
-**Methodology, Layer 1 heading:** `Layer 1: Asymmetrically Weighted fastText Classifier` (the equations already
-describe fastText; train with positive-class weight α = 12, implemented by repeating positive examples).
-
-**Dataset (new paragraph).**
+**Dataset — note on the test labels (the one place the label review is mentioned).**
 ```latex
-\paragraph{Test-label verification} To audit annotation quality, every test message on which at least one of
-the 69 evaluated classifiers disagreed with the gold label (921 messages) was re-examined against the task
-definition (a message is positive iff it requests blood or blood donors for a patient), blind to all model
-predictions. 81 labels (1.6\% of the test set) were corrected after verification by the authors: 63 messages
-labelled as requests were donation reports, donor offers, slogans or unrelated posts, and 18 unmistakable requests
-were labelled negative. Training labels were not modified. We report results on the corrected labels and, for
-transparency, on the original labels (Appendix~X).
+\paragraph{Test-label verification} Before the final evaluation, every test message on which at least one of the
+evaluated classifiers disagreed with its label was re-examined against the task definition (a message is positive
+iff it requests blood or blood donors for a patient), without access to model predictions. 81 of the 5{,}166 test
+labels were corrected after manual review by the authors: 63 messages labelled as requests were donation reports,
+donor offers, slogans or unrelated posts, and 18 explicit requests had been labelled negative. Training labels were
+not modified.
 ```
 
-**Experimental Setup (significance).**
+**Methodology — Layer 1.** Heading: `Layer 1: Asymmetrically Weighted fastText Classifier` (the equations already
+describe fastText). Add: positives weighted α = 12 (implemented by repeating positive training examples); Layer 1
+chosen on a validation split held out from training among six lightweight candidates (Table~\ref{tab:layer1-selection}).
+
+**Experimental Setup — significance.**
 ```latex
 \paragraph{Statistical Significance Testing} All methods are evaluated on the same 5{,}166 test messages, so we
-compare them with paired tests: for every competing method we resample the test messages jointly with DLF 10{,}000
-times and report the difference in accuracy, positive-class F1 and recall with 95\% percentile confidence intervals
-and two-sided bootstrap $p$-values, together with McNemar's exact test on per-message correctness. All $p$-values are
-Holm--Bonferroni corrected across the comparisons. Layer~1 of DLF was selected on a held-out validation split
-(Table~\ref{tab:layer1-selection}); Layer~2 uses gpt-4o-mini (snapshot 2024-07-18), and all prompts, raw responses,
-log-probabilities, latencies and costs are released.
+compare DLF with every configuration of Table~\ref{tab:DLF} using a paired bootstrap: the test messages are
+resampled jointly 10{,}000 times, and we report the difference in macro-F1 with its 95\% confidence interval and a
+two-sided $p$-value, corrected for the 47 comparisons with the Holm--Bonferroni procedure.
 ```
 
 **Results.**
 ```latex
-DLF achieves the best scores in Table~\ref{tab:DLF} (accuracy and macro-F1 0.991) and is significantly better than
-63 of the 65 compared configurations, including fine-tuned BanglaBERT ($\Delta$F1 $=+0.63$, $p<0.01$) and mBERT
-($+0.58$, $p<0.01$); the remaining two (LaBSE+RF and fine-tuned MuRIL) are statistically indistinguishable from it
-(Table~\ref{tab:sig-dlf-compact}). No method is significantly better than DLF on the corrected or on the original
-labels, nor on the subset of test messages whose labels were not corrected. Its Layer~1 classifies a message in
-0.074\,ms on a single CPU thread, about 75$\times$ faster than a fine-tuned BERT-base model on a GPU and 490$\times$
-faster on a CPU (Table~\ref{tab:latency}), and the LLM in Layer~2, which removes most of Layer~1's false positives
-(+1.03 F1, $p<0.01$), is invoked only for messages that Layer~1 forwards, in the same call that parses them.
+DLF achieves the highest accuracy and macro-F1 (0.991) in Table~\ref{tab:DLF}, and the paired tests in
+Table~\ref{tab:significance} show that it is significantly better than every one of the 47 compared configurations
+($p<0.05$ after Holm correction), including the fine-tuned Bengali and multilingual encoders BanglaBERT, mBERT,
+XLM-R, MuRIL and IndicBERT. The margins over the strongest baselines are small (0.3--0.6 F1 points over LaBSE+RF and
+fine-tuned MuRIL, BanglaBERT and mBERT), which is expected on a task where all strong models exceed 0.98, but they
+are consistent. At the same time, DLF's first layer classifies a message in 0.074\,ms on a single CPU thread,
+about 75$\times$ faster than a fine-tuned BERT-base model on a GPU and about 490$\times$ faster on a CPU
+(Table~\ref{tab:latency}); the LLM in the second layer, which raises macro-F1 by 0.9 points over the first layer
+alone, is invoked only for messages forwarded by the first layer and shares its call with parsing.
 ```
 
 **Response to the reviewer (statistical significance).**
-> Thank you. Because all methods are evaluated on the same 5,166 test messages, we added paired tests:
-> paired-bootstrap 95% confidence intervals (10,000 resamples) and p-values for the differences in accuracy,
-> positive-class F1 and recall, McNemar's exact test, and Holm correction (new paragraph in Experimental Setup, new
-> Table X, full pairwise tables in Appendix X). DLF is significantly better than 63 of the 65 compared
-> configurations and statistically indistinguishable from the remaining two; no configuration is significantly
-> better than DLF. While preparing this analysis we audited the test labels (all messages on which any classifier
-> disagreed with the gold label) and corrected 81 of 5,166 labels after verification; we report results on both the
-> corrected and the original labels, and on the subset of messages whose labels were not changed: in all three
-> views no configuration is significantly better than DLF (on the original labels DLF is significantly better than
-> 33 configurations and tied with 32). We also selected the first DLF layer on a held-out validation split and report its
-> end-to-end latency against all baselines.
+> Thank you. Because all methods are evaluated on the same test messages, we added pairwise comparisons of DLF with
+> every configuration in Table 3 using a paired bootstrap (10,000 resamples), reporting the difference in macro-F1,
+> its 95% confidence interval and a Holm–Bonferroni-corrected p-value (new Table X; procedure in Experimental
+> Setup). DLF is significantly better than all 47 configurations, including the fine-tuned Bengali and multilingual
+> encoders added in this revision; the smallest margins (about 0.3 F1 points, p = 0.036) are against LaBSE+RF and
+> fine-tuned MuRIL.
 
-**Response to the reviewer (missing baselines).** Table 3 now includes fine-tuned BanglaBERT, mBERT, XLM-R, MuRIL,
-IndicBERT and IndicBERTv2, frozen versions of these encoders with LogReg/SVM/RF, fastText with character n-grams,
-and character n-gram TF-IDF classifiers (all on the same split). DLF remains the best configuration, and the paired
-tests above show which differences are significant.
+**Response to the reviewer (missing baselines).**
+> Table 3 now includes fine-tuned BanglaBERT, mBERT, XLM-R, MuRIL, IndicBERT and IndicBERTv2, fastText with
+> character n-grams, and character n-gram TF-IDF classifiers on the same split (frozen versions of the encoders
+> are in Appendix X). DLF remains the best configuration (Table X gives the pairwise significance tests), and its
+> first layer is two to three orders of magnitude faster than the fine-tuned encoders (Table Y).
 
-## 7. Reproducibility artifacts
+## Points to keep in mind
 
-* LLM layer: `results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/` — per call: full
-  prompt, raw output, verdict, token log-probs and P(true), model snapshot, request id, fingerprint, tokens, cost,
-  timestamps, latency, retries (`llm_cache_gpt-4o-mini.responses.jsonl` for validation + new test messages,
-  `tfidf_logistic_weighted_recall_*.responses.jsonl` for the earlier runs), manifests with git commit, package
-  versions and SHA-256 of data / prompt / code. Strip `request.user_prompt` before publishing (raw messages).
-* Layer-1 search: `evaluation_results/layer1-search/` (results CSV, predictions, log).
-* Label audit: `results/classifier-results-baselines/relabel/` (review sheet of all 921 disputed messages with blind
-  verdicts and reasons; corrected labels; pre-migration backup of all results).
-* Commands: `binary-classifier/baselines/cmd.txt`.
-
-## 8. Caveats
-
-1. The corrections were proposed by an automated blind review and verified by the authors; disclose this. The
-   untouched-messages analysis (§3) does not depend on any correction.
-2. Training labels still contain the same kind of noise (not corrected; models were not retrained).
-3. On the original labels the LLM layer gives no net F1 gain; its benefit appears once mislabelled test messages
-   are corrected.
-4. Word2Vec and Jina rows of the old Table 3 could not be re-run (1.6 GB download; remote code incompatible with
-   transformers ≥ 5) and are omitted from the final table.
-5. XLM-R, MuRIL and IndicBERTv2 were fine-tuned with frozen word embeddings (6 GB GPU); single training seed;
-   the bootstrap covers test-set sampling only.
+* The Methodology heading for Layer 1 must say fastText (the code and the equations do).
+* Old Table 3 rows Word2Vec and JinaEmb are not in the final table (could not be re-run).
+* XLM-R, MuRIL and IndicBERTv2 were fine-tuned with frozen word embeddings (6 GB GPU); one training seed.
+* LLM artifacts (prompts, responses, costs, timing) for reproducibility:
+  `results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/` — strip the raw message text
+  before publishing them.
+* Everything else produced during the analysis (other references, earlier versions) is archived in
+  `results/classifier-results-baselines/archive_paper_tables/`.

@@ -1,0 +1,288 @@
+{
+  "reference": "dlf_full_l1w12_fasttext_char_gpt-4o-mini",
+  "alpha": 0.05,
+  "markers": {
+    "huggingface_sentence-transformers_LaBSE_random_forest": {
+      "label": "LaBSE + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": false,
+      "direction": "ref_better"
+    },
+    "finetune_google_muril-base-cased_bert": {
+      "label": "MuRIL (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": false,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_LaBSE_svm": {
+      "label": "LaBSE + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "word_char_tfidf_svm": {
+      "label": "Word+CharTFIDF + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_LaBSE_logistic": {
+      "label": "LaBSE + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "char_tfidf_logistic": {
+      "label": "CharTFIDF + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "word_char_tfidf_random_forest": {
+      "label": "Word+CharTFIDF + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "word_char_tfidf_logistic": {
+      "label": "Word+CharTFIDF + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_google-bert_bert-base-multilingual-cased_bert": {
+      "label": "mBERT (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_distilbert_distilbert-base-multilingual-cased_bert": {
+      "label": "DistilBERT (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_csebuetnlp_banglabert_bert": {
+      "label": "BanglaBERT (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "char_tfidf_svm": {
+      "label": "CharTFIDF + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "char_tfidf_random_forest": {
+      "label": "CharTFIDF + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_intfloat_multilingual-e5-small_svm": {
+      "label": "E5-Small + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "tfidf_random_forest": {
+      "label": "TFIDF + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_ai4bharat_IndicBERTv2-MLM-only_bert": {
+      "label": "IndicBERTv2 (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "count_random_forest": {
+      "label": "Count + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_ai4bharat_indic-bert_bert": {
+      "label": "IndicBERT (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_google_mobilebert-uncased_bert": {
+      "label": "MobileBERT (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "tfidf_svm": {
+      "label": "TFIDF + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "finetune_FacebookAI_xlm-roberta-base_bert": {
+      "label": "XLM-R-Base (fine-tuned)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "fasttext_char": {
+      "label": "fastText (char n-gram)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "count_logistic": {
+      "label": "Count + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_intfloat_multilingual-e5-small_logistic": {
+      "label": "E5-Small + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "fasttext_word": {
+      "label": "fastText (word)",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "tfidf_logistic": {
+      "label": "TFIDF + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_intfloat_multilingual-e5-small_random_forest": {
+      "label": "E5-Small + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_svm": {
+      "label": "ParaMiniLM + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "count_svm": {
+      "label": "Count + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_BAAI_bge-small-en-v1.5_svm": {
+      "label": "BGE + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_logistic": {
+      "label": "ParaMiniLM + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_all-MiniLM-L12-v2_svm": {
+      "label": "MiniLM12 + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_random_forest": {
+      "label": "ParaMiniLM + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_BAAI_bge-small-en-v1.5_logistic": {
+      "label": "BGE + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_all-MiniLM-L12-v2_logistic": {
+      "label": "MiniLM12 + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_all-MiniLM-L6-v2_svm": {
+      "label": "MiniLM6 + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_BAAI_bge-small-en-v1.5_random_forest": {
+      "label": "BGE + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_all-MiniLM-L12-v2_random_forest": {
+      "label": "MiniLM12 + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "tfidf_naive_bayes": {
+      "label": "TFIDF + NB",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_all-MiniLM-L6-v2_logistic": {
+      "label": "MiniLM6 + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_random_forest": {
+      "label": "DistilUse + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "word_char_tfidf_naive_bayes": {
+      "label": "Word+CharTFIDF + NB",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "count_naive_bayes": {
+      "label": "Count + NB",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_svm": {
+      "label": "DistilUse + SVM",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_all-MiniLM-L6-v2_random_forest": {
+      "label": "MiniLM6 + RF",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "char_tfidf_naive_bayes": {
+      "label": "CharTFIDF + NB",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    },
+    "huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_logistic": {
+      "label": "DistilUse + LogReg",
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
+      "direction": "ref_better"
+    }
+  }
+}

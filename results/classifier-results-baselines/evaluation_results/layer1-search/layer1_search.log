@@ -1,0 +1,26 @@
+13:55:19 INFO layer1_search: word_tfidf_lr        layer-1 val R+=0.9908 fwd=902 | test R+=0.9900 fwd=2312  (2s)
+13:55:21 INFO layer1_search: count_lr             layer-1 val R+=0.9873 fwd=889 | test R+=0.9823 fwd=2268  (2s)
+13:55:38 INFO layer1_search: char_tfidf_lr        layer-1 val R+=0.9919 fwd=879 | test R+=0.9914 fwd=2289  (17s)
+13:55:57 INFO layer1_search: word_char_tfidf_lr   layer-1 val R+=0.9908 fwd=876 | test R+=0.9914 fwd=2273  (19s)
+14:01:39 INFO layer1_search: fasttext_char        layer-1 val R+=0.9838 fwd=865 | test R+=0.9855 fwd=2227  (343s)
+14:02:22 INFO layer1_search: fasttext_word        layer-1 val R+=0.9815 fwd=859 | test R+=0.9764 fwd=2200  (43s)
+14:02:22 INFO layer1_search: consistency: word_tfidf_lr test predictions identical to the existing DLF Layer 1: True
+14:02:22 INFO layer1_search: LLM verdicts cached: 2171; new calls needed (union over candidates, val + test): 887
+14:02:39 INFO layer1_search: word_tfidf_lr        layer-1 val R+=0.9908 fwd=902 | test R+=0.9900 fwd=2312  (2s)
+14:02:41 INFO layer1_search: count_lr             layer-1 val R+=0.9873 fwd=889 | test R+=0.9823 fwd=2268  (2s)
+14:02:58 INFO layer1_search: char_tfidf_lr        layer-1 val R+=0.9919 fwd=879 | test R+=0.9914 fwd=2289  (17s)
+14:03:17 INFO layer1_search: word_char_tfidf_lr   layer-1 val R+=0.9908 fwd=876 | test R+=0.9914 fwd=2273  (19s)
+14:08:59 INFO layer1_search: fasttext_char        layer-1 val R+=0.9838 fwd=865 | test R+=0.9855 fwd=2227  (342s)
+14:09:42 INFO layer1_search: fasttext_word        layer-1 val R+=0.9815 fwd=859 | test R+=0.9764 fwd=2200  (43s)
+14:09:42 INFO layer1_search: consistency: word_tfidf_lr test predictions identical to the existing DLF Layer 1: True
+14:09:42 INFO layer1_search: LLM verdicts cached: 2171; new calls needed (union over candidates, val + test): 887
+14:10:20 INFO layer1_search: 100/887 new LLM calls, cost so far $0.0053
+14:10:49 INFO layer1_search: 200/887 new LLM calls, cost so far $0.0109
+14:11:20 INFO layer1_search: 300/887 new LLM calls, cost so far $0.0168
+14:11:50 INFO layer1_search: 400/887 new LLM calls, cost so far $0.0224
+14:12:20 INFO layer1_search: 500/887 new LLM calls, cost so far $0.0277
+14:12:49 INFO layer1_search: 600/887 new LLM calls, cost so far $0.0332
+14:13:20 INFO layer1_search: 700/887 new LLM calls, cost so far $0.0387
+14:13:50 INFO layer1_search: 800/887 new LLM calls, cost so far $0.0441
+14:14:17 INFO layer1_search: 887/887 new LLM calls, cost so far $0.0486
+14:14:17 INFO layer1_search: selection: best val DLF F1+ 0.9855; tied (within 0.25 pts): ['word_tfidf_lr', 'count_lr', 'char_tfidf_lr', 'word_char_tfidf_lr', 'fasttext_char']; chosen (fastest of tied): fasttext_char

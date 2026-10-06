@@ -1,0 +1,18 @@
+system,group,device,single_median_s,single_p95_s,batch_s_per_msg,note
+DLF Layer 1: word TF-IDF + weighted LogReg,layer1,cpu1,0.0003325529996800469,0.0003833000498161709,1.688762969414321e-05,
+TF-IDF + LogReg (paper row),lexical,cpu1,0.00021133799964445643,0.00026865094946515455,1.7131467286160547e-05,
+Count + LogReg (paper row),lexical,cpu1,0.00013980700032334425,0.00016849454982548187,1.8522779326274283e-05,
+Char n-gram TF-IDF + LogReg,lexical,cpu1,0.000440909000190004,0.0007816221503162522,0.00018368820344562796,
+"fastText, char n-grams 2-5",fasttext,cpu1,7.350450050580548e-05,0.0001496146505814976,7.554623383652177e-05,
+"fastText, word only",fasttext,cpu1,1.674150007602293e-05,3.745300009541096e-05,1.509635462635111e-05,
+banglabert_ft (fine-tuned),finetuned,gpu,0.005498849499872449,0.008331271200313494,0.0059866688279132775,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+mbert_ft (fine-tuned),finetuned,gpu,0.005549508999592945,0.008659233849994053,0.005988790069105684,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+xlmr_base_ft (fine-tuned),finetuned,gpu,0.005608738000319136,0.008623601300496376,0.005917308368563549,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+muril_ft (fine-tuned),finetuned,gpu,0.005436517500129412,0.008194516549929177,0.006018295297328551,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+indicbert_ft (fine-tuned),finetuned,gpu,0.005624050500045996,0.008700390300555227,0.006022510504065145,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+distilbert_multilingual_ft (fine-tuned),finetuned,gpu,0.0030272020003394573,0.004621454400330549,0.003025637041618145,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+paper_mobilebert_ft (fine-tuned),finetuned,gpu,0.010822951000136527,0.011536014850071297,0.0025587701614401496,NVIDIA GeForce RTX 3050 6GB Laptop GPU
+banglabert_ft (fine-tuned),finetuned,cpu16,0.03653481199989983,0.3525482500505859,0.06628101603999949,"batch timed on first 1,000 messages"
+distilbert_multilingual_ft (fine-tuned),finetuned,cpu16,0.023054922000028455,0.2686124247005863,0.03314372786199965,"batch timed on first 1,000 messages"
+"DLF Layer 2 API call (gpt-4o-mini), per forwarded message",llm,api,1.1231093689998488,1.5308413112001742,0.51327883531959,"logged latencies of 2312 calls; batch = mean x forwarded fraction 0.448, sequential"
+"DLF Layer 2 API call (gpt-5-mini), per forwarded message",llm,api,2.2561981294998077,3.614967391900063,1.0793861472218307,"logged latencies of 2312 calls; batch = mean x forwarded fraction 0.448, sequential"

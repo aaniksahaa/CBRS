@@ -15,8 +15,10 @@ DEFAULT_DATA = Path(__file__).resolve().parents[1] / "pre_parsed_dataset.csv"
 
 SPLIT_SEED = 42
 TEST_SIZE = 0.2
-# Sanity fingerprint of the paper split (label counts of the 5,166-row test set).
-EXPECTED_TEST_LABEL_COUNTS = {0: 2960, 1: 2206}
+# Sanity fingerprint of the paper split (label counts of the 5,166-row test set). 2026-10-06: 81 test labels were
+# corrected after human review (63 request->not request, 18 not request->request); see LABEL_CORRECTIONS.md.
+EXPECTED_TEST_LABEL_COUNTS_ORIGINAL = {0: 2960, 1: 2206}
+EXPECTED_TEST_LABEL_COUNTS = {0: 3005, 1: 2161}
 EXPECTED_TEST_INDEX_MD5 = "40630e29c4ef04420bbaa55a2865e7e3"
 
 
@@ -60,7 +62,8 @@ def load_split(data_path: str | Path = DEFAULT_DATA, val_fraction: float = 0.0, 
 
     idx_md5 = hashlib.md5("|".join(map(str, X_test.index)).encode()).hexdigest()
     counts = test["label"].value_counts().to_dict()
-    matches = counts == EXPECTED_TEST_LABEL_COUNTS and idx_md5 == EXPECTED_TEST_INDEX_MD5
+    # the index fingerprint does not depend on labels; label counts identify original vs corrected labels
+    matches = idx_md5 == EXPECTED_TEST_INDEX_MD5 and counts in (EXPECTED_TEST_LABEL_COUNTS, EXPECTED_TEST_LABEL_COUNTS_ORIGINAL)
     if not matches:
         warnings.warn(
             f"Test split does not match the paper split (label counts {counts}, index md5 {idx_md5}). "

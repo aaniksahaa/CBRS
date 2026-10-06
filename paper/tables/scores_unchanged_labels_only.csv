@@ -1,0 +1,72 @@
+system,errors,f1_pos,b_ref_only,c_sys_only,p,key,p_holm
+DLF (fastText-char L1 + gpt-4o-mini),26,0.9939252336448599,0,0,1.0,dlf_full_l1w12_fasttext_char_gpt-4o-mini,
+mBERT (fine-tuned),28,0.9934974454249884,20,18,0.8714146793645341,finetune_google-bert_bert-base-multilingual-cased_bert,1.0
+Word+CharTFIDF + SVM,30,0.9930200093066542,18,14,0.5966148958541453,word_char_tfidf_svm,1.0
+BanglaBERT (fine-tuned),30,0.99302649930265,22,18,0.6358280026288412,finetune_csebuetnlp_banglabert_bert,1.0
+MuRIL (fine-tuned),31,0.9928024146737868,22,17,0.5223973804968411,finetune_google_muril-base-cased_bert,1.0
+Word+CharTFIDF + RF,34,0.9920856610800745,22,14,0.24298495403490966,word_char_tfidf_random_forest,1.0
+DLF (word TF-IDF L1 + gpt-5-mini),34,0.9920782851817335,19,11,0.20048842206597334,dlf_full_tfidf_logistic_weighted_recall_gpt-5-mini,1.0
+CharTFIDF + SVM,35,0.9918623575912578,18,9,0.12207812070846558,char_tfidf_svm,1.0
+DistilBERT (fine-tuned),35,0.9918736939865336,26,17,0.2220528201560228,finetune_distilbert_distilbert-base-multilingual-cased_bert,1.0
+CharTFIDF + RF,37,0.9913853317811409,27,16,0.12628947438543037,char_tfidf_random_forest,1.0
+XLM-R-Base (fine-tuned),38,0.9911832946635731,29,17,0.10380535550410741,finetune_FacebookAI_xlm-roberta-base_bert,1.0
+DLF (word TF-IDF L1 + gpt-4o-mini),38,0.9911421911421912,14,2,0.004180908203125,dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini,0.079437255859375
+IndicBERT (fine-tuned),38,0.9911668991166899,28,16,0.09614175442061423,finetune_ai4bharat_indic-bert_bert,1.0
+Word+CharTFIDF + LogReg,39,0.9909239003956248,24,11,0.040959591511636986,word_char_tfidf_logistic,0.49151509813964384
+LaBSE + RF,40,0.990632318501171,26,12,0.03355243967962451,huggingface_sentence-transformers_LaBSE_random_forest,0.43618171583511867
+CharTFIDF + LogReg,42,0.9902234636871509,25,9,0.00904118549078703,char_tfidf_logistic,0.1537001533433795
+LaBSE + SVM,42,0.9902234636871509,25,9,0.00904118549078703,huggingface_sentence-transformers_LaBSE_svm,0.1537001533433795
+E5-Small + SVM,43,0.989979025868096,29,12,0.011507789735333063,huggingface_intfloat_multilingual-e5-small_svm,0.17261684602999594
+IndicBERTv2 (fine-tuned),43,0.9900301414328774,30,13,0.0137181850586785,finetune_ai4bharat_IndicBERTv2-MLM-only_bert,0.192054590821499
+LaBSE + LogReg,45,0.9895324494068388,29,10,0.0033778479119064286,huggingface_sentence-transformers_LaBSE_logistic,0.06755695823812857
+fastText (char n-gram),46,0.9893122676579925,29,9,0.0016580525261815637,fasttext_char,0.038135208102175966
+MobileBERT (fine-tuned),47,0.9890672249360316,37,16,0.005486344876760141,finetune_google_mobilebert-uncased_bert,0.09875420778168253
+Count + RF,47,0.9890315052508751,33,12,0.002458900322096724,count_random_forest,0.05409580708612793
+TFIDF + RF,47,0.9890161252629119,34,13,0.0030876764615186394,tfidf_random_forest,0.06484120569189143
+"DLF layer 1 only (fasttext_char, pos. x12)",48,0.9888888888888889,31,9,0.0006795482549932785,l1w12_fasttext_char,0.016309158119838685
+TFIDF + SVM,49,0.9885913853317811,32,9,0.000430857042374555,tfidf_svm,0.01120228310173843
+IndicBERTv2 + SVM,50,0.9883666821777571,35,11,0.0005355850721002753,huggingface_ai4bharat_IndicBERTv2-MLM-only_svm,0.013389626802506882
+Count + LogReg,54,0.9874067164179104,37,9,4.0560361327379724e-05,count_logistic,0.0011356901171666323
+fastText (word),55,0.9871884463079431,42,13,0.00011361060320691506,fasttext_word,0.0030674862865867065
+E5-Small + LogReg,60,0.9860335195530726,43,9,2.0377698612961126e-06,huggingface_intfloat_multilingual-e5-small_logistic,5.909635254259908e-05
+IndicBERTv2 + LogReg,63,0.9853181076672104,49,12,1.969878418086636e-06,huggingface_ai4bharat_IndicBERTv2-MLM-only_logistic,5.909635254259908e-05
+mBERT + SVM,64,0.9850606909430439,49,11,7.561280982396751e-07,huggingface_google-bert_bert-base-multilingual-cased_svm,2.536305575935984e-05
+E5-Small + RF,64,0.9850117096018736,49,11,7.561280982396751e-07,huggingface_intfloat_multilingual-e5-small_random_forest,2.536305575935984e-05
+IndicBERTv2 + RF,64,0.9849976558837318,51,13,1.8809621564294015e-06,huggingface_ai4bharat_IndicBERTv2-MLM-only_random_forest,5.8309826849311445e-05
+MuRIL + RF,65,0.9846950788792088,51,12,7.459722282164659e-07,huggingface_google_muril-base-cased_random_forest,2.536305575935984e-05
+Count + SVM,66,0.9846725499303298,51,11,2.775636864143019e-07,count_svm,9.714729024500567e-06
+TFIDF + LogReg,66,0.9846225535880708,48,8,4.688184102041859e-08,tfidf_logistic,1.7815099587759065e-06
+XLM-R-Base + RF,69,0.9837990138530172,57,14,2.6659171387086086e-07,huggingface_FacebookAI_xlm-roberta-base_random_forest,9.597301699350991e-06
+ParaMiniLM + SVM,70,0.9836295603367633,56,12,6.209495737562187e-08,huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_svm,2.2975134228980093e-06
+mBERT + LogReg,76,0.9822512844465203,61,11,1.5488945360571046e-09,huggingface_google-bert_bert-base-multilingual-cased_logistic,6.040688690622708e-08
+MuRIL + SVM,87,0.9794859702900259,76,15,5.477140413468489e-11,huggingface_google_muril-base-cased_svm,2.1908561653873958e-09
+BanglaBERT + RF,90,0.9787334593572778,78,14,6.162186756126442e-12,huggingface_csebuetnlp_banglabert_random_forest,2.526496570011841e-10
+mBERT + RF,91,0.9784615384615385,77,12,9.03747673906413e-13,huggingface_google-bert_bert-base-multilingual-cased_random_forest,3.886114997797576e-11
+IndicBERT + SVM,91,0.9786334820380371,77,12,9.03747673906413e-13,huggingface_ai4bharat_indic-bert_svm,3.886114997797576e-11
+BGE + SVM,94,0.9779342723004695,80,12,1.7155995359729554e-13,huggingface_BAAI_bge-small-en-v1.5_svm,7.548637958281003e-12
+ParaMiniLM + LogReg,97,0.9773523231379874,83,12,3.211393990185144e-14,huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_logistic,1.4451272955833147e-12
+ParaMiniLM + RF,102,0.9759433962264151,86,10,3.2114796492801454e-16,huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_random_forest,1.477280638668867e-14
+MiniLM12 + SVM,107,0.974758197688134,91,10,1.6977475366916752e-17,huggingface_sentence-transformers_all-MiniLM-L12-v2_svm,8.318962929789209e-16
+MiniLM6 + SVM,107,0.9748767316271425,92,11,4.4533880264694435e-17,huggingface_sentence-transformers_all-MiniLM-L6-v2_svm,2.0930923724406384e-15
+BGE + LogReg,111,0.9739619985925405,97,12,1.0984371144539348e-17,huggingface_BAAI_bge-small-en-v1.5_logistic,5.492185572269674e-16
+IndicBERT + LogReg,111,0.9739742086752637,98,13,2.658284186005402e-17,huggingface_ai4bharat_indic-bert_logistic,1.275976409282593e-15
+BGE + RF,112,0.9736098020735156,98,12,6.156273065927667e-18,huggingface_BAAI_bge-small-en-v1.5_random_forest,3.1396992636231103e-16
+IndicBERT + RF,113,0.9731400047539814,99,12,3.4466261850741707e-18,huggingface_ai4bharat_indic-bert_random_forest,1.7922456162385688e-16
+XLM-R-Base + SVM,115,0.9730742214937954,101,12,1.0769168220004768e-18,huggingface_FacebookAI_xlm-roberta-base_svm,5.815350838802575e-17
+MiniLM12 + LogReg,116,0.972693032015066,99,9,2.6459721785029077e-20,huggingface_sentence-transformers_all-MiniLM-L12-v2_logistic,1.4817444199616283e-18
+"DLF layer 1 only (word TF-IDF LR, pos. x12)",117,0.9733667197814705,105,14,2.046521523946929e-18,tfidf_logistic_weighted_recall,1.0846564076918724e-16
+MiniLM12 + RF,118,0.9720246562351825,103,11,6.919847271973234e-20,huggingface_sentence-transformers_all-MiniLM-L12-v2_random_forest,3.8059159995852785e-18
+TFIDF + NB,119,0.9723577235772358,97,4,3.35638779268828e-24,tfidf_naive_bayes,2.1145243093936163e-22
+Word+CharTFIDF + NB,121,0.9720231213872832,104,9,1.25629706703917e-21,word_char_tfidf_naive_bayes,7.53778240223502e-20
+DLF layer 1 as coded (neg. weighted 15:1),122,0.9707434052757794,105,9,6.814017345933053e-22,tfidf_logistic_weighted,4.1565505810191624e-20
+DistilUse + RF,124,0.9706994328922496,110,12,5.4673157860812885e-21,huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_random_forest,3.1163699980663344e-19
+MiniLM6 + LogReg,125,0.9706227967097533,111,12,3.0259943287645954e-21,huggingface_sentence-transformers_all-MiniLM-L6-v2_logistic,1.7550767106834655e-19
+BanglaBERT + SVM,126,0.9702127659574468,112,12,1.6733702780891284e-21,huggingface_csebuetnlp_banglabert_svm,9.872884640725857e-20
+MuRIL + LogReg,131,0.9689647003079839,119,14,6.354785400836389e-22,huggingface_google_muril-base-cased_logistic,3.939966948518561e-20
+Count + NB,135,0.9686992812427545,113,4,9.245353271951797e-29,count_naive_bayes,6.009479626768668e-27
+MiniLM6 + RF,150,0.9643705463182898,135,11,2.666922584019218e-28,huggingface_sentence-transformers_all-MiniLM-L6-v2_random_forest,1.7068304537722996e-26
+DistilUse + SVM,151,0.9640561771006904,135,10,3.98708379363283e-29,huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_svm,2.631475303797668e-27
+CharTFIDF + NB,155,0.9639953542392566,139,10,3.292563254179238e-30,char_tfidf_naive_bayes,2.2060173803000893e-28
+BanglaBERT + LogReg,174,0.9588846880907372,159,11,8.849720830997581e-35,huggingface_csebuetnlp_banglabert_logistic,6.106307373388331e-33
+XLM-R-Base + LogReg,178,0.9580386610089581,165,13,1.0449754659157278e-34,huggingface_FacebookAI_xlm-roberta-base_logistic,7.10583316822695e-33
+DistilUse + LogReg,192,0.9548660084626234,175,9,4.692991986863574e-41,huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_logistic,3.2850943908045014e-39

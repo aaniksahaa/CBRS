@@ -2,66 +2,66 @@
     "vectorizer": "bert-end-to-end",
     "model": "bert",
     "embedding_model": "ai4bharat/indic-bert",
-    "accuracy": 0.9852884243128146,
+    "accuracy": 0.9843205574912892,
     "avg_inference_time_seconds": 0.0021671941631822575,
     "metrics": {
         "0": {
-            "precision": 0.9874915483434753,
-            "recall": 0.9868243243243243,
-            "f1-score": 0.9871578235890504,
-            "support": 2960.0
+            "precision": 0.9942528735632183,
+            "recall": 0.9787021630615641,
+            "f1-score": 0.9864162334395439,
+            "support": 3005.0
         },
         "1": {
-            "precision": 0.9823369565217391,
-            "recall": 0.9832275611967362,
-            "f1-score": 0.9827820570910738,
-            "support": 2206.0
+            "precision": 0.9710144927536232,
+            "recall": 0.992133271633503,
+            "f1-score": 0.9814602883955138,
+            "support": 2161.0
         },
-        "accuracy": 0.9852884243128146,
+        "accuracy": 0.9843205574912892,
         "macro avg": {
-            "precision": 0.9849142524326072,
-            "recall": 0.9850259427605302,
-            "f1-score": 0.984969940340062,
+            "precision": 0.9826336831584208,
+            "recall": 0.9854177173475336,
+            "f1-score": 0.9839382609175289,
             "support": 5166.0
         },
         "weighted avg": {
-            "precision": 0.9852904198961757,
-            "recall": 0.9852884243128146,
-            "f1-score": 0.9852892713446568,
+            "precision": 0.984531979074342,
+            "recall": 0.9843205574912892,
+            "f1-score": 0.9843431019567431,
             "support": 5166.0
         }
     },
     "extra": {
-        "macro_f1": 0.984969940340062,
-        "weighted_f1": 0.9852892713446568,
+        "macro_f1": 0.9839382609175289,
+        "weighted_f1": 0.9843431019567431,
         "confusion_matrix": [
             [
-                2921,
-                39
+                2941,
+                64
             ],
             [
-                37,
-                2169
+                17,
+                2144
             ]
         ],
         "per_language": {
             "bn": {
                 "n": 2042,
-                "accuracy": 0.9784524975514202,
-                "macro_f1": 0.9779706563100703,
-                "positive_recall": 0.9803921568627451
+                "accuracy": 0.9720861900097943,
+                "macro_f1": 0.9716439949044263,
+                "positive_recall": 0.9946714031971581
             },
             "en": {
                 "n": 2488,
-                "accuracy": 0.987540192926045,
-                "macro_f1": 0.9867951020251631,
-                "positive_recall": 0.9862579281183932
+                "accuracy": 0.9911575562700965,
+                "macro_f1": 0.9906382146109256,
+                "positive_recall": 0.9884332281808622
             },
             "tbn": {
                 "n": 636,
-                "accuracy": 0.9984276729559748,
-                "macro_f1": 0.9966548675359101,
-                "positive_recall": 0.9885057471264368
+                "accuracy": 0.9968553459119497,
+                "macro_f1": 0.9932102060424897,
+                "positive_recall": 1.0
             }
         },
         "n_test": 5166,
@@ -108,6 +108,69 @@
             "cpu_count": 16
         },
         "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
-        "matches_paper_split": true
+        "matches_paper_split": true,
+        "metrics_original_labels": {
+            "accuracy": 0.9852884243128146,
+            "metrics": {
+                "0": {
+                    "precision": 0.9874915483434753,
+                    "recall": 0.9868243243243243,
+                    "f1-score": 0.9871578235890504,
+                    "support": 2960.0
+                },
+                "1": {
+                    "precision": 0.9823369565217391,
+                    "recall": 0.9832275611967362,
+                    "f1-score": 0.9827820570910738,
+                    "support": 2206.0
+                },
+                "accuracy": 0.9852884243128146,
+                "macro avg": {
+                    "precision": 0.9849142524326072,
+                    "recall": 0.9850259427605302,
+                    "f1-score": 0.984969940340062,
+                    "support": 5166.0
+                },
+                "weighted avg": {
+                    "precision": 0.9852904198961757,
+                    "recall": 0.9852884243128146,
+                    "f1-score": 0.9852892713446568,
+                    "support": 5166.0
+                }
+            },
+            "macro_f1": 0.984969940340062,
+            "weighted_f1": 0.9852892713446568,
+            "confusion_matrix": [
+                [
+                    2921,
+                    39
+                ],
+                [
+                    37,
+                    2169
+                ]
+            ],
+            "per_language": {
+                "bn": {
+                    "n": 2042,
+                    "accuracy": 0.9784524975514202,
+                    "macro_f1": 0.9779706563100703,
+                    "positive_recall": 0.9803921568627451
+                },
+                "en": {
+                    "n": 2488,
+                    "accuracy": 0.987540192926045,
+                    "macro_f1": 0.9867951020251631,
+                    "positive_recall": 0.9862579281183932
+                },
+                "tbn": {
+                    "n": 636,
+                    "accuracy": 0.9984276729559748,
+                    "macro_f1": 0.9966548675359101,
+                    "positive_recall": 0.9885057471264368
+                }
+            }
+        },
+        "labels": "corrected test labels (2026-10-06): 81 of 5,166 human-verified corrections (63 request->not request, 18 not request->request)"
     }
 }

@@ -59,7 +59,7 @@ class TextClassifier:
     def __init__(self):
         self.vectorizer = TfidfVectorizer(max_features=5000, ngram_range=(1, 2))
         self.model = LogisticRegression(
-            class_weight={0: 15.0, 1: 1.0}, 
+            class_weight={0: 1.0, 1: 12.0},  # paper (Sec. Layer 1): alpha = 12 on positives -> recall first; was {0: 15, 1: 1} 
             C=1.0, 
             penalty='l2', 
             solver='lbfgs', 

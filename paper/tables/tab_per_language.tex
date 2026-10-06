@@ -1,0 +1,25 @@
+% AUTO-GENERATED (corrected labels)
+\begin{table}[h]
+\centering
+\caption{Accuracy by language on the corrected test labels: Bengali (bn, 2{,}042 messages), English (en, 2{,}488) and transliterated Bengali (tbn, 636).}
+\label{tab:per-language}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}lcccc@{}}
+\toprule
+\textbf{Model} & \textbf{bn} & \textbf{en} & \textbf{tbn} & \textbf{All} \\
+\midrule
+\textbf{DLF (fastText + gpt-4o-mini)} & 0.988 & 0.992 & 0.998 & 0.991 \\
+DLF Layer 1 only (fastText) & 0.965 & 0.992 & 0.998 & 0.982 \\
+BanglaBERT (fine-tuned) & 0.973 & 0.993 & 0.998 & 0.986 \\
+mBERT (fine-tuned) & 0.972 & 0.994 & 0.998 & 0.986 \\
+XLM-R (fine-tuned) & 0.967 & 0.994 & 0.997 & 0.984 \\
+MuRIL (fine-tuned) & 0.975 & 0.996 & 0.997 & 0.988 \\
+IndicBERT (fine-tuned) & 0.972 & 0.991 & 0.997 & 0.984 \\
+IndicBERTv2 (fine-tuned) & 0.972 & 0.991 & 1.000 & 0.985 \\
+Char TF-IDF + SVM & 0.972 & 0.994 & 0.998 & 0.985 \\
+fastText char (alone, unweighted) & 0.970 & 0.992 & 0.995 & 0.984 \\
+TF-IDF + LogReg & 0.969 & 0.990 & 0.994 & 0.982 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

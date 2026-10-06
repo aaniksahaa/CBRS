@@ -1,0 +1,148 @@
+{
+    "vectorizer": "char_tfidf_lr",
+    "model": "layer1",
+    "embedding_model": "N/A",
+    "accuracy": 0.9732868757259001,
+    "avg_inference_time_seconds": 0.00044090900019,
+    "metrics": {
+        "0": {
+            "precision": 0.9982620785540494,
+            "recall": 0.9557404326123128,
+            "f1-score": 0.976538592315539,
+            "support": 3005.0
+        },
+        "1": {
+            "precision": 0.9418960244648318,
+            "recall": 0.997686256362795,
+            "f1-score": 0.9689887640449438,
+            "support": 2161.0
+        },
+        "accuracy": 0.9732868757259001,
+        "macro avg": {
+            "precision": 0.9700790515094406,
+            "recall": 0.9767133444875539,
+            "f1-score": 0.9727636781802413,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9746834794663995,
+            "recall": 0.9732868757259001,
+            "f1-score": 0.9733804082480291,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9727636781802413,
+        "weighted_f1": 0.9733804082480291,
+        "confusion_matrix": [
+            [
+                2872,
+                133
+            ],
+            [
+                5,
+                2156
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9559255631733594,
+                "macro_f1": 0.954953276709143,
+                "positive_recall": 1.0
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9815112540192926,
+                "macro_f1": 0.9805613246996592,
+                "positive_recall": 0.9947423764458465
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9968553459119497,
+                "macro_f1": 0.9932102060424897,
+                "positive_recall": 1.0
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-06T14:14:19",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "l1w12_char_tfidf_lr",
+        "kind": "layer1",
+        "alpha_pos": 12,
+        "chosen": false,
+        "selection": "validation DLF F1+ (tie 0.25 pts -> fastest)",
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "metrics_original_labels": {
+            "accuracy": 0.9765776229190863,
+            "metrics": {
+                "0": {
+                    "precision": 0.9933958985053876,
+                    "recall": 0.9655405405405405,
+                    "f1-score": 0.9792701730340928,
+                    "support": 2960.0
+                },
+                "1": {
+                    "precision": 0.9554390563564875,
+                    "recall": 0.9913871260199456,
+                    "f1-score": 0.9730812013348165,
+                    "support": 2206.0
+                },
+                "accuracy": 0.9765776229190863,
+                "macro avg": {
+                    "precision": 0.9744174774309375,
+                    "recall": 0.9784638332802431,
+                    "f1-score": 0.9761756871844547,
+                    "support": 5166.0
+                },
+                "weighted avg": {
+                    "precision": 0.9771874599106385,
+                    "recall": 0.9765776229190863,
+                    "f1-score": 0.9766273407521331,
+                    "support": 5166.0
+                }
+            },
+            "macro_f1": 0.9761756871844547,
+            "weighted_f1": 0.9766273407521331,
+            "confusion_matrix": [
+                [
+                    2858,
+                    102
+                ],
+                [
+                    19,
+                    2187
+                ]
+            ],
+            "per_language": {
+                "bn": {
+                    "n": 2042,
+                    "accuracy": 0.9711067580803134,
+                    "macro_f1": 0.9702476073349953,
+                    "positive_recall": 0.9931798806479113
+                },
+                "en": {
+                    "n": 2488,
+                    "accuracy": 0.9754823151125402,
+                    "macro_f1": 0.9741984138709197,
+                    "positive_recall": 0.9894291754756871
+                },
+                "tbn": {
+                    "n": 636,
+                    "accuracy": 0.9984276729559748,
+                    "macro_f1": 0.9966548675359101,
+                    "positive_recall": 0.9885057471264368
+                }
+            }
+        },
+        "labels": "corrected test labels (2026-10-06): 81 of 5,166 human-verified corrections (63 request->not request, 18 not request->request)"
+    }
+}

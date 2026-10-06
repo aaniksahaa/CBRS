@@ -61,6 +61,16 @@ encoders. Full rows are in `../../paper/tables/baselines_all.csv`.
 * Single seed (42). With 5,166 test messages, one message = 0.02 points; differences under ~0.3
   points are within noise.
 
+## FINAL (2026-10-06): see `paper/tables/SIGNIFICANCE_NOTES.md`
+
+* DLF = fastText (char n-grams, positives weighted 12x; chosen on validation) + gpt-4o-mini.
+* **81 test labels were human-reviewed and corrected (63 request -> not request, 18 not request -> request)**;
+  corrected labels are now primary everywhere (dataset files, prediction CSVs `y_true`, result JSONs); original
+  labels/metrics are kept (`y_true_original`, `extra.metrics_original_labels`). Log: `relabel/` and the
+  `LABEL_CORRECTIONS.*` files next to each dataset copy.
+* Corrected labels: DLF acc 0.9911 / macro-F1 0.9909, significantly better than 63 of 65 competing methods, tied with
+  2, worse than none. Original labels: better than 33, tied 32, worse than none.
+
 ## Statistical significance (added 2026-10-01)
 
 Per-message predictions for every system (incl. re-runs of the paper's original rows) are in

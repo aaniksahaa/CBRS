@@ -41,7 +41,7 @@ MODELS = {
     'svm': lambda: SVC(kernel='linear', probability=True),
     'random_forest': lambda: RandomForestClassifier(n_estimators=100, random_state=42),
     'naive_bayes': lambda: MultinomialNB(),
-    'logistic-weighted': lambda: LogisticRegression(class_weight={0: 12.0, 1: 1.0}, C=1.0, penalty='l2', solver='lbfgs', max_iter=10000),
+    'logistic-weighted': lambda: LogisticRegression(class_weight={0: 1.0, 1: 12.0}, C=1.0, penalty='l2', solver='lbfgs', max_iter=10000),
 }
 
 class Word2VecVectorizer:

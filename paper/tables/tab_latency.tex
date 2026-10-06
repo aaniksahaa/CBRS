@@ -1,0 +1,29 @@
+% AUTO-GENERATED from paper/tables/latency_benchmark.csv
+\begin{table}[h]
+\centering
+\caption{End-to-end inference latency (raw text to label) on the same machine: median and 95th percentile for single messages, and per-message cost when classifying all 5{,}166 test messages in one batch. CPU rows: one thread (Intel i5-13450HX); GPU: RTX~3050 6\,GB, fp32. The LLM call of DLF Layer~2 (median 1.12\,s) is shared with the parsing call and only made for messages forwarded by Layer~1.}
+\label{tab:latency}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}llccc@{}}
+\toprule
+\textbf{Model} & \textbf{Device} & \makecell{\textbf{Single}\\\textbf{median (ms)}} & \makecell{\textbf{Single}\\\textbf{p95 (ms)}} & \makecell{\textbf{Batch}\\\textbf{(ms/msg)}} \\
+\midrule
+Word TF-IDF + LogReg & CPU (1 thread) & 0.333 & 0.383 & 0.017 \\
+Count + LogReg & CPU (1 thread) & 0.140 & 0.168 & 0.019 \\
+Char TF-IDF + LogReg & CPU (1 thread) & 0.441 & 0.782 & 0.184 \\
+\textbf{fastText char (DLF Layer 1)} & CPU (1 thread) & 0.074 & 0.150 & 0.076 \\
+fastText word & CPU (1 thread) & 0.017 & 0.037 & 0.015 \\
+\midrule
+BanglaBERT & GPU & 5.499 & 8.331 & 5.987 \\
+BanglaBERT & CPU (16 threads) & 36.535 & 352.548 & 66.281 \\
+mBERT & GPU & 5.550 & 8.659 & 5.989 \\
+XLM-R base & GPU & 5.609 & 8.624 & 5.917 \\
+MuRIL & GPU & 5.437 & 8.195 & 6.018 \\
+IndicBERT & GPU & 5.624 & 8.700 & 6.023 \\
+DistilBERT (mult.) & GPU & 3.027 & 4.621 & 3.026 \\
+DistilBERT (mult.) & CPU (16 threads) & 23.055 & 268.612 & 33.144 \\
+MobileBERT & GPU & 10.823 & 11.536 & 2.559 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

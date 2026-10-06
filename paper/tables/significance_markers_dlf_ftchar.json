@@ -1,0 +1,497 @@
+{
+ "reference": "dlf_full_l1w12_fasttext_char_gpt-4o-mini",
+ "labels": "corrected",
+ "alpha": 0.05,
+ "markers": {
+  "dlf_full_tfidf_logistic_weighted_recall_gpt-5-mini": {
+   "label": "DLF (word TF-IDF L1 + gpt-5-mini)",
+   "sig_f1_holm": false,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.065,
+   "p_f1_pos_holm": 0.7012
+  },
+  "dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini": {
+   "label": "DLF (word TF-IDF L1 + gpt-4o-mini)",
+   "sig_f1_holm": false,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.249,
+   "p_f1_pos_holm": 0.072
+  },
+  "huggingface_sentence-transformers_LaBSE_random_forest": {
+   "label": "LaBSE + RF",
+   "sig_f1_holm": false,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.371,
+   "p_f1_pos_holm": 0.072
+  },
+  "finetune_google_muril-base-cased_bert": {
+   "label": "MuRIL (fine-tuned)",
+   "sig_f1_holm": false,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.399,
+   "p_f1_pos_holm": 0.072
+  },
+  "huggingface_sentence-transformers_LaBSE_svm": {
+   "label": "LaBSE + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.474,
+   "p_f1_pos_holm": 0.0252
+  },
+  "word_char_tfidf_svm": {
+   "label": "Word+CharTFIDF + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.497,
+   "p_f1_pos_holm": 0.0126
+  },
+  "huggingface_sentence-transformers_LaBSE_logistic": {
+   "label": "LaBSE + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.519,
+   "p_f1_pos_holm": 0.0252
+  },
+  "char_tfidf_logistic": {
+   "label": "CharTFIDF + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.521,
+   "p_f1_pos_holm": 0.0112
+  },
+  "word_char_tfidf_random_forest": {
+   "label": "Word+CharTFIDF + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.566,
+   "p_f1_pos_holm": 0.0107999999999999
+  },
+  "word_char_tfidf_logistic": {
+   "label": "Word+CharTFIDF + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.567,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_google-bert_bert-base-multilingual-cased_bert": {
+   "label": "mBERT (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.582,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_distilbert_distilbert-base-multilingual-cased_bert": {
+   "label": "DistilBERT (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.606,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_csebuetnlp_banglabert_bert": {
+   "label": "BanglaBERT (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.63,
+   "p_f1_pos_holm": 0.007
+  },
+  "char_tfidf_svm": {
+   "label": "CharTFIDF + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.654,
+   "p_f1_pos_holm": 0.007
+  },
+  "char_tfidf_random_forest": {
+   "label": "CharTFIDF + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.658,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_intfloat_multilingual-e5-small_svm": {
+   "label": "E5-Small + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.658,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_ai4bharat_IndicBERTv2-MLM-only_svm": {
+   "label": "IndicBERTv2 + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.748,
+   "p_f1_pos_holm": 0.007
+  },
+  "tfidf_random_forest": {
+   "label": "TFIDF + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.759,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_ai4bharat_IndicBERTv2-MLM-only_bert": {
+   "label": "IndicBERTv2 (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.764,
+   "p_f1_pos_holm": 0.007
+  },
+  "count_random_forest": {
+   "label": "Count + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.779,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_ai4bharat_indic-bert_bert": {
+   "label": "IndicBERT (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.79,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_google_mobilebert-uncased_bert": {
+   "label": "MobileBERT (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.796,
+   "p_f1_pos_holm": 0.007
+  },
+  "tfidf_svm": {
+   "label": "TFIDF + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.843,
+   "p_f1_pos_holm": 0.007
+  },
+  "finetune_FacebookAI_xlm-roberta-base_bert": {
+   "label": "XLM-R-Base (fine-tuned)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.875,
+   "p_f1_pos_holm": 0.007
+  },
+  "fasttext_char": {
+   "label": "fastText (char n-gram)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.883,
+   "p_f1_pos_holm": 0.007
+  },
+  "count_logistic": {
+   "label": "Count + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.916,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_intfloat_multilingual-e5-small_logistic": {
+   "label": "E5-Small + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 0.955,
+   "p_f1_pos_holm": 0.007
+  },
+  "l1w12_fasttext_char": {
+   "label": "DLF layer 1 only (fasttext_char, pos. x12)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.033,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_ai4bharat_IndicBERTv2-MLM-only_logistic": {
+   "label": "IndicBERTv2 + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.049,
+   "p_f1_pos_holm": 0.007
+  },
+  "fasttext_word": {
+   "label": "fastText (word)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.073,
+   "p_f1_pos_holm": 0.007
+  },
+  "tfidf_logistic": {
+   "label": "TFIDF + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.077,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_ai4bharat_IndicBERTv2-MLM-only_random_forest": {
+   "label": "IndicBERTv2 + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.088,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_google-bert_bert-base-multilingual-cased_svm": {
+   "label": "mBERT + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.121,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_intfloat_multilingual-e5-small_random_forest": {
+   "label": "E5-Small + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.156,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_svm": {
+   "label": "ParaMiniLM + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.173,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_FacebookAI_xlm-roberta-base_random_forest": {
+   "label": "XLM-R-Base + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.209,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_google_muril-base-cased_random_forest": {
+   "label": "MuRIL + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.212,
+   "p_f1_pos_holm": 0.007
+  },
+  "count_svm": {
+   "label": "Count + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.272,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_google-bert_bert-base-multilingual-cased_logistic": {
+   "label": "mBERT + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.42,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_google_muril-base-cased_svm": {
+   "label": "MuRIL + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.563,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_BAAI_bge-small-en-v1.5_svm": {
+   "label": "BGE + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.648,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_csebuetnlp_banglabert_random_forest": {
+   "label": "BanglaBERT + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.668,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_google-bert_bert-base-multilingual-cased_random_forest": {
+   "label": "mBERT + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.672,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_ai4bharat_indic-bert_svm": {
+   "label": "IndicBERT + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.67,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_logistic": {
+   "label": "ParaMiniLM + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.813,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_all-MiniLM-L12-v2_svm": {
+   "label": "MiniLM12 + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.964,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2_random_forest": {
+   "label": "ParaMiniLM + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 1.986,
+   "p_f1_pos_holm": 0.007
+  },
+  "tfidf_logistic_weighted": {
+   "label": "DLF layer 1 as coded (neg. weighted 15:1)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.053,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_FacebookAI_xlm-roberta-base_svm": {
+   "label": "XLM-R-Base + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.035,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_ai4bharat_indic-bert_logistic": {
+   "label": "IndicBERT + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.062,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_BAAI_bge-small-en-v1.5_logistic": {
+   "label": "BGE + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.107,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_all-MiniLM-L12-v2_logistic": {
+   "label": "MiniLM12 + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.121,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_all-MiniLM-L6-v2_svm": {
+   "label": "MiniLM6 + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.178,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_ai4bharat_indic-bert_random_forest": {
+   "label": "IndicBERT + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.224,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_BAAI_bge-small-en-v1.5_random_forest": {
+   "label": "BGE + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.263,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_all-MiniLM-L12-v2_random_forest": {
+   "label": "MiniLM12 + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.357,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_csebuetnlp_banglabert_svm": {
+   "label": "BanglaBERT + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.389,
+   "p_f1_pos_holm": 0.007
+  },
+  "tfidf_naive_bayes": {
+   "label": "TFIDF + NB",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.37,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_all-MiniLM-L6-v2_logistic": {
+   "label": "MiniLM6 + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.549,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_random_forest": {
+   "label": "DistilUse + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.573,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_google_muril-base-cased_logistic": {
+   "label": "MuRIL + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.604,
+   "p_f1_pos_holm": 0.007
+  },
+  "tfidf_logistic_weighted_recall": {
+   "label": "DLF layer 1 only (word TF-IDF LR, pos. x12)",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.625,
+   "p_f1_pos_holm": 0.007
+  },
+  "word_char_tfidf_naive_bayes": {
+   "label": "Word+CharTFIDF + NB",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.685,
+   "p_f1_pos_holm": 0.007
+  },
+  "count_naive_bayes": {
+   "label": "Count + NB",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 2.774,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_svm": {
+   "label": "DistilUse + SVM",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 3.233,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_all-MiniLM-L6-v2_random_forest": {
+   "label": "MiniLM6 + RF",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 3.247,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_FacebookAI_xlm-roberta-base_logistic": {
+   "label": "XLM-R-Base + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 3.478,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_csebuetnlp_banglabert_logistic": {
+   "label": "BanglaBERT + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 3.531,
+   "p_f1_pos_holm": 0.007
+  },
+  "char_tfidf_naive_bayes": {
+   "label": "CharTFIDF + NB",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 3.481,
+   "p_f1_pos_holm": 0.007
+  },
+  "huggingface_sentence-transformers_distiluse-base-multilingual-cased-v2_logistic": {
+   "label": "DistilUse + LogReg",
+   "sig_f1_holm": true,
+   "dlf_better": true,
+   "d_f1_pos_pts": 4.197,
+   "p_f1_pos_holm": 0.007
+  }
+ }
+}

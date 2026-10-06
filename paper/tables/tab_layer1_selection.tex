@@ -1,0 +1,20 @@
+% AUTO-GENERATED from results/.../layer1-search/layer1_search_results.csv
+\begin{table}[h]
+\centering
+\caption{Selection of DLF Layer~1 (all with positive-class weight $\alpha=12$). Layer~1 was chosen on the validation split (highest DLF F1$_{+}$; candidates within 0.25 points are tied and the fastest wins) and evaluated once on the test split. Latency: median per message, one CPU thread.}
+\label{tab:layer1-selection}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+\textbf{Layer 1} & \makecell{\textbf{Latency}\\\textbf{(ms)}} & \makecell{\textbf{Val}\\\textbf{DLF F1$_{+}$}} & \makecell{\textbf{Test L1}\\\textbf{Recall$_{+}$}} & \makecell{\textbf{Test}\\\textbf{forwarded}} & \makecell{\textbf{Test DLF}\\\textbf{Acc.}} & \makecell{\textbf{Test DLF}\\\textbf{F1$_{+}$}} \\
+\midrule
+Word TF-IDF + LogReg & 0.333 & 0.9849 & 0.9900 & 2312 & 0.9806 & 0.9772 \\
+Count + LogReg & 0.140 & 0.9837 & 0.9823 & 2268 & 0.9808 & 0.9774 \\
+Char TF-IDF + LogReg & 0.441 & 0.9849 & 0.9914 & 2289 & 0.9818 & 0.9786 \\
+Word+Char TF-IDF + LogReg & -- & 0.9855 & 0.9914 & 2273 & 0.9820 & 0.9788 \\
+\textbf{fastText (char $n$-grams)} & 0.074 & 0.9854 & 0.9855 & 2227 & 0.9832 & 0.9801 \\
+fastText (words) & 0.017 & 0.9825 & 0.9764 & 2200 & 0.9810 & 0.9775 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

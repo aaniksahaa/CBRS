@@ -34,7 +34,8 @@ METRICS = ("accuracy", "f1_pos", "recall_pos", "macro_f1")
 
 
 # ----------------------------------------------------------------------------- loading
-def load_systems(dirs: list[tuple[Path, str]], include: str | None, exclude: str | None) -> dict[str, dict]:
+def load_systems(dirs: list[tuple[Path, str]], include: str | None, exclude: str | None,
+                 labels: np.ndarray | None = None) -> dict[str, dict]:
     """key -> {label, y_true, y_pred, language, origin}; labels come from the matching result JSON."""
     systems = {}
     for d, origin in dirs:
@@ -50,14 +51,21 @@ def load_systems(dirs: list[tuple[Path, str]], include: str | None, exclude: str
             if key == "tfidf_logistic_weighted":
                 label = "DLF layer 1 as coded (neg. weighted 15:1)"
             elif key == "tfidf_logistic_weighted_recall":
-                label = "DLF layer 1 (pos. weighted 12:1)"
+                label = "DLF layer 1 only (word TF-IDF LR, pos. x12)"
             elif key.startswith("dlf_full"):
-                label = f"DLF (layer 1 + {key.rsplit('_', 1)[-1]})"
+                l1 = "fastText-char L1" if "fasttext_char" in key else ("word TF-IDF L1" if "tfidf_logistic_weighted_recall" in key
+                                                                       else key.split("l1w12_")[-1].rsplit("_", 1)[0])
+                label = f"DLF ({l1} + {key.rsplit('_', 1)[-1]})"
+            elif key.startswith("l1w12_"):
+                label = f"DLF layer 1 only ({key[6:]}, pos. x12)"
             if include and not re.search(include, label):
                 continue
             if exclude and re.search(exclude, label):
                 continue
             df = pd.read_csv(csv)
+            if labels is not None:  # re-score against corrected gold labels (same test order)
+                assert len(df) == len(labels), f"{csv}: {len(df)} rows vs {len(labels)} labels"
+                df["y_true"] = labels
             systems[key] = {"label": label, "y_true": df["y_true"].to_numpy(), "y_pred": df["y_pred"].to_numpy(),
                             "language": df["language"].to_numpy() if "language" in df else None, "origin": origin,
                             "kind": r["kind"] if r else "?"}
@@ -159,17 +167,20 @@ def main(argv=None):
     ap.add_argument("--all-pairs", action="store_true", help="also compute the Holm-corrected McNemar matrix over all pairs")
     ap.add_argument("--tables-dir", default=str(TABLES_DIR))
     ap.add_argument("--suffix", default="", help="appended to output file names (e.g. _compact)")
+    ap.add_argument("--labels", default=None, help="CSV with column label_corrected (one row per test message, in order): "
+                                                   "re-score every system against these labels instead of the original gold")
     ap.add_argument("--label", default="tab:significance", help="LaTeX label of the generated table")
     args = ap.parse_args(argv)
 
     dirs = [(Path(args.new_dir), "new"), (Path(args.paper_dir), "paper-repro")]
-    systems = load_systems([(d, o) for d, o in dirs if (d / "predictions").exists()], args.include, args.exclude)
+    labels = pd.read_csv(args.labels)["label_corrected"].to_numpy() if args.labels else None
+    systems = load_systems([(d, o) for d, o in dirs if (d / "predictions").exists()], args.include, args.exclude, labels)
     ind = {k: indicators(s["y_true"], s["y_pred"]) for k, s in systems.items()}
     point = {k: {m: float(v) for m, v in metrics_from_sums(ind[k].sum(0)).items()} for k in systems}
 
     ref = args.ref
     if ref is None:
-        for cand in sorted([k for k in systems if k.startswith("dlf_full")], key=lambda k: "gpt-4o-mini" not in k) + \
+        for cand in sorted([k for k in systems if k.startswith("dlf_full")], key=lambda k: ("gpt-4o-mini" not in k, "fasttext_char" not in k)) + \
                 ["tfidf_logistic_weighted_recall", "tfidf_logistic_weighted"]:
             if cand in systems:
                 ref = cand
@@ -204,6 +215,8 @@ def main(argv=None):
 
     # ---- markdown
     rl = systems[ref]["label"]
+    if args.labels:
+        print(f"[scored against corrected labels from {args.labels}]")
     print(f"Reference: **{rl}**  (acc {point[ref]['accuracy']:.4f}, F1+ {point[ref]['f1_pos']:.4f}, "
           f"recall+ {point[ref]['recall_pos']:.4f}, macro-F1 {point[ref]['macro_f1']:.4f}); "
           f"n = {len(ind[ref])} test messages; paired bootstrap B = {args.B}; Holm-corrected p-values; "
@@ -218,7 +231,8 @@ def main(argv=None):
 
     # ---- files
     tdir = Path(args.tables_dir); tdir.mkdir(parents=True, exist_ok=True)
-    slug = (("dlf_full_" + re.sub(r"[^A-Za-z0-9]+", "", ref.rsplit("_", 1)[-1])) if ref.startswith("dlf_full")
+    slug = (("dlf_full_" + ("ftchar_" if "fasttext_char" in ref else "") + re.sub(r"[^A-Za-z0-9]+", "", ref.rsplit("_", 1)[-1]))
+            if ref.startswith("dlf_full")
             else re.sub(r"[^A-Za-z0-9]+", "_", ref)[:40].strip("_")) + args.suffix
     pd.DataFrame(rows).to_csv(tdir / f"significance_{slug}.csv", index=False)
     tex = [f"% AUTO-GENERATED by binary-classifier/baselines/significance.py; reference = {rl}; B={args.B}; Holm-corrected",
@@ -227,6 +241,8 @@ def main(argv=None):
            r"$\Delta$ = reference minus method in percentage points, with 95\% paired-bootstrap confidence intervals "
            f"({args.B:,} resamples); $p$-values are Holm-corrected across all {n_family} comparisons. "
            r"McNemar $b$/$c$ = messages only the reference / only the method classifies correctly. "
+           + (r"Scored against the corrected gold labels (81 of 5{,}166 test labels re-adjudicated). " if args.labels else "")
+           + 
            r"$^{*}p<0.05$, $^{**}p<0.01$, $^{***}p<0.001$.}",
            f"\\label{{{args.label}}}", r"\resizebox{\textwidth}{!}{%",
            r"\begin{tabular}{@{}lccccccc@{}}", r"\toprule",
@@ -254,7 +270,7 @@ def main(argv=None):
         M = pd.DataFrame(np.nan, index=[systems[k]["label"] for k in keys], columns=[systems[k]["label"] for k in keys])
         for (i, j), p in zip(pairs, padj):
             M.iat[i, j] = M.iat[j, i] = p
-        M.to_csv(tdir / "significance_allpairs_mcnemar_holm.csv")
+        M.to_csv(tdir / f"significance_allpairs_mcnemar_holm{args.suffix}.csv")
         nsig = sum(p < args.alpha for p in padj)
         print(f"all-pairs McNemar (Holm over {len(pairs)} pairs): {nsig} significant at alpha={args.alpha}; "
               f"matrix -> {tdir / 'significance_allpairs_mcnemar_holm.csv'}")

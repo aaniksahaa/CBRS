@@ -1,123 +1,163 @@
-# Statistical significance for Table 3 — what was done, what it shows, what to paste
+# Statistical significance for Table 3 — FINAL (DLF = Layer 1 + gpt-4o-mini)
 
-Generated 2026-10-01 by `binary-classifier/baselines/significance.py` from per-message predictions of
-**67 systems on the identical 5,166-message test split** (the one behind Table 3): the 35 new baseline rows,
-the paper's original rows re-run with the repository code (TF-IDF, Count, 8 sentence-embedding models,
-DistilBERT, MobileBERT; Word2Vec and Jina excluded, see caveats) and two DLF layer-1 variants.
+Generated 2026-10-06 by `binary-classifier/baselines/significance.py` from per-message predictions of
+**69 systems on the identical 5,166-message test split** behind Table 3: DLF with gpt-4o-mini (the paper's
+system), DLF with gpt-5-mini (ablation), the 35 new baseline rows, the paper's original rows re-run with the
+repository code (TF-IDF, Count, 7 sentence-embedding models, DistilBERT, MobileBERT; Word2Vec and Jina not
+re-runnable, see caveats) and the two DLF Layer-1-only variants. All metrics are computed at full precision;
+two decimals appear only in LaTeX rows.
 
-## Procedure (what the paper should say)
+## 1. DLF results (re-run 2026-10-06, fully logged)
 
-* **Paired bootstrap.** All systems are evaluated on the same messages, so for a reference R and a
-  method S we resample the 5,166 test messages *jointly* 10,000 times and compute the distribution of
-  Δ = metric(R) − metric(S) for accuracy, positive-class F1, positive-class recall and macro F1
-  → 95 % percentile CI and a two-sided bootstrap p-value.
-* **McNemar's exact test** on per-message correctness (b = messages only R gets right, c = only S).
-* **Holm–Bonferroni** correction over the 66 comparisons of each family.
-* Reported as Δ in percentage points with CI; `*` p<0.05, `**` p<0.01, `***` p<0.001.
-* Reference systems: (1) **DLF layer 1 as described in the paper** (TF-IDF + LogReg, positives weighted
-  12:1) — the DLF component that can be reproduced without API keys; (2) **BanglaBERT fine-tuned** — the
-  strongest single model; (3) **plain TF-IDF + LogReg** — the cheapest competitive model.
+| System | Acc | P (macro) | R (macro) | F1 (macro) | P+ | R+ | F1+ | bn | en | tbn | LLM cost |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Layer 1 only (TF-IDF + LogReg, positives weighted 12:1) | 0.9710 | | | 0.9705 | 0.9446 | 0.9900 | 0.9668 | | | | – |
+| **DLF = Layer 1 + gpt-4o-mini (paper)** | **0.9806** | **0.9810** | **0.9795** | **0.9802** | **0.9830** | **0.9714** | **0.9772** | 0.9706 | 0.9847 | 0.9969 | $0.126 |
+| DLF = Layer 1 + gpt-5-mini (ablation) | 0.9806 | 0.9810 | 0.9794 | 0.9802 | 0.9835 | 0.9710 | 0.9772 | 0.9706 | 0.9847 | 0.9969 | $0.802 |
 
-## Headline results
+* Layer 1 forwards 2,312 of 5,166 test messages (45 %; real streams are far less positive-heavy).
+  gpt-4o-mini **removes 91 of 128 false positives (71 %)** and **wrongly rejects 41 of 2,184 true positives
+  (1.9 %)**; gpt-5-mini removes 92 and rejects 42. 0 API errors, 0 unparseable answers for both.
+* Snapshots: `gpt-4o-mini-2024-07-18`, `gpt-5-mini-2025-08-07` (reasoning effort = API default; ~130
+  hidden reasoning tokens per call, hence 6× the cost).
+* **Table 3 DLF row:** `0.98 & 0.98 & 0.98 & 0.98` (acc, macro P, R, F1). The published
+  `0.99 & 0.99 & 0.98 & 0.98` is not reproduced (it came from an unrecorded run; the committed `eval-v1.py`
+  has the LLM branch disabled). Use the reproduced row — it has full artifacts and all tests refer to it.
+* **Inference time:** the published DLF time (1.10 × 10⁻⁷ s) is Layer 1 alone. Including Layer 2 the average
+  over all test messages is 0.51 s/message (mean API latency 1.15 s × 45 % forwarded). Report Layer 1 time
+  and LLM latency separately and note that the amortised LLM cost scales with the forwarded fraction.
 
-| Reference | sig. better than ref | sig. worse | not distinguishable |
+## 2. Procedure
+
+Paired bootstrap (10,000 joint resamples of the 5,166 messages) → 95 % CI and two-sided p for
+Δ = DLF − method in accuracy, positive-class F1, positive-class recall, macro F1; McNemar's exact test on
+per-message correctness; Holm–Bonferroni over all 68 comparisons. Δ in percentage points.
+
+## 3. Headline: DLF (gpt-4o-mini) vs the 68 other systems
+
+| Holm-corrected test | DLF significantly better | tie | DLF significantly worse |
 |---|---|---|---|
-| DLF layer 1 (recall-weighted), F1(+) | 25 | 7 | 34 |
-| BanglaBERT fine-tuned, F1(+) | 0 | 57 | 9 |
-| TF-IDF + LogReg, F1(+) | 17 | 23 | 26 |
+| ΔF1(+) bootstrap | **31** | **34** | **3** |
+| Δaccuracy bootstrap | 31 | 34 | 3 |
+| McNemar (correctness) | 31 | 34 | 3 |
+| Δrecall(+) bootstrap | 25 | 33 | 10 |
 
-* **The top of Table 3 is a statistical tie.** Against BanglaBERT (0.987), the other five fine-tuned
-  encoders (mBERT, XLM-R, IndicBERT, DistilBERT, MuRIL) and the four character-n-gram SVM/RF rows are
-  *not* significantly different (all |ΔF1| ≤ 0.3 pts, Holm p ≥ 0.5). Everything else (57 systems) is
-  significantly worse. Nothing beats BanglaBERT.
-* **DLF layer 1 matches the best encoders on recall, not on F1.** On positive-class recall the
-  recall-weighted layer 1 (0.990) is statistically tied with mBERT, BanglaBERT and XLM-R (ΔRecall CIs
-  include 0) and significantly *higher* than every cheaper model. Its F1 (0.967) is significantly below
-  the 25 strongest systems (ΔF1 ≈ 1.1–1.9 pts) because of false positives — exactly the errors the
-  LLM second layer is designed to remove.
-* **The layer 1 shipped in the repository is weighted the wrong way round.** `eval-v1.py` uses
-  class_weight {0:15, 1:1} (negatives up-weighted): recall(+) 0.919, precision(+) 0.993. The paper text
-  (Sec. Methodology) describes the opposite. The recall-weighted variant has +7.1 pts recall
-  (CI [+6.1, +8.2], p = 0.002) and +1.25 pts F1 over the as-coded one. Use the recall-weighted one; fix
-  the code.
-* **Character n-grams beat word n-grams significantly:** CharTFIDF+LogReg vs TFIDF+LogReg ΔF1 = +0.55
-  pts (p < 0.05); fastText char vs word also significant.
-* All-pairs: of the 2,211 pairs, 1,129 McNemar comparisons are significant after Holm correction
-  (`significance_allpairs_mcnemar_holm.csv`).
+Excluding DLF's own variants (two Layer-1-only versions: DLF better; gpt-5-mini DLF: tie), against the 65
+competing methods **DLF wins 29, ties 33, loses 3**.
 
-## Files → where they go
+* **Loses (all by < 1 F1 point):** fine-tuned mBERT (−0.81, CI [−1.20, −0.44]), fine-tuned BanglaBERT
+  (−0.76, [−1.17, −0.37]), word+char n-gram TF-IDF + SVM (−0.62, [−0.99, −0.26]).
+* **Ties:** the other 6 fine-tuned encoders (XLM-R, IndicBERT, IndicBERTv2, MuRIL, DistilBERT, MobileBERT);
+  LaBSE and E5 with every classifier; ParaMiniLM + SVM; all paper TF-IDF/Count LogReg/SVM/RF rows; char
+  n-gram TF-IDF (LogReg/SVM/RF); word+char LogReg/RF; both fastText variants; 7 of 18 frozen-encoder rows.
+* **Wins:** all MiniLM6, MiniLM12, DistilUSE and BGE rows, ParaMiniLM + LogReg/RF (14 of 21 sentence-
+  embedding rows); 11 of 18 frozen-encoder rows; all four Naive-Bayes rows; Layer 1 alone (F1 +1.04,
+  CI [+0.54, +1.54], p = 0.007).
+* **Recall** is DLF's cost: 9 competing methods (the fine-tuned encoders except MobileBERT, char-n-gram SVMs)
+  have significantly higher positive-class recall (by 1.0–1.6 pts); Layer 2 trades 1.9 pts recall for
+  +3.8 pts precision.
+* **gpt-5-mini gives no gain:** DLF-gpt-5-mini vs DLF-gpt-4o-mini Δ = 0.00 (CI [−0.22, +0.22]), McNemar 12/12,
+  p = 1.0. Against the others it wins 31, ties 33, loses 4 (XLM-R crosses the threshold, p = 0.014, vs
+  p = 0.058 for gpt-4o-mini — boundary noise).
+
+## 4. Why no LLM can make DLF beat the best encoders on these labels
+
+The two LLMs make the *same* errors (88 of 100 shared), and most of them look like **gold-label errors**:
+* 36 messages labelled *request* that both LLMs reject are mostly not requests: thank-you posts
+  ("brother X donated B+ blood, please pray"), donation-awareness slogans, a hospital job advert, a scam
+  warning, a missing-person post — almost all Facebook, suggesting group-level rather than content labels.
+* 30 messages labelled *not a request* that both LLMs accept include unmistakable requests ("urgent, 1 bag
+  O-ve blood needed, patient in the OT at Dinajpur Medical College"; "#Blood required urgently … contact").
+* Fine-tuned BanglaBERT is right on 28 of the 36 and 14 of the 30, i.e. it has learnt the labelling quirks.
+
+If the paper should claim DLF is best, the defensible route is a **blind re-annotation** of every test
+message on which *any* of the 69 systems disagrees with the gold label (annotators blind to predictions),
+applied to all systems, then re-running `python -m baselines.significance`. Re-labelling only DLF's errors
+would bias the comparison and must not be done.
+
+## 5. Files → where they go
 
 | file | use |
 |---|---|
-| `significance_tfidf_logistic_weighted_recall_compact.tex` (`tab:significance-compact`, 20 rows) | **main text or first appendix table**: every fine-tuned encoder + the strongest cheap rows vs DLF layer 1 |
-| `significance_tfidf_logistic_weighted_recall.tex` (`tab:significance`, 66 rows) | appendix: full pairwise table vs DLF layer 1 |
-| `significance_finetune_csebuetnlp_banglabert_bert.tex` | appendix: full pairwise table vs the best model (shows the tie at the top) |
-| `significance_tfidf_logistic.tex` | optional: vs plain TF-IDF + LogReg |
-| `significance_allpairs_mcnemar_holm.csv` | supplementary material (67×67 Holm-corrected McNemar p-values) |
-| `significance_markers.json` / `*_compact.json` | which Table 3 rows get a † marker |
+| `significance_dlf_full_gpt4omini_compact.tex` (22 rows) | **main text**: DLF vs every fine-tuned encoder + strongest cheap rows (Holm over all 68) |
+| `significance_dlf_full_gpt4omini.tex` (68 rows) | appendix: complete pairwise table vs DLF |
+| `significance_dlf_full_gpt5mini.tex` / `_compact.tex` | appendix (optional): LLM ablation |
+| `significance_finetune_csebuetnlp_banglabert_bert.tex`, `significance_tfidf_logistic.tex`, `significance_tfidf_logistic_weighted_recall.tex` | appendix (optional): other references |
+| `significance_allpairs_mcnemar_holm.csv` | supplementary (all-pairs Holm-corrected McNemar p-values) |
+| `significance_markers.json` | Table 3 † markers (significant vs DLF-gpt-4o-mini) |
+| `results/.../paper-repro/dlf_layer2/` | LLM reproducibility artifacts (§8) |
+| `_superseded/` | earlier versions of these tables, kept for the record |
 
-Before pasting: rename the duplicate `\label{tab:significance}` if you include more than one full table,
-and shorten the auto-generated captions as you like.
+## 6. Text to add
 
-## Text to add
-
-**Experimental Setup → new paragraph "Statistical significance".**
+**Experimental Setup.**
 ```latex
 \paragraph{Statistical Significance Testing}
-All filtering methods in Table~\ref{tab:DLF} are evaluated on the same 5{,}166 test messages, so we
-compare them with paired tests. For a reference system $R$ and a competing method $S$ we resample the
-test messages jointly 10{,}000 times and report the difference $\Delta = m(R)-m(S)$ in accuracy,
-positive-class F1 and positive-class recall with 95\% percentile confidence intervals and two-sided
-bootstrap $p$-values; we additionally apply McNemar's exact test to per-message correctness. All
-$p$-values are Holm--Bonferroni corrected across the 66 comparisons of a reference. We use three
-references: DLF Layer~1 (the TF-IDF/weighted-LogReg filter), the strongest single model (fine-tuned
-BanglaBERT) and the cheapest competitive model (TF-IDF + LogReg). Table~\ref{tab:significance-compact}
-reports the main comparisons; the complete pairwise tables are in Appendix~X.
+All filtering methods in Table~\ref{tab:DLF} are evaluated on the same 5{,}166 test messages, so we compare
+them with paired tests. For each competing method we resample the test messages jointly with DLF 10{,}000
+times and report the difference in accuracy, positive-class F1 and positive-class recall with 95\%
+percentile confidence intervals and two-sided bootstrap $p$-values; we also apply McNemar's exact test to
+per-message correctness. $p$-values are Holm--Bonferroni corrected across all comparisons. Layer~2 of DLF
+uses gpt-4o-mini (snapshot 2024-07-18); prompts, raw responses, token log-probabilities, latencies and costs
+are released with the code.
 ```
 
-**Table 3 caption, add:** `$\dagger$ marks methods whose positive-class F1 differs significantly from
-DLF Layer~1 after Holm correction ($p<0.05$); see Table~\ref{tab:significance-compact}.` (The
-markers are listed in `significance_markers_compact.json`; in practice: † on every fine-tuned encoder,
-every CharTFIDF / Word+CharTFIDF row except NB, both fastText rows, TFIDF+SVM/RF, Count+LogReg/RF,
-LaBSE, E5+SVM, IndicBERTv2+SVM and the frozen-encoder rows that are significantly *worse*.)
+**Table 3 caption.** `DLF is statistically indistinguishable from most strong configurations and within one
+F1 point of the best fine-tuned encoders; $\dagger$ marks methods whose positive-class F1 differs
+significantly from DLF after Holm correction ($p<0.05$; Table~\ref{tab:significance-compact-gpt-4o-mini}).`
 
-**Results paragraph (after the Table 3 discussion).**
+**Results.**
 ```latex
-Paired tests (Table~\ref{tab:significance-compact}) show that the top of Table~\ref{tab:DLF} is a
-statistical tie: the six fine-tuned encoders and the character $n$-gram SVM/RF models are
-indistinguishable from the best model, fine-tuned BanglaBERT ($|\Delta F1| \le 0.3$ points, Holm
-$p \ge 0.5$), whereas all other configurations are significantly worse. DLF Layer~1 attains the same
-positive-class recall as the best fine-tuned encoders (0.990; $\Delta$ not significant) at four
-orders of magnitude lower inference cost, while its lower precision---the false positives that Layer~2
-removes---makes its F1 significantly lower ($\Delta F1 = 1.1$--$1.9$ points). Character $n$-grams
-significantly outperform word $n$-grams for both TF-IDF ($\Delta F1=+0.55$, $p<0.05$) and fastText.
+Paired tests (Table~\ref{tab:significance-compact-gpt-4o-mini}; full results in Appendix~X) show that DLF
+significantly outperforms 29 of the 65 competing configurations and is statistically indistinguishable from
+33 others, including fine-tuned XLM-R, MuRIL, IndicBERT, DistilBERT and MobileBERT, character $n$-gram and
+fastText classifiers, and LaBSE and E5 embeddings. Only fine-tuned mBERT, fine-tuned BanglaBERT and a
+word+character $n$-gram SVM are significantly better, each by less than one F1 point. The LLM layer removes
+71\% of Layer~1's false positives while rejecting 1.9\% of true requests, raising F1 from 0.967 to 0.977
+($p<0.01$). Replacing gpt-4o-mini with the reasoning model gpt-5-mini changes neither the predictions
+materially nor any conclusion ($\Delta F1 = 0.00$, $p=1.0$) at six times the cost.
 ```
 
-**Response to the reviewer.**
-> We agree that point estimates alone do not establish whether the differences in Table 3 are meaningful.
-> Since every method is evaluated on the same 5,166 test messages, we added paired comparisons: paired
-> bootstrap confidence intervals (10,000 resamples) and p-values for Δaccuracy, ΔF1 and Δrecall, McNemar's
-> exact test on per-message correctness, and Holm correction across all comparisons (new paragraph in
-> Experimental Setup; Table X in the main text; complete pairwise tables and the full 67×67 McNemar matrix in
-> Appendix X / supplementary material). The analysis shows that (i) the strongest configurations
-> (fine-tuned BanglaBERT, mBERT, XLM-R, IndicBERT, MuRIL, DistilBERT and character n-gram SVM/RF) are
-> statistically indistinguishable from each other, (ii) all remaining configurations are significantly
-> worse than the best model, and (iii) DLF Layer 1 matches the best encoders on positive-class recall
-> while being significantly lower in F1 owing to false positives, which motivates the second layer. We have
-> revised the text accordingly and no longer claim that DLF "outperforms" the other classifiers in accuracy.
+## 7. Response to the reviewer
 
-## Caveats (state them or be ready for them)
+> Thank you for this suggestion. Because every method in Table 3 is evaluated on the same 5,166 test messages,
+> we added paired statistical comparisons: paired-bootstrap 95% confidence intervals (10,000 resamples) and
+> p-values for the differences in accuracy, positive-class F1 and recall, McNemar's exact test on per-message
+> correctness, and Holm correction for multiple comparisons (new paragraph in Experimental Setup; new Table X;
+> complete pairwise tables in Appendix X). DLF significantly outperforms 29 of the 65 compared configurations
+> and is statistically indistinguishable from 33 others, including several fine-tuned multilingual and Bengali
+> encoders; fine-tuned mBERT, BanglaBERT and a character n-gram SVM are significantly better by less than one
+> F1 point. We have revised Table 3 and its caption accordingly and no longer claim that DLF outperforms all
+> classifiers; we retain the claim that DLF reaches comparable accuracy while invoking the LLM only for
+> messages pre-selected by an inexpensive first layer. We also show that a newer reasoning LLM (gpt-5-mini)
+> yields statistically identical results. To ensure reproducibility we re-ran the complete pipeline and release
+> all prompts, raw LLM responses, log-probabilities, costs and per-message predictions.
 
-1. **The full DLF (Layer 1 + LLM Layer 2) is not in these tests.** Its predictions need ~2,300 GPT-4o-mini
-   calls (`python -m baselines.dlf_layer2`, resumable; under one dollar). Once run, `significance.py`
-   uses it as the default reference automatically. The paper's DLF row (0.99/0.99/0.98/0.98) cannot be
-   reproduced from the repository without that layer, and the Layer-1 classification report in the
-   paper (support 525) comes from a different, smaller test set than Table 3.
-2. The reproduced paper rows differ from the published ones by ≤ 0.6 pts (e.g. TFIDF+LogReg 0.9768 vs
-   0.9774; MiniLM6 0.966 vs 0.97; MobileBERT 0.982 vs 0.980 — only with fp32 and lr 5e-5, bf16 gave
-   0.963). Word2Vec (1.6 GB download) and Jina (remote code incompatible with transformers ≥ 5) were not
-   re-run; their Table 3 rows stay as published but have no significance entry.
-3. Fine-tuned rows are single-seed; the bootstrap captures test-set sampling variance only, not
-   training-seed variance. With 5,166 messages, one message = 0.02 pts; differences < ~0.3 pts are never
-   significant here.
-4. XLM-R, MuRIL and IndicBERTv2 were fine-tuned with frozen word embeddings (6 GB GPU).
+## 8. Reproducibility artifacts (LLM layer)
+
+`results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/`, per model
+(`tfidf_logistic_weighted_recall_<model>.*`):
+* `.responses.jsonl` — one record per call: full system + user prompt, request settings (model, seed 42,
+  logprobs for gpt-4o-mini, temperature = API default as in `llmclient.py`), raw output, parsed JSON, verdict,
+  P(true)/P(false) (gpt-4o-mini), OpenAI request id, model snapshot, system fingerprint, finish reason,
+  token usage incl. reasoning tokens, cost, UTC timestamps, latency, retry attempts, SHA-256 of message and
+  prompt, gold label, Layer-1 score.
+* `.calls.csv` flat per-call table; `.manifest.json` git commit, package versions, SHA-256 of dataset /
+  Layer-1 predictions / prompt / client / script, totals; `.log` run log; `stdout_*.txt` raw console output.
+* `_dryrun_2026-10-06/`, `_superseded_v0_sparse_records/` — dry runs, kept for completeness.
+* **Before publishing:** prompts contain the raw, non-anonymised messages; strip `request.user_prompt`
+  (hashes remain) or regenerate from the anonymised dataset.
+* Re-run: `cd binary-classifier && python -m baselines.dlf_layer2 [--model gpt-5-mini]` (resumes), then
+  `python -m baselines.significance --ref dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini`.
+
+## 9. Caveats
+
+1. **Layer-1 weighting:** committed `eval-v1.py` up-weights the *negative* class 15:1 (recall 0.919), the
+   opposite of the paper's text. DLF here uses Layer 1 as described (positives 12:1, recall 0.990). Fix the code.
+2. The published DLF row (0.99) and the 525-message Layer-1 report come from earlier unrecorded runs on a
+   different evaluation set; the reproduced numbers replace them.
+3. Reproduced paper rows differ from published ones by ≤ 0.6 pts; Word2Vec and Jina keep published numbers
+   without tests (download size / remote code incompatible with transformers ≥ 5).
+4. Single training seed for fine-tuned models; the bootstrap covers test-set sampling only. LLM sampling uses
+   the API default temperature with a fixed seed (best-effort determinism; several backend fingerprints seen).
+5. XLM-R, MuRIL and IndicBERTv2 were fine-tuned with frozen word embeddings (6 GB GPU).

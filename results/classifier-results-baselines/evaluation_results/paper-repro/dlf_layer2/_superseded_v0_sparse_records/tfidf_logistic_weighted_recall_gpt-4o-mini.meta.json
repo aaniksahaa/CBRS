@@ -1,0 +1,16 @@
+{
+  "layer1": "tfidf_logistic_weighted_recall",
+  "model": "gpt-4o-mini",
+  "prompt_template": "\n    You are an expert in text classification for emergency blood donation requests. Analyze the following text to determine if it is explicitly related to a request for blood donation or an emergency need for blood. The text may be in English, Bengali, or a mix of both. Return your response in JSON format with a single key 'is_blood_donation_request' and a boolean value (true if related to blood donation/emergency, false otherwise). Ensure your analysis is precise and academically sound.\n    Samples:\n    Input Text: Emergency O+ blood needed. Please help.\n    Response:\n    ```json\n    {\"is_blood_donation_request\": true}\n    ```\n    Input Text: Blood donation is a great virtue.\n    Response:\n    ```json\n    {\"is_blood_donation_request\": false}\n    ```\n    Text: \"{MESSAGE}\"\n    Reminders:\n    - Do not include any sort of greetings/fillers etc in the response.\n    - Output only the correct JSON properly understanding the meaning of the English / Bengali / Transliterated Bengali Text\n    ",
+  "started": "2026-10-06 12:11:43",
+  "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+  "n_test": 5166,
+  "env": {
+    "cuda": true,
+    "torch": "2.10.0+cu128",
+    "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "gpu_mem_gb": 5.7,
+    "transformers": "5.3.0",
+    "cpu_count": 16
+  }
+}

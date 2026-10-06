@@ -1,0 +1,33 @@
+12:56:47 INFO dlf_layer2: gpt-5-mini is a reasoning model: the API does not return log-probs, disabling them
+12:56:49 INFO dlf_layer2: layer-1 positives: 2312, cached: 0, to query: 5, workers: 5, seed: 42, logprobs: False
+12:56:53 INFO dlf_layer2: 5/5 queried  cost so far $0.0020  1.5 calls/s  ETA 0s
+12:56:53 INFO dlf_layer2: totals: {"n_calls_recorded": 5, "n_layer1_positives": 2312, "cost_usd": 0.002003, "input_tokens": 1620, "output_tokens": 799, "reasoning_tokens": 704, "n_errors": 0, "n_unparsed": 0, "n_verdict_false": 0, "model_snapshots": ["gpt-5-mini-2025-08-07"], "mean_latency_s": 3.1810677241999654, "llm_seconds_total": 15.905338620999828}
+12:56:53 INFO dlf_layer2: DRY RUN: 5 calls recorded, $0.000401/call -> projected $0.926 for all 2312 positives; mean latency 3.18s -> ~25 min with 5 workers. No predictions written.
+12:57:09 INFO dlf_layer2: gpt-5-mini is a reasoning model: the API does not return log-probs, disabling them
+12:57:09 INFO dlf_layer2: layer-1 positives: 2312, cached: 5, to query: 2307, workers: 8, seed: 42, logprobs: False
+12:57:36 INFO dlf_layer2: 100/2307 queried  cost so far $0.0352  3.6 calls/s  ETA 605s
+12:58:05 INFO dlf_layer2: 200/2307 queried  cost so far $0.0701  3.6 calls/s  ETA 592s
+12:58:31 INFO dlf_layer2: 300/2307 queried  cost so far $0.1045  3.6 calls/s  ETA 552s
+12:59:04 INFO dlf_layer2: 400/2307 queried  cost so far $0.1390  3.5 calls/s  ETA 550s
+12:59:33 INFO dlf_layer2: 500/2307 queried  cost so far $0.1750  3.5 calls/s  ETA 521s
+13:00:02 INFO dlf_layer2: 600/2307 queried  cost so far $0.2097  3.5 calls/s  ETA 493s
+13:00:33 INFO dlf_layer2: 700/2307 queried  cost so far $0.2453  3.4 calls/s  ETA 469s
+13:01:03 INFO dlf_layer2: 800/2307 queried  cost so far $0.2785  3.4 calls/s  ETA 441s
+13:01:34 INFO dlf_layer2: 900/2307 queried  cost so far $0.3147  3.4 calls/s  ETA 414s
+13:02:09 INFO dlf_layer2: 1000/2307 queried  cost so far $0.3519  3.3 calls/s  ETA 392s
+13:02:39 INFO dlf_layer2: 1100/2307 queried  cost so far $0.3858  3.3 calls/s  ETA 362s
+13:03:09 INFO dlf_layer2: 1200/2307 queried  cost so far $0.4190  3.3 calls/s  ETA 333s
+13:03:40 INFO dlf_layer2: 1300/2307 queried  cost so far $0.4548  3.3 calls/s  ETA 303s
+13:04:13 INFO dlf_layer2: 1400/2307 queried  cost so far $0.4904  3.3 calls/s  ETA 275s
+13:04:44 INFO dlf_layer2: 1500/2307 queried  cost so far $0.5257  3.3 calls/s  ETA 245s
+13:05:13 INFO dlf_layer2: 1600/2307 queried  cost so far $0.5609  3.3 calls/s  ETA 214s
+13:05:43 INFO dlf_layer2: 1700/2307 queried  cost so far $0.5954  3.3 calls/s  ETA 184s
+13:06:14 INFO dlf_layer2: 1800/2307 queried  cost so far $0.6299  3.3 calls/s  ETA 154s
+13:06:45 INFO dlf_layer2: 1900/2307 queried  cost so far $0.6650  3.3 calls/s  ETA 123s
+13:07:15 INFO dlf_layer2: 2000/2307 queried  cost so far $0.6971  3.3 calls/s  ETA 93s
+13:07:44 INFO dlf_layer2: 2100/2307 queried  cost so far $0.7309  3.3 calls/s  ETA 63s
+13:08:14 INFO dlf_layer2: 2200/2307 queried  cost so far $0.7658  3.3 calls/s  ETA 32s
+13:08:43 INFO dlf_layer2: 2300/2307 queried  cost so far $0.8001  3.3 calls/s  ETA 2s
+13:08:45 INFO dlf_layer2: 2307/2307 queried  cost so far $0.8024  3.3 calls/s  ETA 0s
+13:08:45 INFO dlf_layer2: totals: {"n_calls_recorded": 2312, "n_layer1_positives": 2312, "cost_usd": 0.8023575000000001, "input_tokens": 705526, "output_tokens": 312988, "reasoning_tokens": 269056, "n_errors": 0, "n_unparsed": 0, "n_verdict_false": 134, "model_snapshots": ["gpt-5-mini-2025-08-07"], "mean_latency_s": 2.411811780513831, "llm_seconds_total": 5576.108836547977}
+13:08:45 INFO dlf_layer2: DLF full: acc=0.9806 P+=0.9835 R+=0.9710 F1+=0.9772 macroF1=0.9802 | layer 2: {'true_positives_sent': 2184, 'true_positives_wrongly_rejected': 42, 'false_positives_sent': 128, 'false_positives_removed': 92} -> dlf_full_tfidf_logistic_weighted_recall_gpt-5-mini

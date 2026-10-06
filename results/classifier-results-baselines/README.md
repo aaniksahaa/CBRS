@@ -67,9 +67,10 @@ Per-message predictions for every system (incl. re-runs of the paper's original 
 `evaluation_results/predictions/` and `evaluation_results/paper-repro/predictions/`.
 `python -m baselines.significance` produces paired-bootstrap CIs, McNemar tests and Holm-corrected
 p-values; results, LaTeX tables, suggested text and caveats are in `paper/tables/SIGNIFICANCE_NOTES.md`.
-Headline: fine-tuned BanglaBERT/mBERT/XLM-R/IndicBERT/MuRIL/DistilBERT and char-n-gram SVM/RF are a
-statistical tie at the top; everything else is significantly worse; DLF layer 1 ties the best encoders on
-recall but not on F1.
+Final (2026-10-06): DLF = layer 1 + gpt-4o-mini (the paper's system, $0.126) scores acc 0.9806 / macro-F1 0.9802;
+gpt-5-mini as layer 2 ($0.80) is statistically identical (ΔF1 0.00, p = 1.0). Against the 65 competing methods DLF
+wins 29, ties 33, loses 3 (fine-tuned mBERT, fine-tuned BanglaBERT, word+char TF-IDF SVM; each < 1 F1 point).
+LLM artifacts: `evaluation_results/paper-repro/dlf_layer2/`. Full write-up: `paper/tables/SIGNIFICANCE_NOTES.md`.
 
 ## Reproduce / extend
 

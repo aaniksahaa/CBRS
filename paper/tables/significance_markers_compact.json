@@ -1,5 +1,5 @@
 {
-  "reference": "tfidf_logistic_weighted_recall",
+  "reference": "dlf_full_tfidf_logistic_weighted_recall_gpt-5-mini",
   "alpha": 0.05,
   "markers": {
     "finetune_google-bert_bert-base-multilingual-cased_bert": {
@@ -28,92 +28,104 @@
     },
     "finetune_ai4bharat_indic-bert_bert": {
       "label": "IndicBERT (fine-tuned)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "char_tfidf_svm": {
       "label": "CharTFIDF + SVM",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "finetune_distilbert_distilbert-base-multilingual-cased_bert": {
       "label": "DistilBERT (fine-tuned)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "finetune_google_muril-base-cased_bert": {
       "label": "MuRIL (fine-tuned)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "finetune_ai4bharat_IndicBERTv2-MLM-only_bert": {
       "label": "IndicBERTv2 (fine-tuned)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "fasttext_char": {
       "label": "fastText (char n-gram)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "word_char_tfidf_logistic": {
       "label": "Word+CharTFIDF + LogReg",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "huggingface_intfloat_multilingual-e5-small_svm": {
       "label": "E5-Small + SVM",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "finetune_google_mobilebert-uncased_bert": {
       "label": "MobileBERT (fine-tuned)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "char_tfidf_logistic": {
       "label": "CharTFIDF + LogReg",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "tfidf_svm": {
       "label": "TFIDF + SVM",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "huggingface_sentence-transformers_LaBSE_svm": {
       "label": "LaBSE + SVM",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "fasttext_word": {
       "label": "fastText (word)",
-      "sig_f1_holm": true,
-      "sig_mcnemar_holm": true,
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
+      "direction": "method_better"
+    },
+    "dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini": {
+      "label": "DLF (layer 1 + gpt-4o-mini)",
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
     "tfidf_logistic": {
       "label": "TFIDF + LogReg",
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
+      "direction": "ref_better"
+    },
+    "tfidf_logistic_weighted_recall": {
+      "label": "DLF layer 1 (pos. weighted 12:1)",
       "sig_f1_holm": true,
       "sig_mcnemar_holm": true,
-      "direction": "method_better"
+      "direction": "ref_better"
     },
     "huggingface_sentence-transformers_all-MiniLM-L6-v2_svm": {
       "label": "MiniLM6 + SVM",
-      "sig_f1_holm": false,
-      "sig_mcnemar_holm": false,
+      "sig_f1_holm": true,
+      "sig_mcnemar_holm": true,
       "direction": "ref_better"
     },
     "tfidf_logistic_weighted": {

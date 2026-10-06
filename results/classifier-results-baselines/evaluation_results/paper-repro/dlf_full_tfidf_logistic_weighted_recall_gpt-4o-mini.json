@@ -1,0 +1,124 @@
+{
+    "vectorizer": "tfidf",
+    "model": "dlf",
+    "embedding_model": "gpt-4o-mini",
+    "accuracy": 0.9806426635694928,
+    "avg_inference_time_seconds": 0.5132789315391022,
+    "metrics": {
+        "0": {
+            "precision": 0.978901540522438,
+            "recall": 0.9875,
+            "f1-score": 0.9831819710729902,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9830275229357798,
+            "recall": 0.971441523118767,
+            "f1-score": 0.9772001823985408,
+            "support": 2206.0
+        },
+        "accuracy": 0.9806426635694928,
+        "macro avg": {
+            "precision": 0.9809645317291089,
+            "recall": 0.9794707615593835,
+            "f1-score": 0.9801910767357656,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.98066342925721,
+            "recall": 0.9806426635694928,
+            "f1-score": 0.9806276106750352,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9801910767357656,
+        "weighted_f1": 0.9806276106750352,
+        "confusion_matrix": [
+            [
+                2923,
+                37
+            ],
+            [
+                63,
+                2143
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.970617042115573,
+                "macro_f1": 0.970062162796153,
+                "positive_recall": 0.9633418584825234
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9847266881028939,
+                "macro_f1": 0.9838034929799833,
+                "positive_recall": 0.9809725158562368
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9968553459119497,
+                "macro_f1": 0.9932769556025369,
+                "positive_recall": 0.9770114942528736
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-06T12:31:06",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini",
+        "kind": "dlf",
+        "layer1": "tfidf_logistic_weighted_recall",
+        "llm": "gpt-4o-mini",
+        "layer2_confusion": {
+            "true_positives_sent": 2184,
+            "true_positives_wrongly_rejected": 41,
+            "false_positives_sent": 128,
+            "false_positives_removed": 91
+        },
+        "llm_totals": {
+            "n_calls_recorded": 2312,
+            "n_layer1_positives": 2312,
+            "cost_usd": 0.1256373,
+            "input_tokens": 707838,
+            "output_tokens": 32436,
+            "n_errors": 0,
+            "n_unparsed": 0,
+            "n_verdict_false": 132,
+            "model_snapshots": [
+                "gpt-4o-mini-2024-07-18"
+            ],
+            "system_fingerprints": [
+                "fp_040bc6973e",
+                "fp_0b00e858f6",
+                "fp_685ad11d26",
+                "fp_87c0b0fe37",
+                "fp_8f25b31f48",
+                "fp_94ff9edbd5",
+                "fp_c5f02eeb9a",
+                "fp_e63ee9cfdb",
+                "fp_f5dd669434"
+            ],
+            "mean_latency_s": 1.1468851484692912,
+            "llm_seconds_total": 2651.5984632610016
+        },
+        "note": "score column in the prediction CSV = LLM P(true) for layer-1 positives, NaN otherwise; avg_inference_time = (layer-1 time + sequential LLM latency) / all test messages",
+        "artifacts": {
+            "responses.jsonl": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-4o-mini.responses.jsonl",
+            "calls.csv": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-4o-mini.calls.csv",
+            "manifest.json": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-4o-mini.manifest.json",
+            "log": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-4o-mini.log"
+        },
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv"
+    }
+}

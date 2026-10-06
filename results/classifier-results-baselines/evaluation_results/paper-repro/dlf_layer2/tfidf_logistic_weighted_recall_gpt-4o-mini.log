@@ -1,0 +1,27 @@
+12:20:01 INFO dlf_layer2: layer-1 positives: 2312, cached: 0, to query: 2312, workers: 4, seed: 42, logprobs: True
+12:20:32 INFO dlf_layer2: 100/2312 queried  cost so far $0.0054  3.2 calls/s  ETA 681s
+12:20:59 INFO dlf_layer2: 200/2312 queried  cost so far $0.0108  3.5 calls/s  ETA 605s
+12:21:27 INFO dlf_layer2: 300/2312 queried  cost so far $0.0162  3.5 calls/s  ETA 571s
+12:21:55 INFO dlf_layer2: 400/2312 queried  cost so far $0.0217  3.5 calls/s  ETA 544s
+12:22:21 INFO dlf_layer2: 500/2312 queried  cost so far $0.0271  3.6 calls/s  ETA 507s
+12:22:49 INFO dlf_layer2: 600/2312 queried  cost so far $0.0325  3.6 calls/s  ETA 479s
+12:23:18 INFO dlf_layer2: 700/2312 queried  cost so far $0.0380  3.6 calls/s  ETA 453s
+12:23:46 INFO dlf_layer2: 800/2312 queried  cost so far $0.0435  3.6 calls/s  ETA 424s
+12:24:14 INFO dlf_layer2: 900/2312 queried  cost so far $0.0490  3.6 calls/s  ETA 396s
+12:24:42 INFO dlf_layer2: 1000/2312 queried  cost so far $0.0544  3.6 calls/s  ETA 368s
+12:25:10 INFO dlf_layer2: 1100/2312 queried  cost so far $0.0600  3.6 calls/s  ETA 340s
+12:25:38 INFO dlf_layer2: 1200/2312 queried  cost so far $0.0654  3.6 calls/s  ETA 312s
+12:26:11 INFO dlf_layer2: 1300/2312 queried  cost so far $0.0709  3.5 calls/s  ETA 287s
+12:26:40 INFO dlf_layer2: 1400/2312 queried  cost so far $0.0762  3.5 calls/s  ETA 260s
+12:27:10 INFO dlf_layer2: 1500/2312 queried  cost so far $0.0817  3.5 calls/s  ETA 232s
+12:27:40 INFO dlf_layer2: 1600/2312 queried  cost so far $0.0872  3.5 calls/s  ETA 204s
+12:28:09 INFO dlf_layer2: 1700/2312 queried  cost so far $0.0925  3.5 calls/s  ETA 176s
+12:28:38 INFO dlf_layer2: 1800/2312 queried  cost so far $0.0981  3.5 calls/s  ETA 147s
+12:29:06 INFO dlf_layer2: 1900/2312 queried  cost so far $0.1034  3.5 calls/s  ETA 118s
+12:29:36 INFO dlf_layer2: 2000/2312 queried  cost so far $0.1088  3.5 calls/s  ETA 90s
+12:30:04 INFO dlf_layer2: 2100/2312 queried  cost so far $0.1142  3.5 calls/s  ETA 61s
+12:30:32 INFO dlf_layer2: 2200/2312 queried  cost so far $0.1197  3.5 calls/s  ETA 32s
+12:31:02 INFO dlf_layer2: 2300/2312 queried  cost so far $0.1250  3.5 calls/s  ETA 3s
+12:31:06 INFO dlf_layer2: 2312/2312 queried  cost so far $0.1256  3.5 calls/s  ETA 0s
+12:31:06 INFO dlf_layer2: totals: {"n_calls_recorded": 2312, "n_layer1_positives": 2312, "cost_usd": 0.1256373, "input_tokens": 707838, "output_tokens": 32436, "n_errors": 0, "n_unparsed": 0, "n_verdict_false": 132, "model_snapshots": ["gpt-4o-mini-2024-07-18"], "mean_latency_s": 1.1468851484692912, "llm_seconds_total": 2651.5984632610016}
+12:31:06 INFO dlf_layer2: DLF full: acc=0.9806 P+=0.9830 R+=0.9714 F1+=0.9772 macroF1=0.9802 | layer 2: {'true_positives_sent': 2184, 'true_positives_wrongly_rejected': 41, 'false_positives_sent': 128, 'false_positives_removed': 91} -> dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini

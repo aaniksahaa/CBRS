@@ -112,7 +112,7 @@
     },
     "tfidf_random_forest": {
       "label": "TFIDF + RF",
-      "sig_f1_holm": true,
+      "sig_f1_holm": false,
       "sig_mcnemar_holm": false,
       "direction": "method_better"
     },
@@ -130,6 +130,18 @@
     },
     "huggingface_sentence-transformers_LaBSE_random_forest": {
       "label": "LaBSE + RF",
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
+      "direction": "method_better"
+    },
+    "dlf_full_tfidf_logistic_weighted_recall_gpt-4o-mini": {
+      "label": "DLF (layer 1 + gpt-4o-mini)",
+      "sig_f1_holm": false,
+      "sig_mcnemar_holm": false,
+      "direction": "method_better"
+    },
+    "dlf_full_tfidf_logistic_weighted_recall_gpt-5-mini": {
+      "label": "DLF (layer 1 + gpt-5-mini)",
       "sig_f1_holm": false,
       "sig_mcnemar_holm": false,
       "direction": "method_better"

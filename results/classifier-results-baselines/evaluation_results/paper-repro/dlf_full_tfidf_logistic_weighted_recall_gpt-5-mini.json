@@ -1,0 +1,115 @@
+{
+    "vectorizer": "tfidf",
+    "model": "dlf",
+    "embedding_model": "gpt-5-mini",
+    "accuracy": 0.9806426635694928,
+    "avg_inference_time_seconds": 1.0793862434413428,
+    "metrics": {
+        "0": {
+            "precision": 0.9785809906291834,
+            "recall": 0.9878378378378379,
+            "f1-score": 0.9831876260928043,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9834710743801653,
+            "recall": 0.970988213961922,
+            "f1-score": 0.9771897810218978,
+            "support": 2206.0
+        },
+        "accuracy": 0.9806426635694928,
+        "macro avg": {
+            "precision": 0.9810260325046744,
+            "recall": 0.9794130258998799,
+            "f1-score": 0.9801887035573511,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9806691680884684,
+            "recall": 0.9806426635694928,
+            "f1-score": 0.9806264092468074,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9801887035573511,
+        "weighted_f1": 0.9806264092468074,
+        "confusion_matrix": [
+            [
+                2924,
+                36
+            ],
+            [
+                64,
+                2142
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.970617042115573,
+                "macro_f1": 0.9700457674855265,
+                "positive_recall": 0.9650468883205456
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9847266881028939,
+                "macro_f1": 0.9837835909370334,
+                "positive_recall": 0.9778012684989429
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9968553459119497,
+                "macro_f1": 0.9932769556025369,
+                "positive_recall": 0.9770114942528736
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-06T13:08:45",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "dlf_full_tfidf_logistic_weighted_recall_gpt-5-mini",
+        "kind": "dlf",
+        "layer1": "tfidf_logistic_weighted_recall",
+        "llm": "gpt-5-mini",
+        "layer2_confusion": {
+            "true_positives_sent": 2184,
+            "true_positives_wrongly_rejected": 42,
+            "false_positives_sent": 128,
+            "false_positives_removed": 92
+        },
+        "llm_totals": {
+            "n_calls_recorded": 2312,
+            "n_layer1_positives": 2312,
+            "cost_usd": 0.8023575000000001,
+            "input_tokens": 705526,
+            "output_tokens": 312988,
+            "reasoning_tokens": 269056,
+            "n_errors": 0,
+            "n_unparsed": 0,
+            "n_verdict_false": 134,
+            "model_snapshots": [
+                "gpt-5-mini-2025-08-07"
+            ],
+            "system_fingerprints": [],
+            "mean_latency_s": 2.411811780513831,
+            "llm_seconds_total": 5576.108836547977
+        },
+        "note": "score column in the prediction CSV = LLM P(true) for layer-1 positives, NaN otherwise; avg_inference_time = (layer-1 time + sequential LLM latency) / all test messages",
+        "artifacts": {
+            "responses.jsonl": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-5-mini.responses.jsonl",
+            "calls.csv": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-5-mini.calls.csv",
+            "manifest.json": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-5-mini.manifest.json",
+            "log": "/home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/dlf_layer2/tfidf_logistic_weighted_recall_gpt-5-mini.log"
+        },
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv"
+    }
+}

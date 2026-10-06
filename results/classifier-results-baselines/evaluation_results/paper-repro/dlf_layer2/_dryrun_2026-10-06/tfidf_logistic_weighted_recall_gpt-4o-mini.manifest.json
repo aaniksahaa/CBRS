@@ -1,0 +1,103 @@
+{
+  "runs": [
+    {
+      "started_utc": "2026-10-06T06:18:32.949+00:00",
+      "argv": [
+        "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/dlf_layer2.py",
+        "--limit",
+        "5",
+        "--workers",
+        "2"
+      ],
+      "n_to_query": 5,
+      "n_cached": 0,
+      "dry_run": true,
+      "finished_utc": "2026-10-06T06:18:37.266+00:00",
+      "n_queried": 5,
+      "wall_s": 4.19677170399973
+    },
+    {
+      "started_utc": "2026-10-06T06:18:52.200+00:00",
+      "argv": [
+        "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/dlf_layer2.py",
+        "--limit",
+        "5",
+        "--workers",
+        "2"
+      ],
+      "n_to_query": 5,
+      "n_cached": 5,
+      "dry_run": true,
+      "finished_utc": "2026-10-06T06:18:56.214+00:00",
+      "n_queried": 5,
+      "wall_s": 3.8946451159999924
+    }
+  ],
+  "description": "DLF layer 2 (LLM re-check of layer-1 positives) on the paper's Table 3 test split",
+  "layer1": "tfidf_logistic_weighted_recall",
+  "model_requested": "gpt-4o-mini",
+  "system_prompt": "You are a helpful assistant.",
+  "prompt_template": "\n    You are an expert in text classification for emergency blood donation requests. Analyze the following text to determine if it is explicitly related to a request for blood donation or an emergency need for blood. The text may be in English, Bengali, or a mix of both. Return your response in JSON format with a single key 'is_blood_donation_request' and a boolean value (true if related to blood donation/emergency, false otherwise). Ensure your analysis is precise and academically sound.\n    Samples:\n    Input Text: Emergency O+ blood needed. Please help.\n    Response:\n    ```json\n    {\"is_blood_donation_request\": true}\n    ```\n    Input Text: Blood donation is a great virtue.\n    Response:\n    ```json\n    {\"is_blood_donation_request\": false}\n    ```\n    Text: \"{MESSAGE}\"\n    Reminders:\n    - Do not include any sort of greetings/fillers etc in the response.\n    - Output only the correct JSON properly understanding the meaning of the English / Bengali / Transliterated Bengali Text\n    ",
+  "prompt_template_sha256": "8188410df3b942c3ff23e7e0dd89c9b26033f6464093d495b1cac55ea61f0bd4",
+  "request_settings": {
+    "seed": 42,
+    "logprobs": true,
+    "top_logprobs": 5,
+    "temperature": "not set (API default), as in llmclient.py"
+  },
+  "decision_rule": "verdict false -> negative; true/unparseable/error -> keep layer-1 positive (eval-v1.py)",
+  "sha256": {
+    "dataset_csv": "91ab3f68b81fdadcc91c48e1fc4a80d0e1334e6aad653ea6e71fed3d77ddaff0",
+    "layer1_predictions_csv": "db3a737074c9585538a2529cb537d83840c464612142846719124568e1411f12",
+    "llmclient_py": "a01358f8576ff66a195f5948aab447afb88d353e061444d21d0c45d52f589a38",
+    "eval_v1_py": "819db9312b610471c00380d1dabef0d8900c042768dd0798f7af1e2f62ddba1d",
+    "this_script": "cb822419126de332131790598585432fd39329ea5b6695020892b50035f2bcbc"
+  },
+  "data": {
+    "path": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+    "n_test": 5166,
+    "matches_paper_split": true,
+    "n_layer1_positives": 2312
+  },
+  "git": {
+    "commit": "a9188248b8180c07851cf40c21ca18a8e0519916",
+    "branch": "main",
+    "dirty_files": 4
+  },
+  "packages": {
+    "python": "3.13.5",
+    "openai": "1.91.0",
+    "langchain-openai": "0.3.25",
+    "langchain-core": "0.3.86",
+    "httpx": "0.28.1",
+    "numpy": "2.4.4",
+    "pandas": "2.3.1",
+    "scikit-learn": "1.7.1"
+  },
+  "env": {
+    "cuda": true,
+    "torch": "2.10.0+cu128",
+    "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "gpu_mem_gb": 5.7,
+    "transformers": "5.3.0",
+    "cpu_count": 16
+  },
+  "totals": {
+    "n_calls_recorded": 10,
+    "n_layer1_positives": 2312,
+    "cost_usd": 0.0005695499999999999,
+    "input_tokens": 3237,
+    "output_tokens": 140,
+    "n_errors": 0,
+    "n_unparsed": 0,
+    "n_verdict_false": 0,
+    "model_snapshots": [
+      "gpt-4o-mini-2024-07-18"
+    ],
+    "system_fingerprints": [
+      "fp_040bc6973e"
+    ],
+    "mean_latency_s": 1.4374270329999945,
+    "llm_seconds_total": 14.374270329999945
+  }
+}

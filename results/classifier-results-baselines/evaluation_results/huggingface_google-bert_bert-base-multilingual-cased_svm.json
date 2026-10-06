@@ -3,7 +3,7 @@
     "model": "svm",
     "embedding_model": "google-bert/bert-base-multilingual-cased",
     "accuracy": 0.9779326364692218,
-    "avg_inference_time_seconds": 0.00025157901644963623,
+    "avg_inference_time_seconds": 0.00024111008865663393,
     "metrics": {
         "0": {
             "precision": 0.9778374748153122,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:20:51",
+        "timestamp": "2026-10-01T12:53:21",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "mbert_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 82.27715437399456,
-        "encode_test_seconds_total": 6.6300274309760425,
-        "encode_seconds_per_sample": 0.0012833967152489436,
+        "fit_seconds": 83.06990131300063,
+        "encode_test_seconds_total": 6.672110919999795,
+        "encode_seconds_per_sample": 0.001291542957800967,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

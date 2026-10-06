@@ -1,0 +1,93 @@
+{
+    "vectorizer": "huggingface",
+    "model": "logistic",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "accuracy": 0.9661246612466124,
+    "avg_inference_time_seconds": 1.5821705381258997e-06,
+    "metrics": {
+        "0": {
+            "precision": 0.9627783316716517,
+            "recall": 0.9787162162162162,
+            "f1-score": 0.9706818562573295,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9707927677329624,
+            "recall": 0.9492293744333635,
+            "f1-score": 0.9598899839559936,
+            "support": 2206.0
+        },
+        "accuracy": 0.9661246612466124,
+        "macro avg": {
+            "precision": 0.966785549702307,
+            "recall": 0.9639727953247899,
+            "f1-score": 0.9652859201066615,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9662006789328308,
+            "recall": 0.9661246612466124,
+            "f1-score": 0.9660734802804136,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9652859201066615,
+        "weighted_f1": 0.9660734802804136,
+        "confusion_matrix": [
+            [
+                2897,
+                63
+            ],
+            [
+                112,
+                2094
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9427032321253673,
+                "macro_f1": 0.9418663812957465,
+                "positive_recall": 0.9249786871270247
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9778938906752411,
+                "macro_f1": 0.9766002230879053,
+                "positive_recall": 0.9767441860465116
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9952830188679245,
+                "macro_f1": 0.9899646026077307,
+                "positive_recall": 0.9770114942528736
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-01T13:14:44",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "paper_minilm6",
+        "description": "Paper row: sentence-transformers/all-MiniLM-L6-v2 sentence embeddings x {LogReg,SVM,RF}",
+        "kind": "embed",
+        "pooling": "sentence-transformers",
+        "max_length": 512,
+        "normalised_embeddings": true,
+        "bangla_normalised": false,
+        "fit_seconds": 0.6228291960005663,
+        "encode_test_seconds_total": 7.512488398000642,
+        "encode_seconds_per_sample": 0.0014542176535038021,
+        "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

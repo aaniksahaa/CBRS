@@ -1,0 +1,93 @@
+{
+    "vectorizer": "huggingface",
+    "model": "logistic",
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "accuracy": 0.9678668215253581,
+    "avg_inference_time_seconds": 9.532874565145141e-07,
+    "metrics": {
+        "0": {
+            "precision": 0.9647371922821024,
+            "recall": 0.9797297297297297,
+            "f1-score": 0.9721756620851492,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9722222222222222,
+            "recall": 0.9519492293744334,
+            "f1-score": 0.961978928080623,
+            "support": 2206.0
+        },
+        "accuracy": 0.9678668215253581,
+        "macro avg": {
+            "precision": 0.9684797072521623,
+            "recall": 0.9658394795520815,
+            "f1-score": 0.9670772950828861,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.96793347103702,
+            "recall": 0.9678668215253581,
+            "f1-score": 0.967821423754916,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9670772950828861,
+        "weighted_f1": 0.967821423754916,
+        "confusion_matrix": [
+            [
+                2900,
+                60
+            ],
+            [
+                106,
+                2100
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9461312438785504,
+                "macro_f1": 0.9452846697690371,
+                "positive_recall": 0.9317988064791134
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9790996784565916,
+                "macro_f1": 0.9778632537129559,
+                "positive_recall": 0.9767441860465116
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9937106918238994,
+                "macro_f1": 0.9864204120849791,
+                "positive_recall": 0.9540229885057471
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-01T13:29:50",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "paper_bge",
+        "description": "Paper row: BAAI/bge-small-en-v1.5 sentence embeddings x {LogReg,SVM,RF}",
+        "kind": "embed",
+        "pooling": "sentence-transformers",
+        "max_length": 512,
+        "normalised_embeddings": true,
+        "bangla_normalised": false,
+        "fit_seconds": 0.27147050900020986,
+        "encode_test_seconds_total": 11.730769368999972,
+        "encode_seconds_per_sample": 0.002270764492644207,
+        "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

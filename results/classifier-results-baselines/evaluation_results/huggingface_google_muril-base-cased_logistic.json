@@ -3,7 +3,7 @@
     "model": "logistic",
     "embedding_model": "google/muril-base-cased",
     "accuracy": 0.9639953542392566,
-    "avg_inference_time_seconds": 3.4072926808188285e-06,
+    "avg_inference_time_seconds": 5.768464188857317e-06,
     "metrics": {
         "0": {
             "precision": 0.9553512803676953,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:28:41",
+        "timestamp": "2026-10-01T13:01:03",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "muril_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 0.48511910598608665,
-        "encode_test_seconds_total": 5.545030542009044,
-        "encode_seconds_per_sample": 0.0010733702171910656,
+        "fit_seconds": 0.6995137699996121,
+        "encode_test_seconds_total": 5.5824127490004685,
+        "encode_seconds_per_sample": 0.001080606416763544,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

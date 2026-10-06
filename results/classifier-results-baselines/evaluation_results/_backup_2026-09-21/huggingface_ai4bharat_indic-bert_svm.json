@@ -1,0 +1,93 @@
+{
+    "vectorizer": "huggingface",
+    "model": "svm",
+    "embedding_model": "ai4bharat/indic-bert",
+    "accuracy": 0.9719318621757647,
+    "avg_inference_time_seconds": 0.00044678801684326663,
+    "metrics": {
+        "0": {
+            "precision": 0.9674526735303886,
+            "recall": 0.9841216216216216,
+            "f1-score": 0.9757159604756322,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9781902552204176,
+            "recall": 0.9555757026291931,
+            "f1-score": 0.966750745241917,
+            "support": 2206.0
+        },
+        "accuracy": 0.9719318621757647,
+        "macro avg": {
+            "precision": 0.9728214643754031,
+            "recall": 0.9698486621254074,
+            "f1-score": 0.9712333528587747,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9720378661761887,
+            "recall": 0.9719318621757647,
+            "f1-score": 0.9718876087904647,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9712333528587747,
+        "weighted_f1": 0.9718876087904647,
+        "confusion_matrix": [
+            [
+                2913,
+                47
+            ],
+            [
+                98,
+                2108
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9632713026444663,
+                "macro_f1": 0.9625827778164614,
+                "positive_recall": 0.9565217391304348
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9762861736334405,
+                "macro_f1": 0.9747748125492868,
+                "positive_recall": 0.9619450317124736
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9827044025157232,
+                "macro_f1": 0.9612982458081397,
+                "positive_recall": 0.8735632183908046
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-09-21T00:45:41",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "indicbert_emb",
+        "description": "IndicBERT v1 frozen mean-pooled embeddings (gated repo)",
+        "kind": "embed",
+        "pooling": "mean",
+        "max_length": 128,
+        "normalised_embeddings": true,
+        "bangla_normalised": false,
+        "fit_seconds": 109.51374298598967,
+        "encode_test_seconds_total": 5.907020875980379,
+        "encode_seconds_per_sample": 0.0011434419039838132,
+        "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

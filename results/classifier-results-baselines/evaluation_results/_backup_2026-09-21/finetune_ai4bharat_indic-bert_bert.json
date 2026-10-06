@@ -1,0 +1,113 @@
+{
+    "vectorizer": "bert-end-to-end",
+    "model": "bert",
+    "embedding_model": "ai4bharat/indic-bert",
+    "accuracy": 0.9852884243128146,
+    "avg_inference_time_seconds": 0.0021322211871837474,
+    "metrics": {
+        "0": {
+            "precision": 0.9874915483434753,
+            "recall": 0.9868243243243243,
+            "f1-score": 0.9871578235890504,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9823369565217391,
+            "recall": 0.9832275611967362,
+            "f1-score": 0.9827820570910738,
+            "support": 2206.0
+        },
+        "accuracy": 0.9852884243128146,
+        "macro avg": {
+            "precision": 0.9849142524326072,
+            "recall": 0.9850259427605302,
+            "f1-score": 0.984969940340062,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9852904198961757,
+            "recall": 0.9852884243128146,
+            "f1-score": 0.9852892713446568,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.984969940340062,
+        "weighted_f1": 0.9852892713446568,
+        "confusion_matrix": [
+            [
+                2921,
+                39
+            ],
+            [
+                37,
+                2169
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9784524975514202,
+                "macro_f1": 0.9779706563100703,
+                "positive_recall": 0.9803921568627451
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.987540192926045,
+                "macro_f1": 0.9867951020251631,
+                "positive_recall": 0.9862579281183932
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9984276729559748,
+                "macro_f1": 0.9966548675359101,
+                "positive_recall": 0.9885057471264368
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-09-21T00:42:59",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "indicbert_ft",
+        "description": "IndicBERT v1 (ALBERT, AI4Bharat; Kakwani et al. 2020)",
+        "kind": "finetune",
+        "n_params": 33445122,
+        "n_trainable_params": 33445122,
+        "embeddings_frozen": false,
+        "n_frozen_params": 0,
+        "train_seconds": 399.87041125798714,
+        "train_loss": 0.09453913449967986,
+        "val_macro_f1_best": 0.9890515482979989,
+        "hparams": {
+            "epochs": 3,
+            "batch_size": 32,
+            "grad_accum": 1,
+            "lr": 3e-05,
+            "max_length": 128,
+            "weight_decay": 0.01,
+            "warmup_ratio": 0.06,
+            "val_fraction": 0.1,
+            "fp16": false,
+            "bf16": true,
+            "seed": 42,
+            "freeze_embeddings": "never"
+        },
+        "bangla_normalised": false,
+        "inference": {
+            "batch_size": 64,
+            "device": "cuda",
+            "single_sample_latency_seconds": 0.0037795400799950584,
+            "total_test_seconds": 11.015054652991239
+        },
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

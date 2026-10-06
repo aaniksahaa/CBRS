@@ -74,6 +74,37 @@ def save_result(result: dict, out_dir: str | Path, key: str) -> Path:
     return path
 
 
+def save_predictions(out_dir: str | Path, key: str, *, y_true, y_pred, scores=None, languages=None) -> Path:
+    """Per-message predictions on the shared test split -> <out_dir>/predictions/<key>.csv
+    (idx = position in the paper's test split; score = P(positive) / decision score when available).
+    These files are the input of baselines/significance.py (paired bootstrap, McNemar)."""
+    import pandas as pd
+    pdir = Path(out_dir) / "predictions"
+    pdir.mkdir(parents=True, exist_ok=True)
+    df = pd.DataFrame({"idx": np.arange(len(y_true)), "y_true": np.asarray(y_true).astype(int),
+                       "y_pred": np.asarray(y_pred).astype(int)})
+    if scores is not None:
+        df["score"] = np.asarray(scores, dtype=float)
+    if languages is not None:
+        df["language"] = np.asarray(languages)
+    path = pdir / (f"{key}.csv".replace("/", "_"))
+    df.to_csv(path, index=False)
+    return path
+
+
+def positive_scores(clf, X):
+    """P(class 1) if available, else decision function, else None."""
+    try:
+        if hasattr(clf, "predict_proba"):
+            proba = clf.predict_proba(X)
+            return proba[:, list(clf.classes_).index(1)]
+        if hasattr(clf, "decision_function"):
+            return clf.decision_function(X)
+    except Exception:
+        return None
+    return None
+
+
 def result_exists(out_dir: str | Path, key: str) -> bool:
     return (Path(out_dir) / (f"{key}.json".replace("/", "_"))).exists()
 

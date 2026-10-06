@@ -1,0 +1,220 @@
+
+##### 2026-10-01T13:28:23 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline paper_jina --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42 --save-model /home/aaniksahaa/.cache/cbrs-baselines/models --force
+13:28:23 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+13:28:24 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=20664  val=0  test=5166
+test label counts={0: 2960, 1: 2206}  test languages={'en': 2488, 'bn': 2042, 'tbn': 636}
+matches_paper_split=True
+13:28:28 INFO datasets: TensorFlow version 2.20.0 available.
+13:28:28 INFO baselines.embed: loading jinaai/jina-embeddings-v2-small-en (sentence-transformers)
+13:28:28 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+A new version of the following files was downloaded from https://huggingface.co/jinaai/jina-bert-implementation:
+- configuration_bert.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 256, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 188, in main
+    run_one(specs[0], args)
+    ~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 140, in run_one
+    return run_embed(spec, split, out_dir, cache_dir, device=args.device, classifiers=clfs, force=args.force, overrides=ov)
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/embed.py", line 70, in run_embed
+    st = SentenceTransformer(spec.model_id, device=str(dev), trust_remote_code=True)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 327, in __init__
+    modules, self.module_kwargs = self._load_sbert_model(
+                                  ~~~~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path,
+        ^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        config_kwargs=config_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 2305, in _load_sbert_model
+    module = module_class.load(
+        model_name_or_path,
+    ...<11 lines>...
+        backend=self.backend,
+    )
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 366, in load
+    return cls(model_name_or_path=model_name_or_path, **init_kwargs)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 88, in __init__
+    config, is_peft_model = self._load_config(model_name_or_path, cache_dir, backend, config_args)
+                            ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 163, in _load_config
+    return AutoConfig.from_pretrained(model_name_or_path, **config_args, cache_dir=cache_dir), False
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/models/auto/configuration_auto.py", line 1443, in from_pretrained
+    config_class = get_class_from_dynamic_module(
+        class_ref, pretrained_model_name_or_path, code_revision=code_revision, **kwargs
+    )
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/dynamic_module_utils.py", line 583, in get_class_from_dynamic_module
+    return get_class_in_module(class_name, final_module, force_reload=force_download)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/dynamic_module_utils.py", line 309, in get_class_in_module
+    module_spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/configuration_bert.py", line 22, in <module>
+    from transformers.onnx import OnnxConfig
+ModuleNotFoundError: No module named 'transformers.onnx'
+
+##### 2026-10-01T13:37:29 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline paper_jina --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42 --force
+13:37:29 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+13:37:29 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=20664  val=0  test=5166
+test label counts={0: 2960, 1: 2206}  test languages={'en': 2488, 'bn': 2042, 'tbn': 636}
+matches_paper_split=True
+13:37:35 INFO datasets: TensorFlow version 2.20.0 available.
+13:37:35 INFO baselines.embed: loading jinaai/jina-embeddings-v2-small-en (sentence-transformers)
+13:37:35 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+A new version of the following files was downloaded from https://huggingface.co/jinaai/jina-bert-implementation:
+- modeling_bert.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 256, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 188, in main
+    run_one(specs[0], args)
+    ~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 140, in run_one
+    return run_embed(spec, split, out_dir, cache_dir, device=args.device, classifiers=clfs, force=args.force, overrides=ov)
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/embed.py", line 83, in run_embed
+    st = SentenceTransformer(spec.model_id, device=str(dev), trust_remote_code=True)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 327, in __init__
+    modules, self.module_kwargs = self._load_sbert_model(
+                                  ~~~~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path,
+        ^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        config_kwargs=config_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 2305, in _load_sbert_model
+    module = module_class.load(
+        model_name_or_path,
+    ...<11 lines>...
+        backend=self.backend,
+    )
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 366, in load
+    return cls(model_name_or_path=model_name_or_path, **init_kwargs)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 89, in __init__
+    self._load_model(model_name_or_path, config, cache_dir, backend, is_peft_model, **model_args)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 197, in _load_model
+    self.auto_model = AutoModel.from_pretrained(
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path, config=config, cache_dir=cache_dir, **model_args
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/models/auto/auto_factory.py", line 356, in from_pretrained
+    model_class = get_class_from_dynamic_module(
+        class_ref, pretrained_model_name_or_path, code_revision=code_revision, **hub_kwargs, **kwargs
+    )
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/dynamic_module_utils.py", line 583, in get_class_from_dynamic_module
+    return get_class_in_module(class_name, final_module, force_reload=force_download)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/dynamic_module_utils.py", line 309, in get_class_in_module
+    module_spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/modeling_bert.py", line 45, in <module>
+    from transformers.pytorch_utils import (
+    ...<3 lines>...
+    )
+ImportError: cannot import name 'find_pruneable_heads_and_indices' from 'transformers.pytorch_utils' (/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/pytorch_utils.py)
+
+##### 2026-10-01T13:38:13 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline paper_jina --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42 --force
+13:38:13 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+13:38:14 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=20664  val=0  test=5166
+test label counts={0: 2960, 1: 2206}  test languages={'en': 2488, 'bn': 2042, 'tbn': 636}
+matches_paper_split=True
+13:38:19 INFO datasets: TensorFlow version 2.20.0 available.
+13:38:19 INFO baselines.embed: loading jinaai/jina-embeddings-v2-small-en (sentence-transformers)
+13:38:19 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 256, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 188, in main
+    run_one(specs[0], args)
+    ~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/run.py", line 140, in run_one
+    return run_embed(spec, split, out_dir, cache_dir, device=args.device, classifiers=clfs, force=args.force, overrides=ov)
+  File "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/baselines/embed.py", line 103, in run_embed
+    st = SentenceTransformer(spec.model_id, device=str(dev), trust_remote_code=True)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 327, in __init__
+    modules, self.module_kwargs = self._load_sbert_model(
+                                  ~~~~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path,
+        ^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        config_kwargs=config_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 2305, in _load_sbert_model
+    module = module_class.load(
+        model_name_or_path,
+    ...<11 lines>...
+        backend=self.backend,
+    )
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 366, in load
+    return cls(model_name_or_path=model_name_or_path, **init_kwargs)
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 89, in __init__
+    self._load_model(model_name_or_path, config, cache_dir, backend, is_peft_model, **model_args)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/sentence_transformers/models/Transformer.py", line 197, in _load_model
+    self.auto_model = AutoModel.from_pretrained(
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path, config=config, cache_dir=cache_dir, **model_args
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/models/auto/auto_factory.py", line 367, in from_pretrained
+    return model_class.from_pretrained(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        pretrained_model_name_or_path, *model_args, config=config, **hub_kwargs, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/modeling_utils.py", line 4094, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/modeling_bert.py", line 1113, in __init__
+    self.encoder = JinaBertEncoder(config)
+                   ~~~~~~~~~~~~~~~^^^^^^^^
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/modeling_bert.py", line 698, in __init__
+    [JinaBertLayer(config) for _ in range(config.num_hidden_layers)]
+     ~~~~~~~~~~~~~^^^^^^^^
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/modeling_bert.py", line 588, in __init__
+    self.attention = JinaBertAttention(config)
+                     ~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/modeling_bert.py", line 461, in __init__
+    self.self = JinaBertSelfAttention(
+                ~~~~~~~~~~~~~~~~~~~~~^
+        config, position_embedding_type=position_embedding_type
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/aaniksahaa/.cache/huggingface/modules/transformers_modules/jinaai/jina_hyphen_bert_hyphen_implementation/f3ec4cf7de7e561007f27c9efc7148b0bd713f81/modeling_bert.py", line 298, in __init__
+    self.is_decoder = config.is_decoder
+                      ^^^^^^^^^^^^^^^^^
+  File "/home/aaniksahaa/miniconda3/lib/python3.13/site-packages/transformers/configuration_utils.py", line 164, in __getattribute__
+    return super().__getattribute__(key)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+AttributeError: 'JinaBertConfig' object has no attribute 'is_decoder'

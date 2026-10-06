@@ -3,7 +3,7 @@
     "model": "random_forest",
     "embedding_model": "FacebookAI/xlm-roberta-base",
     "accuracy": 0.9765776229190863,
-    "avg_inference_time_seconds": 4.668525742423518e-06,
+    "avg_inference_time_seconds": 4.645771970524312e-06,
     "metrics": {
         "0": {
             "precision": 0.9708126036484246,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:28:03",
+        "timestamp": "2026-10-01T13:00:23",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "xlmr_base_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 6.174822275002953,
-        "encode_test_seconds_total": 5.718889775977004,
-        "encode_seconds_per_sample": 0.001107024734025746,
+        "fit_seconds": 6.190144511000653,
+        "encode_test_seconds_total": 5.741637664000336,
+        "encode_seconds_per_sample": 0.0011114281192412575,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

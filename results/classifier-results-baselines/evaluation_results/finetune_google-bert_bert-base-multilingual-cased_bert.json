@@ -2,59 +2,59 @@
     "vectorizer": "bert-end-to-end",
     "model": "bert",
     "embedding_model": "google-bert/bert-base-multilingual-cased",
-    "accuracy": 0.9866434378629501,
-    "avg_inference_time_seconds": 0.002232055609560479,
+    "accuracy": 0.9874177313201703,
+    "avg_inference_time_seconds": 0.0023045190787843893,
     "metrics": {
         "0": {
-            "precision": 0.9878501518731015,
-            "recall": 0.9888513513513514,
-            "f1-score": 0.9883504980584163,
+            "precision": 0.9901794784964443,
+            "recall": 0.9878378378378379,
+            "f1-score": 0.9890072721122949,
             "support": 2960.0
         },
         "1": {
-            "precision": 0.9850204266908761,
-            "recall": 0.9836808703535811,
-            "f1-score": 0.9843501927874801,
+            "precision": 0.9837324898328061,
+            "recall": 0.9868540344514959,
+            "f1-score": 0.9852907897714415,
             "support": 2206.0
         },
-        "accuracy": 0.9866434378629501,
+        "accuracy": 0.9874177313201703,
         "macro avg": {
-            "precision": 0.9864352892819888,
-            "recall": 0.9862661108524662,
-            "f1-score": 0.9863503454229483,
+            "precision": 0.9869559841646252,
+            "recall": 0.9873459361446668,
+            "f1-score": 0.9871490309418682,
             "support": 5166.0
         },
         "weighted avg": {
-            "precision": 0.9866417945846793,
-            "recall": 0.9866434378629501,
-            "f1-score": 0.9866422763341257,
+            "precision": 0.9874264670771671,
+            "recall": 0.9874177313201703,
+            "f1-score": 0.9874202492621356,
             "support": 5166.0
         }
     },
     "extra": {
-        "macro_f1": 0.9863503454229483,
-        "weighted_f1": 0.9866422763341257,
+        "macro_f1": 0.9871490309418682,
+        "weighted_f1": 0.9874202492621356,
         "confusion_matrix": [
             [
-                2927,
-                33
+                2924,
+                36
             ],
             [
-                36,
-                2170
+                29,
+                2177
             ]
         ],
         "per_language": {
             "bn": {
                 "n": 2042,
-                "accuracy": 0.9779627815866797,
-                "macro_f1": 0.9774865216810751,
-                "positive_recall": 0.9778346121057119
+                "accuracy": 0.9794319294809011,
+                "macro_f1": 0.9789531031436354,
+                "positive_recall": 0.9838022165387894
             },
             "en": {
                 "n": 2488,
-                "accuracy": 0.9911575562700965,
-                "macro_f1": 0.9906306765234907,
+                "accuracy": 0.9915594855305466,
+                "macro_f1": 0.9910547465331749,
                 "positive_recall": 0.9915433403805497
             },
             "tbn": {
@@ -65,16 +65,19 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-20T23:26:44",
+        "timestamp": "2026-10-01T12:08:46",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "mbert_ft",
         "description": "Multilingual BERT base cased (Devlin et al. 2019)",
         "kind": "finetune",
         "n_params": 177854978,
-        "train_seconds": 528.6825272949936,
-        "train_loss": 0.0698568958187431,
-        "val_macro_f1_best": 0.9905553905553905,
+        "n_trainable_params": 177854978,
+        "embeddings_frozen": false,
+        "n_frozen_params": 0,
+        "train_seconds": 546.1168913790002,
+        "train_loss": 0.06923405759523005,
+        "val_macro_f1_best": 0.990546087252925,
         "hparams": {
             "epochs": 3,
             "batch_size": 32,
@@ -86,14 +89,15 @@
             "val_fraction": 0.1,
             "fp16": false,
             "bf16": true,
-            "seed": 42
+            "seed": 42,
+            "freeze_embeddings": "never"
         },
         "bangla_normalised": false,
         "inference": {
             "batch_size": 64,
             "device": "cuda",
-            "single_sample_latency_seconds": 0.006420458529901225,
-            "total_test_seconds": 11.530799278989434
+            "single_sample_latency_seconds": 0.006495895519997248,
+            "total_test_seconds": 11.905145561000154
         },
         "env": {
             "cuda": true,

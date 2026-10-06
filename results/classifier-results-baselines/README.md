@@ -61,6 +61,16 @@ encoders. Full rows are in `../../paper/tables/baselines_all.csv`.
 * Single seed (42). With 5,166 test messages, one message = 0.02 points; differences under ~0.3
   points are within noise.
 
+## Statistical significance (added 2026-10-01)
+
+Per-message predictions for every system (incl. re-runs of the paper's original rows) are in
+`evaluation_results/predictions/` and `evaluation_results/paper-repro/predictions/`.
+`python -m baselines.significance` produces paired-bootstrap CIs, McNemar tests and Holm-corrected
+p-values; results, LaTeX tables, suggested text and caveats are in `paper/tables/SIGNIFICANCE_NOTES.md`.
+Headline: fine-tuned BanglaBERT/mBERT/XLM-R/IndicBERT/MuRIL/DistilBERT and char-n-gram SVM/RF are a
+statistical tie at the top; everything else is significantly worse; DLF layer 1 ties the best encoders on
+recall but not on F1.
+
 ## Reproduce / extend
 
 ```bash

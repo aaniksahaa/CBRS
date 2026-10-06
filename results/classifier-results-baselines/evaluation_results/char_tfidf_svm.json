@@ -3,7 +3,7 @@
     "model": "svm",
     "embedding_model": "N/A",
     "accuracy": 0.9852884243128146,
-    "avg_inference_time_seconds": 0.0029220678832769247,
+    "avg_inference_time_seconds": 0.0030225879548974304,
     "metrics": {
         "0": {
             "precision": 0.986833220796759,
@@ -65,15 +65,15 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-20T23:03:56",
+        "timestamp": "2026-10-01T11:57:25",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "char_tfidf",
         "description": "Character n-gram (2-5, char_wb) TF-IDF x {LogReg, SVM, RF, NB}",
         "kind": "lexical",
         "n_features": 200000,
-        "vectorize_seconds": 6.1418719479988795,
-        "fit_seconds": 369.2991573150066,
+        "vectorize_seconds": 5.80429277799999,
+        "fit_seconds": 360.63315280500024,
         "env": {
             "cuda": true,
             "torch": "2.10.0+cu128",

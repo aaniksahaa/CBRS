@@ -18,3 +18,36 @@
 {"baseline": "indicbertv2_emb", "started": "2026-09-21T00:33:31", "overrides": {}, "status": "ok", "seconds": 122.7}
 {"baseline": "indicbert_ft", "started": "2026-09-21T00:35:42", "overrides": {}, "status": "ok", "seconds": 438.7}
 {"baseline": "indicbert_emb", "started": "2026-09-21T00:43:01", "overrides": {}, "status": "ok", "seconds": 167.2}
+{"baseline": "char_tfidf", "started": "2026-10-01T11:50:40", "overrides": {}, "status": "ok", "seconds": 412.5}
+{"baseline": "banglabert_ft", "started": "2026-10-01T11:50:40", "overrides": {}, "status": "ok", "seconds": 511.8}
+{"baseline": "word_char_tfidf", "started": "2026-10-01T11:57:32", "overrides": {}, "status": "ok", "seconds": 638.4}
+{"baseline": "fasttext_char", "started": "2026-10-01T12:08:11", "overrides": {}, "status": "ok", "seconds": 28.3}
+{"baseline": "fasttext_word", "started": "2026-10-01T12:08:39", "overrides": {}, "status": "ok", "seconds": 8.1}
+{"baseline": "mbert_ft", "started": "2026-10-01T11:59:12", "overrides": {}, "status": "ok", "seconds": 577.0}
+{"baseline": "paper_tfidf", "started": "2026-10-01T12:08:47", "overrides": {}, "status": "ok", "seconds": 32.1}
+{"baseline": "paper_count", "started": "2026-10-01T12:09:19", "overrides": {}, "status": "ok", "seconds": 27.7}
+{"baseline": "dlf_layer1", "started": "2026-10-01T12:09:47", "overrides": {}, "status": "ok", "seconds": 5.7}
+{"baseline": "dlf_layer1_recall", "started": "2026-10-01T12:12:15", "overrides": {}, "status": "ok", "seconds": 4.9}
+{"baseline": "xlmr_base_ft", "started": "2026-10-01T12:08:49", "overrides": {}, "status": "ok", "seconds": 530.5}
+{"baseline": "muril_ft", "started": "2026-10-01T12:17:39", "overrides": {}, "status": "ok", "seconds": 499.5}
+{"baseline": "indicbertv2_ft", "started": "2026-10-01T12:25:59", "overrides": {}, "status": "ok", "seconds": 493.4}
+{"baseline": "indicbert_ft", "started": "2026-10-01T12:34:12", "overrides": {}, "status": "ok", "seconds": 437.8}
+{"baseline": "distilbert_multilingual_ft", "started": "2026-10-01T12:41:30", "overrides": {}, "status": "ok", "seconds": 320.5}
+{"baseline": "banglabert_emb", "started": "2026-10-01T12:46:50", "overrides": {}, "status": "ok", "seconds": 260.2}
+{"baseline": "mbert_emb", "started": "2026-10-01T12:51:10", "overrides": {}, "status": "ok", "seconds": 140.1}
+{"baseline": "xlmr_base_emb", "started": "2026-10-01T12:53:31", "overrides": {}, "status": "ok", "seconds": 413.5}
+{"baseline": "muril_emb", "started": "2026-10-01T13:00:24", "overrides": {}, "status": "ok", "seconds": 420.5}
+{"baseline": "indicbertv2_emb", "started": "2026-10-01T13:07:25", "overrides": {}, "status": "ok", "seconds": 158.1}
+{"baseline": "indicbert_emb", "started": "2026-10-01T13:10:03", "overrides": {}, "status": "ok", "seconds": 220.2}
+{"baseline": "paper_minilm6", "started": "2026-10-01T13:13:43", "overrides": {}, "status": "ok", "seconds": 162.0}
+{"baseline": "paper_minilm12", "started": "2026-10-01T13:16:25", "overrides": {}, "status": "ok", "seconds": 127.6}
+{"baseline": "paper_paraminilm", "started": "2026-10-01T13:18:33", "overrides": {}, "status": "ok", "seconds": 104.9}
+{"baseline": "paper_distiluse", "started": "2026-10-01T13:20:18", "overrides": {}, "status": "ok", "seconds": 191.4}
+{"baseline": "paper_e5small", "started": "2026-10-01T13:23:29", "overrides": {}, "status": "ok", "seconds": 93.7}
+{"baseline": "paper_labse", "started": "2026-10-01T13:25:03", "overrides": {}, "status": "ok", "seconds": 200.6}
+{"baseline": "paper_jina", "started": "2026-10-01T13:28:23", "overrides": {}, "status": "failed", "seconds": 12.9, "error": "exit code 1; see /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/logs/paper_jina.log"}
+{"baseline": "paper_bge", "started": "2026-10-01T13:28:36", "overrides": {}, "status": "ok", "seconds": 138.2}
+{"baseline": "paper_mobilebert_ft", "started": "2026-10-01T13:30:54", "overrides": {}, "status": "ok", "seconds": 387.3}
+{"baseline": "paper_jina", "started": "2026-10-01T13:37:29", "overrides": {}, "status": "failed", "seconds": 14.0, "error": "exit code 1; see /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/logs/paper_jina.log"}
+{"baseline": "paper_jina", "started": "2026-10-01T13:38:13", "overrides": {}, "status": "failed", "seconds": 15.9, "error": "exit code 1; see /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/logs/paper_jina.log"}
+{"baseline": "paper_mobilebert_ft", "started": "2026-10-01T13:46:51", "overrides": {}, "status": "ok", "seconds": 552.4}

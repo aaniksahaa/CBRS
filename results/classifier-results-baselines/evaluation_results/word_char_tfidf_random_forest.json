@@ -3,7 +3,7 @@
     "model": "random_forest",
     "embedding_model": "N/A",
     "accuracy": 0.9849012775842044,
-    "avg_inference_time_seconds": 5.548767615198019e-05,
+    "avg_inference_time_seconds": 7.470092547422369e-05,
     "metrics": {
         "0": {
             "precision": 0.9851851851851852,
@@ -65,15 +65,15 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-20T23:13:22",
+        "timestamp": "2026-10-01T12:08:10",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "word_char_tfidf",
         "description": "Word (1-2) + character (2-5) TF-IDF union x {LogReg, SVM, RF, NB}",
         "kind": "lexical",
         "n_features": 250000,
-        "vectorize_seconds": 7.702113179009757,
-        "fit_seconds": 2.9216476709989365,
+        "vectorize_seconds": 7.537337226000091,
+        "fit_seconds": 3.6513927119999607,
         "env": {
             "cuda": true,
             "torch": "2.10.0+cu128",

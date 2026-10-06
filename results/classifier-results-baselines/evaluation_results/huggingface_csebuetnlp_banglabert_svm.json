@@ -3,7 +3,7 @@
     "model": "svm",
     "embedding_model": "csebuetnlp/banglabert",
     "accuracy": 0.9641889276035618,
-    "avg_inference_time_seconds": 0.001068750639956315,
+    "avg_inference_time_seconds": 0.0009741202400309428,
     "metrics": {
         "0": {
             "precision": 0.9562643867148964,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:18:37",
+        "timestamp": "2026-10-01T12:51:02",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "banglabert_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": true,
-        "fit_seconds": 189.44353332999162,
-        "encode_test_seconds_total": 6.54705545399338,
-        "encode_seconds_per_sample": 0.0012673355505213666,
+        "fit_seconds": 192.390901021,
+        "encode_test_seconds_total": 6.623681670000224,
+        "encode_seconds_per_sample": 0.0012821683449477784,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

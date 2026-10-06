@@ -3,7 +3,7 @@
     "model": "fasttext",
     "embedding_model": "N/A",
     "accuracy": 0.981029810298103,
-    "avg_inference_time_seconds": 1.4259885596405273e-05,
+    "avg_inference_time_seconds": 1.4596684281921384e-05,
     "metrics": {
         "0": {
             "precision": 0.9811701412239409,
@@ -47,9 +47,9 @@
         "per_language": {
             "bn": {
                 "n": 2042,
-                "accuracy": 0.9715964740450539,
-                "macro_f1": 0.970969889434781,
-                "positive_recall": 0.9735720375106565
+                "accuracy": 0.9725759059745348,
+                "macro_f1": 0.9719626534855439,
+                "positive_recall": 0.9752770673486786
             },
             "en": {
                 "n": 2488,
@@ -59,13 +59,13 @@
             },
             "tbn": {
                 "n": 636,
-                "accuracy": 0.9905660377358491,
-                "macro_f1": 0.9794254658385093,
-                "positive_recall": 0.9310344827586207
+                "accuracy": 0.9874213836477987,
+                "macro_f1": 0.9722869779298023,
+                "positive_recall": 0.9080459770114943
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-20T23:13:54",
+        "timestamp": "2026-10-01T12:08:46",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "fasttext_word",
@@ -83,7 +83,7 @@
             "seed": 42,
             "verbose": 0
         },
-        "fit_seconds": 2.7770491880073678,
+        "fit_seconds": 3.098276459000317,
         "n_words": 101411,
         "env": {
             "cuda": true,

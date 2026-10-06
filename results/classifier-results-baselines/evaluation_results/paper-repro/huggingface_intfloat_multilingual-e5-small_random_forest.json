@@ -1,0 +1,93 @@
+{
+    "vectorizer": "huggingface",
+    "model": "random_forest",
+    "embedding_model": "intfloat/multilingual-e5-small",
+    "accuracy": 0.9781262098335269,
+    "avg_inference_time_seconds": 4.948952574599398e-06,
+    "metrics": {
+        "0": {
+            "precision": 0.974025974025974,
+            "recall": 0.9881756756756757,
+            "f1-score": 0.981049807144055,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9838187702265372,
+            "recall": 0.9646418857660924,
+            "f1-score": 0.9741359578850995,
+            "support": 2206.0
+        },
+        "accuracy": 0.9781262098335269,
+        "macro avg": {
+            "precision": 0.9789223721262557,
+            "recall": 0.9764087807208841,
+            "f1-score": 0.9775928825145772,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9782077216873062,
+            "recall": 0.9781262098335269,
+            "f1-score": 0.9780974355867077,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9775928825145772,
+        "weighted_f1": 0.9780974355867077,
+        "confusion_matrix": [
+            [
+                2925,
+                35
+            ],
+            [
+                78,
+                2128
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9681684622918707,
+                "macro_f1": 0.9675360807369087,
+                "positive_recall": 0.9641943734015346
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9855305466237942,
+                "macro_f1": 0.9846115784265215,
+                "positive_recall": 0.9746300211416491
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9811320754716981,
+                "macro_f1": 0.9575575575575576,
+                "positive_recall": 0.8620689655172413
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-01T13:25:01",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "paper_e5small",
+        "description": "Paper row: intfloat/multilingual-e5-small sentence embeddings x {LogReg,SVM,RF}",
+        "kind": "embed",
+        "pooling": "sentence-transformers",
+        "max_length": 512,
+        "normalised_embeddings": true,
+        "bangla_normalised": false,
+        "fit_seconds": 5.2872806420000416,
+        "encode_test_seconds_total": 7.1502505720000045,
+        "encode_seconds_per_sample": 0.0013840980588463035,
+        "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

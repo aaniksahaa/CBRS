@@ -1,0 +1,113 @@
+{
+    "vectorizer": "bert-end-to-end",
+    "model": "bert",
+    "embedding_model": "FacebookAI/xlm-roberta-base",
+    "accuracy": 0.9850948509485095,
+    "avg_inference_time_seconds": 0.00222979364382943,
+    "metrics": {
+        "0": {
+            "precision": 0.9898063200815495,
+            "recall": 0.9841216216216216,
+            "f1-score": 0.9869557851939692,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9788573999100315,
+            "recall": 0.986400725294651,
+            "f1-score": 0.9826145856852563,
+            "support": 2206.0
+        },
+        "accuracy": 0.9850948509485095,
+        "macro avg": {
+            "precision": 0.9843318599957904,
+            "recall": 0.9852611734581362,
+            "f1-score": 0.9847851854396128,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9851308810768326,
+            "recall": 0.9850948509485095,
+            "f1-score": 0.9851019938435587,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9847851854396128,
+        "weighted_f1": 0.9851019938435587,
+        "confusion_matrix": [
+            [
+                2913,
+                47
+            ],
+            [
+                30,
+                2176
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9774730656219393,
+                "macro_f1": 0.9769131700027528,
+                "positive_recall": 0.9863597612958227
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9879421221864951,
+                "macro_f1": 0.9872184777248069,
+                "positive_recall": 0.9862579281183932
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9984276729559748,
+                "macro_f1": 0.9966548675359101,
+                "positive_recall": 0.9885057471264368
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-09-20T23:37:49",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "xlmr_base_ft",
+        "description": "XLM-RoBERTa base (Conneau et al. 2020)",
+        "kind": "finetune",
+        "n_params": 278045186,
+        "n_trainable_params": 86043650,
+        "embeddings_frozen": true,
+        "n_frozen_params": 192001536,
+        "train_seconds": 496.54357937001623,
+        "train_loss": 0.14843313896096175,
+        "val_macro_f1_best": 0.9930374033253389,
+        "hparams": {
+            "epochs": 3,
+            "batch_size": 16,
+            "grad_accum": 2,
+            "lr": 2e-05,
+            "max_length": 128,
+            "weight_decay": 0.01,
+            "warmup_ratio": 0.06,
+            "val_fraction": 0.1,
+            "fp16": false,
+            "bf16": true,
+            "seed": 42,
+            "freeze_embeddings": "low_vram"
+        },
+        "bangla_normalised": false,
+        "inference": {
+            "batch_size": 64,
+            "device": "cuda",
+            "single_sample_latency_seconds": 0.006914601209864486,
+            "total_test_seconds": 11.519113964022836
+        },
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

@@ -2,60 +2,60 @@
     "vectorizer": "fasttext",
     "model": "fasttext",
     "embedding_model": "N/A",
-    "accuracy": 0.9823848238482384,
-    "avg_inference_time_seconds": 7.48411589260433e-05,
+    "accuracy": 0.9829655439411537,
+    "avg_inference_time_seconds": 8.149470441350785e-05,
     "metrics": {
         "0": {
-            "precision": 0.9844647078689632,
-            "recall": 0.9847972972972973,
-            "f1-score": 0.9846309744975511,
+            "precision": 0.9851351351351352,
+            "recall": 0.9851351351351352,
+            "f1-score": 0.9851351351351352,
             "support": 2960.0
         },
         "1": {
-            "precision": 0.9795918367346939,
-            "recall": 0.9791477787851315,
-            "f1-score": 0.9793697574246203,
+            "precision": 0.9800543970988214,
+            "recall": 0.9800543970988214,
+            "f1-score": 0.9800543970988214,
             "support": 2206.0
         },
-        "accuracy": 0.9823848238482384,
+        "accuracy": 0.9829655439411537,
         "macro avg": {
-            "precision": 0.9820282723018285,
-            "recall": 0.9819725380412143,
-            "f1-score": 0.9820003659610856,
+            "precision": 0.9825947661169783,
+            "recall": 0.9825947661169783,
+            "f1-score": 0.9825947661169783,
             "support": 5166.0
         },
         "weighted avg": {
-            "precision": 0.9823838805901791,
-            "recall": 0.9823848238482384,
-            "f1-score": 0.9823843146324939,
+            "precision": 0.9829655439411537,
+            "recall": 0.9829655439411537,
+            "f1-score": 0.9829655439411537,
             "support": 5166.0
         }
     },
     "extra": {
-        "macro_f1": 0.9820003659610856,
-        "weighted_f1": 0.9823843146324939,
+        "macro_f1": 0.9825947661169783,
+        "weighted_f1": 0.9829655439411537,
         "confusion_matrix": [
             [
-                2915,
-                45
+                2916,
+                44
             ],
             [
-                46,
-                2160
+                44,
+                2162
             ]
         ],
         "per_language": {
             "bn": {
                 "n": 2042,
-                "accuracy": 0.9730656219392753,
-                "macro_f1": 0.9724510202885198,
-                "positive_recall": 0.9769820971867008
+                "accuracy": 0.9740450538687562,
+                "macro_f1": 0.9734528013689373,
+                "positive_recall": 0.9778346121057119
             },
             "en": {
                 "n": 2488,
-                "accuracy": 0.9871382636655949,
-                "macro_f1": 0.9863608361936701,
-                "positive_recall": 0.9841437632135307
+                "accuracy": 0.987540192926045,
+                "macro_f1": 0.9867897463301758,
+                "positive_recall": 0.985200845665962
             },
             "tbn": {
                 "n": 636,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-20T23:13:47",
+        "timestamp": "2026-10-01T12:08:38",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "fasttext_char",
@@ -83,7 +83,7 @@
             "seed": 42,
             "verbose": 0
         },
-        "fit_seconds": 17.686126746993978,
+        "fit_seconds": 22.11532094300037,
         "n_words": 101411,
         "env": {
             "cuda": true,

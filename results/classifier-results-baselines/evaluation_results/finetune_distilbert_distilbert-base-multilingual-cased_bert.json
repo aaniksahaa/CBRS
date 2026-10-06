@@ -3,7 +3,7 @@
     "model": "bert",
     "embedding_model": "distilbert/distilbert-base-multilingual-cased",
     "accuracy": 0.9849012775842044,
-    "avg_inference_time_seconds": 0.0011555632545518647,
+    "avg_inference_time_seconds": 0.0011670684777389966,
     "metrics": {
         "0": {
             "precision": 0.9874830852503383,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:14:34",
+        "timestamp": "2026-10-01T12:46:48",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "distilbert_multilingual_ft",
@@ -75,7 +75,7 @@
         "n_trainable_params": 135326210,
         "embeddings_frozen": false,
         "n_frozen_params": 0,
-        "train_seconds": 293.93281964500784,
+        "train_seconds": 299.5820130050006,
         "train_loss": 0.07666857207763646,
         "val_macro_f1_best": 0.9905523096719686,
         "hparams": {
@@ -96,8 +96,8 @@
         "inference": {
             "batch_size": 64,
             "device": "cuda",
-            "single_sample_latency_seconds": 0.003480766100110486,
-            "total_test_seconds": 5.969639773014933
+            "single_sample_latency_seconds": 0.003388157319996026,
+            "total_test_seconds": 6.029075755999656
         },
         "env": {
             "cuda": true,

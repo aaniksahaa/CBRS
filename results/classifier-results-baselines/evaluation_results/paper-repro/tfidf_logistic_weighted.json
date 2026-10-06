@@ -1,0 +1,88 @@
+{
+    "vectorizer": "tfidf",
+    "model": "logistic_weighted",
+    "embedding_model": "N/A",
+    "accuracy": 0.9624467673248162,
+    "avg_inference_time_seconds": 1.0028145561608978e-07,
+    "metrics": {
+        "0": {
+            "precision": 0.9427016645326505,
+            "recall": 0.9949324324324325,
+            "f1-score": 0.9681130834976989,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9926542605288933,
+            "recall": 0.9188576609247506,
+            "f1-score": 0.954331450094162,
+            "support": 2206.0
+        },
+        "accuracy": 0.9624467673248162,
+        "macro avg": {
+            "precision": 0.9676779625307719,
+            "recall": 0.9568950466785915,
+            "f1-score": 0.9612222667959305,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9640325640231094,
+            "recall": 0.9624467673248162,
+            "f1-score": 0.9622280112390458,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9612222667959305,
+        "weighted_f1": 0.9622280112390458,
+        "confusion_matrix": [
+            [
+                2945,
+                15
+            ],
+            [
+                179,
+                2027
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.951028403525955,
+                "macro_f1": 0.9504948094704739,
+                "positive_recall": 0.9181585677749361
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9682475884244373,
+                "macro_f1": 0.9658985015792712,
+                "positive_recall": 0.9281183932346723
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9764150943396226,
+                "macro_f1": 0.9460916442048517,
+                "positive_recall": 0.8275862068965517
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-01T12:09:52",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "dlf_layer1",
+        "description": "DLF layer 1: word TF-IDF + asymmetrically weighted LogReg (class_weight 15:1, eval-v1.py)",
+        "kind": "lexical",
+        "n_features": 5000,
+        "vectorize_seconds": 1.116434560000016,
+        "fit_seconds": 0.07490810300032535,
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

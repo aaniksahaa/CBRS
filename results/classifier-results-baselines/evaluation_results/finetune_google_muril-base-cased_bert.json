@@ -3,7 +3,7 @@
     "model": "bert",
     "embedding_model": "google/muril-base-cased",
     "accuracy": 0.9847077042198994,
-    "avg_inference_time_seconds": 0.0022417643720524685,
+    "avg_inference_time_seconds": 0.002221210330429722,
     "metrics": {
         "0": {
             "precision": 0.9878090077886895,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-20T23:47:22",
+        "timestamp": "2026-10-01T12:25:56",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "muril_ft",
@@ -75,7 +75,7 @@
         "n_trainable_params": 86042882,
         "embeddings_frozen": true,
         "n_frozen_params": 151514880,
-        "train_seconds": 472.6422961849894,
+        "train_seconds": 469.7090987020001,
         "train_loss": 0.24788381171253812,
         "val_macro_f1_best": 0.9895612211401685,
         "hparams": {
@@ -96,8 +96,8 @@
         "inference": {
             "batch_size": 64,
             "device": "cuda",
-            "single_sample_latency_seconds": 0.006597317590203602,
-            "total_test_seconds": 11.580954746023053
+            "single_sample_latency_seconds": 0.006597738000000391,
+            "total_test_seconds": 11.474772566999945
         },
         "env": {
             "cuda": true,

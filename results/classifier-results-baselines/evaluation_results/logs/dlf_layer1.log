@@ -1,0 +1,10 @@
+
+##### 2026-10-01T12:09:47 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline dlf_layer1 --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42 --force
+12:09:47 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+12:09:48 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=20664  val=0  test=5166
+test label counts={0: 2960, 1: 2206}  test languages={'en': 2488, 'bn': 2042, 'tbn': 636}
+matches_paper_split=True
+12:09:49 INFO baselines.lexical: tfidf: 5000 features (1.1s)
+12:09:52 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/paper-repro/tfidf_logistic_weighted.json  acc=0.9624 macroF1=0.9612 fit=0.1s

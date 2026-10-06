@@ -3,7 +3,7 @@
     "model": "bert",
     "embedding_model": "ai4bharat/indic-bert",
     "accuracy": 0.9852884243128146,
-    "avg_inference_time_seconds": 0.0021322211871837474,
+    "avg_inference_time_seconds": 0.0021671941631822575,
     "metrics": {
         "0": {
             "precision": 0.9874915483434753,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:42:59",
+        "timestamp": "2026-10-01T12:41:28",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "indicbert_ft",
@@ -75,7 +75,7 @@
         "n_trainable_params": 33445122,
         "embeddings_frozen": false,
         "n_frozen_params": 0,
-        "train_seconds": 399.87041125798714,
+        "train_seconds": 406.8770380550004,
         "train_loss": 0.09453913449967986,
         "val_macro_f1_best": 0.9890515482979989,
         "hparams": {
@@ -96,8 +96,8 @@
         "inference": {
             "batch_size": 64,
             "device": "cuda",
-            "single_sample_latency_seconds": 0.0037795400799950584,
-            "total_test_seconds": 11.015054652991239
+            "single_sample_latency_seconds": 0.0039866813000026015,
+            "total_test_seconds": 11.195725046999542
         },
         "env": {
             "cuda": true,

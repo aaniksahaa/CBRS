@@ -3,7 +3,7 @@
     "model": "svm",
     "embedding_model": "ai4bharat/IndicBERTv2-MLM-only",
     "accuracy": 0.9802555168408827,
-    "avg_inference_time_seconds": 0.00018721631668462802,
+    "avg_inference_time_seconds": 0.0003678789235385268,
     "metrics": {
         "0": {
             "precision": 0.9817936614969656,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:35:26",
+        "timestamp": "2026-10-01T13:09:51",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "indicbertv2_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 67.47768173200893,
-        "encode_test_seconds_total": 5.342975632025627,
-        "encode_seconds_per_sample": 0.001034257768491217,
+        "fit_seconds": 89.73252560800029,
+        "encode_test_seconds_total": 6.997287096999571,
+        "encode_seconds_per_sample": 0.001354488404374675,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

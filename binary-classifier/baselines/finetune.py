@@ -11,7 +11,7 @@ import numpy as np
 import torch
 
 from .data import Split
-from .metrics import Timer, build_result, env_info, save_result
+from .metrics import Timer, build_result, env_info, save_predictions, save_result
 from .registry import BaselineSpec
 from .text_prep import prepare_texts
 
@@ -36,16 +36,17 @@ def _pick_precision(pref: str) -> tuple[bool, bool]:
 def _predict(model, tokenizer, texts: list[str], max_length: int, batch_size: int, device) -> tuple[np.ndarray, float]:
     """Batched prediction; returns (labels, wall seconds incl. tokenisation)."""
     model.eval()
-    preds = []
+    probs = []
     t0 = time.perf_counter()
     for i in range(0, len(texts), batch_size):
         enc = tokenizer(texts[i:i + batch_size], padding=True, truncation=True, max_length=max_length,
                         return_tensors="pt").to(device)
         logits = model(**enc).logits
-        preds.append(logits.argmax(-1).cpu())
+        probs.append(torch.softmax(logits.float(), -1)[:, 1].cpu())
     if device.type == "cuda":
         torch.cuda.synchronize()
-    return torch.cat(preds).numpy(), time.perf_counter() - t0
+    p1 = torch.cat(probs).numpy()
+    return (p1 >= 0.5).astype(int), time.perf_counter() - t0, p1
 
 
 @torch.no_grad()
@@ -153,8 +154,10 @@ def run_finetune(spec: BaselineSpec, split: Split, out_dir: Path, cache_dir: Pat
     log.info("best-epoch val metrics: %s", {k: v for k, v in val_metrics.items() if "f1" in k or "acc" in k})
 
     model = trainer.model.to(dev)
-    y_pred, infer_secs = _predict(model, tokenizer, te_texts, max_length, spec.eval_batch_size, dev)
+    y_pred, infer_secs, p1 = _predict(model, tokenizer, te_texts, max_length, spec.eval_batch_size, dev)
     y_true = split.test["label"].to_numpy()
+    save_predictions(out_dir, spec.result_key, y_true=y_true, y_pred=y_pred, scores=p1,
+                     languages=split.test["language"].to_numpy())
     single = _single_sample_latency(model, tokenizer, te_texts, max_length, dev)
 
     result = build_result(

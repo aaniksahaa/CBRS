@@ -1,0 +1,2 @@
+{"baseline": "fasttext_char", "started": "2026-10-01T11:50:11", "overrides": {}, "status": "ok", "seconds": 6.7}
+{"baseline": "paper_tfidf", "started": "2026-10-01T11:50:18", "overrides": {}, "status": "ok", "seconds": 3.7}

@@ -1,0 +1,113 @@
+{
+    "vectorizer": "bert-end-to-end",
+    "model": "bert",
+    "embedding_model": "google/mobilebert-uncased",
+    "accuracy": 0.9632210607820364,
+    "avg_inference_time_seconds": 0.0017788521161439634,
+    "metrics": {
+        "0": {
+            "precision": 0.9720518064076347,
+            "recall": 0.9635135135135136,
+            "f1-score": 0.9677638276213099,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9516129032258065,
+            "recall": 0.9628286491387126,
+            "f1-score": 0.957187922487607,
+            "support": 2206.0
+        },
+        "accuracy": 0.9632210607820364,
+        "macro avg": {
+            "precision": 0.9618323548167206,
+            "recall": 0.9631710813261131,
+            "f1-score": 0.9624758750544584,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9633239278905784,
+            "recall": 0.9632210607820364,
+            "f1-score": 0.9632476745580213,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9624758750544584,
+        "weighted_f1": 0.9632476745580213,
+        "confusion_matrix": [
+            [
+                2852,
+                108
+            ],
+            [
+                82,
+                2124
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.94564152791381,
+                "macro_f1": 0.944401150036831,
+                "positive_recall": 0.9531116794543905
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9754823151125402,
+                "macro_f1": 0.974119144905879,
+                "positive_recall": 0.9809725158562368
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9716981132075472,
+                "macro_f1": 0.9400791407574901,
+                "positive_recall": 0.896551724137931
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-10-01T13:37:20",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "paper_mobilebert_ft",
+        "description": "Paper row: MobileBERT fine-tuned (re-run for predictions)",
+        "kind": "finetune",
+        "n_params": 24582914,
+        "n_trainable_params": 24582914,
+        "embeddings_frozen": false,
+        "n_frozen_params": 0,
+        "train_seconds": 357.2182853989998,
+        "train_loss": 36669.31107037993,
+        "val_macro_f1_best": 0.9801068666438253,
+        "hparams": {
+            "epochs": 3,
+            "batch_size": 32,
+            "grad_accum": 1,
+            "lr": 2e-05,
+            "max_length": 128,
+            "weight_decay": 0.01,
+            "warmup_ratio": 0.06,
+            "val_fraction": 0.1,
+            "fp16": false,
+            "bf16": true,
+            "seed": 42,
+            "freeze_embeddings": "never"
+        },
+        "bangla_normalised": false,
+        "inference": {
+            "batch_size": 64,
+            "device": "cuda",
+            "single_sample_latency_seconds": 0.016809289510001692,
+            "total_test_seconds": 9.189550031999715
+        },
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

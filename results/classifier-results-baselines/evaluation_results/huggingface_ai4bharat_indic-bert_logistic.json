@@ -3,7 +3,7 @@
     "model": "logistic",
     "embedding_model": "ai4bharat/indic-bert",
     "accuracy": 0.967479674796748,
-    "avg_inference_time_seconds": 3.0452320948470294e-06,
+    "avg_inference_time_seconds": 7.4163666280575384e-06,
     "metrics": {
         "0": {
             "precision": 0.964095744680851,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:43:49",
+        "timestamp": "2026-10-01T13:10:58",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "indicbert_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 0.531702189007774,
-        "encode_test_seconds_total": 5.907020875980379,
-        "encode_seconds_per_sample": 0.0011434419039838132,
+        "fit_seconds": 0.8032535840002311,
+        "encode_test_seconds_total": 7.47212942599981,
+        "encode_seconds_per_sample": 0.001446405231513707,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

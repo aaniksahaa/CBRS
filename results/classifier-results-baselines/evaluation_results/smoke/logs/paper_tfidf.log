@@ -1,0 +1,11 @@
+
+##### 2026-10-01T11:50:18 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline paper_tfidf --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42 --classifiers logistic --limit 512
+11:50:18 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+11:50:19 WARNING baselines: SMOKE TEST (--limit 512): results are NOT meaningful
+11:50:19 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=512  val=0  test=128
+test label counts={1: 70, 0: 58}  test languages={'bn': 60, 'en': 49, 'tbn': 19}
+matches_paper_split=False
+11:50:19 INFO baselines.lexical: tfidf: 5000 features (0.0s)
+11:50:21 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/smoke/paper-repro/tfidf_logistic.json  acc=0.9688 macroF1=0.9686 fit=0.0s

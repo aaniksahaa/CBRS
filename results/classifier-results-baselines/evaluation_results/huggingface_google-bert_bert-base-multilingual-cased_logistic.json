@@ -3,7 +3,7 @@
     "model": "logistic",
     "embedding_model": "google-bert/bert-base-multilingual-cased",
     "accuracy": 0.9758033294618661,
-    "avg_inference_time_seconds": 3.316794038327296e-06,
+    "avg_inference_time_seconds": 5.741833913922647e-06,
     "metrics": {
         "0": {
             "precision": 0.9758308157099698,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:19:27",
+        "timestamp": "2026-10-01T12:51:55",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "mbert_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 0.5016184799897019,
-        "encode_test_seconds_total": 6.6300274309760425,
-        "encode_seconds_per_sample": 0.0012833967152489436,
+        "fit_seconds": 0.5474446270000044,
+        "encode_test_seconds_total": 6.672110919999795,
+        "encode_seconds_per_sample": 0.001291542957800967,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

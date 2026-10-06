@@ -39,6 +39,9 @@ class BaselineSpec:
                                           #  need ~2.3 GB; "low_vram" freezes only when the GPU has < 10 GB)
     # --- frozen-embedding options (kind == "embed")
     pooling: str = "mean"                 # mean | cls
+    sentence_transformer: bool = False    # use the sentence-transformers library (the paper's embedding rows did,
+                                          #  via langchain HuggingFaceEmbeddings with normalize_embeddings=True)
+    subdir: str = ""                      # write results/predictions into <out>/<subdir>/ (paper re-runs use "paper-repro")
     classifiers: tuple[str, ...] = ("logistic", "svm", "random_forest")
     # --- lexical options (kind == "lexical")
     vectorizer: str | None = None         # key into lexical.VECTORIZERS
@@ -134,6 +137,48 @@ _B: list[BaselineSpec] = [
                  "fastText supervised, word-level only (maxn=0) - ablation for the char n-gram effect",
                  tags=("fasttext", "extra"),
                  fasttext_params=dict(dim=100, epoch=25, lr=1.0, wordNgrams=2, minn=0, maxn=0, minCount=1)),
+]
+
+# ------------------------------------------------------------------ re-runs of the rows already in Table 3
+# Same code paths / hyper-parameters as models.py + eval notebooks, re-run only to obtain per-message
+# predictions for significance testing.  Written to <out>/paper-repro/ so they never mix with the new rows.
+_PAPER_CLFS = ("logistic", "svm", "random_forest")
+_B += [
+    BaselineSpec("paper_tfidf", "lexical", "Paper row: word TF-IDF (1-2 grams, 5k) x {LogReg,SVM,RF,NB}",
+                 vectorizer="tfidf", tags=("paper",), classifiers=("logistic", "svm", "random_forest", "naive_bayes"),
+                 subdir="paper-repro"),
+    BaselineSpec("paper_count", "lexical", "Paper row: CountVectorizer (1-2 grams, 5k) x {LogReg,SVM,RF,NB}",
+                 vectorizer="count", tags=("paper",), classifiers=("logistic", "svm", "random_forest", "naive_bayes"),
+                 subdir="paper-repro"),
+    BaselineSpec("dlf_layer1", "lexical", "DLF layer 1: word TF-IDF + asymmetrically weighted LogReg (class_weight 15:1, eval-v1.py)",
+                 vectorizer="tfidf", tags=("paper", "dlf"), classifiers=("logistic_weighted",), subdir="paper-repro",
+                 notes="Layer 2 (LLM re-check of positives) needs API keys; see dual-layer-filtering/eval-v1.py"),
+    BaselineSpec("dlf_layer1_recall", "lexical", "DLF layer 1 as described in the paper: TF-IDF + LogReg with positives weighted 12:1 (recall-first)",
+                 vectorizer="tfidf", tags=("paper", "dlf"), classifiers=("logistic_weighted_recall",), subdir="paper-repro",
+                 notes="The repo code (eval-v1.py) weights the NEGATIVE class 15:1 instead; see dlf_layer1."),
+    BaselineSpec("paper_word2vec", "lexical", "Paper row: Word2Vec (GoogleNews-300, mean) x {LogReg,SVM,RF}",
+                 vectorizer="word2vec", tags=("paper-heavy",), classifiers=_PAPER_CLFS, subdir="paper-repro",
+                 notes="downloads 1.6 GB via gensim"),
+] + [
+    BaselineSpec(f"paper_{short}", "embed", f"Paper row: {mid} sentence embeddings x {{LogReg,SVM,RF}}",
+                 model_id=mid, tags=("paper",), sentence_transformer=True, classifiers=_PAPER_CLFS, subdir="paper-repro",
+                 max_length=512)
+    for short, mid in [("minilm6", "sentence-transformers/all-MiniLM-L6-v2"),
+                       ("minilm12", "sentence-transformers/all-MiniLM-L12-v2"),
+                       ("paraminilm", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"),
+                       ("distiluse", "sentence-transformers/distiluse-base-multilingual-cased-v2"),
+                       ("e5small", "intfloat/multilingual-e5-small"),
+                       ("labse", "sentence-transformers/LaBSE"),
+                       # ("jina", "jinaai/jina-embeddings-v2-small-en"),  # remote code incompatible with transformers>=5
+                       ("bge", "BAAI/bge-small-en-v1.5")]
+] + [
+    BaselineSpec("paper_mobilebert_ft", "finetune", "Paper row: MobileBERT fine-tuned (re-run for predictions)",
+                 model_id="google/mobilebert-uncased", tags=("paper",), subdir="paper-repro", precision="fp32", lr=5e-5,
+                 notes="MobileBERT needs fp32 + a higher lr (bf16/2e-5 gave 0.963 vs the paper's 0.980)."),
+    BaselineSpec("paper_jina", "embed", "Paper row: jinaai/jina-embeddings-v2-small-en (NOT runnable on transformers>=5)",
+                 model_id="jinaai/jina-embeddings-v2-small-en", tags=("paper-heavy",), sentence_transformer=True,
+                 classifiers=("logistic",), subdir="paper-repro", max_length=512,
+                 notes="its remote code imports APIs removed in transformers 5; run in a transformers 4.4x env if needed."),
 ]
 
 BASELINES: dict[str, BaselineSpec] = {b.name: b for b in _B}

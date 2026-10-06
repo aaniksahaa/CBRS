@@ -103,6 +103,15 @@ BaselineSpec("bangla_bert_base_ft", "finetune", "sagorsarker/bangla-bert-base",
 and LaTeX row come for free. For a new *kind* of method, add a `run_<kind>` function and one
 branch in `run.py::run_one`.
 
+## Statistical significance (`significance.py`)
+
+Every runner writes per-message predictions (`<out>/predictions/<key>.csv`, plus `paper-repro/` for the
+re-run of Table 3's original rows via `--tags paper dlf`). `python -m baselines.significance` then compares a
+reference system (default: DLF layer 1) with every other system on the same 5,166 messages:
+paired bootstrap (10k joint resamples) CIs and p-values for Δaccuracy / ΔF1(+) / Δrecall(+) / Δmacro-F1,
+exact McNemar on correctness, Holm correction, `--all-pairs` for the full McNemar matrix. Output goes to
+`paper/tables/significance_<ref>.tex` (appendix table) and `.csv`.
+
 ## Files
 
 | file | role |
@@ -115,5 +124,6 @@ branch in `run.py::run_one`.
 | `metrics.py` | metrics + JSON writer in the paper's schema |
 | `run.py` | CLI / orchestration / prefetch / smoke test |
 | `aggregate.py` | markdown + CSV + LaTeX rows for `tab:DLF` |
+| `significance.py` | paired bootstrap + McNemar + Holm over the saved predictions |
 | `run_all.sh` | unattended end-to-end run |
 | `cmd.txt` | copy/paste cheat-sheet of every command |

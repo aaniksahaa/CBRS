@@ -12,11 +12,43 @@ import torch
 
 from .data import Split
 from .lexical import MODELS
-from .metrics import Timer, build_result, env_info, save_result
+from .metrics import Timer, build_result, env_info, positive_scores, save_predictions, save_result
 from .registry import BaselineSpec
 from .text_prep import prepare_texts
 
 log = logging.getLogger(__name__)
+
+
+def _shim_transformers_onnx():
+    import sys, types
+    try:
+        import transformers.onnx  # noqa: F401
+    except Exception:
+        import transformers
+        stub = types.ModuleType("transformers.onnx")
+        stub.OnnxConfig = type("OnnxConfig", (), {})
+        sys.modules["transformers.onnx"] = stub
+        transformers.onnx = stub
+    # helpers dropped from transformers.pytorch_utils in v5 but imported by old remote code (jina-bert)
+    import transformers.pytorch_utils as pu
+    if not hasattr(pu, "find_pruneable_heads_and_indices"):
+        def find_pruneable_heads_and_indices(heads, n_heads, head_size, already_pruned_heads):
+            mask = torch.ones(n_heads, head_size)
+            heads = set(heads) - already_pruned_heads
+            for head in heads:
+                head = head - sum(1 if h < head else 0 for h in already_pruned_heads)
+                mask[head] = 0
+            mask = mask.view(-1).contiguous().eq(1)
+            index = torch.arange(len(mask))[mask].long()
+            return heads, index
+        pu.find_pruneable_heads_and_indices = find_pruneable_heads_and_indices
+    if not hasattr(pu, "apply_chunking_to_forward"):
+        def apply_chunking_to_forward(forward_fn, chunk_size, chunk_dim, *input_tensors):
+            if chunk_size > 0:
+                chunks = [t.chunk(t.shape[chunk_dim] // chunk_size, dim=chunk_dim) for t in input_tensors]
+                return torch.cat([forward_fn(*c) for c in zip(*chunks)], dim=chunk_dim)
+            return forward_fn(*input_tensors)
+        pu.apply_chunking_to_forward = apply_chunking_to_forward
 
 
 @torch.no_grad()
@@ -58,12 +90,29 @@ def run_embed(spec: BaselineSpec, split: Split, out_dir: Path, cache_dir: Path, 
     tr_texts, normalised = prepare_texts(split.train["text"], spec.normalize_bangla)
     te_texts, _ = prepare_texts(split.test["text"], spec.normalize_bangla)
 
-    fp = hashlib.md5(f"{spec.model_id}|{spec.pooling}|{max_length}|{len(tr_texts)}|{len(te_texts)}|{split.data_path}".encode()).hexdigest()[:10]
+    fp = hashlib.md5(f"{spec.model_id}|{spec.pooling}|{max_length}|{len(tr_texts)}|{len(te_texts)}|{split.data_path}|st={spec.sentence_transformer}".encode()).hexdigest()[:10]
     emb_cache = cache_dir / "embeddings" / f"{spec.name}_{fp}.npz"
     if emb_cache.exists() and not force:
         z = np.load(emb_cache)
         X_tr, X_te, enc_secs = z["X_tr"], z["X_te"], float(z["enc_secs"])
         log.info("loaded cached embeddings %s", emb_cache)
+    elif spec.sentence_transformer:
+        _shim_transformers_onnx()  # jinaai remote code imports transformers.onnx (removed in transformers 5)
+        from sentence_transformers import SentenceTransformer
+        log.info("loading %s (sentence-transformers)", spec.model_id)
+        st = SentenceTransformer(spec.model_id, device=str(dev), trust_remote_code=True)
+        st.max_seq_length = min(st.max_seq_length or max_length, max_length)
+        t0 = time.perf_counter()
+        X_tr = st.encode(tr_texts, batch_size=spec.eval_batch_size, normalize_embeddings=True, show_progress_bar=True)
+        t0 = time.perf_counter()
+        X_te = st.encode(te_texts, batch_size=spec.eval_batch_size, normalize_embeddings=True, show_progress_bar=True)
+        enc_secs = time.perf_counter() - t0
+        emb_cache.parent.mkdir(parents=True, exist_ok=True)
+        np.savez(emb_cache, X_tr=X_tr, X_te=X_te, enc_secs=enc_secs)
+        del st
+        gc.collect()
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
     else:
         log.info("loading %s", spec.model_id)
         tokenizer = AutoTokenizer.from_pretrained(spec.model_id)
@@ -93,12 +142,15 @@ def run_embed(spec: BaselineSpec, split: Split, out_dir: Path, cache_dir: Path, 
         t0 = time.perf_counter()
         y_pred = clf.predict(X_te)
         infer = time.perf_counter() - t0
+        save_predictions(out_dir, key, y_true=y_te, y_pred=y_pred, scores=positive_scores(clf, X_te),
+                         languages=split.test["language"].to_numpy())
         result = build_result(
             vectorizer="huggingface", model=clf_name, embedding_model=spec.model_id,
             y_true=y_te, y_pred=y_pred, avg_inference_time_seconds=infer / len(y_te),
             languages=split.test["language"].to_numpy(),
             extra={"baseline": spec.name, "description": spec.description, "kind": "embed",
-                   "pooling": spec.pooling, "max_length": max_length, "normalised_embeddings": True,
+                   "pooling": "sentence-transformers" if spec.sentence_transformer else spec.pooling,
+                   "max_length": max_length, "normalised_embeddings": True,
                    "bangla_normalised": normalised, "fit_seconds": t_fit.elapsed,
                    "encode_test_seconds_total": enc_secs, "encode_seconds_per_sample": enc_secs / len(y_te),
                    "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); "

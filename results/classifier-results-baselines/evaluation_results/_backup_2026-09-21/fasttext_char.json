@@ -1,0 +1,99 @@
+{
+    "vectorizer": "fasttext",
+    "model": "fasttext",
+    "embedding_model": "N/A",
+    "accuracy": 0.9823848238482384,
+    "avg_inference_time_seconds": 7.48411589260433e-05,
+    "metrics": {
+        "0": {
+            "precision": 0.9844647078689632,
+            "recall": 0.9847972972972973,
+            "f1-score": 0.9846309744975511,
+            "support": 2960.0
+        },
+        "1": {
+            "precision": 0.9795918367346939,
+            "recall": 0.9791477787851315,
+            "f1-score": 0.9793697574246203,
+            "support": 2206.0
+        },
+        "accuracy": 0.9823848238482384,
+        "macro avg": {
+            "precision": 0.9820282723018285,
+            "recall": 0.9819725380412143,
+            "f1-score": 0.9820003659610856,
+            "support": 5166.0
+        },
+        "weighted avg": {
+            "precision": 0.9823838805901791,
+            "recall": 0.9823848238482384,
+            "f1-score": 0.9823843146324939,
+            "support": 5166.0
+        }
+    },
+    "extra": {
+        "macro_f1": 0.9820003659610856,
+        "weighted_f1": 0.9823843146324939,
+        "confusion_matrix": [
+            [
+                2915,
+                45
+            ],
+            [
+                46,
+                2160
+            ]
+        ],
+        "per_language": {
+            "bn": {
+                "n": 2042,
+                "accuracy": 0.9730656219392753,
+                "macro_f1": 0.9724510202885198,
+                "positive_recall": 0.9769820971867008
+            },
+            "en": {
+                "n": 2488,
+                "accuracy": 0.9871382636655949,
+                "macro_f1": 0.9863608361936701,
+                "positive_recall": 0.9841437632135307
+            },
+            "tbn": {
+                "n": 636,
+                "accuracy": 0.9937106918238994,
+                "macro_f1": 0.9864204120849791,
+                "positive_recall": 0.9540229885057471
+            }
+        },
+        "n_test": 5166,
+        "timestamp": "2026-09-20T23:13:47",
+        "host": "LOQ",
+        "python": "3.13.5",
+        "baseline": "fasttext_char",
+        "description": "fastText supervised with character n-grams (minn=2, maxn=5) + word bigrams",
+        "kind": "fasttext",
+        "fasttext_params": {
+            "dim": 100,
+            "epoch": 25,
+            "lr": 1.0,
+            "wordNgrams": 2,
+            "minn": 2,
+            "maxn": 5,
+            "minCount": 1,
+            "thread": 4,
+            "seed": 42,
+            "verbose": 0
+        },
+        "fit_seconds": 17.686126746993978,
+        "n_words": 101411,
+        "env": {
+            "cuda": true,
+            "torch": "2.10.0+cu128",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "gpu_mem_gb": 5.7,
+            "transformers": "5.3.0",
+            "cpu_count": 16
+        },
+        "data": "/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv",
+        "matches_paper_split": true
+    }
+}

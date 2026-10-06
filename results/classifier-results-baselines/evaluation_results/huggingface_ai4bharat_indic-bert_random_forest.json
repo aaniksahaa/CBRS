@@ -3,7 +3,7 @@
     "model": "random_forest",
     "embedding_model": "ai4bharat/indic-bert",
     "accuracy": 0.967673248161053,
-    "avg_inference_time_seconds": 4.733014129384547e-06,
+    "avg_inference_time_seconds": 1.607649883870616e-05,
     "metrics": {
         "0": {
             "precision": 0.9550342130987293,
@@ -65,7 +65,7 @@
             }
         },
         "n_test": 5166,
-        "timestamp": "2026-09-21T00:45:47",
+        "timestamp": "2026-10-01T13:13:41",
         "host": "LOQ",
         "python": "3.13.5",
         "baseline": "indicbert_emb",
@@ -75,9 +75,9 @@
         "max_length": 128,
         "normalised_embeddings": true,
         "bangla_normalised": false,
-        "fit_seconds": 6.563674778008135,
-        "encode_test_seconds_total": 5.907020875980379,
-        "encode_seconds_per_sample": 0.0011434419039838132,
+        "fit_seconds": 9.556089812999744,
+        "encode_test_seconds_total": 7.47212942599981,
+        "encode_seconds_per_sample": 0.001446405231513707,
         "note": "avg_inference_time_seconds = classifier predict only (as in Table 3); encoder cost is in encode_seconds_per_sample",
         "env": {
             "cuda": true,

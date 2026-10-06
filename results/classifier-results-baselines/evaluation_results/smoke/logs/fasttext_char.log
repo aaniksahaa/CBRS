@@ -1,0 +1,10 @@
+
+##### 2026-10-01T11:50:11 /home/aaniksahaa/miniconda3/bin/python -m baselines.run --baseline fasttext_char --_worker --out /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results --cache-dir /home/aaniksahaa/.cache/cbrs-baselines --device auto --seed 42 --classifiers logistic --limit 512
+11:50:11 INFO numexpr.utils: NumExpr defaulting to 16 threads.
+11:50:12 WARNING baselines: SMOKE TEST (--limit 512): results are NOT meaningful
+11:50:12 INFO baselines: 
+data=/home/aaniksahaa/research/CBRS/cbrs-codebase/binary-classifier/pre_parsed_dataset.csv
+train=512  val=0  test=128
+test label counts={1: 70, 0: 58}  test languages={'bn': 60, 'en': 49, 'tbn': 19}
+matches_paper_split=False
+11:50:17 INFO baselines.lexical: saved /home/aaniksahaa/research/CBRS/cbrs-codebase/results/classifier-results-baselines/evaluation_results/smoke/fasttext_char.json  acc=0.9922 macroF1=0.9921 fit=0.7s
